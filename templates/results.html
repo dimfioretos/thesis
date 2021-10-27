@@ -1,0 +1,78 @@
+<html>
+    <head>
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.4.2/alchemy.min.css" />
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css" />
+    </head>
+
+    <body>
+        <div class="alchemy" id="alchemy"></div>
+
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+        <script src="https://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.3.1/alchemy.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/alchemyjs/0.3.1/scripts/vendor.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.16.4/lodash.min.js"></script>
+
+
+        <script type="text/javascript">
+            var json = {{ data | safe }};
+            var extra_data = {{ extra_data | safe }};
+            var largest_radius = {{ largest_radius }};
+            alchemy.begin(
+                {
+                    "dataSource": json,
+                    "nodeTypes": {{ node_types | safe }},
+                    "nodeStyle": node_style = {
+                        "fake": {
+                            "color": "#ff0000"
+                        },
+                        "not_fake": {
+                            "color": "#00ff00"
+                        },
+                        "all": {
+                            "radius": function(node) {
+                                // normalize radii to the 10-20 range based on interactions
+                                var range_min = 10;
+                                var range_max = largest_radius;
+                                var target_min = 10;
+                                var target_max = 20;
+                                return Math.floor(((extra_data[node.id]['interactions'] - range_min) / (range_max - range_min))* (target_max - target_min) + target_min);
+                            }
+                        }
+                    },
+
+                    "nodeClick": function (node) {
+                        console.log(extra_data[node.id]);
+                        document.getElementById("modal_text").innerText=extra_data[node.id]["text"];
+                        document.getElementById("modal_link").href=extra_data[node.id]["link"];
+                        document.getElementById("modal_link").innerText=extra_data[node.id]["link"];
+                        $('#my_modal').modal('show');
+                    },
+                }
+            )
+        </script>
+
+        <div id="my_modal" class="modal" tabindex="-1" role="dialog">
+          <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title">Λεπτομέρειες Tweet</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <p id="modal_text">Modal body text goes here.</p>
+                Πηγή: <a href='' id="modal_link" target="_blank"></a>
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </body>
+</html>
