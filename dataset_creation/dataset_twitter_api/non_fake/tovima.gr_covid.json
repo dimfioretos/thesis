@@ -1,0 +1,496 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1242736434248851456,
+                "conversation_id": 1453673841658576898,
+                "created_at": "2021-10-28 10:43:46+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 3,
+                            "tag": "\u03ac\u03bb\u03bf\u03b3\u03b1"
+                        },
+                        {
+                            "end": 15,
+                            "start": 10,
+                            "tag": "\u03c0\u03b7\u03b3\u03ae"
+                        },
+                        {
+                            "end": 26,
+                            "start": 16,
+                            "tag": "\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0395\u03bd\u03b1\u03c2 \u03c5\u03c0\u03b5\u03c1\u03ac\u03bd\u03bf\u03c3\u03bf\u03c2 \u03bf\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ac\u03bb\u03bf\u03b3\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u00ab\u03cc\u03c0\u03bb\u03bf\u00bb \u03b5\u03bd\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b1\u03b6\u03b9\u03bb\u03b9\u03ac\u03bd\u03b9\u03ba\u03b7 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7",
+                            "display_url": "tovima.gr/2021/10/28/sci\u2026",
+                            "end": 70,
+                            "expanded_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                            "images": [
+                                {
+                                    "height": 700,
+                                    "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=orig",
+                                    "width": 695
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 47,
+                            "status": 200,
+                            "title": "\u03a4\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1 \u00ab\u03c0\u03b7\u03b3\u03ae\u00bb \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                            "unwound_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                            "url": "https://t.co/q38RMOo4TY"
+                        }
+                    ]
+                },
+                "id": 1453673841658576898,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "\u03a4\u03b1 #\u03ac\u03bb\u03bf\u03b3\u03b1 #\u03c0\u03b7\u03b3\u03ae #\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19...\nhttps://t.co/q38RMOo4TY"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2019-07-27 10:28:41+00:00",
+                "description": "",
+                "id": 1155062445980954626,
+                "name": "Luther",
+                "public_metrics": {
+                    "followers_count": 1997,
+                    "following_count": 383,
+                    "listed_count": 3,
+                    "tweet_count": 17504
+                },
+                "username": "LutherBurgsvik",
+                "verified": false
+            },
+            {
+                "created_at": "2017-10-04 19:21:24+00:00",
+                "description": "",
+                "id": 915658126451494912,
+                "name": "Shootersyk\"DamyEku\"",
+                "public_metrics": {
+                    "followers_count": 525,
+                    "following_count": 1715,
+                    "listed_count": 0,
+                    "tweet_count": 56094
+                },
+                "username": "ShootersykEku",
+                "verified": false
+            },
+            {
+                "created_at": "2010-12-29 14:39:08+00:00",
+                "description": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03c0\u03c1\u03bf\u03c6\u03af\u03bb \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1\u03c2 \u03a4\u039f \u0392\u0397\u039c\u0391 - The official Twitter page for the newspaper/portal Tovima.gr",
+                "id": 231807647,
+                "name": "\u03a4\u03bf \u0392\u03ae\u03bc\u03b1  - To Vima",
+                "public_metrics": {
+                    "followers_count": 229794,
+                    "following_count": 57,
+                    "listed_count": 1277,
+                    "tweet_count": 342333
+                },
+                "username": "tovimagr",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-26 08:19:31+00:00",
+                "description": "S for sound engineer",
+                "id": 421701932,
+                "name": "Danae",
+                "public_metrics": {
+                    "followers_count": 904,
+                    "following_count": 962,
+                    "listed_count": 11,
+                    "tweet_count": 50619
+                },
+                "username": "cmeAbreathe",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-25 08:54:03+00:00",
+                "description": "Counselor, Adult Trainer\n\u03a3\u03b7\u03bc\u03b5\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c3\u03b1 \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03bf\u03c5\u03bd...\nhttps://t.co/TWzEOISC3n",
+                "id": 1242736434248851456,
+                "name": "Counselor",
+                "public_metrics": {
+                    "followers_count": 2997,
+                    "following_count": 2516,
+                    "listed_count": 0,
+                    "tweet_count": 41560
+                },
+                "username": "counselor_2020",
+                "verified": false
+            },
+            {
+                "created_at": "2013-02-17 11:42:28+00:00",
+                "description": "\u0393\u03ad\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03bf\u03c5, \u03cc\u03bb\u03bf\u03b9 \u03bf\u03b9 \u03ac\u03bb\u03bb\u03bf\u03b9 \u03c4\u03bf \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd.",
+                "id": 1189224936,
+                "name": "silverado",
+                "public_metrics": {
+                    "followers_count": 3353,
+                    "following_count": 3140,
+                    "listed_count": 10,
+                    "tweet_count": 177764
+                },
+                "username": "PeriklisPer",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1155062445980954626,
+            "conversation_id": 1455791855149338632,
+            "created_at": "2021-11-03 07:00:00+00:00",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 5,
+                        "normalized_text": "Greece",
+                        "probability": 0.9781,
+                        "start": 0,
+                        "type": "Place"
+                    },
+                    {
+                        "end": 26,
+                        "normalized_text": "The Health Minister",
+                        "probability": 0.3722,
+                        "start": 8,
+                        "type": "Organization"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Health Minister Thanos Plevris announced that there will be more intensive inspections and stiffer fines for restaurants, cafes, bars, and entertainment venues that violate public health regulations by not checking vax certificates and negative rapid tests.",
+                        "display_url": "tovima.gr/2021/11/02/int\u2026",
+                        "end": 281,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/international/following-major-surge-in-covid-19-infections-government-imposes-tough-measures-on-unvaccinated-citizens/",
+                        "images": [
+                            {
+                                "height": 480,
+                                "url": "https://pbs.twimg.com/news_img/1455791869078609930/rKmmwdk7?format=jpg&name=orig",
+                                "width": 768
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455791869078609930/rKmmwdk7?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 258,
+                        "status": 200,
+                        "title": "Following major surge in COVID-19 infections, government imposes tough measures on unvaccinated citizens - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/11/02/international/following-major-surge-in-covid-19-infections-government-imposes-tough-measures-on-unvaccinated-citizens/",
+                        "url": "https://t.co/82PDe2gCBv"
+                    }
+                ]
+            },
+            "id": 1455791855149338632,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Greece: The Health Minister has announced that unvaccinated people will need to show the result of a rapid test in order to visit state services, banks, &amp; commercial malls.\n\nHe also announced stiffer fines for venues that do not check vax certificates.\n\nhttps://t.co/82PDe2gCBv"
+        },
+        {
+            "author_id": 915658126451494912,
+            "conversation_id": 1455269688645144580,
+            "created_at": "2021-11-01 20:25:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/int\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/international/covid-19-pandemic-in-greece-5449-new-cases-on-mon-52-deaths-430-intubated-patients/",
+                        "start": 0,
+                        "url": "https://t.co/HzM8X6iXm0"
+                    }
+                ]
+            },
+            "id": 1455269688645144580,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/HzM8X6iXm0"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454398342717480961,
+            "created_at": "2021-10-30 10:42:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/30/sci\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/science/emvolia-i-triti-dosi-ton-pfizer-kai-biontech-meionei-simantika-ton-kindyno-nosileias-kai-varias-covid-19/",
+                        "start": 107,
+                        "url": "https://t.co/jXemsl3aVN"
+                    }
+                ]
+            },
+            "id": 1454398342717480961,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u2013 \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c4\u03c9\u03bd Pfizer \u03ba\u03b1\u03b9 BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 https://t.co/jXemsl3aVN"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454059615285661701,
+            "created_at": "2021-10-29 12:16:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/sci\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/science/koronaios-ereyna-gia-tous-atrotous-apenanti-ston-io-epikefalis-enas-ellinas-epistimonas/",
+                        "start": 104,
+                        "url": "https://t.co/Uax6FFZQsa"
+                    }
+                ]
+            },
+            "id": 1454059615285661701,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u0393\u03b9\u03b1\u03c4\u03af \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ac\u03c4\u03c1\u03c9\u03c4\u03bf\u03b9 \u03b1\u03c0\u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c3\u03c4\u03b7 covid \u2013 \u03a4\u03b9 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03b5\u03b9 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03bc\u03b5 \u03ad\u03bb\u03bb\u03b7\u03bd\u03b1 \u03b5\u03c0\u03b9\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae\u03c2 https://t.co/Uax6FFZQsa"
+        },
+        {
+            "author_id": 421701932,
+            "conversation_id": 1453788053902929929,
+            "created_at": "2021-10-28 18:17:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 23,
+                        "tag": "\u03ac\u03bb\u03bf\u03b3\u03b1"
+                    },
+                    {
+                        "end": 35,
+                        "start": 30,
+                        "tag": "\u03c0\u03b7\u03b3\u03ae"
+                    },
+                    {
+                        "end": 46,
+                        "start": 36,
+                        "tag": "\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1242736434248851456",
+                        "start": 3,
+                        "username": "counselor_2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0395\u03bd\u03b1\u03c2 \u03c5\u03c0\u03b5\u03c1\u03ac\u03bd\u03bf\u03c3\u03bf\u03c2 \u03bf\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ac\u03bb\u03bf\u03b3\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u00ab\u03cc\u03c0\u03bb\u03bf\u00bb \u03b5\u03bd\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b1\u03b6\u03b9\u03bb\u03b9\u03ac\u03bd\u03b9\u03ba\u03b7 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7",
+                        "display_url": "tovima.gr/2021/10/28/sci\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "images": [
+                            {
+                                "height": 700,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=orig",
+                                "width": 695
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "\u03a4\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1 \u00ab\u03c0\u03b7\u03b3\u03ae\u00bb \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "url": "https://t.co/q38RMOo4TY"
+                    }
+                ]
+            },
+            "id": 1453788053902929929,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453673841658576898 type=retweeted"
+            ],
+            "text": "RT @counselor_2020: \u03a4\u03b1 #\u03ac\u03bb\u03bf\u03b3\u03b1 #\u03c0\u03b7\u03b3\u03ae #\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19...\nhttps://t.co/q38RMOo4TY"
+        },
+        {
+            "author_id": 1189224936,
+            "conversation_id": 1453674434523541505,
+            "created_at": "2021-10-28 10:46:07+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 29,
+                        "start": 23,
+                        "tag": "\u03ac\u03bb\u03bf\u03b3\u03b1"
+                    },
+                    {
+                        "end": 35,
+                        "start": 30,
+                        "tag": "\u03c0\u03b7\u03b3\u03ae"
+                    },
+                    {
+                        "end": 46,
+                        "start": 36,
+                        "tag": "\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1242736434248851456",
+                        "start": 3,
+                        "username": "counselor_2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0395\u03bd\u03b1\u03c2 \u03c5\u03c0\u03b5\u03c1\u03ac\u03bd\u03bf\u03c3\u03bf\u03c2 \u03bf\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ac\u03bb\u03bf\u03b3\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u00ab\u03cc\u03c0\u03bb\u03bf\u00bb \u03b5\u03bd\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b1\u03b6\u03b9\u03bb\u03b9\u03ac\u03bd\u03b9\u03ba\u03b7 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7",
+                        "display_url": "tovima.gr/2021/10/28/sci\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "images": [
+                            {
+                                "height": 700,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=orig",
+                                "width": 695
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "\u03a4\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1 \u00ab\u03c0\u03b7\u03b3\u03ae\u00bb \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "url": "https://t.co/q38RMOo4TY"
+                    }
+                ]
+            },
+            "id": 1453674434523541505,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453673841658576898 type=retweeted"
+            ],
+            "text": "RT @counselor_2020: \u03a4\u03b1 #\u03ac\u03bb\u03bf\u03b3\u03b1 #\u03c0\u03b7\u03b3\u03ae #\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19...\nhttps://t.co/q38RMOo4TY"
+        },
+        {
+            "author_id": 1242736434248851456,
+            "conversation_id": 1453673841658576898,
+            "created_at": "2021-10-28 10:43:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 3,
+                        "tag": "\u03ac\u03bb\u03bf\u03b3\u03b1"
+                    },
+                    {
+                        "end": 15,
+                        "start": 10,
+                        "tag": "\u03c0\u03b7\u03b3\u03ae"
+                    },
+                    {
+                        "end": 26,
+                        "start": 16,
+                        "tag": "\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0395\u03bd\u03b1\u03c2 \u03c5\u03c0\u03b5\u03c1\u03ac\u03bd\u03bf\u03c3\u03bf\u03c2 \u03bf\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03c0\u03b1\u03c1\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03ac\u03bb\u03bf\u03b3\u03b1 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc \u00ab\u03cc\u03c0\u03bb\u03bf\u00bb \u03b5\u03bd\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c3\u03c4\u03b7 \u03bd\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b1\u03b6\u03b9\u03bb\u03b9\u03ac\u03bd\u03b9\u03ba\u03b7 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7",
+                        "display_url": "tovima.gr/2021/10/28/sci\u2026",
+                        "end": 70,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "images": [
+                            {
+                                "height": 700,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=orig",
+                                "width": 695
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453599269043195906/hMM4LMIe?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 47,
+                        "status": 200,
+                        "title": "\u03a4\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1 \u00ab\u03c0\u03b7\u03b3\u03ae\u00bb \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "url": "https://t.co/q38RMOo4TY"
+                    }
+                ]
+            },
+            "id": 1453673841658576898,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\u03a4\u03b1 #\u03ac\u03bb\u03bf\u03b3\u03b1 #\u03c0\u03b7\u03b3\u03ae #\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19...\nhttps://t.co/q38RMOo4TY"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453599265289297925,
+            "created_at": "2021-10-28 05:47:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/28/sci\u2026",
+                        "end": 66,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/science/ta-aloga-pigi-therapeias-gia-tin-covid-19/",
+                        "start": 43,
+                        "url": "https://t.co/VjmM6n7tjN"
+                    }
+                ]
+            },
+            "id": 1453599265289297925,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1 \u00ab\u03c0\u03b7\u03b3\u03ae\u00bb \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/VjmM6n7tjN"
+        }
+    ]
+}

@@ -1,0 +1,1460 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 250058740,
+                "conversation_id": 1455597107151347713,
+                "created_at": "2021-11-02 18:06:08+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 85,
+                            "start": 75,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 95,
+                            "start": 87,
+                            "tag": "COVID19"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "id": "39490506",
+                            "start": 1,
+                            "username": "syriza_gr"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0397\u03bc\u03af\u03bc\u03b5\u03c4\u03c1\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9 \u03bf \u03a3\u03a5\u03a1\u0399\u0396\u0391-\u03a0\u03a3 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03b5\u03b9: \u00ab'\u0391\u03b2\u03bf\u03c5\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03bf\u03b9\u03c1\u03b1\u03af\u03bf\u03b9 \u03b1\u03bd\u03c4\u03ac\u03bc\u03b1, \u03b1\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd\u00bb.",
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 121,
+                            "expanded_url": "http://www.amna.gr/home/article/597826/SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                            "images": [
+                                {
+                                    "height": 357,
+                                    "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=orig",
+                                    "width": 635
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 98,
+                            "status": 200,
+                            "title": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2",
+                            "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597826&cat=home&title=SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                            "url": "https://t.co/rsNVVEWI8m"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/KLjFWH90kk",
+                            "end": 145,
+                            "expanded_url": "https://twitter.com/amna_news/status/1455597107151347713/photo/1",
+                            "start": 122,
+                            "url": "https://t.co/KLjFWH90kk"
+                        }
+                    ]
+                },
+                "id": 1455597107151347713,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": ".@syriza_gr : \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \n#COVID19 \n\nhttps://t.co/rsNVVEWI8m https://t.co/KLjFWH90kk"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1455561763563388934,
+                "created_at": "2021-11-02 15:45:42+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 2,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 34,
+                            "start": 24,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 103,
+                            "start": 93,
+                            "tag": "COVID19gr"
+                        },
+                        {
+                            "end": 118,
+                            "start": 104,
+                            "tag": "COVID19greece"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 91,
+                            "expanded_url": "https://www.amna.gr/home/article/597771/",
+                            "start": 68,
+                            "url": "https://t.co/acjBdgI7nX"
+                        }
+                    ]
+                },
+                "id": 1455561763563388934,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 5,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 6.700 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/acjBdgI7nX\n\n#COVID19gr #COVID19greece"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1454835058402078720,
+                "created_at": "2021-10-31 15:38:02+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 2,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 20,
+                            "start": 13,
+                            "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                        },
+                        {
+                            "end": 42,
+                            "start": 32,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 173,
+                            "start": 163,
+                            "tag": "COVID19gr"
+                        },
+                        {
+                            "end": 188,
+                            "start": 174,
+                            "tag": "COVID19greece"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 161,
+                            "expanded_url": "https://www.amna.gr/home/article/597256/",
+                            "start": 138,
+                            "url": "https://t.co/G5hdCe9LI6"
+                        }
+                    ]
+                },
+                "id": 1454835058402078720,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 2.727 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 357 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/G5hdCe9LI6\n\n#COVID19gr #COVID19greece"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1454459596962209793,
+                "created_at": "2021-10-30 14:46:05+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 2,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 20,
+                            "start": 13,
+                            "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                        },
+                        {
+                            "end": 42,
+                            "start": 32,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 170,
+                            "start": 160,
+                            "tag": "COVID19gr"
+                        },
+                        {
+                            "end": 185,
+                            "start": 171,
+                            "tag": "COVID19greece"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 158,
+                            "expanded_url": "https://www.amna.gr/home/article/597095/",
+                            "start": 135,
+                            "url": "https://t.co/2oBokCv86B"
+                        }
+                    ]
+                },
+                "id": 1454459596962209793,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 4.696 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 344 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/2oBokCv86B\n\n#COVID19gr #COVID19greece"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1453734116701073409,
+                "created_at": "2021-10-28 14:43:17+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 101,
+                            "start": 94,
+                            "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                        },
+                        {
+                            "end": 143,
+                            "start": 129,
+                            "tag": "covid19greece"
+                        },
+                        {
+                            "end": 154,
+                            "start": 144,
+                            "tag": "covid19gr"
+                        },
+                        {
+                            "end": 163,
+                            "start": 155,
+                            "tag": "covid19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 127,
+                            "expanded_url": "https://www.amna.gr/home/article/596687/Koronoios-Ellada-2984-nea-krousmata--391-diasolinomenoi--31-neoi-thanatoi",
+                            "start": 104,
+                            "url": "https://t.co/DrBJjmfDDP"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/BhqZsKjf36",
+                            "end": 187,
+                            "expanded_url": "https://twitter.com/amna_news/status/1453734116701073409/photo/1",
+                            "start": 164,
+                            "url": "https://t.co/BhqZsKjf36"
+                        }
+                    ]
+                },
+                "id": 1453734116701073409,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 : 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 391 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \n\nhttps://t.co/DrBJjmfDDP\n\n#covid19greece #covid19gr #covid19 https://t.co/BhqZsKjf36"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1453377466643456008,
+                "created_at": "2021-10-27 15:06:05+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 12,
+                            "start": 2,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 20,
+                            "start": 13,
+                            "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                        },
+                        {
+                            "end": 42,
+                            "start": 32,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 116,
+                            "start": 106,
+                            "tag": "COVID19gr"
+                        },
+                        {
+                            "end": 131,
+                            "start": 117,
+                            "tag": "COVID19greece"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 104,
+                            "expanded_url": "https://www.amna.gr/home/article/596460/",
+                            "start": 81,
+                            "url": "https://t.co/hR9XtB6ygy"
+                        }
+                    ]
+                },
+                "id": 1453377466643456008,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 3.651 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9\n\nhttps://t.co/hR9XtB6ygy\n\n#COVID19gr #COVID19greece"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-02-10 10:08:16+00:00",
+                "description": "\u0391\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc - \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03cc \u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd: \u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03c0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 |English: @amna_newseng |Sport: @amna_sportgr",
+                "id": 250058740,
+                "name": "\u0391\u03a0\u0395-\u039c\u03a0\u0395",
+                "public_metrics": {
+                    "followers_count": 85174,
+                    "following_count": 3649,
+                    "listed_count": 997,
+                    "tweet_count": 392053
+                },
+                "username": "amna_news",
+                "verified": true
+            },
+            {
+                "created_at": "2014-11-06 13:07:25+00:00",
+                "description": "Suivez l\u00e0, la situation du #COVID19 en #GUINEE #COVID19GN #Coronavirus",
+                "id": 2863762227,
+                "name": "GUINEE TAGS",
+                "public_metrics": {
+                    "followers_count": 8499,
+                    "following_count": 0,
+                    "listed_count": 140,
+                    "tweet_count": 110075
+                },
+                "username": "GuineeTags",
+                "verified": false
+            },
+            {
+                "created_at": "2009-05-12 12:45:08+00:00",
+                "description": "",
+                "id": 39490506,
+                "name": "\u03a3\u03a5\u03a1\u0399\u0396\u0391",
+                "public_metrics": {
+                    "followers_count": 110937,
+                    "following_count": 581,
+                    "listed_count": 727,
+                    "tweet_count": 15417
+                },
+                "username": "syriza_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-07-01 10:45:25+00:00",
+                "description": "",
+                "id": 748829858428583936,
+                "name": "\u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1",
+                "public_metrics": {
+                    "followers_count": 1780,
+                    "following_count": 121,
+                    "listed_count": 46,
+                    "tweet_count": 47882
+                },
+                "username": "praktoreiomaced",
+                "verified": false
+            },
+            {
+                "created_at": "2013-04-25 18:01:15+00:00",
+                "description": "\u03a1\u03b5\u03b1\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2: \u0397 \u03c4\u03ad\u03c7\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03c6\u03b9\u03ba\u03c4\u03bf\u03cd VS \u039a\u03bf\u03bc\u03bc\u03bf\u03c5\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2: \u0397 \u03c4\u03ad\u03c7\u03bd\u03b7 \u03c4\u03bf\u03c5 \u03bf\u03c5\u03c4\u03bf\u03c0\u03b9\u03ba\u03bf\u03cd\n\ud83c\uddea\ud83c\uddfa\n\ud83c\udfc0",
+                "id": 1380054572,
+                "name": "RealPolitik",
+                "public_metrics": {
+                    "followers_count": 10666,
+                    "following_count": 781,
+                    "listed_count": 75,
+                    "tweet_count": 123693
+                },
+                "username": "machiavelli_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-06 16:32:38+00:00",
+                "description": "(Maria:b30/11/52 Montreal, Carol:b30/11/53 London UK)to Greek parents,moved to London(1953);raised in London;moved back to Canada (M in 87, C in 88).Mainly RTs",
+                "id": 386072477,
+                "name": "Maria & Carol Los",
+                "public_metrics": {
+                    "followers_count": 649,
+                    "following_count": 4959,
+                    "listed_count": 2,
+                    "tweet_count": 476498
+                },
+                "username": "terpsichore_los",
+                "verified": false
+            },
+            {
+                "created_at": "2013-06-29 10:24:11+00:00",
+                "description": "",
+                "id": 1555370485,
+                "name": "ncriticos",
+                "public_metrics": {
+                    "followers_count": 436,
+                    "following_count": 78,
+                    "listed_count": 15,
+                    "tweet_count": 35737
+                },
+                "username": "NicolasCriticos",
+                "verified": false
+            },
+            {
+                "created_at": "2010-01-22 12:56:14+00:00",
+                "description": "",
+                "id": 107402923,
+                "name": "Nikos.",
+                "public_metrics": {
+                    "followers_count": 2099,
+                    "following_count": 706,
+                    "listed_count": 52,
+                    "tweet_count": 79190
+                },
+                "username": "nikos_twitt_er",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-04 17:00:26+00:00",
+                "description": "",
+                "id": 3308394005,
+                "name": "Giannis Eutuxiadis",
+                "public_metrics": {
+                    "followers_count": 1160,
+                    "following_count": 1078,
+                    "listed_count": 2,
+                    "tweet_count": 66708
+                },
+                "username": "GiannisEutux",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455599059578802179,
+            "created_at": "2021-11-02 18:13:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 105,
+                        "tag": "\u039a\u039a\u0395"
+                    },
+                    {
+                        "end": 121,
+                        "start": 111,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 131,
+                        "start": 123,
+                        "tag": "COVID19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 157,
+                        "expanded_url": "http://www.amna.gr/home/article/597827/D-Koutsoumpas-Kamia-epanapausi-I-ugeia-tou-laou-den-mporei-na-sunechisei-na-paizetai-korona-grammata",
+                        "start": 134,
+                        "url": "https://t.co/mezo64RLBd"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jdyHuUtIeI",
+                        "end": 181,
+                        "expanded_url": "https://twitter.com/amna_news/status/1455599059578802179/photo/1",
+                        "start": 158,
+                        "url": "https://t.co/jdyHuUtIeI"
+                    }
+                ]
+            },
+            "id": 1455599059578802179,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394. \u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd\u03bc\u03c0\u03b1\u03c2: \u039a\u03b1\u03bc\u03af\u03b1 \u03b5\u03c0\u03b1\u03bd\u03ac\u03c0\u03b1\u03c5\u03c3\u03b7! \u0397 \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u03bb\u03b1\u03bf\u03cd \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03c3\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03ba\u03bf\u03c1\u03cc\u03bd\u03b1-\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03b1!\n\n#\u039a\u039a\u0395 \n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \n#COVID19 \n\nhttps://t.co/mezo64RLBd https://t.co/jdyHuUtIeI"
+        },
+        {
+            "author_id": 2863762227,
+            "conversation_id": 1455597223232917508,
+            "created_at": "2021-11-02 18:06:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 90,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 110,
+                        "start": 102,
+                        "tag": "COVID19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    },
+                    {
+                        "end": 26,
+                        "id": "39490506",
+                        "start": 16,
+                        "username": "syriza_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397\u03bc\u03af\u03bc\u03b5\u03c4\u03c1\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9 \u03bf \u03a3\u03a5\u03a1\u0399\u0396\u0391-\u03a0\u03a3 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03b5\u03b9: \u00ab'\u0391\u03b2\u03bf\u03c5\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03bf\u03b9\u03c1\u03b1\u03af\u03bf\u03b9 \u03b1\u03bd\u03c4\u03ac\u03bc\u03b1, \u03b1\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd\u00bb.",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 136,
+                        "expanded_url": "http://www.amna.gr/home/article/597826/SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 113,
+                        "status": 200,
+                        "title": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597826&cat=home&title=SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                        "url": "https://t.co/rsNVVEWI8m"
+                    }
+                ]
+            },
+            "id": 1455597223232917508,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455597107151347713 type=retweeted"
+            ],
+            "text": "RT @amna_news: .@syriza_gr : \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \n#COVID19 \n\nhttps://t.co/rsNVVEWI8m ht\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455597107151347713,
+            "created_at": "2021-11-02 18:06:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 95,
+                        "start": 87,
+                        "tag": "COVID19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "39490506",
+                        "start": 1,
+                        "username": "syriza_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397\u03bc\u03af\u03bc\u03b5\u03c4\u03c1\u03b1 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03af\u03b6\u03b5\u03b9 \u03bf \u03a3\u03a5\u03a1\u0399\u0396\u0391-\u03a0\u03a3 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03b5\u03b9: \u00ab'\u0391\u03b2\u03bf\u03c5\u03bb\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03bc\u03bf\u03b9\u03c1\u03b1\u03af\u03bf\u03b9 \u03b1\u03bd\u03c4\u03ac\u03bc\u03b1, \u03b1\u03c0\u03bf\u03b4\u03b5\u03b9\u03ba\u03bd\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03a5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd\u00bb.",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 121,
+                        "expanded_url": "http://www.amna.gr/home/article/597826/SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455597111291088904/A2j5uX5K?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 98,
+                        "status": 200,
+                        "title": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597826&cat=home&title=SYRIZA-I-kubernisi-echei-paraitithei-apo-ti-diacheirisi-tis-pandimias",
+                        "url": "https://t.co/rsNVVEWI8m"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/KLjFWH90kk",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/amna_news/status/1455597107151347713/photo/1",
+                        "start": 122,
+                        "url": "https://t.co/KLjFWH90kk"
+                    }
+                ]
+            },
+            "id": 1455597107151347713,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": ".@syriza_gr : \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03b1\u03b9\u03c4\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \n#COVID19 \n\nhttps://t.co/rsNVVEWI8m https://t.co/KLjFWH90kk"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1455563934136774658,
+            "created_at": "2021-11-02 15:54:19+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/597773/Koronoios-6700-nea-krousmata--59-thanatoi--434-diasolinomenoi",
+                        "start": 64,
+                        "url": "https://t.co/keZ4SLsh0n"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jfoGJh0jwY",
+                        "end": 111,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1455563934136774658/photo/1",
+                        "start": 88,
+                        "url": "https://t.co/jfoGJh0jwY"
+                    }
+                ]
+            },
+            "id": 1455563934136774658,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/keZ4SLsh0n https://t.co/jfoGJh0jwY"
+        },
+        {
+            "author_id": 1380054572,
+            "conversation_id": 1455562884499623938,
+            "created_at": "2021-11-02 15:50:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 49,
+                        "start": 39,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 118,
+                        "start": 108,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 133,
+                        "start": 119,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.amna.gr/home/article/597771/",
+                        "start": 83,
+                        "url": "https://t.co/acjBdgI7nX"
+                    }
+                ]
+            },
+            "id": 1455562884499623938,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455561763563388934 type=retweeted"
+            ],
+            "text": "RT @amna_news: \ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 6.700 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/acjBdgI7nX\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455561763563388934,
+            "created_at": "2021-11-02 15:45:42+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 34,
+                        "start": 24,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 103,
+                        "start": 93,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 118,
+                        "start": 104,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 91,
+                        "expanded_url": "https://www.amna.gr/home/article/597771/",
+                        "start": 68,
+                        "url": "https://t.co/acjBdgI7nX"
+                    }
+                ]
+            },
+            "id": 1455561763563388934,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 5,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 6.700 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/acjBdgI7nX\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1455204230147579908,
+            "created_at": "2021-11-01 16:04:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/597499/Koronoios-5449-nea-krousmata--52-thanatoi--430-diasolinomenoi",
+                        "start": 64,
+                        "url": "https://t.co/t4V53A9VrE"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Y3Xf7VAEGB",
+                        "end": 111,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1455204230147579908/photo/1",
+                        "start": 88,
+                        "url": "https://t.co/Y3Xf7VAEGB"
+                    }
+                ]
+            },
+            "id": 1455204230147579908,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/t4V53A9VrE https://t.co/Y3Xf7VAEGB"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455203291307069446,
+            "created_at": "2021-11-01 16:01:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 34,
+                        "start": 24,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 148,
+                        "start": 138,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 163,
+                        "start": 149,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.amna.gr/home/article/597497/",
+                        "start": 113,
+                        "url": "https://t.co/BemnHc7zZy"
+                    }
+                ]
+            },
+            "id": 1455203291307069446,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5.449 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03c4\u03bf 84,65% \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9\n\nhttps://t.co/BemnHc7zZy\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 386072477,
+            "conversation_id": 1454867942936649730,
+            "created_at": "2021-10-31 17:48:42+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 35,
+                        "start": 28,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ]
+            },
+            "id": 1454867942936649730,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454835058402078720 type=retweeted"
+            ],
+            "text": "RT @amna_news: \ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 2.727 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 357 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u2026"
+        },
+        {
+            "author_id": 1555370485,
+            "conversation_id": 1454835564562292743,
+            "created_at": "2021-10-31 15:40:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 35,
+                        "start": 28,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ]
+            },
+            "id": 1454835564562292743,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454835058402078720 type=retweeted"
+            ],
+            "text": "RT @amna_news: \ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 2.727 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 357 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1454835058402078720,
+            "created_at": "2021-10-31 15:38:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 42,
+                        "start": 32,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 173,
+                        "start": 163,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 188,
+                        "start": 174,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 161,
+                        "expanded_url": "https://www.amna.gr/home/article/597256/",
+                        "start": 138,
+                        "url": "https://t.co/G5hdCe9LI6"
+                    }
+                ]
+            },
+            "id": 1454835058402078720,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 2.727 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 357 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/G5hdCe9LI6\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1454461451817586692,
+            "created_at": "2021-10-30 14:53:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 86,
+                        "expanded_url": "http://www.amna.gr/macedonia/article/597099/Koronoios-4696-nea-krousmata--38-thanatoi--404-diasolinomenoi",
+                        "start": 63,
+                        "url": "https://t.co/WKcZlrgjbC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LGuqfM54e0",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1454461451817586692/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/LGuqfM54e0"
+                    }
+                ]
+            },
+            "id": 1454461451817586692,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\nhttps://t.co/WKcZlrgjbC https://t.co/LGuqfM54e0"
+        },
+        {
+            "author_id": 107402923,
+            "conversation_id": 1454459690277117964,
+            "created_at": "2021-10-30 14:46:27+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 35,
+                        "start": 28,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ]
+            },
+            "id": 1454459690277117964,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454459596962209793 type=retweeted"
+            ],
+            "text": "RT @amna_news: \ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 4.696 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 344 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1454459596962209793,
+            "created_at": "2021-10-30 14:46:05+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 42,
+                        "start": 32,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 170,
+                        "start": 160,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 185,
+                        "start": 171,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 158,
+                        "expanded_url": "https://www.amna.gr/home/article/597095/",
+                        "start": 135,
+                        "url": "https://t.co/2oBokCv86B"
+                    }
+                ]
+            },
+            "id": 1454459596962209793,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 4.696 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03bf\u03b9 344 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/2oBokCv86B\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1454437955221786632,
+            "created_at": "2021-10-30 13:20:05+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "\u03a1\u03c9\u03c3\u03af\u03b1"
+                    },
+                    {
+                        "end": 17,
+                        "start": 7,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 103,
+                        "start": 95,
+                        "tag": "COVID19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/anarussia/arti\u2026",
+                        "end": 93,
+                        "expanded_url": "https://www.amna.gr/anarussia/article/597080/",
+                        "start": 70,
+                        "url": "https://t.co/z0G2V8RvJC"
+                    }
+                ]
+            },
+            "id": 1454437955221786632,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u03a1\u03c9\u03c3\u03af\u03b1-#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b7\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 40.251 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2\n\nhttps://t.co/z0G2V8RvJC\n\n#COVID19"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1454097241547972622,
+            "created_at": "2021-10-29 14:46:12+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/596921/Koronoios-3643-krousmata--55-thanatoi--392-diasolinomenoi",
+                        "start": 60,
+                        "url": "https://t.co/48cPswCX8R"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ArwgL2FOGc",
+                        "end": 107,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1454097241547972622/photo/1",
+                        "start": 84,
+                        "url": "https://t.co/ArwgL2FOGc"
+                    }
+                ]
+            },
+            "id": 1454097241547972622,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 392 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9\n\nhttps://t.co/48cPswCX8R https://t.co/ArwgL2FOGc"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1453737746640474119,
+            "created_at": "2021-10-28 14:57:42+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 116,
+                        "start": 109,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ]
+            },
+            "id": 1453737746640474119,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453734116701073409 type=retweeted"
+            ],
+            "text": "RT @amna_news: #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 : 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 391 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \n\nhttps://t.co/DrBJjmf\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1453734116701073409,
+            "created_at": "2021-10-28 14:43:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 101,
+                        "start": 94,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 143,
+                        "start": 129,
+                        "tag": "covid19greece"
+                    },
+                    {
+                        "end": 154,
+                        "start": 144,
+                        "tag": "covid19gr"
+                    },
+                    {
+                        "end": 163,
+                        "start": 155,
+                        "tag": "covid19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.amna.gr/home/article/596687/Koronoios-Ellada-2984-nea-krousmata--391-diasolinomenoi--31-neoi-thanatoi",
+                        "start": 104,
+                        "url": "https://t.co/DrBJjmfDDP"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BhqZsKjf36",
+                        "end": 187,
+                        "expanded_url": "https://twitter.com/amna_news/status/1453734116701073409/photo/1",
+                        "start": 164,
+                        "url": "https://t.co/BhqZsKjf36"
+                    }
+                ]
+            },
+            "id": 1453734116701073409,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 : 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 391 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf \u03c3\u03c4\u03b7\u03bd #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \n\nhttps://t.co/DrBJjmfDDP\n\n#covid19greece #covid19gr #covid19 https://t.co/BhqZsKjf36"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1453661031260205056,
+            "created_at": "2021-10-28 09:52:52+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 6,
+                        "start": 0,
+                        "tag": "\u03a1\u03c9\u03c3\u03af\u03b1"
+                    },
+                    {
+                        "end": 17,
+                        "start": 7,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 85,
+                        "expanded_url": "https://www.amna.gr/home/article/596619/Rosia-koronoios-Neo-imerisio-rekor-thanaton-kai-krousmaton",
+                        "start": 62,
+                        "url": "https://t.co/9GYUug9BEQ"
+                    }
+                ]
+            },
+            "id": 1453661031260205056,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u03a1\u03c9\u03c3\u03af\u03b1-#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b7\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd\n\nhttps://t.co/9GYUug9BEQ"
+        },
+        {
+            "author_id": 3308394005,
+            "conversation_id": 1453380680885342220,
+            "created_at": "2021-10-27 15:18:51+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 17,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 35,
+                        "start": 28,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 57,
+                        "start": 47,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 131,
+                        "start": 121,
+                        "tag": "COVID19gr"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 119,
+                        "expanded_url": "https://www.amna.gr/home/article/596460/",
+                        "start": 96,
+                        "url": "https://t.co/hR9XtB6ygy"
+                    }
+                ]
+            },
+            "id": 1453380680885342220,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453377466643456008 type=retweeted"
+            ],
+            "text": "RT @amna_news: \ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 3.651 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9\n\nhttps://t.co/hR9XtB6ygy\n\n#COVID19gr #COVID1\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1453377466643456008,
+            "created_at": "2021-10-27 15:06:05+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 20,
+                        "start": 13,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 42,
+                        "start": 32,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 116,
+                        "start": 106,
+                        "tag": "COVID19gr"
+                    },
+                    {
+                        "end": 131,
+                        "start": 117,
+                        "tag": "COVID19greece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.amna.gr/home/article/596460/",
+                        "start": 81,
+                        "url": "https://t.co/hR9XtB6ygy"
+                    }
+                ]
+            },
+            "id": 1453377466643456008,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\ud83d\udd34 #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-#\u0395\u03bb\u03bb\u03ac\u03b4\u03b1: 3.651 \u03bd\u03ad\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9\n\nhttps://t.co/hR9XtB6ygy\n\n#COVID19gr #COVID19greece"
+        },
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1453375178961035264,
+            "created_at": "2021-10-27 14:56:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 92,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/596457/Koronoios-3651-nea-krousmata--387-diasolinomenoi--63-neoi-thanatoi-",
+                        "start": 69,
+                        "url": "https://t.co/EZt4wI7qKn"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/uWGSQaLZnN",
+                        "end": 116,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1453375178961035264/photo/1",
+                        "start": 93,
+                        "url": "https://t.co/uWGSQaLZnN"
+                    }
+                ]
+            },
+            "id": 1453375178961035264,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9\n\nhttps://t.co/EZt4wI7qKn https://t.co/uWGSQaLZnN"
+        }
+    ]
+}

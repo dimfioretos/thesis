@@ -1,0 +1,62 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2012-01-24 12:58:07+00:00",
+                "description": "",
+                "id": 472919377,
+                "name": "dimit\u042fis\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 1927,
+                    "following_count": 1380,
+                    "listed_count": 35,
+                    "tweet_count": 85565
+                },
+                "username": "DimitrisIf",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 472919377,
+            "conversation_id": 1455594434356301824,
+            "created_at": "2021-11-02 17:55:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0393\u03a1\u0391\u03a6\u0395\u0399 \u039f \u03a7\u03a1\u0397\u03a3\u03a4\u039f\u03a3 \u03a0\u0391\u03a0\u0391\u03a0\u0391\u039d\u0391\u0393\u0399\u03a9\u03a4\u039f\u03a5: 10.000.000 \u0393\u0399\u0391 \u0394\u03a9\u03a1\u0395\u0391\u039d \u03a3\u03a0\u0399\u03a4\u0399\u0391 \u03a3\u0395 ( \u0391\u039d\u0397\u039b\u0399\u039a\u039f\u03a5\u03a3 \u039c\u0395\u03a4\u0391\u039d\u0391\u03a3\u03a4\u0395\u03a3 ) \u039c\u0395 \u03a0\u039b\u0397\u03a1\u03a9\u039c\u0395\u039d\u0391 \u039d\u0395\u03a1\u039f , \u0394\u0395\u0397, \u039a\u039b\u03a0 \u039a\u0391\u0399 \u03a7\u0391\u03a1\u03a4\u0396\u0399\u039b\u0399\u039a\u0399 200 \u20ac... TO A\u03a1\u0398\u03a1\u039f \u0391\u03a5\u03a4\u039f \u0394\u0395\u039d \u0398\u0391 \u03a4\u039f \u039a\u039f\u0399\u039d\u039f\u03a0\u039f\u0399\u0397\u03a3\u039f\u03a5\u039c\u0395 \u03a3\u03a4\u039f \u03a6\u0392!!! \u0397 \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03c4\u03b9 \u03b2\u03c1\u03b9\u03c3\u03ba\u03cc\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae. \u039c\u03b5 \u03bc\u03b9\u03b1 \u03c3\u03b5\u03b9\u03c1\u03ac \u03b1\u03c0\u03cc instastories \u03c3\u03c4\u03bf\u03bd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc \u03c4\u03b7\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc \u03c3\u03c4\u03bf Instagram, \u03b7 \u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03b1 \u03a3\u03c0\u03c5\u03c1\u03bf\u03c0\u03bf\u03cd\u03bb\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac\u03c6\u03b5\u03c1\u03b5 \u03bd\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03ae\u03c3\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03c5\u03b1... \u0395\u03c0\u03b5\u03b9\u03c3\u03cc\u03b4\u03b9\u03bf \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03bf\u03ba\u03c4\u03b7\u03c4\u03ce\u03bd \u03bc\u03b9\u03b1\u03c2 \u03c4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03ac\u03ba\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae \u03a0\u03bd\u03b5\u03c5\u03bc\u03bf\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c5 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5",
+                        "display_url": "oparlapipas.gr/2021/11/katerr\u2026",
+                        "end": 138,
+                        "expanded_url": "http://www.oparlapipas.gr/2021/11/katerreuse-brosta-stis-kameres-o.html",
+                        "images": [
+                            {
+                                "height": 492,
+                                "url": "https://pbs.twimg.com/news_img/1455594447622885379/7Ld8qT0D?format=png&name=orig",
+                                "width": 870
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455594447622885379/7Ld8qT0D?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 115,
+                        "status": 200,
+                        "title": "\u00ab\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5\u00bb \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a3 \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1",
+                        "unwound_url": "http://www.oparlapipas.gr/2021/11/katerreuse-brosta-stis-kameres-o.html",
+                        "url": "https://t.co/xiwxMXYb0W"
+                    }
+                ]
+            },
+            "id": 1455594434356301824,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5\u00bb \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a3 \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1 https://t.co/xiwxMXYb0W"
+        }
+    ]
+}

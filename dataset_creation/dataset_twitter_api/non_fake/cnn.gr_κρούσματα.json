@@ -1,0 +1,2082 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 151230840,
+                "conversation_id": 1455570989702651905,
+                "created_at": "2021-11-02 16:22:21+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 60,
+                            "start": 50,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 91,
+                            "start": 81,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 106,
+                            "start": 92,
+                            "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                        },
+                        {
+                            "end": 121,
+                            "start": 107,
+                            "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "cnn.gr/politiki/story\u2026",
+                            "end": 146,
+                            "expanded_url": "https://www.cnn.gr/politiki/story/287791/georgiadis-oxi-se-neo-lockdown-akoma-kai-an-ta-kroysmata-ftasoyn-ta-10-000",
+                            "start": 123,
+                            "url": "https://t.co/bUCqPws7UD"
+                        }
+                    ]
+                },
+                "id": 1455570989702651905,
+                "public_metrics": {
+                    "like_count": 8,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 4
+                },
+                "text": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  https://t.co/bUCqPws7UD"
+            },
+            {
+                "author_id": 827939598965862402,
+                "conversation_id": 1455527602291101702,
+                "created_at": "2021-11-02 13:29:57+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "cnn.gr/politiki/story\u2026",
+                            "end": 113,
+                            "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                            "start": 90,
+                            "url": "https://t.co/oJHP14M0uN"
+                        }
+                    ]
+                },
+                "id": 1455527602291101702,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 7
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+            },
+            {
+                "author_id": 3342510514,
+                "conversation_id": 1455531055394476054,
+                "created_at": "2021-11-02 13:43:40+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3BFNGe9",
+                            "end": 111,
+                            "expanded_url": "https://bit.ly/3BFNGe9",
+                            "start": 88,
+                            "url": "https://t.co/9JlXHD6cVW"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/reUB0C83e7",
+                            "end": 135,
+                            "expanded_url": "https://twitter.com/CNNgreece/status/1455531055394476054/photo/1",
+                            "start": 112,
+                            "url": "https://t.co/reUB0C83e7"
+                        }
+                    ]
+                },
+                "id": 1455531055394476054,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/9JlXHD6cVW https://t.co/reUB0C83e7"
+            },
+            {
+                "author_id": 3342510514,
+                "conversation_id": 1455146376216592387,
+                "created_at": "2021-11-01 12:15:06+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3ByRnlG",
+                            "end": 121,
+                            "expanded_url": "https://bit.ly/3ByRnlG",
+                            "start": 98,
+                            "url": "https://t.co/tGXVlcGvle"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/0IJvjlcAhT",
+                            "end": 145,
+                            "expanded_url": "https://twitter.com/CNNgreece/status/1455146376216592387/photo/1",
+                            "start": 122,
+                            "url": "https://t.co/0IJvjlcAhT"
+                        }
+                    ]
+                },
+                "id": 1455146376216592387,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 4,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a0\u03b1\u03c0\u03b1\u03b5\u03c5\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5: \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7\u03bc\u03b5\u03c1\u03b7\u03c3\u03af\u03c9\u03c2- \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf\u03c0\u03b9\u03ba\u03bf\u03cd \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b1 https://t.co/tGXVlcGvle https://t.co/0IJvjlcAhT"
+            },
+            {
+                "author_id": 1183103036065026049,
+                "conversation_id": 1454001883824205825,
+                "created_at": "2021-10-29 08:27:17+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 218,
+                            "start": 204,
+                            "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                        },
+                        {
+                            "end": 228,
+                            "start": 219,
+                            "tag": "lockdown"
+                        },
+                        {
+                            "end": 239,
+                            "start": 229,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "cnn.gr/politiki/story\u2026",
+                            "end": 264,
+                            "expanded_url": "https://www.cnn.gr/politiki/story/287268/pleyris-an-xreiastei-tha-epitaxoyme-nosokomeia-kai-giatroys-metra-mono-se-meiktoys-xoroys",
+                            "start": 241,
+                            "url": "https://t.co/pFXBSW2KWw"
+                        }
+                    ]
+                },
+                "id": 1454001883824205825,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a0\u039b\u0395\u03a5\u03a1\u0397\u03a3:   \"\u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03b1\u03bc\u03b9\u03b3\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2. \u0391\u03bd \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03b9\u03c3\u03c7\u03cd\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5\u03b9\u03ba\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 ..., \u03cc\u03c0\u03c9\u03c2 \u03c3\u03c4\u03b1 \u03b8\u03ad\u03b1\u03c4\u03c1\u03b1\" \ud83d\udc4d\n#\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #lockdown #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/pFXBSW2KWw"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-06-23 08:27:14+00:00",
+                "description": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf Twitter account \u03c4\u03bf\u03c5 CNN Greece",
+                "id": 3342510514,
+                "name": "CNN Greece",
+                "public_metrics": {
+                    "followers_count": 63691,
+                    "following_count": 100,
+                    "listed_count": 444,
+                    "tweet_count": 206808
+                },
+                "username": "CNNgreece",
+                "verified": true
+            },
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748247
+                },
+                "username": "entypos",
+                "verified": false
+            },
+            {
+                "created_at": "2016-04-17 14:04:33+00:00",
+                "description": "https://t.co/LK4JZsBqdT",
+                "id": 721700881939488768,
+                "name": "\u039b\u03ad\u03bd\u03b1\u264e",
+                "public_metrics": {
+                    "followers_count": 15843,
+                    "following_count": 1036,
+                    "listed_count": 69,
+                    "tweet_count": 1068153
+                },
+                "username": "lena_lenaki_len",
+                "verified": false
+            },
+            {
+                "created_at": "2010-06-02 23:02:08+00:00",
+                "description": "\ud83d\udc8e\u03a0\u03af\u03ba\u03c1\u03b1 \u03c3\u03c4\u03b1 \u03c7\u03b5\u03af\u03bb\u03b7, \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03b2\u03bf\u03c5\u03bb\u03ae\ud83d\udc8e\n\ud83d\udc8e\u03bd\u03b1 \u03bc\u03bf\u03c5 \u03c6\u03c5\u03c3\u03ac\u03b5\u03b9 \u03c4\u03bf \u03ba\u03b1\u03bd\u03c4\u03ae\u03bb\u03b9\ud83d\udc8e\n\ud83d\udc8edm-just for emergency\ud83d\udc8e\n\ud83d\udc8e\u039f \u03c0\u03b1\u03c0\u03c0\u03bf\u03cd\u03c2 \u03bf \u039c\u03af\u03bc\u03b7\u03c2\ud83d\udc8e",
+                "id": 151230840,
+                "name": "\ud83d\udc8e\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u039a\u03b1\u03b2\u03b2\u03b1\u03b4\u03ac\u03c4\u03bf\u03c2\ud83d\udc8e",
+                "public_metrics": {
+                    "followers_count": 16854,
+                    "following_count": 14943,
+                    "listed_count": 11,
+                    "tweet_count": 14994
+                },
+                "username": "CavaData",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-22 20:22:33+00:00",
+                "description": "",
+                "id": 2209504154,
+                "name": "kostas per",
+                "public_metrics": {
+                    "followers_count": 213,
+                    "following_count": 171,
+                    "listed_count": 0,
+                    "tweet_count": 49088
+                },
+                "username": "PerKostas",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-21 12:49:17+00:00",
+                "description": "https://t.co/SZa9v9xxYc",
+                "id": 3190731226,
+                "name": "Toula Tour",
+                "public_metrics": {
+                    "followers_count": 6529,
+                    "following_count": 693,
+                    "listed_count": 25,
+                    "tweet_count": 898384
+                },
+                "username": "ToulaTour",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-27 11:37:01+00:00",
+                "description": "\u03a0\u03b1\u03bd\u03c4\u03c1\u03b5\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b5 \u03c4\u03bf\u03bd \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7 \u039a\u03b1\u03b2\u03b2\u03b1\u03b4\u03ac\u03c4\u03bf",
+                "id": 3212612794,
+                "name": "\u03a4\u03b6\u03ad\u03bd\u03b7 \u03a3\u03b1\u03b3\u03b9\u03b1\u03b4\u03b9\u03bd\u03bf\u03cd \u039a\u03b1\u03b2\u03b2\u03b1\u03b4\u03ac\u03c4\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 225,
+                    "following_count": 221,
+                    "listed_count": 0,
+                    "tweet_count": 350
+                },
+                "username": "sayiadinou",
+                "verified": false
+            },
+            {
+                "created_at": "2019-12-27 01:20:25+00:00",
+                "description": "\u03bc\u03ac\u03b3\u03b5\u03b9\u03c1\u03b1\u03c2  \ud83d\udd2a - \u03bc\u03b5\u03bb\u03b9\u03c3\u03c3\u03bf\u03ba\u03cc\u03bc\u03bf\u03c2 \ud83c\udf6f \ud83d\udc1d\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u275d the best revenge is massive success\u275e\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\u2605\u03c0\u03ac\u03bd\u03c4\u03b1 \u03c3\u03c4\u03b1 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac..",
+                "id": 1210369737869471745,
+                "name": "\ud835\udd39\ud835\udd5a\ud835\udd5d\ud835\udd5d\ud835\udd4b\ud835\udd5a\ud835\udd5d\ud835\udd5d",
+                "public_metrics": {
+                    "followers_count": 1122,
+                    "following_count": 1400,
+                    "listed_count": 0,
+                    "tweet_count": 29014
+                },
+                "username": "BillTill16",
+                "verified": false
+            },
+            {
+                "created_at": "2017-02-04 17:59:17+00:00",
+                "description": "\u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7 \u03b4\u03b9\u03c7\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1.\n\u03b5\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03b1\u03c4\u03af\u03b1\u03c2 \u03b1\u03b3\u03c1\u03cc\u03c3\u03c7\u03bf\u03bb\u03bf\u03c2 #\u03c0\u03b1\u03c1\u03b1\u03bb\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2 \u03b1\u03ba\u03b1\u03c4\u03af\u03c4\u03b1\u03b3\u03bf\u03c2,\u03c0\u03c1\u03b1\u03b3\u03b9\u03cc\u03c2.\n\u03b1\u03bb\u03ac\u03c1\u03b3\u03bf \u03bc\u03bf\u03c5 \u03bf\u03b9 \u03c6\u03b1\u03c3\u03b9\u03c3\u03c4\u03bf\u03bd\u03b1\u03b6\u03af\nhttps://t.co/kfKDQJg27H",
+                "id": 827939598965862402,
+                "name": "\u03c7\u03b1\u0390\u03bd\u03b7\u03c2\u2122",
+                "public_metrics": {
+                    "followers_count": 6427,
+                    "following_count": 3955,
+                    "listed_count": 17,
+                    "tweet_count": 72604
+                },
+                "username": "hainis82",
+                "verified": false
+            },
+            {
+                "created_at": "2021-07-11 02:15:34+00:00",
+                "description": "Fashion Editor - Image Maker - Stylist - Art Director. \nAnna Vissi's  ex image maker-stylist.\nWitch \ud83d\ude07 Motocross - Music \ud83c\udfb6",
+                "id": 1414045587410927616,
+                "name": "MeToo",
+                "public_metrics": {
+                    "followers_count": 153,
+                    "following_count": 522,
+                    "listed_count": 3,
+                    "tweet_count": 11228
+                },
+                "username": "MeTooJI",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-18 13:03:03+00:00",
+                "description": "\u0392\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2,",
+                "id": 888773034,
+                "name": "annak",
+                "public_metrics": {
+                    "followers_count": 95,
+                    "following_count": 156,
+                    "listed_count": 0,
+                    "tweet_count": 3664
+                },
+                "username": "annakrezi",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-18 18:44:20+00:00",
+                "description": "\u03a0\u03c1\u03ce\u03b7\u03bd \u03c4\u03c1\u03cc\u03c6\u03b9\u03bc\u03bf\u03c2 fb\n(\u03b4\u03b5\u03bd \u03ae\u03be\u03b5\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03c1\u03ce\u03c4\u03b7\u03c3\u03b1)",
+                "id": 1450170737801768970,
+                "name": "Dimitris Matzarakis",
+                "public_metrics": {
+                    "followers_count": 9,
+                    "following_count": 103,
+                    "listed_count": 0,
+                    "tweet_count": 123
+                },
+                "username": "d_matzarakis",
+                "verified": false
+            },
+            {
+                "created_at": "2014-03-22 08:26:39+00:00",
+                "description": "\u03c1\u03b1\u03c4\u03c3\u03b9\u03c3\u03c4\u03ad\u03c2,\u03c6\u03b1\u03c3\u03b9\u03c3\u03c4\u03b5\u03c2 \u03bf\u03bc\u03bf\u03c6\u03bf\u03b2\u03b9\u03ba\u03bf\u03af \u03c0\u03ac\u03c1\u03c4\u03b5 \u0394\u03a1\u039f\u039c\u039f #PAOKCHAMPIONS",
+                "id": 2428502463,
+                "name": "\u039c\u03c0\u03bf\u03c5\u03b3\u03ac\u03c4\u03c3\u03b1\u2122\ufe0f\u03bc\u03b5 \u03a7\u03bf\u03c5\u03bd\u03c4\u03bf\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "public_metrics": {
+                    "followers_count": 14602,
+                    "following_count": 7245,
+                    "listed_count": 146,
+                    "tweet_count": 324502
+                },
+                "username": "Ystath_stigmh",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-10 11:41:12+00:00",
+                "description": "\u03a3\u03c4\u03b7 \u03b3\u03c9\u03bd\u03af\u03b1 \u03bc\u03b9\u03b1\u03c2 \u03b3\u03c9\u03bd\u03af\u03b1\u03c2",
+                "id": 388218649,
+                "name": "\ud83d\udfe2\u26aa",
+                "public_metrics": {
+                    "followers_count": 2571,
+                    "following_count": 576,
+                    "listed_count": 46,
+                    "tweet_count": 282393
+                },
+                "username": "a13x____",
+                "verified": false
+            },
+            {
+                "created_at": "2017-11-11 06:29:25+00:00",
+                "description": "\ud83c\uddea\ud83c\uddfaPhotography, traveling,good food, wine science and politics are some of my interests! I am a traveller. I haven\u2019t been everywhere, but is on my list!",
+                "id": 929234590371336192,
+                "name": "miumiu!",
+                "public_metrics": {
+                    "followers_count": 975,
+                    "following_count": 1549,
+                    "listed_count": 2,
+                    "tweet_count": 93080
+                },
+                "username": "miumiu_dim",
+                "verified": false
+            },
+            {
+                "created_at": "2009-11-06 08:26:08+00:00",
+                "description": "Please do not follow me if you think that I know the way",
+                "id": 87896855,
+                "name": "Yiannis Mouratidis",
+                "public_metrics": {
+                    "followers_count": 122,
+                    "following_count": 15,
+                    "listed_count": 4,
+                    "tweet_count": 1829
+                },
+                "username": "virtualgr",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-20 14:35:52+00:00",
+                "description": "imi place sa fiu.",
+                "id": 1318561445639049218,
+                "name": "Liliana Stoica",
+                "public_metrics": {
+                    "followers_count": 34,
+                    "following_count": 256,
+                    "listed_count": 0,
+                    "tweet_count": 560
+                },
+                "username": "LilianaStoica7",
+                "verified": false
+            },
+            {
+                "created_at": "2014-03-31 14:56:12+00:00",
+                "description": "",
+                "id": 2420665693,
+                "name": "Ioannis Midas.",
+                "public_metrics": {
+                    "followers_count": 54,
+                    "following_count": 230,
+                    "listed_count": 0,
+                    "tweet_count": 6809
+                },
+                "username": "midasioannis",
+                "verified": false
+            },
+            {
+                "created_at": "2017-05-11 00:52:54+00:00",
+                "description": "\ud835\udc47\u210e\ud835\udc52 \ud835\udc5f\ud835\udc52\ud835\udc4e\ud835\udc59 \ud835\udc51\ud835\udc4e\ud835\udc5b\ud835\udc54\ud835\udc52\ud835\udc5f \ud835\udc56\ud835\udc60 \ud835\udc61\u210e\ud835\udc4e\ud835\udc61 \ud835\udc56\ud835\udc53 \ud835\udc64\ud835\udc52 \u210e\ud835\udc52\ud835\udc4e\ud835\udc5f \ud835\udc52\ud835\udc5b\ud835\udc5c\ud835\udc62\ud835\udc54\u210e \ud835\udc59\ud835\udc56\ud835\udc52\ud835\udc60, \ud835\udc61\u210e\ud835\udc52\ud835\udc5b \ud835\udc64\ud835\udc52 \ud835\udc5b\ud835\udc5c \ud835\udc59\ud835\udc5c\ud835\udc5b\ud835\udc54\ud835\udc52\ud835\udc5f \ud835\udc5f\ud835\udc52\ud835\udc50\ud835\udc5c\ud835\udc54\ud835\udc5b\ud835\udc56\ud835\udc67\ud835\udc52 \ud835\udc61\u210e\ud835\udc52 \ud835\udc61\ud835\udc5f\ud835\udc62\ud835\udc61\u210e \ud835\udc4e\ud835\udc61 \ud835\udc4e\ud835\udc59\ud835\udc59.",
+                "id": 862470536609361920,
+                "name": "\ud835\udc6a\ud835\udc90\ud835\udc8e\ud835\udc83\ud835\udc8a\ud835\udc8f\ud835\udc86 \ud835\udc68\ud835\udc85\ud835\udc97\ud835\udc8a\ud835\udc94\ud835\udc90\ud835\udc93",
+                "public_metrics": {
+                    "followers_count": 395,
+                    "following_count": 422,
+                    "listed_count": 7,
+                    "tweet_count": 15718
+                },
+                "username": "combinegr",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-04 18:42:34+00:00",
+                "description": "",
+                "id": 599464925,
+                "name": "xenia\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\udde7\ud83c\udde9\ud83c\uddea",
+                "public_metrics": {
+                    "followers_count": 1910,
+                    "following_count": 2137,
+                    "listed_count": 11,
+                    "tweet_count": 74944
+                },
+                "username": "xeniakan21",
+                "verified": false
+            },
+            {
+                "created_at": "2019-10-12 19:32:08+00:00",
+                "description": "\u0399\u03b1\u03c4\u03c1\u03cc\u03c2 \u0395\u03a3\u03a5",
+                "id": 1183103036065026049,
+                "name": "iceman",
+                "public_metrics": {
+                    "followers_count": 479,
+                    "following_count": 443,
+                    "listed_count": 0,
+                    "tweet_count": 4560
+                },
+                "username": "iceman58678761",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-05 17:37:38+00:00",
+                "description": "Dear music thnxs for always clearing my head, healing my heart, and lifting my spirit !\nhttps://t.co/5RZysa6Kyi",
+                "id": 546232566,
+                "name": "Natasa Chris\u03c4\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 3133,
+                    "following_count": 1646,
+                    "listed_count": 14,
+                    "tweet_count": 75158
+                },
+                "username": "NatasaChristou1",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-11 20:14:01+00:00",
+                "description": "",
+                "id": 2188942746,
+                "name": "\u039d\u0399\u039a\u039f\u03a3  \u039a\u039f\u03a5\u03a6\u039f\u03a5\u0394\u0391\u039a\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 4496,
+                    "following_count": 4490,
+                    "listed_count": 15,
+                    "tweet_count": 172520
+                },
+                "username": "NKoufoudakis",
+                "verified": false
+            },
+            {
+                "created_at": "2019-04-04 13:31:10+00:00",
+                "description": "free spirit",
+                "id": 1113796150014955522,
+                "name": "Mina -Mina",
+                "public_metrics": {
+                    "followers_count": 1114,
+                    "following_count": 1781,
+                    "listed_count": 0,
+                    "tweet_count": 81415
+                },
+                "username": "MinaMin69753570",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455797710775365636,
+            "created_at": "2021-11-03 07:23:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u00ab\u0391\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 35.000 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ac \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1\u03c5\u03c4\u03cc\u03c7\u03c1\u03bf\u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b9\u03b1 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03c3\u03b5 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7\u00bb, \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bf \u03ba. \u039c\u03b1\u03c1\u03b9\u03cc\u03bb\u03b7\u03c2",
+                        "display_url": "bit.ly/3nRDCtM",
+                        "end": 112,
+                        "expanded_url": "https://bit.ly/3nRDCtM",
+                        "images": [
+                            {
+                                "height": 725,
+                                "url": "https://pbs.twimg.com/news_img/1455793069874421761/TaqkCrwB?format=jpg&name=orig",
+                                "width": 1290
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455793069874421761/TaqkCrwB?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 89,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03ad\u03bd\u03c4\u03c1\u03bf\u03c5 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0391\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b7\u03c2: \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 35.000 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ac \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1",
+                        "unwound_url": "https://www.cnn.gr/ellada/story/287864/koronoios-dieythyntis-kentroy-ygeias-areopolis-exoyme-35-000-energa-kroysmata-sti-xora?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635923320",
+                        "url": "https://t.co/265bwmgsDv"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/WEi8JG7IVu",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455797710775365636/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/WEi8JG7IVu"
+                    }
+                ]
+            },
+            "id": 1455797710775365636,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03ad\u03bd\u03c4\u03c1\u03bf\u03c5 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0391\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b7\u03c2: \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 35.000 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ac \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 https://t.co/265bwmgsDv https://t.co/WEi8JG7IVu"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1455793062362427395,
+            "created_at": "2021-11-03 07:04:48+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287864/koronoios-dieythyntis-kentroy-ygeias-areopolis-exoyme-35-000-energa-kroysmata-sti-xora",
+                        "start": 77,
+                        "url": "https://t.co/AI73POOvsi"
+                    }
+                ]
+            },
+            "id": 1455793062362427395,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03ad\u03bd\u03c4\u03c1\u03bf\u03c5 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0391\u03c1\u03b5\u03cc\u03c0\u03bf\u03bb\u03b7\u03c2: \u0388\u03c7\u03bf\u03c5\u03bc\u03b5 35.000 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ac \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 https://t.co/AI73POOvsi"
+        },
+        {
+            "author_id": 721700881939488768,
+            "conversation_id": 1455744626124595201,
+            "created_at": "2021-11-03 03:52:19+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 135,
+                        "start": 121,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "151230840",
+                        "start": 3,
+                        "username": "CavaData"
+                    }
+                ]
+            },
+            "id": 1455744626124595201,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455570989702651905 type=retweeted"
+            ],
+            "text": "RT @CavaData: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  ht\u2026"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455624960353964041,
+            "created_at": "2021-11-02 19:56:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3byeyC2",
+                        "end": 101,
+                        "expanded_url": "https://bit.ly/3byeyC2",
+                        "start": 78,
+                        "url": "https://t.co/lhSkuphXWt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/SFoV8knYrD",
+                        "end": 125,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455624960353964041/photo/1",
+                        "start": 102,
+                        "url": "https://t.co/SFoV8knYrD"
+                    }
+                ]
+            },
+            "id": 1455624960353964041,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 https://t.co/lhSkuphXWt https://t.co/SFoV8knYrD"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455589405641650194,
+            "created_at": "2021-11-02 17:35:32+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jYmUYz",
+                        "end": 100,
+                        "expanded_url": "https://bit.ly/3jYmUYz",
+                        "start": 77,
+                        "url": "https://t.co/atSahlYzCm"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/msSBBZ7AEv",
+                        "end": 124,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455589405641650194/photo/1",
+                        "start": 101,
+                        "url": "https://t.co/msSBBZ7AEv"
+                    }
+                ]
+            },
+            "id": 1455589405641650194,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03bc\u03b1\u03cd\u03c1\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 - 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/atSahlYzCm https://t.co/msSBBZ7AEv"
+        },
+        {
+            "author_id": 2209504154,
+            "conversation_id": 1455571482487181313,
+            "created_at": "2021-11-02 16:24:19+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 135,
+                        "start": 121,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "151230840",
+                        "start": 3,
+                        "username": "CavaData"
+                    }
+                ]
+            },
+            "id": 1455571482487181313,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455570989702651905 type=retweeted"
+            ],
+            "text": "RT @CavaData: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  ht\u2026"
+        },
+        {
+            "author_id": 3190731226,
+            "conversation_id": 1455571422819110921,
+            "created_at": "2021-11-02 16:24:05+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 135,
+                        "start": 121,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "151230840",
+                        "start": 3,
+                        "username": "CavaData"
+                    }
+                ]
+            },
+            "id": 1455571422819110921,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455570989702651905 type=retweeted"
+            ],
+            "text": "RT @CavaData: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  ht\u2026"
+        },
+        {
+            "author_id": 3212612794,
+            "conversation_id": 1455571109688930304,
+            "created_at": "2021-11-02 16:22:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 120,
+                        "start": 106,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 135,
+                        "start": 121,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "151230840",
+                        "start": 3,
+                        "username": "CavaData"
+                    }
+                ]
+            },
+            "id": 1455571109688930304,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455570989702651905 type=retweeted"
+            ],
+            "text": "RT @CavaData: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  ht\u2026"
+        },
+        {
+            "author_id": 151230840,
+            "conversation_id": 1455570989702651905,
+            "created_at": "2021-11-02 16:22:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 60,
+                        "start": 50,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 91,
+                        "start": 81,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 106,
+                        "start": 92,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 121,
+                        "start": 107,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 146,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287791/georgiadis-oxi-se-neo-lockdown-akoma-kai-an-ta-kroysmata-ftasoyn-ta-10-000",
+                        "start": 123,
+                        "url": "https://t.co/bUCqPws7UD"
+                    }
+                ]
+            },
+            "id": 1455570989702651905,
+            "public_metrics": {
+                "like_count": 8,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u038c\u03c7\u03b9\u00bb \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 10.000 - #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9  https://t.co/bUCqPws7UD"
+        },
+        {
+            "author_id": 1210369737869471745,
+            "conversation_id": 1455565115164606464,
+            "created_at": "2021-11-02 15:59:01+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "827939598965862402",
+                        "start": 3,
+                        "username": "hainis82"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 104,
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455565115164606464,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527602291101702 type=retweeted"
+            ],
+            "text": "RT @hainis82: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 1414045587410927616,
+            "conversation_id": 1455536808050167825,
+            "created_at": "2021-11-02 14:06:32+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3342510514",
+                        "start": 3,
+                        "username": "CNNgreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3BFNGe9",
+                        "end": 126,
+                        "expanded_url": "https://bit.ly/3BFNGe9",
+                        "start": 103,
+                        "url": "https://t.co/9JlXHD6cVW"
+                    }
+                ]
+            },
+            "id": 1455536808050167825,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455531055394476054 type=retweeted"
+            ],
+            "text": "RT @CNNgreece: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/9JlXHD6cVW https://t.co\u2026"
+        },
+        {
+            "author_id": 888773034,
+            "conversation_id": 1455534229144711176,
+            "created_at": "2021-11-02 13:56:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "827939598965862402",
+                        "start": 3,
+                        "username": "hainis82"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 104,
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455534229144711176,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527602291101702 type=retweeted"
+            ],
+            "text": "RT @hainis82: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 1450170737801768970,
+            "conversation_id": 1455533344939298820,
+            "created_at": "2021-11-02 13:52:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "827939598965862402",
+                        "start": 3,
+                        "username": "hainis82"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 104,
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455533344939298820,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527602291101702 type=retweeted"
+            ],
+            "text": "RT @hainis82: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455531055394476054,
+            "created_at": "2021-11-02 13:43:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3BFNGe9",
+                        "end": 111,
+                        "expanded_url": "https://bit.ly/3BFNGe9",
+                        "start": 88,
+                        "url": "https://t.co/9JlXHD6cVW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/reUB0C83e7",
+                        "end": 135,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455531055394476054/photo/1",
+                        "start": 112,
+                        "url": "https://t.co/reUB0C83e7"
+                    }
+                ]
+            },
+            "id": 1455531055394476054,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/9JlXHD6cVW https://t.co/reUB0C83e7"
+        },
+        {
+            "author_id": 2428502463,
+            "conversation_id": 1455528239124856839,
+            "created_at": "2021-11-02 13:32:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "827939598965862402",
+                        "start": 3,
+                        "username": "hainis82"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a5\u03c0\u03cc \u03c4\u03bf \u03c6\u03cc\u03b2\u03bf \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd \u03bd\u03b1 \u03b5\u03ba\u03c4\u03bf\u03be\u03b5\u03c5\u03c4\u03bf\u03cd\u03bd \u03c0\u03b5\u03c1\u03b1\u03b9\u03c4\u03ad\u03c1\u03c9 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2, \u03bf \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2 \u03bc\u03b7\u03c7\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03c3\u03b7. \u03a3\u03c4\u03bf \u039c\u03ad\u03b3\u03b1\u03c1\u03bf \u039c\u03b1\u03be\u03af\u03bc\u03bf\u03c5 \u03b7 \u03bc\u03af\u03b1...",
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "images": [
+                            {
+                                "height": 727,
+                                "url": "https://pbs.twimg.com/news_img/1455520239706333190/UzEsLixw?format=jpg&name=orig",
+                                "width": 1290
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455520239706333190/UzEsLixw?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 104,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1",
+                        "unwound_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455528239124856839,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527602291101702 type=retweeted"
+            ],
+            "text": "RT @hainis82: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 388218649,
+            "conversation_id": 1455527685791305731,
+            "created_at": "2021-11-02 13:30:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "827939598965862402",
+                        "start": 3,
+                        "username": "hainis82"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 104,
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455527685791305731,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527602291101702 type=retweeted"
+            ],
+            "text": "RT @hainis82: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 827939598965862402,
+            "conversation_id": 1455527602291101702,
+            "created_at": "2021-11-02 13:29:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 90,
+                        "url": "https://t.co/oJHP14M0uN"
+                    }
+                ]
+            },
+            "id": 1455527602291101702,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - https://t.co/oJHP14M0uN"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1455520715747340289,
+            "created_at": "2021-11-02 13:02:35+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 88,
+                        "url": "https://t.co/4p2NoWEjS2"
+                    }
+                ]
+            },
+            "id": 1455520715747340289,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/4p2NoWEjS2"
+        },
+        {
+            "author_id": 929234590371336192,
+            "conversation_id": 1455520239370870789,
+            "created_at": "2021-11-02 13:00:41+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287775/koronoios-mayri-triti-gia-tin-pandimia-pano-apo-6-500-kroysmata-anamenontai-simera",
+                        "start": 88,
+                        "url": "https://t.co/INDvir3G4W"
+                    }
+                ]
+            },
+            "id": 1455520239370870789,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u039c\u03b1\u03cd\u03c1\u03b7\u00bb \u03a4\u03c1\u03af\u03c4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 - \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/INDvir3G4W"
+        },
+        {
+            "author_id": 87896855,
+            "conversation_id": 1455495129255620610,
+            "created_at": "2021-11-02 11:20:55+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 118,
+                        "tag": "sweden"
+                    },
+                    {
+                        "end": 132,
+                        "start": 126,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 147,
+                        "start": 133,
+                        "tag": "bestpractices"
+                    },
+                    {
+                        "end": 172,
+                        "start": 148,
+                        "tag": "brainregainwithoutbrain"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "lnkd.in/e8Xew5mZ",
+                        "end": 196,
+                        "expanded_url": "https://lnkd.in/e8Xew5mZ",
+                        "start": 173,
+                        "url": "https://t.co/lBZmnbUmDk"
+                    }
+                ]
+            },
+            "id": 1455495129255620610,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03b3\u03ad\u03bb\u03b9\u03b1. \u0397 \u03c7\u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03ba\u03c1\u03af\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c6\u03bf\u03b4\u03c1\u03ac \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd  \u03b1\u03c1\u03c7\u03ae \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03b5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2. \n\n#sweden #covid #bestpractices #brainregainwithoutbrain https://t.co/lBZmnbUmDk"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455432532305063937,
+            "created_at": "2021-11-02 07:12:10+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2ZGh0E0",
+                        "end": 105,
+                        "expanded_url": "https://bit.ly/2ZGh0E0",
+                        "start": 82,
+                        "url": "https://t.co/1wpsEnZUGO"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RwVva6x3qr",
+                        "end": 129,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455432532305063937/photo/1",
+                        "start": 106,
+                        "url": "https://t.co/RwVva6x3qr"
+                    }
+                ]
+            },
+            "id": 1455432532305063937,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2: \u03a7\u03c9\u03c1\u03af\u03c2 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 https://t.co/1wpsEnZUGO https://t.co/RwVva6x3qr"
+        },
+        {
+            "author_id": 1318561445639049218,
+            "conversation_id": 1455161216247214092,
+            "created_at": "2021-11-01 13:14:04+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3342510514",
+                        "start": 3,
+                        "username": "CNNgreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3ByRnlG",
+                        "end": 136,
+                        "expanded_url": "https://bit.ly/3ByRnlG",
+                        "start": 113,
+                        "url": "https://t.co/tGXVlcGvle"
+                    }
+                ]
+            },
+            "id": 1455161216247214092,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455146376216592387 type=retweeted"
+            ],
+            "text": "RT @CNNgreece: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a0\u03b1\u03c0\u03b1\u03b5\u03c5\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5: \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7\u03bc\u03b5\u03c1\u03b7\u03c3\u03af\u03c9\u03c2- \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf\u03c0\u03b9\u03ba\u03bf\u03cd \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b1 https://t.co/tGXVlcGvle ht\u2026"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455146376216592387,
+            "created_at": "2021-11-01 12:15:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3ByRnlG",
+                        "end": 121,
+                        "expanded_url": "https://bit.ly/3ByRnlG",
+                        "start": 98,
+                        "url": "https://t.co/tGXVlcGvle"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/0IJvjlcAhT",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455146376216592387/photo/1",
+                        "start": 122,
+                        "url": "https://t.co/0IJvjlcAhT"
+                    }
+                ]
+            },
+            "id": 1455146376216592387,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a0\u03b1\u03c0\u03b1\u03b5\u03c5\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5: \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7\u03bc\u03b5\u03c1\u03b7\u03c3\u03af\u03c9\u03c2- \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf\u03c0\u03b9\u03ba\u03bf\u03cd \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b1 https://t.co/tGXVlcGvle https://t.co/0IJvjlcAhT"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454931321000693764,
+            "created_at": "2021-10-31 22:00:32+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2ZGoozM",
+                        "end": 121,
+                        "expanded_url": "https://bit.ly/2ZGoozM",
+                        "start": 98,
+                        "url": "https://t.co/SLXTUUIheU"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/cacvswWXES",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454931321000693764/photo/1",
+                        "start": 122,
+                        "url": "https://t.co/cacvswWXES"
+                    }
+                ]
+            },
+            "id": 1454931321000693764,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03c0\u03af \u03c0\u03bf\u03b4\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac - \u03a4\u03b9 \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9 \u03c3\u03c4\u03b1 self test \u03bc\u03b1\u03b8\u03b7\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1 https://t.co/SLXTUUIheU https://t.co/cacvswWXES"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454859575455371267,
+            "created_at": "2021-10-31 17:15:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3w1m7uA",
+                        "end": 121,
+                        "expanded_url": "https://bit.ly/3w1m7uA",
+                        "start": 98,
+                        "url": "https://t.co/W8NBBcYffV"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/CNXxX9u1ve",
+                        "end": 145,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454859575455371267/photo/1",
+                        "start": 122,
+                        "url": "https://t.co/CNXxX9u1ve"
+                    }
+                ]
+            },
+            "id": 1454859575455371267,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2: 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03bf\u03c2 \u03bc\u03ad\u03c3\u03bf\u03c2 \u03cc\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b7 - Self test \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/W8NBBcYffV https://t.co/CNXxX9u1ve"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454847146138685443,
+            "created_at": "2021-10-31 16:26:04+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/31cei9X",
+                        "end": 86,
+                        "expanded_url": "https://bit.ly/31cei9X",
+                        "start": 63,
+                        "url": "https://t.co/5GupqW1V8l"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/dqgAVU1TDF",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454847146138685443/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/dqgAVU1TDF"
+                    }
+                ]
+            },
+            "id": 1454847146138685443,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/5GupqW1V8l https://t.co/dqgAVU1TDF"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454732014603620352,
+            "created_at": "2021-10-31 08:48:34+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3Cx3nFM",
+                        "end": 97,
+                        "expanded_url": "https://bit.ly/3Cx3nFM",
+                        "start": 74,
+                        "url": "https://t.co/hHmL1DGIbW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/HwKBSy36EF",
+                        "end": 121,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454732014603620352/photo/1",
+                        "start": 98,
+                        "url": "https://t.co/HwKBSy36EF"
+                    }
+                ]
+            },
+            "id": 1454732014603620352,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f\u03bb\u03bf\u03c4\u03b1\u03c7\u03ce\u03c2 \u03b3\u03b9\u03b1 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b1\u03c0\u03cc \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 https://t.co/hHmL1DGIbW https://t.co/HwKBSy36EF"
+        },
+        {
+            "author_id": 2420665693,
+            "conversation_id": 1454728896960663553,
+            "created_at": "2021-10-31 08:36:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287480/koronoios-olotaxos-gia-5-000-kroysmata-tin-imera-nea-metra-apo-tetarti",
+                        "start": 76,
+                        "url": "https://t.co/7yLhmgLzmx"
+                    }
+                ]
+            },
+            "id": 1454728896960663553,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f\u03bb\u03bf\u03c4\u03b1\u03c7\u03ce\u03c2 \u03b3\u03b9\u03b1 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b1\u03c0\u03cc \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 - https://t.co/7yLhmgLzmx"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454466536698175496,
+            "created_at": "2021-10-30 15:13:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3pPtwvQ",
+                        "end": 86,
+                        "expanded_url": "https://bit.ly/3pPtwvQ",
+                        "start": 63,
+                        "url": "https://t.co/z4dCAFT2g0"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1IRl7nQlTb",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454466536698175496/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/1IRl7nQlTb"
+                    }
+                ]
+            },
+            "id": 1454466536698175496,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/z4dCAFT2g0 https://t.co/1IRl7nQlTb"
+        },
+        {
+            "author_id": 862470536609361920,
+            "conversation_id": 1454418918395744265,
+            "created_at": "2021-10-30 12:04:26+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 22,
+                        "start": 14,
+                        "tag": "\u039a\u03b9\u03ba\u03af\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2"
+                    },
+                    {
+                        "end": 208,
+                        "start": 198,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 247,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287287/vraveysi-kikilia-apo-ton-drv-gia-tin-antimetopisi-tis-pandimias-stin-ellada",
+                        "start": 224,
+                        "url": "https://t.co/Ch1Jnd2DOq"
+                    }
+                ]
+            },
+            "id": 1454418918395744265,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0392\u03c1\u03ac\u03b2\u03b5\u03c5\u03c3\u03b1\u03bd \u03c4\u03bf\u03bd #\u039a\u03b9\u03ba\u03af\u03bb\u03b9\u03b1 \u03bf\u03b9 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03af \u03a4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03bf\u03af \u03a0\u03c1\u03ac\u03ba\u03c4\u03bf\u03c1\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03c1\u03c9\u03c4\u03cc\u03ba\u03bf\u03bb\u03bb\u03b1 \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03b7\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03ad\u03c4\u03c1\u03b5\u03c8\u03b1\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03bf\u03cd\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03bd\u03b1 \u03ad\u03c1\u03b8\u03bf\u03c5\u03bd \u03b1\u03bd\u03b5\u03be\u03ad\u03bb\u03b5\u03b3\u03ba\u03c4\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b1 4600 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03bd \u0391\u03cd\u03b3\u03bf\u03c5\u03c3\u03c4\u03bf.\n\nhttps://t.co/Ch1Jnd2DOq"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454353674323611649,
+            "created_at": "2021-10-30 07:45:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3CxGRwC",
+                        "end": 93,
+                        "expanded_url": "https://bit.ly/3CxGRwC",
+                        "start": 70,
+                        "url": "https://t.co/sYiaBEIkrF"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/LTr7jFuinv",
+                        "end": 117,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454353674323611649/photo/1",
+                        "start": 94,
+                        "url": "https://t.co/LTr7jFuinv"
+                    }
+                ]
+            },
+            "id": 1454353674323611649,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u03a4\u03b6\u03b1\u03bd\u03ac\u03ba\u03b7\u03c2: \u0398\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 4.500 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf https://t.co/sYiaBEIkrF https://t.co/LTr7jFuinv"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454128273064177668,
+            "created_at": "2021-10-29 16:49:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3CvVhxg",
+                        "end": 110,
+                        "expanded_url": "https://bit.ly/3CvVhxg",
+                        "start": 87,
+                        "url": "https://t.co/kq2CCnsieC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/GTZ7Mfhslc",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454128273064177668/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/GTZ7Mfhslc"
+                    }
+                ]
+            },
+            "id": 1454128273064177668,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 599 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae, 661 \u03c3\u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - \u039f \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/kq2CCnsieC https://t.co/GTZ7Mfhslc"
+        },
+        {
+            "author_id": 599464925,
+            "conversation_id": 1454120865403183114,
+            "created_at": "2021-10-29 16:20:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1183103036065026049",
+                        "start": 3,
+                        "username": "iceman58678761"
+                    }
+                ]
+            },
+            "id": 1454120865403183114,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454001883824205825 type=retweeted"
+            ],
+            "text": "RT @iceman58678761: \u03a0\u039b\u0395\u03a5\u03a1\u0397\u03a3:   \"\u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03b1\u03bc\u03b9\u03b3\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u2026"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454091637521518597,
+            "created_at": "2021-10-29 14:23:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3mqiEm3",
+                        "end": 99,
+                        "expanded_url": "https://bit.ly/3mqiEm3",
+                        "start": 76,
+                        "url": "https://t.co/912lRwNphW"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nTfnXnlMB1",
+                        "end": 123,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454091637521518597/photo/1",
+                        "start": 100,
+                        "url": "https://t.co/nTfnXnlMB1"
+                    }
+                ]
+            },
+            "id": 1454091637521518597,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - \u03a3\u03c4\u03bf\u03c5\u03c2 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/912lRwNphW https://t.co/nTfnXnlMB1"
+        },
+        {
+            "author_id": 546232566,
+            "conversation_id": 1454007513058263044,
+            "created_at": "2021-10-29 08:49:39+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1183103036065026049",
+                        "start": 3,
+                        "username": "iceman58678761"
+                    }
+                ]
+            },
+            "id": 1454007513058263044,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454001883824205825 type=retweeted"
+            ],
+            "text": "RT @iceman58678761: \u03a0\u039b\u0395\u03a5\u03a1\u0397\u03a3:   \"\u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03b1\u03bc\u03b9\u03b3\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u2026"
+        },
+        {
+            "author_id": 2188942746,
+            "conversation_id": 1454006875683446784,
+            "created_at": "2021-10-29 08:47:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1183103036065026049",
+                        "start": 3,
+                        "username": "iceman58678761"
+                    }
+                ]
+            },
+            "id": 1454006875683446784,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454001883824205825 type=retweeted"
+            ],
+            "text": "RT @iceman58678761: \u03a0\u039b\u0395\u03a5\u03a1\u0397\u03a3:   \"\u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03b1\u03bc\u03b9\u03b3\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u2026"
+        },
+        {
+            "author_id": 1183103036065026049,
+            "conversation_id": 1454001883824205825,
+            "created_at": "2021-10-29 08:27:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 218,
+                        "start": 204,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 228,
+                        "start": 219,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 239,
+                        "start": 229,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/politiki/story\u2026",
+                        "end": 264,
+                        "expanded_url": "https://www.cnn.gr/politiki/story/287268/pleyris-an-xreiastei-tha-epitaxoyme-nosokomeia-kai-giatroys-metra-mono-se-meiktoys-xoroys",
+                        "start": 241,
+                        "url": "https://t.co/pFXBSW2KWw"
+                    }
+                ]
+            },
+            "id": 1454001883824205825,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u03a0\u039b\u0395\u03a5\u03a1\u0397\u03a3:   \"\u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03b1\u03bc\u03b9\u03b3\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2. \u0391\u03bd \u03c5\u03c0\u03ac\u03c1\u03be\u03bf\u03c5\u03bd \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b8\u03b1 \u03b9\u03c3\u03c7\u03cd\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5\u03b9\u03ba\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 ..., \u03cc\u03c0\u03c9\u03c2 \u03c3\u03c4\u03b1 \u03b8\u03ad\u03b1\u03c4\u03c1\u03b1\" \ud83d\udc4d\n#\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #lockdown #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/pFXBSW2KWw"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453764922790264834,
+            "created_at": "2021-10-28 16:45:41+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2Zvyu5O",
+                        "end": 108,
+                        "expanded_url": "https://bit.ly/2Zvyu5O",
+                        "start": 85,
+                        "url": "https://t.co/NiChOcjYi8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/V2u1RpOkqi",
+                        "end": 132,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453764922790264834/photo/1",
+                        "start": 109,
+                        "url": "https://t.co/V2u1RpOkqi"
+                    }
+                ]
+            },
+            "id": 1453764922790264834,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c3\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae - \u039f \u00ab\u03c7\u03ac\u03c1\u03c4\u03b7\u03c2\u00bb \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/NiChOcjYi8 https://t.co/V2u1RpOkqi"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453761288627183616,
+            "created_at": "2021-10-28 16:31:15+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3GxIf4I",
+                        "end": 103,
+                        "expanded_url": "https://bit.ly/3GxIf4I",
+                        "start": 80,
+                        "url": "https://t.co/LzxnmSpTsu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/tgmoEjxNmf",
+                        "end": 127,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453761288627183616/photo/1",
+                        "start": 104,
+                        "url": "https://t.co/tgmoEjxNmf"
+                    }
+                ]
+            },
+            "id": 1453761288627183616,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03c4\u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9\u03c2: \u00ab\u039a\u03b5\u03c1\u03b4\u03af\u03b6\u03b5\u03b9 \u03ad\u03b4\u03b1\u03c6\u03bf\u03c2\u00bb \u03b7 \u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae \u0394\u03ad\u03bb\u03c4\u03b1 - \u0394\u03cd\u03bf \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u0394\u03ad\u03bb\u03c4\u03b1+ https://t.co/LzxnmSpTsu https://t.co/tgmoEjxNmf"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453751380531990538,
+            "created_at": "2021-10-28 15:51:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3nFWdsm",
+                        "end": 89,
+                        "expanded_url": "https://bit.ly/3nFWdsm",
+                        "start": 66,
+                        "url": "https://t.co/57QMer6ubl"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/ngl4BgKs0G",
+                        "end": 113,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453751380531990538/photo/1",
+                        "start": 90,
+                        "url": "https://t.co/ngl4BgKs0G"
+                    }
+                ]
+            },
+            "id": 1453751380531990538,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 391 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/57QMer6ubl https://t.co/ngl4BgKs0G"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453539110749188097,
+            "created_at": "2021-10-28 01:48:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u00ab\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc \u03ad\u03c7\u03bf\u03c5\u03bd \u03c4\u03b5\u03b8\u03b5\u03af \u03bf\u03b9 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03b5\u03bd \u03bc\u03ad\u03c3\u03c9 \u03c1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1\u03c2 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03bf\u03cd \u03c6\u03bf\u03c1\u03c4\u03af\u03bf\u03c5 , \u03bc\u03b5 \u03c4\u03bf\u03bd \u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2...",
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287107/koronoios-28i-oktovrioy-freno-stis-mathitikes-parelaseis-me-fonto-ta-ayximena-kroysmata?utm_medium=Social&utm_source=Twitter#Echobox=1635362077-1",
+                        "images": [
+                            {
+                                "height": 725,
+                                "url": "https://pbs.twimg.com/news_img/1453539114419097600/zy7CNs6U?format=jpg&name=orig",
+                                "width": 1290
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453539114419097600/zy7CNs6U?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 92,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 28\u03b7 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5: \u00ab\u03a6\u03c1\u03ad\u03bd\u03bf\u00bb \u03c3\u03c4\u03b9\u03c2 \u03bc\u03b1\u03b8\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b5\u03bb\u03ac\u03c3\u03b5\u03b9\u03c2 \u03bc\u03b5 \u03c6\u03cc\u03bd\u03c4\u03bf \u03c4\u03b1 \u03b1\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1",
+                        "unwound_url": "https://www.cnn.gr/ellada/story/287107/koronoios-28i-oktovrioy-freno-stis-mathitikes-parelaseis-me-fonto-ta-ayximena-kroysmata?utm_medium=Social&utm_source=Twitter#Echobox=1635362077-1",
+                        "url": "https://t.co/rhIivxxTiL"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/r73cReeR6s",
+                        "end": 139,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453539110749188097/photo/1",
+                        "start": 116,
+                        "url": "https://t.co/r73cReeR6s"
+                    }
+                ]
+            },
+            "id": 1453539110749188097,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 28\u03b7 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5: \u00ab\u03a6\u03c1\u03ad\u03bd\u03bf\u00bb \u03c3\u03c4\u03b9\u03c2 \u03bc\u03b1\u03b8\u03b7\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b5\u03bb\u03ac\u03c3\u03b5\u03b9\u03c2 \u03bc\u03b5 \u03c6\u03cc\u03bd\u03c4\u03bf \u03c4\u03b1 \u03b1\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/rhIivxxTiL https://t.co/r73cReeR6s"
+        },
+        {
+            "author_id": 1113796150014955522,
+            "conversation_id": 1453449200331628549,
+            "created_at": "2021-10-27 19:51:07+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287087/koronoios-sti-dini-toy-tetartoy-kymatos-attiki-thessaloniki-larisa-o-xartis-tis-diasporas",
+                        "start": 0,
+                        "url": "https://t.co/ebp63d0Bdm"
+                    }
+                ]
+            },
+            "id": 1453449200331628549,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/ebp63d0Bdm\n\u03a3\u03c5\u03bd\u03bd\u03b5\u03bd\u03bf\u03b7\u03b8\u03b5\u03b9\u03c4\u03b5...\u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03b9\u03b1 \u03c3\u03c4\u03bf \u03b8\u03b5\u03cc \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ac\u03bb\u03bb\u03b7 \u03b5\u03af\u03b4\u03b1 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03c3\u03c5\u03b3\u03ba\u03ad\u03bd\u03c4\u03c1\u03c9\u03c3\u03b7 \u03c3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 ....\u03bf\u03cd\u03c4\u03b5 \u03b9\u03b5\u03c1\u03cc \u03bf\u03cd\u03c4\u03b5 \u03cc\u03c3\u03b9\u03bf \u0395\u03a7\u0395\u03a4\u0395\n\u0398\u03ad\u03b1\u03c4\u03c1\u03bf \u03c3\u03ba\u03b9\u03c9\u03bd"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453374326435205125,
+            "created_at": "2021-10-27 14:53:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287081/koronoios-3-651-nea-kroysmata-387-diasolinomenoi-63-thanatoi?utm_medium=Social&utm_source=Twitter#Echobox=1635346415-1",
+                        "start": 63,
+                        "url": "https://t.co/O24uUN3lIB"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/E1bdtmUQ5Z",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453374326435205125/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/E1bdtmUQ5Z"
+                    }
+                ]
+            },
+            "id": 1453374326435205125,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/O24uUN3lIB https://t.co/E1bdtmUQ5Z"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453372698814402572,
+            "created_at": "2021-10-27 14:47:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287081/koronoios-3-651-nea-kroysmata-387-diasolinomenoi-63-thanatoi?utm_medium=Social&utm_source=Twitter#Echobox=1635345636-1",
+                        "start": 63,
+                        "url": "https://t.co/oSiXNvnNgA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1Ai3gETxmd",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453372698814402572/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/1Ai3gETxmd"
+                    }
+                ]
+            },
+            "id": 1453372698814402572,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/oSiXNvnNgA https://t.co/1Ai3gETxmd"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453356507941294084,
+            "created_at": "2021-10-27 13:42:48+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3bdjJqT",
+                        "end": 104,
+                        "expanded_url": "https://bit.ly/3bdjJqT",
+                        "start": 81,
+                        "url": "https://t.co/hTkmkiwGFf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/yhgwWzQfJB",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453356507941294084/photo/1",
+                        "start": 105,
+                        "url": "https://t.co/yhgwWzQfJB"
+                    }
+                ]
+            },
+            "id": 1453356507941294084,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1: \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 29.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 215 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf https://t.co/hTkmkiwGFf https://t.co/yhgwWzQfJB"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453266206828412940,
+            "created_at": "2021-10-27 07:43:58+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3CqxPS4",
+                        "end": 107,
+                        "expanded_url": "https://bit.ly/3CqxPS4",
+                        "start": 84,
+                        "url": "https://t.co/SjFuxABiPr"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/2AiX5zwRCZ",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453266206828412940/photo/1",
+                        "start": 108,
+                        "url": "https://t.co/2AiX5zwRCZ"
+                    }
+                ]
+            },
+            "id": 1453266206828412940,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u03a4\u03b6\u03b1\u03bd\u03ac\u03ba\u03b7\u03c2: \u0395\u03c6\u03b9\u03b1\u03bb\u03c4\u03b9\u03ba\u03ae \u03c0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7\u03bc\u03b5\u03c1\u03b7\u03c3\u03af\u03c9\u03c2 \u03c4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf https://t.co/SjFuxABiPr https://t.co/2AiX5zwRCZ"
+        }
+    ]
+}

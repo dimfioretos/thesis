@@ -1,0 +1,143 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 4193670947,
+                "conversation_id": 1453410435210825732,
+                "created_at": "2021-10-28 10:33:19+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 16,
+                            "id": "1105441108811759617",
+                            "start": 0,
+                            "username": "ax_maraki_mario"
+                        },
+                        {
+                            "end": 31,
+                            "id": "1169210410395930624",
+                            "start": 17,
+                            "username": "Halde81202821"
+                        }
+                    ]
+                },
+                "id": 1453671211045728256,
+                "in_reply_to_user_id": 1105441108811759617,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1453669237181063169 type=replied_to"
+                ],
+                "text": "@ax_maraki_mario @Halde81202821 \u038c\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03bb\u03cc\u03b3\u03c9 \u03ad\u03bb\u03bb\u03b5\u03b9\u03c8\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03bf\u03cd (\u03c0\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9) \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03bf\u03c5 \u03cc\u03c4\u03b9 \u03c0\u03bf\u03bb\u03bb\u03bf\u03af \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1 \u03c3\u03b5 \u039c\u0395\u0398 \u03bc\u03b5\u03c4\u03ac. \u0395\u03ac\u03bd \u03bf\u03b9 \u039c\u0395\u0398 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03af\u03bd\u03b5\u03b9 covid19, \u03c0\u03c9\u03c2 \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03b7 \u03b5\u03c0\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7;"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2019-09-04 11:27:56+00:00",
+                "description": "\u038c\u03c4\u03b1\u03bd \u03c9\u03c1\u03b9\u03bc\u03ac\u03c3\u03b5\u03b9\u03c2, \u03ad\u03bb\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b2\u03c1\u03b5\u03b9\u03c2!\n\u0398\u03b1 \u03b5\u03af\u03bc\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03ba\u03bf\u03cd\u03bd\u03b9\u03b5\u03c2...",
+                "id": 1169210410395930624,
+                "name": "Halde",
+                "public_metrics": {
+                    "followers_count": 140,
+                    "following_count": 225,
+                    "listed_count": 0,
+                    "tweet_count": 4959
+                },
+                "username": "Halde81202821",
+                "verified": false
+            },
+            {
+                "created_at": "2015-11-15 11:54:42+00:00",
+                "description": "\u039d\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae - Nursing - \u0391\u03a0\u0391\u0399\u03a4\u03a9 \u03ad\u03bd\u03b1 \u0395.\u03a3.\u03a5., \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03bf - \u039a\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc, \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd, \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc, \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b5\u03c2!!\n ''\u03a4\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03c0\u03b1\u03c1\u03ac \u03c4\u03bf \u03b1\u03cd\u03c1\u03b9\u03bf \u03c4\u03bf\u03c5 \u03c7\u03b8\u03b5\u03c2''",
+                "id": 4193670947,
+                "name": "T\u03c5\u03c1\u03ac\u03bd\u03bd\u03b9\u03b1 \u0392\u03ac\u03c0\u03b9\u03c1\u03b5\u03bb \ud83c\uddec\ud83c\uddf7\ud83c\udde8\ud83c\uddfa\ud83c\udde8\ud83c\uddfe",
+                "public_metrics": {
+                    "followers_count": 4002,
+                    "following_count": 4407,
+                    "listed_count": 4,
+                    "tweet_count": 61896
+                },
+                "username": "TyraniaVapirel",
+                "verified": false
+            },
+            {
+                "created_at": "2019-03-12 12:11:13+00:00",
+                "description": "\u03c3\u03c4\u03b1\u03bc\u03b1\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7 \u03b3\u03b7 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03ad\u03b2\u03c9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03c3\u03c4\u03b7\u03ba\u03b1!!!!",
+                "id": 1105441108811759617,
+                "name": "\u039c\u03ac\u03c1\u03b1 \u03a3\u03ac\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03ba\u03b1\u03ba\u03cc \u03c3\u03c5\u03bd\u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03bc\u03b1",
+                "public_metrics": {
+                    "followers_count": 538,
+                    "following_count": 191,
+                    "listed_count": 0,
+                    "tweet_count": 10758
+                },
+                "username": "ax_maraki_mario",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1169210410395930624,
+            "conversation_id": 1453410435210825732,
+            "created_at": "2021-10-28 10:44:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "4193670947",
+                        "start": 0,
+                        "username": "TyraniaVapirel"
+                    },
+                    {
+                        "end": 32,
+                        "id": "1105441108811759617",
+                        "start": 16,
+                        "username": "ax_maraki_mario"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f \u03ba\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03ba\u03c5\u03c1\u03b9\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c0\u03c1\u03bf\u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c3\u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd \u03c4\u03b7\u03c2 \u0395\u0395 \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03b7 \u0395\u03c0\u03af\u03c4\u03c1\u03bf\u03c0\u03bf\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0391\u03c3\u03c6\u03ac\u03bb\u03b5\u03b9\u03b1\u03c2 \u03a4\u03c1\u03bf\u03c6\u03af\u03bc\u03c9\u03bd, \u03a3\u03c4\u03ad\u03bb\u03bb\u03b1 \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03af\u03b4\u03bf\u03c5, \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae\u03c2 \u03c4\u03c9\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ce\u03bd \u03c4\u03b7\u03c2 \u0395\u0395 \u03bc\u03b5 \u03c3\u03c4\u03cc\u03c7\u03bf \u03c3\u03c4\u03b1\u03b8\u03b5\u03c1\u03ad\u03c2 \u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03c1\u03bf\u03ba\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2.",
+                        "display_url": "m.naftemporiki.gr/story/1782120/\u2026",
+                        "end": 167,
+                        "expanded_url": "https://m.naftemporiki.gr/story/1782120/s-kuriakidou-to-20-ton-karkinopathon-stin-europi-den-lambanoun-tin-apaitoumeni-perithalpsi",
+                        "images": [
+                            {
+                                "height": 253,
+                                "url": "https://pbs.twimg.com/news_img/1453674086115250182/MJQns6n8?format=jpg&name=orig",
+                                "width": 406
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453674086115250182/MJQns6n8?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 144,
+                        "status": 200,
+                        "title": "\u03a3. \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03af\u03b4\u03bf\u03c5: \u03a4\u03bf 20% \u03c4\u03c9\u03bd \u03ba\u03b1\u03c1\u03ba\u03b9\u03bd\u03bf\u03c0\u03b1\u03b8\u03ce\u03bd \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b4\u03b5\u03bd \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7 \u03c0\u03b5\u03c1\u03af\u03b8\u03b1\u03bb\u03c8\u03b7",
+                        "unwound_url": "https://m.naftemporiki.gr/story/1782120/s-kuriakidou-to-20-ton-karkinopathon-stin-europi-den-lambanoun-tin-apaitoumeni-perithalpsi",
+                        "url": "https://t.co/XfLpuUHZdw"
+                    }
+                ]
+            },
+            "id": 1453674085750386690,
+            "in_reply_to_user_id": 4193670947,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453671211045728256 type=replied_to"
+            ],
+            "text": "@TyraniaVapirel @ax_maraki_mario \u03a3'\u03cc\u03bb\u03b7 \u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03c4\u03bf \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1. \u0393\u03b9\u03b1 \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c4\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03bf \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2. \u03a0\u03cc\u03c3\u03bf \u03bc\u03ac\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ce\u03bd\nhttps://t.co/XfLpuUHZdw"
+        }
+    ]
+}

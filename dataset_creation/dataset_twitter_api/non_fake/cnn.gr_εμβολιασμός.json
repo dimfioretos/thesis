@@ -1,0 +1,589 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 3342510514,
+                "conversation_id": 1455790096440074240,
+                "created_at": "2021-11-03 06:53:00+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3mMqPcR",
+                            "end": 116,
+                            "expanded_url": "https://bit.ly/3mMqPcR",
+                            "start": 93,
+                            "url": "https://t.co/etZLoNCgq9"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/yM8dC4Wykl",
+                            "end": 140,
+                            "expanded_url": "https://twitter.com/CNNgreece/status/1455790096440074240/photo/1",
+                            "start": 117,
+                            "url": "https://t.co/yM8dC4Wykl"
+                        }
+                    ]
+                },
+                "id": 1455790096440074240,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0397\u03a0\u0391: \u0391\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 28 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/etZLoNCgq9 https://t.co/yM8dC4Wykl"
+            },
+            {
+                "author_id": 373832399,
+                "conversation_id": 1455233023692181518,
+                "created_at": "2021-11-01 17:59:24+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "cnn.gr/ellada/story/2\u2026",
+                            "end": 93,
+                            "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                            "start": 70,
+                            "url": "https://t.co/vWKUxmdBAt"
+                        }
+                    ]
+                },
+                "id": 1455233023692181518,
+                "public_metrics": {
+                    "like_count": 14,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 5
+                },
+                "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u0399\u03a1\u0391 \u03a3\u0391\u03a3 \u0394\u0395\u039d \u03a3\u0391\u03a3 \u039e\u0395\u03a7\u0391\u03a3\u0391\u039d ...\u0391\u039d \u0395\u0399\u03a3\u03a4\u0395 \u039a\u0391\u039b\u0391 \u03a0\u0391\u0399\u0394\u0399\u0391 \u0398\u0391 \u0395\u03a1\u0398\u0395\u0399 \u039a\u0391\u0399 \u0391\u039b\u039b\u0397 \u03a3\u03a5\u039d\u03a4\u039f\u039c\u0391 !!!\u039c\u03a0\u039b\u0395\u039e\u0391\u03a4\u0395 \ud83d\udc89\ud83d\udc89\ud83d\udc89"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-04-01 17:58:37+00:00",
+                "description": "\u0394\u03bf\u03c5\u03bb\u03b5\u03cd\u03c9 \u03c3\u03c4\u03b7\u03bd \u03a3\u03c5\u03bd\u03b5\u03c4\u03b1\u03b9\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03a4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b1 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 (http://t.co/VWiUduqGzm). \u03a6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf \u03a4\u0395\u0399 \u0397\u03a0\u0395\u0399\u03a1\u039f\u03a5-\u03a0\u03a1\u0395\u0392\u0395\u0396\u0391 (http://t.co/N6BNqKdyHT).",
+                "id": 2452959178,
+                "name": "Spyros Pappas \uf8ff",
+                "public_metrics": {
+                    "followers_count": 1130,
+                    "following_count": 4983,
+                    "listed_count": 28,
+                    "tweet_count": 78317
+                },
+                "username": "spyros_pappas",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-23 08:27:14+00:00",
+                "description": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf Twitter account \u03c4\u03bf\u03c5 CNN Greece",
+                "id": 3342510514,
+                "name": "CNN Greece",
+                "public_metrics": {
+                    "followers_count": 63691,
+                    "following_count": 100,
+                    "listed_count": 444,
+                    "tweet_count": 206808
+                },
+                "username": "CNNgreece",
+                "verified": true
+            },
+            {
+                "created_at": "2010-10-28 09:14:32+00:00",
+                "description": "37 years old Work Provisions and Warehouse Administrator And Guard of the Night's watch",
+                "id": 208980634,
+                "name": "Michael Bertakis",
+                "public_metrics": {
+                    "followers_count": 256,
+                    "following_count": 1437,
+                    "listed_count": 13,
+                    "tweet_count": 166247
+                },
+                "username": "MICHAELBERTAKIS",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-06 22:06:25+00:00",
+                "description": "\u039a\u03af\u03bd\u03b1\u03b9\u03b4\u03bf\u03b9, \u03ac\u03c0\u03bb\u03c5\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03af \u03b4\u03b5\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03b8\u03ad\u03c3\u03b7 \u03b5\u03b4\u03ce.",
+                "id": 3363117423,
+                "name": "\u0398\u03c1\u03ac\u03ba\u03b1\u03c2 \u0399\u03c0\u03c0\u03ad\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 802,
+                    "following_count": 1139,
+                    "listed_count": 12,
+                    "tweet_count": 11070
+                },
+                "username": "Mauros_120xil",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-15 07:51:44+00:00",
+                "description": "",
+                "id": 373832399,
+                "name": "\u039c\u0399\u039d\u0391 KOLLIOU",
+                "public_metrics": {
+                    "followers_count": 1024,
+                    "following_count": 983,
+                    "listed_count": 7,
+                    "tweet_count": 30767
+                },
+                "username": "mina4852",
+                "verified": false
+            },
+            {
+                "created_at": "2017-05-24 14:52:59+00:00",
+                "description": "",
+                "id": 867392993946456065,
+                "name": "\u0393\u03cd\u03c0\u03b1\u03c2 \u039a\u03bb\u03b1\u03c1\u03b9\u03bd\u03ac\u03c4\u03bf\u03c2\ud83c\uddec\ud83c\uddf7\ud83c\udde8\ud83c\uddfe",
+                "public_metrics": {
+                    "followers_count": 418,
+                    "following_count": 324,
+                    "listed_count": 3,
+                    "tweet_count": 25984
+                },
+                "username": "moulos44",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-10 23:41:58+00:00",
+                "description": "\u039f\u03a8\u039f\u039c\u0395\u0398\u0391 \u0395\u0399\u03a3 \u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5\u03a3",
+                "id": 1315075019567964160,
+                "name": "Penny Rage",
+                "public_metrics": {
+                    "followers_count": 1467,
+                    "following_count": 936,
+                    "listed_count": 7,
+                    "tweet_count": 72117
+                },
+                "username": "penny_rage",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-03 17:36:24+00:00",
+                "description": "\u0388\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2!",
+                "id": 1444717905753542657,
+                "name": "V.A.R.Original",
+                "public_metrics": {
+                    "followers_count": 245,
+                    "following_count": 248,
+                    "listed_count": 1,
+                    "tweet_count": 2591
+                },
+                "username": "VAROriginal1",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-10 09:53:07+00:00",
+                "description": "",
+                "id": 1447137813372211205,
+                "name": "\u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u03a0\u03bf\u03c5\u03c1\u03b3\u03b9\u03b1\u03b6\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 140,
+                    "following_count": 1182,
+                    "listed_count": 0,
+                    "tweet_count": 678
+                },
+                "username": "pourgiazes1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2452959178,
+            "conversation_id": 1455793212711489538,
+            "created_at": "2021-11-03 07:05:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "3342510514",
+                        "start": 3,
+                        "username": "CNNgreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3mMqPcR",
+                        "end": 131,
+                        "expanded_url": "https://bit.ly/3mMqPcR",
+                        "start": 108,
+                        "url": "https://t.co/etZLoNCgq9"
+                    }
+                ]
+            },
+            "id": 1455793212711489538,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455790096440074240 type=retweeted"
+            ],
+            "text": "RT @CNNgreece: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0397\u03a0\u0391: \u0391\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 28 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/etZLoNCgq9 https:/\u2026"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455790096440074240,
+            "created_at": "2021-11-03 06:53:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3mMqPcR",
+                        "end": 116,
+                        "expanded_url": "https://bit.ly/3mMqPcR",
+                        "start": 93,
+                        "url": "https://t.co/etZLoNCgq9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/yM8dC4Wykl",
+                        "end": 140,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455790096440074240/photo/1",
+                        "start": 117,
+                        "url": "https://t.co/yM8dC4Wykl"
+                    }
+                ]
+            },
+            "id": 1455790096440074240,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0397\u03a0\u0391: \u0391\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03b1\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 28 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/etZLoNCgq9 https://t.co/yM8dC4Wykl"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1455598184420491266,
+            "created_at": "2021-11-02 18:10:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3bzkxqj",
+                        "end": 102,
+                        "expanded_url": "https://bit.ly/3bzkxqj",
+                        "start": 79,
+                        "url": "https://t.co/kGaNLUhG3G"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QLk0GmodH2",
+                        "end": 126,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1455598184420491266/photo/1",
+                        "start": 103,
+                        "url": "https://t.co/QLk0GmodH2"
+                    }
+                ]
+            },
+            "id": 1455598184420491266,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/kGaNLUhG3G https://t.co/QLk0GmodH2"
+        },
+        {
+            "author_id": 208980634,
+            "conversation_id": 1455596972442804229,
+            "created_at": "2021-11-02 18:05:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03c4\u03c9\u03bd \u03c1\u03b1\u03bd\u03c4\u03b5\u03b2\u03bf\u03cd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 (\u03b1\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03ae) \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 18 \u03b5\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9...",
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287821/emvoliasmos-apo-tin-paraskeyi-anoigei-i-platforma-gia-tin-triti-dosi-se-oloys",
+                        "images": [
+                            {
+                                "height": 725,
+                                "url": "https://pbs.twimg.com/news_img/1455596977891291145/blaAvWHM?format=jpg&name=orig",
+                                "width": 1290
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455596977891291145/blaAvWHM?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 81,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2",
+                        "unwound_url": "https://www.cnn.gr/ellada/story/287821/emvoliasmos-apo-tin-paraskeyi-anoigei-i-platforma-gia-tin-triti-dosi-se-oloys",
+                        "url": "https://t.co/gkBBuVvnlp"
+                    }
+                ]
+            },
+            "id": 1455596972442804229,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 - https://t.co/gkBBuVvnlp"
+        },
+        {
+            "author_id": 3363117423,
+            "conversation_id": 1455553731429380103,
+            "created_at": "2021-11-02 15:13:47+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "373832399",
+                        "start": 3,
+                        "username": "mina4852"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 84,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455553731429380103,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455233023692181518 type=retweeted"
+            ],
+            "text": "RT @mina4852: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u2026"
+        },
+        {
+            "author_id": 867392993946456065,
+            "conversation_id": 1455463429469315078,
+            "created_at": "2021-11-02 09:14:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "373832399",
+                        "start": 3,
+                        "username": "mina4852"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 84,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455463429469315078,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455233023692181518 type=retweeted"
+            ],
+            "text": "RT @mina4852: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u2026"
+        },
+        {
+            "author_id": 1315075019567964160,
+            "conversation_id": 1455289346437881860,
+            "created_at": "2021-11-01 21:43:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "373832399",
+                        "start": 3,
+                        "username": "mina4852"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 84,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455289346437881860,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455233023692181518 type=retweeted"
+            ],
+            "text": "RT @mina4852: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u2026"
+        },
+        {
+            "author_id": 1444717905753542657,
+            "conversation_id": 1455288978203103239,
+            "created_at": "2021-11-01 21:41:45+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "373832399",
+                        "start": 3,
+                        "username": "mina4852"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 84,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455288978203103239,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455233023692181518 type=retweeted"
+            ],
+            "text": "RT @mina4852: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u2026"
+        },
+        {
+            "author_id": 1447137813372211205,
+            "conversation_id": 1455259703525744641,
+            "created_at": "2021-11-01 19:45:25+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "373832399",
+                        "start": 3,
+                        "username": "mina4852"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 84,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455259703525744641,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455233023692181518 type=retweeted"
+            ],
+            "text": "RT @mina4852: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u2026"
+        },
+        {
+            "author_id": 373832399,
+            "conversation_id": 1455233023692181518,
+            "created_at": "2021-11-01 17:59:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 93,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287673/koronoios-live-i-enimerosi-apo-tin-maria-theodoridoy-kai-ton-mario-themistokleoys",
+                        "start": 70,
+                        "url": "https://t.co/vWKUxmdBAt"
+                    }
+                ]
+            },
+            "id": 1455233023692181518,
+            "public_metrics": {
+                "like_count": 14,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 5
+            },
+            "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u03a5\u03c0\u03cc \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd - https://t.co/vWKUxmdBAt. \u0391\u039d\u03a4\u0395 \u0392\u03a1\u0395 \u039a\u039f\u03a5\u03a4\u039f\u03a5\u03a4\u03a3\u0399\u039a\u0391 \u0397\u03a1\u0398\u0395 \u0397 \u03a3\u0395\u0399\u03a1\u0391 \u03a3\u0391\u03a3 \u0394\u0395\u039d \u03a3\u0391\u03a3 \u039e\u0395\u03a7\u0391\u03a3\u0391\u039d ...\u0391\u039d \u0395\u0399\u03a3\u03a4\u0395 \u039a\u0391\u039b\u0391 \u03a0\u0391\u0399\u0394\u0399\u0391 \u0398\u0391 \u0395\u03a1\u0398\u0395\u0399 \u039a\u0391\u0399 \u0391\u039b\u039b\u0397 \u03a3\u03a5\u039d\u03a4\u039f\u039c\u0391 !!!\u039c\u03a0\u039b\u0395\u039e\u0391\u03a4\u0395 \ud83d\udc89\ud83d\udc89\ud83d\udc89"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1454383284910166021,
+            "created_at": "2021-10-30 09:42:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3pQmE1f",
+                        "end": 104,
+                        "expanded_url": "https://bit.ly/3pQmE1f",
+                        "start": 81,
+                        "url": "https://t.co/0TtUUvWFx7"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Mf4mT2uNsy",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1454383284910166021/photo/1",
+                        "start": 105,
+                        "url": "https://t.co/Mf4mT2uNsy"
+                    }
+                ]
+            },
+            "id": 1454383284910166021,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ae \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1; \u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03b5\u03b9 \u03c0\u03bf\u03b9\u03bf \u03bc\u03b1\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf https://t.co/0TtUUvWFx7 https://t.co/Mf4mT2uNsy"
+        },
+        {
+            "author_id": 3342510514,
+            "conversation_id": 1453686519445823491,
+            "created_at": "2021-10-28 11:34:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "bit.ly/2ZAd3AY",
+                        "end": 109,
+                        "expanded_url": "https://bit.ly/2ZAd3AY",
+                        "start": 86,
+                        "url": "https://t.co/Sx3lrl29tE"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Sn2GNBubg9",
+                        "end": 133,
+                        "expanded_url": "https://twitter.com/CNNgreece/status/1453686519445823491/photo/1",
+                        "start": 110,
+                        "url": "https://t.co/Sn2GNBubg9"
+                    }
+                ]
+            },
+            "id": 1453686519445823491,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03cc\u03c4\u03b5 \u03b8\u03b1 \u03be\u03b5\u03ba\u03b9\u03bd\u03ae\u03c3\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5-11 \u03b5\u03c4\u03ce\u03bd-\u0397 \u03b1\u03c0\u03ac\u03bd\u03c4\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03c3\u03b5 \u03bc\u03b1\u03b8\u03b7\u03c4\u03ad\u03c2 https://t.co/Sx3lrl29tE https://t.co/Sn2GNBubg9"
+        }
+    ]
+}

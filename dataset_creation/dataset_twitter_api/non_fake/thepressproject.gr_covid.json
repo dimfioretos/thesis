@@ -1,0 +1,768 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 137041926,
+                "conversation_id": 1455530143372480524,
+                "created_at": "2021-11-02 13:40:03+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 98,
+                            "id": "137041926",
+                            "start": 82,
+                            "username": "ThePressProject"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "O \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0393\u03ba\u03b1\u03bc\u03c0\u03c1\u03b1\u03bd\u03b7\u03c2, \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u0391\u2019 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03ad\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0395\u0399\u039d\u039a\u03a5\u039b \u03c0\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7 \u0393\u03b5\u03bd\u03b9\u03ba\u03ae \u03a3\u03c5\u03bd\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03c3\u03c4\u03bf \u03c0\u03c1\u03bf\u03b1\u03cd\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03bc\u03b5 \u03b8\u03ad\u03bc\u03b1:\u2026",
+                            "display_url": "thepressproject.gr/katerrefse-apo\u2026",
+                            "end": 122,
+                            "expanded_url": "https://thepressproject.gr/katerrefse-apo-koposi-o-diefthyntis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                            "images": [
+                                {
+                                    "height": 598,
+                                    "url": "https://pbs.twimg.com/news_img/1455530164557860872/afwFFZx4?format=jpg&name=orig",
+                                    "width": 1095
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455530164557860872/afwFFZx4?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 99,
+                            "status": 200,
+                            "title": "\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/katerrefse-apo-koposi-o-diefthyntis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                            "url": "https://t.co/X9I63e3f62"
+                        }
+                    ]
+                },
+                "id": 1455530143372480524,
+                "public_metrics": {
+                    "like_count": 22,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 10
+                },
+                "text": "\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e3f62"
+            },
+            {
+                "author_id": 1434627215744974865,
+                "conversation_id": 1455471374408077315,
+                "created_at": "2021-11-02 09:46:31+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 254,
+                            "start": 244,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1\u03c2 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1\u03c2 \u0395\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03c9\u03bd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd (\u03a0\u039f\u0395\u0394\u0397\u039d), \u03ba. \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c2. \u0391\u03c1\u03ba\u03b5\u03c4\u03bf\u03af \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u03bf\u03bd\u03ac\u03b4\u03b1\u03c2 \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1\u2026",
+                            "display_url": "thepressproject.gr/poedin-diasoli\u2026",
+                            "end": 279,
+                            "expanded_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                            "images": [
+                                {
+                                    "height": 399,
+                                    "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=orig",
+                                    "width": 638
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 256,
+                            "status": 200,
+                            "title": "\u03a0\u039f\u0395\u0394\u0397\u039d: \u0394\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398 - \u00ab\u03a0\u03b5\u03b8\u03b1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf 70%\u00bb - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                            "url": "https://t.co/Ru3T2NBhpK"
+                        }
+                    ]
+                },
+                "id": 1455471374408077315,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03bc\u03b7 COVID-19 \u03c0\u03b1\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2... \u039c\u03b7\u03bd \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af\u03c4\u03b5 \u03b3\u03bc\u03c4.\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1\u03be\u03b9\u03ba\u03cc\u03c2... \n#\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/Ru3T2NBhpK"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-07-11 14:56:37+00:00",
+                "description": "\u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u03a6\u03c5\u03c3\u03b9\u03ba\u03ae\u03c2 \u0391\u03b3\u03c9\u03b3\u03ae\u03c2, \u03a6\u03c5\u03c3\u03b9\u03ba\u03bf\u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03ae\u03c2.",
+                "id": 333438396,
+                "name": "\u039d\u03af\u03ba\u03bf\u03c2 \u03a7\u03b1\u03c1\u03af\u03bb\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 917,
+                    "following_count": 1721,
+                    "listed_count": 5,
+                    "tweet_count": 16940
+                },
+                "username": "nharilas",
+                "verified": false
+            },
+            {
+                "created_at": "2010-04-25 16:23:53+00:00",
+                "description": "\u039f \u03c3\u03c7\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 TPP (\u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc\u03c2 \u03bf @tppfeed) - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0393\u03bd\u03ce\u03bc\u03b5\u03c2, \u03a3\u03ac\u03c4\u03b9\u03c1\u03b1, \u03c4\u03b1 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bc\u03b5 \u03cc\u03bb\u03b1...",
+                "id": 137041926,
+                "name": "ThePressProject",
+                "public_metrics": {
+                    "followers_count": 94553,
+                    "following_count": 502,
+                    "listed_count": 1159,
+                    "tweet_count": 146507
+                },
+                "username": "ThePressProject",
+                "verified": false
+            },
+            {
+                "created_at": "2014-09-10 21:27:50+00:00",
+                "description": "",
+                "id": 2766637605,
+                "name": "ariszik",
+                "public_metrics": {
+                    "followers_count": 406,
+                    "following_count": 400,
+                    "listed_count": 1,
+                    "tweet_count": 35243
+                },
+                "username": "ariszik",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-15 19:03:12+00:00",
+                "description": "She/Her \ud83d\udcab\n\n\u03bc\u03b7\u03bd \u03b5\u03b9\u03c3\u03c4\u03b5 \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03b1\u03b4\u03b5\u03c2,\u03b4\u03b5\u03bd \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03be\u03ad\u03c1\u03c9 \u03c4\u03b7 \u03b6\u03c9\u03b7 \u03bf\u03bb\u03c9\u03bd \u03c3\u03c4\u03bf \u03c4\u03bf\u03c5\u03b9\u03c4\u03b5\u03c1. \n-\u03b5\u03b9\u03b4\u03b5\u03c2 \u03c0\u03bf\u03b9\u03bf\u03c2 \u03b5\u03b9\u03bd\u03b1\u03b9 \u03bf \u03c4\u03b1\u03b4\u03b5;\u2728",
+                "id": 1371537438611546115,
+                "name": "your local teacher",
+                "public_metrics": {
+                    "followers_count": 89,
+                    "following_count": 96,
+                    "listed_count": 0,
+                    "tweet_count": 1638
+                },
+                "username": "yourlocalteach1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-21 13:02:58+00:00",
+                "description": "",
+                "id": 2719711853,
+                "name": "Lygeri Vikatou",
+                "public_metrics": {
+                    "followers_count": 1672,
+                    "following_count": 1192,
+                    "listed_count": 8,
+                    "tweet_count": 16676
+                },
+                "username": "LVikatou",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-09 13:15:13+00:00",
+                "description": "@teregamwt",
+                "id": 1446826489144545285,
+                "name": "\u039c\u03c0\u03ac\u03bf\u03c5\u03bd\u03c4\u03b9",
+                "public_metrics": {
+                    "followers_count": 1119,
+                    "following_count": 2973,
+                    "listed_count": 2,
+                    "tweet_count": 493
+                },
+                "username": "teregamwt2",
+                "verified": false
+            },
+            {
+                "created_at": "2021-05-09 21:40:38+00:00",
+                "description": "Idealist and Activist",
+                "id": 1391508322868674563,
+                "name": "BBBR",
+                "public_metrics": {
+                    "followers_count": 1340,
+                    "following_count": 4946,
+                    "listed_count": 0,
+                    "tweet_count": 3031
+                },
+                "username": "BBBR79384557",
+                "verified": false
+            },
+            {
+                "created_at": "2021-07-11 02:15:34+00:00",
+                "description": "Fashion Editor - Image Maker - Stylist - Art Director. \nAnna Vissi's  ex image maker-stylist.\nWitch \ud83d\ude07 Motocross - Music \ud83c\udfb6",
+                "id": 1414045587410927616,
+                "name": "MeToo",
+                "public_metrics": {
+                    "followers_count": 153,
+                    "following_count": 522,
+                    "listed_count": 3,
+                    "tweet_count": 11228
+                },
+                "username": "MeTooJI",
+                "verified": false
+            },
+            {
+                "created_at": "2020-02-23 22:18:20+00:00",
+                "description": "",
+                "id": 1231704773541400576,
+                "name": "Vana",
+                "public_metrics": {
+                    "followers_count": 220,
+                    "following_count": 276,
+                    "listed_count": 1,
+                    "tweet_count": 1940
+                },
+                "username": "Vana14963410",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-18 08:50:55+00:00",
+                "description": "\u039b\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b1\u03c6\u03b9\u03b5\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2 \u03c3\u03c4\u03b7 \u039a\u03c5\u03c0\u03c1\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03c4\u03b7\u03c2! News feed about Cyprus ,Social Media and some cool stuff from the world of Twitter \ud83e\udd14\ud83d\ude42",
+                "id": 2451083718,
+                "name": "Cyprus News Feed",
+                "public_metrics": {
+                    "followers_count": 2778,
+                    "following_count": 3476,
+                    "listed_count": 19,
+                    "tweet_count": 37533
+                },
+                "username": "cyprusfeed",
+                "verified": false
+            },
+            {
+                "created_at": "2018-10-01 11:48:04+00:00",
+                "description": "\u03a4\u03b1 \u03bb\u03b9\u03c0\u03bf\u03c3\u03ac\u03bd \u03bc\u03bf\u03c5 \u03b5\u03b9\u03bd\u03b1\u03b9 \u03c3\u03c5\u03b3\u03ba\u03c1\u03bf\u03c4\u03b7\u03c3\u03b9\u03b1\u03ba\u03cc \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03ac\u03c2 \u03bc\u03bf\u03c5. \u039d\u03b1 \u03c0\u03b5\u03b8\u03ac\u03bd\u03b5\u03b9 \u03b7 \u03b5\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bd\u03b1 \u03b6\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5 \u03b5\u03bc\u03b5\u03af\u03c2. \u039d\u0391\u0399, \u03a3\u0395 \u039c\u03a0\u039b\u039f\u039a\u0391\u03a1\u0391.",
+                "id": 1046728449480687617,
+                "name": "kaseropites",
+                "public_metrics": {
+                    "followers_count": 2473,
+                    "following_count": 813,
+                    "listed_count": 8,
+                    "tweet_count": 83649
+                },
+                "username": "kaseropites",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-07 11:03:26+00:00",
+                "description": "\u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03c6\u03c4\u03b9\u03ac\u03be\u03c9 \u03b2\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc, \u03bd\u03ac \u03c7\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03b5\u03c4\u03b5 ..... \u038c\u03c3\u03c4\u03b9\u03c2 \u03b8\u03ad\u03bb\u03b5\u03b9, follow me \ud83e\udd21......",
+                "id": 601776175,
+                "name": "Stella \u2652",
+                "public_metrics": {
+                    "followers_count": 833,
+                    "following_count": 717,
+                    "listed_count": 3,
+                    "tweet_count": 9176
+                },
+                "username": "stellapet2",
+                "verified": false
+            },
+            {
+                "created_at": "2021-09-05 21:19:37+00:00",
+                "description": "\u03cc\u03bb\u03b1 \u03cc\u03c3\u03b1 \u03b1\u03c1\u03bd\u03b7\u03b8\u03ae\u03ba\u03b1\u03bc\u03b5, \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c0\u03b5\u03c0\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf \u03bc\u03b1\u03c2...",
+                "id": 1434627215744974865,
+                "name": "Amor y Rabia",
+                "public_metrics": {
+                    "followers_count": 43,
+                    "following_count": 127,
+                    "listed_count": 0,
+                    "tweet_count": 290
+                },
+                "username": "AmoryRabia1",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-02 12:09:38+00:00",
+                "description": "feminist af #metooGR \n\ud83d\udc8e\ud83d\udc85\n*Can you guess what every woman's worst nightmare is?* \n*\u0386\u03b2\u03c5\u03c3\u03c3\u03bf\u03c2 \u03b7 \u03c8\u03c5\u03c7\u03ae \u03c4\u03bf\u03c5 \u03bc\u03b1\u03bb\u03ac\u03ba\u03b1*",
+                "id": 1312001669052407808,
+                "name": "Trash_is_in_the_heart",
+                "public_metrics": {
+                    "followers_count": 417,
+                    "following_count": 465,
+                    "listed_count": 0,
+                    "tweet_count": 12091
+                },
+                "username": "Trashisinthehe1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 333438396,
+            "conversation_id": 1455650605956046852,
+            "created_at": "2021-11-02 21:38:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455650605956046852,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 2766637605,
+            "conversation_id": 1455643847099363328,
+            "created_at": "2021-11-02 21:11:52+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455643847099363328,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1371537438611546115,
+            "conversation_id": 1455627418551660558,
+            "created_at": "2021-11-02 20:06:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455627418551660558,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 2719711853,
+            "conversation_id": 1455543637018828805,
+            "created_at": "2021-11-02 14:33:40+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455543637018828805,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1446826489144545285,
+            "conversation_id": 1455543460740673557,
+            "created_at": "2021-11-02 14:32:58+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455543460740673557,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1391508322868674563,
+            "conversation_id": 1455539453334851601,
+            "created_at": "2021-11-02 14:17:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455539453334851601,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1414045587410927616,
+            "conversation_id": 1455537613650137104,
+            "created_at": "2021-11-02 14:09:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455537613650137104,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1231704773541400576,
+            "conversation_id": 1455531112319623185,
+            "created_at": "2021-11-02 13:43:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455531112319623185,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 2451083718,
+            "conversation_id": 1455530471400554505,
+            "created_at": "2021-11-02 13:41:21+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455530471400554505,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 1046728449480687617,
+            "conversation_id": 1455530280861716480,
+            "created_at": "2021-11-02 13:40:36+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 119,
+                        "id": "137041926",
+                        "start": 103,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1455530280861716480,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455530143372480524 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e\u2026"
+        },
+        {
+            "author_id": 137041926,
+            "conversation_id": 1455530143372480524,
+            "created_at": "2021-11-02 13:40:03+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 98,
+                        "id": "137041926",
+                        "start": 82,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "O \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0393\u03ba\u03b1\u03bc\u03c0\u03c1\u03b1\u03bd\u03b7\u03c2, \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u0391\u2019 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b1\u03c4\u03ad\u03b1\u03c2 \u03c4\u03b7\u03c2 \u0395\u0399\u039d\u039a\u03a5\u039b \u03c0\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03b5\u03af \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7 \u0393\u03b5\u03bd\u03b9\u03ba\u03ae \u03a3\u03c5\u03bd\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03c3\u03c4\u03bf \u03c0\u03c1\u03bf\u03b1\u03cd\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03bc\u03b5 \u03b8\u03ad\u03bc\u03b1:\u2026",
+                        "display_url": "thepressproject.gr/katerrefse-apo\u2026",
+                        "end": 122,
+                        "expanded_url": "https://thepressproject.gr/katerrefse-apo-koposi-o-diefthyntis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                        "images": [
+                            {
+                                "height": 598,
+                                "url": "https://pbs.twimg.com/news_img/1455530164557860872/afwFFZx4?format=jpg&name=orig",
+                                "width": 1095
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455530164557860872/afwFFZx4?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 99,
+                        "status": 200,
+                        "title": "\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/katerrefse-apo-koposi-o-diefthyntis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                        "url": "https://t.co/X9I63e3f62"
+                    }
+                ]
+            },
+            "id": 1455530143372480524,
+            "public_metrics": {
+                "like_count": 22,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "text": "\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03b1\u03c0\u03cc \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u0394\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 @ThePressProject https://t.co/X9I63e3f62"
+        },
+        {
+            "author_id": 601776175,
+            "conversation_id": 1455482330135633928,
+            "created_at": "2021-11-02 10:30:03+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1434627215744974865",
+                        "start": 3,
+                        "username": "AmoryRabia1"
+                    }
+                ]
+            },
+            "id": 1455482330135633928,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455471374408077315 type=retweeted"
+            ],
+            "text": "RT @AmoryRabia1: \u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u2026"
+        },
+        {
+            "author_id": 1312001669052407808,
+            "conversation_id": 1455472443234127872,
+            "created_at": "2021-11-02 09:50:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1434627215744974865",
+                        "start": 3,
+                        "username": "AmoryRabia1"
+                    }
+                ]
+            },
+            "id": 1455472443234127872,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455471374408077315 type=retweeted"
+            ],
+            "text": "RT @AmoryRabia1: \u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u2026"
+        },
+        {
+            "author_id": 1434627215744974865,
+            "conversation_id": 1455471374408077315,
+            "created_at": "2021-11-02 09:46:31+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 254,
+                        "start": 244,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1\u03c2 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1\u03c2 \u0395\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03c9\u03bd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd (\u03a0\u039f\u0395\u0394\u0397\u039d), \u03ba. \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c2. \u0391\u03c1\u03ba\u03b5\u03c4\u03bf\u03af \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u03bf\u03bd\u03ac\u03b4\u03b1\u03c2 \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1\u2026",
+                        "display_url": "thepressproject.gr/poedin-diasoli\u2026",
+                        "end": 279,
+                        "expanded_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                        "images": [
+                            {
+                                "height": 399,
+                                "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=orig",
+                                "width": 638
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 256,
+                        "status": 200,
+                        "title": "\u03a0\u039f\u0395\u0394\u0397\u039d: \u0394\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398 - \u00ab\u03a0\u03b5\u03b8\u03b1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf 70%\u00bb - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                        "url": "https://t.co/Ru3T2NBhpK"
+                    }
+                ]
+            },
+            "id": 1455471374408077315,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03bc\u03b7 COVID-19 \u03c0\u03b1\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2... \u039c\u03b7\u03bd \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af\u03c4\u03b5 \u03b3\u03bc\u03c4.\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1\u03be\u03b9\u03ba\u03cc\u03c2... \n#\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/Ru3T2NBhpK"
+        }
+    ]
+}

@@ -1,0 +1,230 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455515519138811913,
+            "created_at": "2021-11-02 12:41:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "H \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b5\u03af\u03c7\u03b5 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc COVID-19 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03b4\u03cc\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5.",
+                        "display_url": "thetoc.gr/ygeia/article/\u2026",
+                        "end": 173,
+                        "expanded_url": "https://www.thetoc.gr/ygeia/article/pfizer-pote-fthinei-i-anosia-apo-to-embolio---ti-edeixe-i-ereuna-sto-israil/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635853949",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455515522393649157/JjQlcQvi?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455515522393649157/JjQlcQvi?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 150,
+                        "status": 200,
+                        "title": "Pfizer: \u03a0\u03cc\u03c4\u03b5 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03b7 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c3\u03c4\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+                        "unwound_url": "https://www.thetoc.gr/ygeia/article/pfizer-pote-fthinei-i-anosia-apo-to-embolio---ti-edeixe-i-ereuna-sto-israil/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635853949",
+                        "url": "https://t.co/Ip1yLK4uN7"
+                    }
+                ]
+            },
+            "id": 1455515519138811913,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "H \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b5\u03af\u03c7\u03b5 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc COVID-19 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03b4\u03cc\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5. https://t.co/Ip1yLK4uN7"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455503871011348480,
+            "created_at": "2021-11-02 11:55:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 177,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/larisa---binteo-xastouki-gia-antiemboliastes-katakopos-giatros-klinikis-covid-katarreei-mprosta-stis-kameres/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635853950",
+                        "start": 154,
+                        "url": "https://t.co/9T2lreW6Ne"
+                    }
+                ]
+            },
+            "id": 1455503871011348480,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03c4\u03bf\u03bd \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\". \u0393\u03b9\u03b1\u03c4\u03c1\u03cc\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c4\u03c1\u03b1\u03b3\u03b9\u03ba\u03ad\u03c2 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03b5\u03c1\u03bd\u03bf\u03cd\u03bd \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2. https://t.co/9T2lreW6Ne"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455451599984283648,
+            "created_at": "2021-11-02 08:27:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/katelixe-28xroni-kopela-sti-meth-covid-tou-nosokomeiou-trikalon/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635841097",
+                        "start": 99,
+                        "url": "https://t.co/Oms0j57NaE"
+                    }
+                ]
+            },
+            "id": 1455451599984283648,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf\u03bd \u03c7\u03b1\u03bc\u03cc \u03b5\u03bd\u03cc\u03c2 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bd\u03ad\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5 \u03b8\u03c1\u03b7\u03bd\u03bf\u03cd\u03bd \u03c4\u03b1 \u03a4\u03c1\u03af\u03ba\u03b1\u03bb\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd. https://t.co/Oms0j57NaE"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454810385417183232,
+            "created_at": "2021-10-31 13:59:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/people-style/a\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.thetoc.gr/people-style/article/giannis-aibazis-gia-ebdomi-imera-sto-nosokomeio-me-koronoio---kai-i-korinthiou-nosei/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635688537",
+                        "start": 106,
+                        "url": "https://t.co/wdJ7OH23u2"
+                    }
+                ]
+            },
+            "id": 1454810385417183232,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0391\u03ca\u03b2\u03ac\u03b6\u03b7\u03c2 \u03c3\u03c4\u03bf Instagram, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03ae \u03c4\u03bf\u03c5 - \u039a\u03b1\u03b9 \u03b7 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03bf\u03c5 \u03bc\u03b5 Covid-19 https://t.co/wdJ7OH23u2"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454434643286110210,
+            "created_at": "2021-10-30 13:06:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 167,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/koronoios-sunagermos-gia-to-neo-kuma-me-nosokomeia-covid-test-stous-exoterikous-xorous-estiasis-gia-tous-anemboliastous/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635598959",
+                        "start": 144,
+                        "url": "https://t.co/BohaLhifpN"
+                    }
+                ]
+            },
+            "id": 1454434643286110210,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - \u0395\u03c0\u03b1\u03bd\u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 covid - \u03a4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7 https://t.co/BohaLhifpN"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454321068290760704,
+            "created_at": "2021-10-30 05:35:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 167,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/koronoios-sunagermos-gia-to-neo-kuma-me-nosokomeia-covid-test-stous-exoterikous-xorous-estiasis-gia-tous-anemboliastous/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635571089",
+                        "start": 144,
+                        "url": "https://t.co/F4U3nvf8sf"
+                    }
+                ]
+            },
+            "id": 1454321068290760704,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - \u0395\u03c0\u03b1\u03bd\u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 covid - \u03a4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7 https://t.co/F4U3nvf8sf"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1453434225571553284,
+            "created_at": "2021-10-27 18:51:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/ygeia/article/\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.thetoc.gr/ygeia/article/pente-idiotikes-klinikes-sto-esu-gia-covid-kai-non-covid-astheneis-se-boreia-ellada---thessalia/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635359240",
+                        "start": 95,
+                        "url": "https://t.co/GtDOAAgvPO"
+                    }
+                ]
+            },
+            "id": 1453434225571553284,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03c0\u03b5\u03ba\u03c4\u03b5\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03cc \u03c4\u03bf\u03bc\u03ad\u03b1 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd covid https://t.co/GtDOAAgvPO"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1453403591482482690,
+            "created_at": "2021-10-27 16:49:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 147,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/marietta-giannakou-bgike-apo-ti-meth-covid-tou-euaggelismou-meta-apo-sxedon-enan-mina/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635352294",
+                        "start": 124,
+                        "url": "https://t.co/WhVANQm6W2"
+                    }
+                ]
+            },
+            "id": 1453403591482482690,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u039c\u03b1\u03c1\u03b9\u03ad\u03c4\u03c4\u03b1 \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c5 \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03bd\u03b1 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03bd \u0395\u03c5\u03b1\u03b3\u03b3\u03b5\u03bb\u03b9\u03c3\u03bc\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u03af\u03b4\u03b9\u03bf \u03b4\u03c9\u03bc\u03ac\u03c4\u03b9\u03bf \u03c0\u03bf\u03c5 \u03ae\u03c4\u03b1\u03bd \u03b7 \u03a6\u03ce\u03c6\u03b7 \u0393\u03b5\u03bd\u03bd\u03b7\u03bc\u03b1\u03c4\u03ac. https://t.co/WhVANQm6W2"
+        }
+    ]
+}

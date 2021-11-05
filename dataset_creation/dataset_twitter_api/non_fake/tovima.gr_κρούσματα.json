@@ -1,0 +1,1307 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 988888963,
+                "conversation_id": 1455576897182703622,
+                "created_at": "2021-11-02 16:45:50+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                            "end": 128,
+                            "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-pou-entopizontai-ta-6-700-nea-krousmata-pano-apo-1-000-molynseis-se-attiki-kai-thessaloniki/",
+                            "start": 105,
+                            "url": "https://t.co/OQkFdnRpsv"
+                        }
+                    ]
+                },
+                "id": 1455576897182703622,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 1.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 https://t.co/OQkFdnRpsv"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1455558852993241088,
+                "created_at": "2021-11-02 15:34:08+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03b5 \u03bb\u03af\u03b3\u03bf",
+                            "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                            "end": 94,
+                            "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                            "images": [
+                                {
+                                    "height": 487,
+                                    "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=orig",
+                                    "width": 768
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 71,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                            "unwound_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                            "url": "https://t.co/77LBJB3tiR"
+                        }
+                    ]
+                },
+                "id": 1455558852993241088,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/77LBJB3tiR"
+            },
+            {
+                "author_id": 988888963,
+                "conversation_id": 1455202766767509504,
+                "created_at": "2021-11-01 15:59:10+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                            "end": 83,
+                            "expanded_url": "https://www.tovima.gr/2021/11/01/society/koronoios-5-449-krousmata-52-thanatoi-430-diasolinomenoi/",
+                            "start": 60,
+                            "url": "https://t.co/DwNtZ7Srb2"
+                        }
+                    ]
+                },
+                "id": 1455202766767509504,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/DwNtZ7Srb2"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1454845535073054720,
+                "created_at": "2021-10-31 16:19:39+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/10/31/soc\u2026",
+                            "end": 83,
+                            "expanded_url": "https://www.tovima.gr/2021/10/31/society/koronoios-2-727-krousmata-44-thanatoi-421-diasolinomenoi/",
+                            "start": 60,
+                            "url": "https://t.co/IjvKFf6mBZ"
+                        }
+                    ]
+                },
+                "id": 1454845535073054720,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/IjvKFf6mBZ"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1454091841117331469,
+                "created_at": "2021-10-29 14:24:45+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                            "end": 94,
+                            "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-3-643-nea-krousmata-kai-55-thanatoi-392-oi-diasolinomenoi/",
+                            "start": 71,
+                            "url": "https://t.co/xbKEUjenX5"
+                        }
+                    ]
+                },
+                "id": 1454091841117331469,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/xbKEUjenX5"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1454096761694392320,
+                "created_at": "2021-10-29 14:44:18+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                            "end": 117,
+                            "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-pou-entopizontai-ta-3-643-nea-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                            "start": 94,
+                            "url": "https://t.co/cu1Gr97mgb"
+                        }
+                    ]
+                },
+                "id": 1454096761694392320,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/cu1Gr97mgb"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1453371783520923655,
+                "created_at": "2021-10-27 14:43:30+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                            "end": 83,
+                            "expanded_url": "https://www.tovima.gr/2021/10/27/society/koronoios-3-651-krousmata-63-thanatoi-387-diasolinomenoi/",
+                            "start": 60,
+                            "url": "https://t.co/vyeYJmPxPl"
+                        }
+                    ]
+                },
+                "id": 1453371783520923655,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.651 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/vyeYJmPxPl"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748249
+                },
+                "username": "entypos",
+                "verified": false
+            },
+            {
+                "created_at": "2010-12-29 14:39:08+00:00",
+                "description": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03c0\u03c1\u03bf\u03c6\u03af\u03bb \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1\u03c2 \u03a4\u039f \u0392\u0397\u039c\u0391 - The official Twitter page for the newspaper/portal Tovima.gr",
+                "id": 231807647,
+                "name": "\u03a4\u03bf \u0392\u03ae\u03bc\u03b1  - To Vima",
+                "public_metrics": {
+                    "followers_count": 229794,
+                    "following_count": 57,
+                    "listed_count": 1277,
+                    "tweet_count": 342333
+                },
+                "username": "tovimagr",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-04 17:00:26+00:00",
+                "description": "",
+                "id": 3308394005,
+                "name": "Giannis Eutuxiadis",
+                "public_metrics": {
+                    "followers_count": 1160,
+                    "following_count": 1078,
+                    "listed_count": 2,
+                    "tweet_count": 66708
+                },
+                "username": "GiannisEutux",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-04 14:27:35+00:00",
+                "description": "\u03a4\u039f \u0392\u0397\u039c\u0391",
+                "id": 988888963,
+                "name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u039a\u03b1\u03c1\u03b1\u03ba\u03bf\u03cd\u03c3\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 12347,
+                    "following_count": 877,
+                    "listed_count": 160,
+                    "tweet_count": 77625
+                },
+                "username": "akarakousis",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-05 18:52:39+00:00",
+                "description": "\u039c\u03b9\u03b1 \u03ba\u03b1\u03c4\u03c3\u03b1\u03c1\u03b9\u03b4\u03bf\u03c5\u03bb\u03b1....",
+                "id": 1423356200607961099,
+                "name": "KaTsariDa22",
+                "public_metrics": {
+                    "followers_count": 298,
+                    "following_count": 298,
+                    "listed_count": 0,
+                    "tweet_count": 6382
+                },
+                "username": "KaTsariDa22",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-08 20:41:57+00:00",
+                "description": "\ud83d\udc60\ud83d\udd76\ufe0f\ud83d\udc8d\ud83d\udc84\ud83d\udc5c\u2653\ufe0f",
+                "id": 1413803119,
+                "name": "In God we trust",
+                "public_metrics": {
+                    "followers_count": 44,
+                    "following_count": 628,
+                    "listed_count": 0,
+                    "tweet_count": 2305
+                },
+                "username": "retsinakaterina",
+                "verified": false
+            },
+            {
+                "created_at": "2020-07-10 19:35:44+00:00",
+                "description": "\u03a3\u03c4\u03ac\u03bb\u03b9\u03bd\u03b9\u03ba\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac. \u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03cc\u03c2. \u039c\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039a\u039a\u0395. Support Johnny Depp.\n\nFollow my good friend Fep -\nhttps://t.co/gBOD68hDR4\u2026",
+                "id": 1281673282903777281,
+                "name": "Hellenic Stalinist",
+                "public_metrics": {
+                    "followers_count": 133,
+                    "following_count": 223,
+                    "listed_count": 0,
+                    "tweet_count": 3057
+                },
+                "username": "HellasStalinist",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-06 16:32:38+00:00",
+                "description": "(Maria:b30/11/52 Montreal, Carol:b30/11/53 London UK)to Greek parents,moved to London(1953);raised in London;moved back to Canada (M in 87, C in 88).Mainly RTs",
+                "id": 386072477,
+                "name": "Maria & Carol Los",
+                "public_metrics": {
+                    "followers_count": 649,
+                    "following_count": 4959,
+                    "listed_count": 2,
+                    "tweet_count": 476498
+                },
+                "username": "terpsichore_los",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-12 17:45:34+00:00",
+                "description": "",
+                "id": 297541662,
+                "name": "malena",
+                "public_metrics": {
+                    "followers_count": 111,
+                    "following_count": 333,
+                    "listed_count": 4,
+                    "tweet_count": 778
+                },
+                "username": "malenarousses",
+                "verified": false
+            },
+            {
+                "created_at": "2019-05-02 12:24:57+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\u03c2 \u03bf \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac, \u03c4\u03bf \u03bb\u03b9\u03bc\u03ac\u03bd\u03b9 \u03bc\u03b1\u03c2, \u03b7 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd!",
+                "id": 1123926348043567105,
+                "name": "Nikos. Iptamenos",
+                "public_metrics": {
+                    "followers_count": 326,
+                    "following_count": 393,
+                    "listed_count": 2,
+                    "tweet_count": 16700
+                },
+                "username": "NIptamenos",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-07 10:11:09+00:00",
+                "description": "",
+                "id": 3311719211,
+                "name": "souvlou",
+                "public_metrics": {
+                    "followers_count": 74,
+                    "following_count": 64,
+                    "listed_count": 0,
+                    "tweet_count": 18406
+                },
+                "username": "souvlou",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1455582760345739271,
+            "created_at": "2021-11-02 17:09:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5, \u0398\u03b5\u03bf\u03ba\u03bb\u03ae\u03c2 \u0396\u03b1\u03bf\u03cd\u03c4\u03b7\u03c2 \u03b1\u03bd\u03ad\u03bb\u03c5\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2. \u03a0\u03cc\u03c3\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf \u03b4\u03b5\u03af\u03ba\u03c4\u03b7\u03c2 \u03b8\u03b5\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2.",
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/zaoutis-ola-ta-krousmata-sto-100-einai-apo-ti-metallaksi-delta/",
+                        "images": [
+                            {
+                                "height": 1040,
+                                "url": "https://pbs.twimg.com/news_img/1455582774287609859/Y1wg1OCr?format=jpg&name=orig",
+                                "width": 1560
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455582774287609859/Y1wg1OCr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "\u0396\u03b1\u03bf\u03cd\u03c4\u03b7\u03c2 - \u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf 100%, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/11/02/society/zaoutis-ola-ta-krousmata-sto-100-einai-apo-ti-metallaksi-delta/",
+                        "url": "https://t.co/nTQJZDcnv2"
+                    }
+                ]
+            },
+            "id": 1455582760345739271,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0396\u03b1\u03bf\u03cd\u03c4\u03b7\u03c2 \u2013 \u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf 100%, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 https://t.co/nTQJZDcnv2"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455579207979999238,
+            "created_at": "2021-11-02 16:55:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 46,
+                        "start": 32,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 157,
+                        "start": 147,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2.",
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 181,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-me-arnitiko-test-oi-anemvoliastoi-se-dimosies-ypiresies-trapezes-emporika-dyo-test-tin-evdomada-gia-anemvoliastous-ergazomenous/",
+                        "images": [
+                            {
+                                "height": 678,
+                                "url": "https://pbs.twimg.com/news_img/1455571393031151618/quDiG_D7?format=jpg&name=orig",
+                                "width": 986
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455571393031151618/quDiG_D7?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 158,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - \u039c\u03b5 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c4\u03b5\u03c3\u03c4 \u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c3\u03b5 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2, \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2, \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ac - \u0394\u03cd\u03bf \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03c1\u03b3\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/11/02/society/koronoios-me-arnitiko-test-oi-anemvoliastoi-se-dimosies-ypiresies-trapezes-emporika-dyo-test-tin-evdomada-gia-anemvoliastous-ergazomenous/",
+                        "url": "https://t.co/AI6UQjdaCJ"
+                    }
+                ]
+            },
+            "id": 1455579207979999238,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u039c\u03b5 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c4\u03b5\u03c3\u03c4 \u03bf\u03b9 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c3\u03b5 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b5\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2, \u03c4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b5\u03c2, \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ac \u2013 \u0394\u03cd\u03bf \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7\u03bd \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03c1\u03b3\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2 | #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/AI6UQjdaCJ"
+        },
+        {
+            "author_id": 3308394005,
+            "conversation_id": 1455577114279821320,
+            "created_at": "2021-11-02 16:46:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "988888963",
+                        "start": 3,
+                        "username": "akarakousis"
+                    }
+                ]
+            },
+            "id": 1455577114279821320,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576897182703622 type=retweeted"
+            ],
+            "text": "RT @akarakousis: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 1.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 https://t.co/OQkF\u2026"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1455576897182703622,
+            "created_at": "2021-11-02 16:45:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-pou-entopizontai-ta-6-700-nea-krousmata-pano-apo-1-000-molynseis-se-attiki-kai-thessaloniki/",
+                        "start": 105,
+                        "url": "https://t.co/OQkFdnRpsv"
+                    }
+                ]
+            },
+            "id": 1455576897182703622,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 1.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 https://t.co/OQkFdnRpsv"
+        },
+        {
+            "author_id": 1423356200607961099,
+            "conversation_id": 1455559213648863233,
+            "created_at": "2021-11-02 15:35:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03b5 \u03bb\u03af\u03b3\u03bf",
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 487,
+                                "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=orig",
+                                "width": 768
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 85,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                        "url": "https://t.co/77LBJB3tiR"
+                    }
+                ]
+            },
+            "id": 1455559213648863233,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558852993241088 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/77LBJB3tiR"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455558852993241088,
+            "created_at": "2021-11-02 15:34:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03b5 \u03bb\u03af\u03b3\u03bf",
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 487,
+                                "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=orig",
+                                "width": 768
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558861872566275/NGtpuB4e?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 71,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/11/02/society/koronoios-6-700-nea-krousmata-kai-59-thanatoi-434-oi-diasolinomenoi/",
+                        "url": "https://t.co/77LBJB3tiR"
+                    }
+                ]
+            },
+            "id": 1455558852993241088,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/77LBJB3tiR"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455518173487374344,
+            "created_at": "2021-11-02 12:52:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/lesvos-se-kokkino-synagermo-ta-sxoleia-18-krousmata-koronoiou-entopistikan-mono-simera/",
+                        "start": 91,
+                        "url": "https://t.co/C4ho3teZZd"
+                    }
+                ]
+            },
+            "id": 1455518173487374344,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039b\u03ad\u03c3\u03b2\u03bf\u03c2 \u2013 \u03a3\u03b5 \u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc \u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u2013 18 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03bc\u03cc\u03bd\u03bf \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/C4ho3teZZd"
+        },
+        {
+            "author_id": 1413803119,
+            "conversation_id": 1455510714727206918,
+            "created_at": "2021-11-02 12:22:51+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronaios-xoris-telos-ta-arnitika-rekor-sta-krousmata-pano-apo-6-000-molynseis-tha-anakoinothoun-simera/",
+                        "start": 106,
+                        "url": "https://t.co/7qQxQrz3aJ"
+                    }
+                ]
+            },
+            "id": 1455510714727206918,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a7\u03c9\u03c1\u03af\u03c2 \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03b1 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03b8\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03c9\u03b8\u03bf\u03cd\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/7qQxQrz3aJ"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455510562624921604,
+            "created_at": "2021-11-02 12:22:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/koronaios-xoris-telos-ta-arnitika-rekor-sta-krousmata-pano-apo-6-000-molynseis-tha-anakoinothoun-simera/",
+                        "start": 106,
+                        "url": "https://t.co/HIGwi0U6mw"
+                    }
+                ]
+            },
+            "id": 1455510562624921604,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 \u03a7\u03c9\u03c1\u03af\u03c2 \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03b1 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03b8\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03c9\u03b8\u03bf\u03cd\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/HIGwi0U6mw"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455222377290346505,
+            "created_at": "2021-11-01 17:17:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/society/koronaios-pou-entopizontai-ta-5-449-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                        "start": 90,
+                        "url": "https://t.co/SEzVOt0cZU"
+                    }
+                ]
+            },
+            "id": 1455222377290346505,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/SEzVOt0cZU"
+        },
+        {
+            "author_id": 1281673282903777281,
+            "conversation_id": 1455206736005148677,
+            "created_at": "2021-11-01 16:14:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "988888963",
+                        "start": 3,
+                        "username": "akarakousis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/society/koronoios-5-449-krousmata-52-thanatoi-430-diasolinomenoi/",
+                        "start": 77,
+                        "url": "https://t.co/DwNtZ7Srb2"
+                    }
+                ]
+            },
+            "id": 1455206736005148677,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455202766767509504 type=retweeted"
+            ],
+            "text": "RT @akarakousis: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/DwNtZ7Srb2"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1455202766767509504,
+            "created_at": "2021-11-01 15:59:10+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/society/koronoios-5-449-krousmata-52-thanatoi-430-diasolinomenoi/",
+                        "start": 60,
+                        "url": "https://t.co/DwNtZ7Srb2"
+                    }
+                ]
+            },
+            "id": 1455202766767509504,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/DwNtZ7Srb2"
+        },
+        {
+            "author_id": 386072477,
+            "conversation_id": 1454848313904205832,
+            "created_at": "2021-10-31 16:30:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/31/soc\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.tovima.gr/2021/10/31/society/koronoios-2-727-krousmata-44-thanatoi-421-diasolinomenoi/",
+                        "start": 74,
+                        "url": "https://t.co/IjvKFf6mBZ"
+                    }
+                ]
+            },
+            "id": 1454848313904205832,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454845535073054720 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/IjvKFf6mBZ"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454845535073054720,
+            "created_at": "2021-10-31 16:19:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/31/soc\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.tovima.gr/2021/10/31/society/koronoios-2-727-krousmata-44-thanatoi-421-diasolinomenoi/",
+                        "start": 60,
+                        "url": "https://t.co/IjvKFf6mBZ"
+                    }
+                ]
+            },
+            "id": 1454845535073054720,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/IjvKFf6mBZ"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1454842101250805762,
+            "created_at": "2021-10-31 16:06:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03c4\u03b7\u03bd \u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae 31 \u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5",
+                        "display_url": "tovima.gr/2021/10/31/soc\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.tovima.gr/2021/10/31/society/koronoios-2-727-krousmata-44-thanatoi-421-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 431,
+                                "url": "https://pbs.twimg.com/news_img/1454842103243096073/7F_NQkCN?format=jpg&name=orig",
+                                "width": 768
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454842103243096073/7F_NQkCN?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 60,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/31/society/koronoios-2-727-krousmata-44-thanatoi-421-diasolinomenoi/",
+                        "url": "https://t.co/KKA93Fld9n"
+                    }
+                ]
+            },
+            "id": 1454842101250805762,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/KKA93Fld9n"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454758936138108930,
+            "created_at": "2021-10-31 10:35:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0395\u03c6\u03b9\u03b1\u03bb\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ad\u03c8\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03cc\u03bd\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03be\u03ad\u03bb\u03b9\u03be\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b8\u03ad\u03bc\u03b1 \u03c7\u03c1\u03cc\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c3\u03c0\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf \u03c6\u03c1\u03ac\u03b3\u03bc\u03b1 \u03c4\u03c9\u03bd 5.000 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd",
+                        "display_url": "tovima.gr/2021/10/31/soc\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.tovima.gr/2021/10/31/society/sarigiannis-5-000-krousmata-o-evdomadiaios-mesos-oros-to-noemvri-self-test-kai-stous-emvoliasmenous/",
+                        "images": [
+                            {
+                                "height": 441,
+                                "url": "https://pbs.twimg.com/news_img/1454758940634402820/MEFHEACu?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454758940634402820/MEFHEACu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 104,
+                        "status": 200,
+                        "title": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03bf \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03bf\u03c2 \u03bc\u03ad\u03c3\u03bf\u03c2 \u03cc\u03c1\u03bf\u03c2 \u03c4\u03bf \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b7 \u2013 \u03a3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/31/society/sarigiannis-5-000-krousmata-o-evdomadiaios-mesos-oros-to-noemvri-self-test-kai-stous-emvoliasmenous/",
+                        "url": "https://t.co/r3Rc15dMLH"
+                    }
+                ]
+            },
+            "id": 1454758936138108930,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03bf \u03b5\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03bf\u03c2 \u03bc\u03ad\u03c3\u03bf\u03c2 \u03cc\u03c1\u03bf\u03c2 \u03c4\u03bf \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b7 \u2013 \u03a3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/r3Rc15dMLH"
+        },
+        {
+            "author_id": 297541662,
+            "conversation_id": 1454539245545304073,
+            "created_at": "2021-10-30 20:02:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 224,
+                        "start": 221,
+                        "tag": "\u039d\u0394"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/30/soc\u2026",
+                        "end": 248,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/society/koronoios-i-ekriksi-krousmaton-fernei-nea-metra-eksetazetai-to-kleisimo-nyxterinon-kentron/amp/",
+                        "start": 225,
+                        "url": "https://t.co/gEDpNnY6D4"
+                    }
+                ]
+            },
+            "id": 1454539245545304073,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03bb\u03b5\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03c3\u03c7\u03b5\u03b4\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bb\u03b5\u03b5\u03b9 \u03bc\u03b5\u03c4\u03c1\u03b1 \u03c4\u03bf\u03c5 \u03c4\u03cd\u03c0\u03bf\u03c5 \u03bd\u03b1 \u03ba\u03bb\u03b5\u03af\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 \u03bd\u03c5\u03c7\u03c4\u03b5\u03c1\u03b9\u03bd\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03b9\u03ce\u03c3\u03bf\u03c5\u03bd \u03c4\u03b1 \u03ac\u03c4\u03bf\u03bc\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5\u03b9\u03ba\u03c4\u03bf\u03c5\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03ba\u03bb\u03c0 .\u03c1\u03b5 \u03ba\u03b1\u03c1\u03b1\u03b3\u03ba\u03b9\u03cc\u03b6\u03b7\u03b4\u03b5\u03c2 \u03c6\u03ad\u03c1\u03c4\u03b5 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03c4\u03b7 \u03c0\u03b5\u03c1\u03b9\u03bc\u03ad\u03bd\u03b5\u03c4\u03b5 ;;;;;;;\u03c4\u03c3\u03af\u03c1\u03ba\u03bf #\u039d\u0394 https://t.co/gEDpNnY6D4"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1454486810537734153,
+            "created_at": "2021-10-30 16:34:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 739.448 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd 50.8% \u03ac\u03bd\u03b4\u03c1\u03b5\u03c2. \u039c\u03b5 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03c9\u03bd 7 \u03b7\u03bc\u03b5\u03c1\u03ce\u03bd, 159 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1\u03be\u03af\u03b4\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 3.023 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bc\u03b5 \u03ae\u03b4\u03b7 \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1.",
+                        "display_url": "tovima.gr/2021/10/30/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/society/koronoios-4-696-nea-krousmata-kai-38-thanatoi-404-oi-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 602,
+                                "url": "https://pbs.twimg.com/news_img/1454460937939963905/g25ng1Pw?format=jpg&name=orig",
+                                "width": 1070
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454460937939963905/g25ng1Pw?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 71,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 - 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/30/society/koronoios-4-696-nea-krousmata-kai-38-thanatoi-404-oi-diasolinomenoi/",
+                        "url": "https://t.co/lxcoVHp5gF"
+                    }
+                ]
+            },
+            "id": 1454486810537734153,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/lxcoVHp5gF"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454471974466510852,
+            "created_at": "2021-10-30 15:35:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/30/soc\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/society/koronoios-pou-entopizontai-ta-4-696-nea-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                        "start": 94,
+                        "url": "https://t.co/MhYAizaOpC"
+                    }
+                ]
+            },
+            "id": 1454471974466510852,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/MhYAizaOpC"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454460932143427584,
+            "created_at": "2021-10-30 14:51:23+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/30/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/society/koronoios-4-696-nea-krousmata-kai-38-thanatoi-404-oi-diasolinomenoi/",
+                        "start": 71,
+                        "url": "https://t.co/tg5ZPVuAoa"
+                    }
+                ]
+            },
+            "id": 1454460932143427584,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/tg5ZPVuAoa"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454361737734545409,
+            "created_at": "2021-10-30 08:17:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a5\u03c0\u03ad\u03c1 \u03c4\u03b7\u03c2 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc \u03bc\u03b5 \u03c4\u03b7 \u03bc\u03ad\u03b8\u03bf\u03b4\u03bf \u03c0\u03cc\u03c1\u03c4\u03b1 \u2013 \u03c0\u03cc\u03c1\u03c4\u03b1 \u03b7 \u0391\u03b8\u03b7\u03bd\u03ac \u039b\u03b9\u03bd\u03bf\u03cd. \u00ab\u039a\u03b1\u03bd\u03b5\u03af\u03c2 \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03ba\u03b1\u03b8\u03ae\u03ba\u03bf\u03bd \u03c4\u03bf\u03c5\u00bb \u03bb\u03ad\u03b5\u03b9 \u03bf \u0394. \u03a7\u03bb\u03c9\u03c1\u03cc\u03c2.",
+                        "display_url": "tovima.gr/2021/10/30/soc\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.tovima.gr/2021/10/30/society/sarigiannis-provlepsi-gia-5000-krousmata-tin-imera-sto-stoxastro-anemvoliastoi-xoris-ypokeimena/",
+                        "images": [
+                            {
+                                "height": 1040,
+                                "url": "https://pbs.twimg.com/news_img/1454361745275953154/59pO3Q_n?format=jpg&name=orig",
+                                "width": 1560
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454361745275953154/59pO3Q_n?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 99,
+                        "status": 200,
+                        "title": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 \u03a0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 5000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u2013 \u03a3\u03c4\u03bf \u03c3\u03c4\u03cc\u03c7\u03b1\u03c3\u03c4\u03c1\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/30/society/sarigiannis-provlepsi-gia-5000-krousmata-tin-imera-sto-stoxastro-anemvoliastoi-xoris-ypokeimena/",
+                        "url": "https://t.co/vGU599v670"
+                    }
+                ]
+            },
+            "id": 1454361737734545409,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 \u03a0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 5000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u2013 \u03a3\u03c4\u03bf \u03c3\u03c4\u03cc\u03c7\u03b1\u03c3\u03c4\u03c1\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 https://t.co/vGU599v670"
+        },
+        {
+            "author_id": 1123926348043567105,
+            "conversation_id": 1454098138311139332,
+            "created_at": "2021-10-29 14:49:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-3-643-nea-krousmata-kai-55-thanatoi-392-oi-diasolinomenoi/",
+                        "start": 85,
+                        "url": "https://t.co/xbKEUjenX5"
+                    }
+                ]
+            },
+            "id": 1454098138311139332,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454091841117331469 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/xbKEUjenX5"
+        },
+        {
+            "author_id": 1123926348043567105,
+            "conversation_id": 1454097080188874754,
+            "created_at": "2021-10-29 14:45:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-pou-entopizontai-ta-3-643-nea-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                        "start": 108,
+                        "url": "https://t.co/cu1Gr97mgb"
+                    }
+                ]
+            },
+            "id": 1454097080188874754,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454096761694392320 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/cu1Gr97mgb"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454096761694392320,
+            "created_at": "2021-10-29 14:44:18+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-pou-entopizontai-ta-3-643-nea-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                        "start": 94,
+                        "url": "https://t.co/cu1Gr97mgb"
+                    }
+                ]
+            },
+            "id": 1454096761694392320,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/cu1Gr97mgb"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1454092746713714688,
+            "created_at": "2021-10-29 14:28:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-3-643-nea-krousmata-kai-55-thanatoi-392-oi-diasolinomenoi/",
+                        "start": 71,
+                        "url": "https://t.co/Fz34k2XuxX"
+                    }
+                ]
+            },
+            "id": 1454092746713714688,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/Fz34k2XuxX"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454091841117331469,
+            "created_at": "2021-10-29 14:24:45+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/29/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/society/koronoios-3-643-nea-krousmata-kai-55-thanatoi-392-oi-diasolinomenoi/",
+                        "start": 71,
+                        "url": "https://t.co/xbKEUjenX5"
+                    }
+                ]
+            },
+            "id": 1454091841117331469,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/xbKEUjenX5"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1453768807797907464,
+            "created_at": "2021-10-28 17:01:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/28/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/society/koronoios-2-984-nea-krousmata-kai-31-thanatoi-391-oi-diasolinomenoi/",
+                        "start": 71,
+                        "url": "https://t.co/BCGv5mFgtZ"
+                    }
+                ]
+            },
+            "id": 1453768807797907464,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 391 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/BCGv5mFgtZ"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453731767991484428,
+            "created_at": "2021-10-28 14:33:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/28/soc\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.tovima.gr/2021/10/28/society/koronoios-2-984-nea-krousmata-kai-31-thanatoi-391-oi-diasolinomenoi/",
+                        "start": 71,
+                        "url": "https://t.co/xuMG8OQBk1"
+                    }
+                ]
+            },
+            "id": 1453731767991484428,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 391 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/xuMG8OQBk1"
+        },
+        {
+            "author_id": 3311719211,
+            "conversation_id": 1453374182004252672,
+            "created_at": "2021-10-27 14:53:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/koronoios-3-651-krousmata-63-thanatoi-387-diasolinomenoi/",
+                        "start": 74,
+                        "url": "https://t.co/vyeYJmPxPl"
+                    }
+                ]
+            },
+            "id": 1453374182004252672,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453371783520923655 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.651 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/vyeYJmPxPl"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1453371936650715141,
+            "created_at": "2021-10-27 14:44:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/koronoios-3-651-krousmata-63-thanatoi-387-diasolinomenoi/",
+                        "start": 60,
+                        "url": "https://t.co/dTvQU2VxzN"
+                    }
+                ]
+            },
+            "id": 1453371936650715141,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.651 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/dTvQU2VxzN"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453371783520923655,
+            "created_at": "2021-10-27 14:43:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/koronoios-3-651-krousmata-63-thanatoi-387-diasolinomenoi/",
+                        "start": 60,
+                        "url": "https://t.co/vyeYJmPxPl"
+                    }
+                ]
+            },
+            "id": 1453371783520923655,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 3.651 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/vyeYJmPxPl"
+        }
+    ]
+}

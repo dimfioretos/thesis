@@ -1,0 +1,1251 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455569817621172227,
+                "created_at": "2021-11-02 16:17:42+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039a\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b1\u03bc\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5 \u03bf\u03b9 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2, \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 4% \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03bc\u03b5\u03c4\u03bf\u03c7\u03ae.",
+                            "display_url": "capital.gr/story/3592455",
+                            "end": 116,
+                            "expanded_url": "http://www.capital.gr/story/3592455",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 93,
+                            "status": 200,
+                            "title": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. '\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9' \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022",
+                            "unwound_url": "https://www.capital.gr/diethni/3592455/pfizer-sta-65-dis-blepei-ta-esoda-apo-to-embolio-kata-tou-koronoiou-ti-dietia-2021-2022",
+                            "url": "https://t.co/i9j1iKgM75"
+                        }
+                    ]
+                },
+                "id": 1455569817621172227,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. \"\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\" \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022 https://t.co/i9j1iKgM75"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455459246624149505,
+                "created_at": "2021-11-02 08:58:20+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/health/3592277\u2026",
+                            "end": 75,
+                            "expanded_url": "https://www.capital.gr/health/3592277/ta-parapleura-ofeli-apo-to-embolio-tou-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635837426",
+                            "start": 52,
+                            "url": "https://t.co/1nBbZWL7dV"
+                        }
+                    ]
+                },
+                "id": 1455459246624149505,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u03a4\u03b1... \u03c0\u03b1\u03c1\u03ac\u03c0\u03bb\u03b5\u03c5\u03c1\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/1nBbZWL7dV"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455071566979608576,
+                "created_at": "2021-11-01 07:17:50+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359198\u2026",
+                            "end": 124,
+                            "expanded_url": "https://www.capital.gr/diethni/3591982/inomena-arabika-emirata-oi-arxes-enekrinan-to-embolio-tis-pfizer-gia-ta-paidia-ilikias-5-me-11-eton?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635748237",
+                            "start": 101,
+                            "url": "https://t.co/FOILwiSzQU"
+                        }
+                    ]
+                },
+                "id": 1455071566979608576,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b1 \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b1: \u039f\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b1\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/FOILwiSzQU"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455208028303724545,
+                "created_at": "2021-11-01 16:20:05+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                            "display_url": "capital.gr/health/3591988\u2026",
+                            "end": 84,
+                            "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 61,
+                            "status": 200,
+                            "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                            "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                            "url": "https://t.co/D9A3TNJgST"
+                        }
+                    ]
+                },
+                "id": 1455208028303724545,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454340311166210051,
+                "created_at": "2021-10-30 06:52:05+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 101,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591736/embolio-oi-epistimones-zitoun-upoxreotikotita-i-kubernisi-apanta-me-peitho?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635574537",
+                            "start": 78,
+                            "url": "https://t.co/GG4ZJFgv3a"
+                        }
+                    ]
+                },
+                "id": 1454340311166210051,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf: \u039f\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac '\u03bc\u03b5 \u03c0\u03b5\u03b9\u03b8\u03ce' https://t.co/GG4ZJFgv3a"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454169540640788485,
+                "created_at": "2021-10-29 19:33:30+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3591725",
+                            "end": 103,
+                            "expanded_url": "http://www.capital.gr/story/3591725",
+                            "start": 80,
+                            "url": "https://t.co/LpQBrvWrr2"
+                        }
+                    ]
+                },
+                "id": 1454169540640788485,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454141383749607424,
+                "created_at": "2021-10-29 17:41:37+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3591712",
+                            "end": 118,
+                            "expanded_url": "http://www.capital.gr/story/3591712",
+                            "start": 95,
+                            "url": "https://t.co/SNDnLcr7qd"
+                        }
+                    ]
+                },
+                "id": 1454141383749607424,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "NYT: \u0395\u03bd\u03c4\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03c9\u03c1\u03ce\u03bd \u03bf FDA \u03b8\u03b1 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer/BioNTech \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/SNDnLcr7qd"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453377547534753798,
+                "created_at": "2021-10-27 15:06:24+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359127\u2026",
+                            "end": 98,
+                            "expanded_url": "https://www.capital.gr/diethni/3591277/embolio-gia-koronoio-enisxutiki-dosi-gia-tous-ano-ton-65-eton-sti-souidia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635338801",
+                            "start": 75,
+                            "url": "https://t.co/VAM3D35hqs"
+                        }
+                    ]
+                },
+                "id": 1453377547534753798,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc: \u0395\u03bd\u03b9\u03c3\u03c7\u03c5\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 65 \u03b5\u03c4\u03ce\u03bd \u03c3\u03c4\u03b7 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1 https://t.co/VAM3D35hqs"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453258043433553926,
+                "created_at": "2021-10-27 07:11:32+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u038c\u03bb\u03bf\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03ad\u03ba\u03b1\u03bd\u03b1\u03bd \u03c4\u03bf \u03bc\u03bf\u03bd\u03bf\u03b4\u03bf\u03c3\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Johnson & Johnson \u03c3\u03c5\u03c3\u03c4\u03ae\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7.",
+                            "display_url": "capital.gr/health/3591167\u2026",
+                            "end": 103,
+                            "expanded_url": "https://www.capital.gr/health/3591167/exete-kanei-embolio-johnson-ti-isxuei-gia-ti-deuteri-dosi-kai-me-poio-skeuasma?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635317312",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1453258047636258822/c0Ez1Dos?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453258047636258822/c0Ez1Dos?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 80,
+                            "status": 200,
+                            "title": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Johnson; \u03a4\u03b9 \u03b9\u03c3\u03c7\u03cd\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c0\u03bf\u03b9\u03bf \u03c3\u03ba\u03b5\u03cd\u03b1\u03c3\u03bc\u03b1",
+                            "unwound_url": "https://www.capital.gr/health/3591167/exete-kanei-embolio-johnson-ti-isxuei-gia-ti-deuteri-dosi-kai-me-poio-skeuasma?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635317312",
+                            "url": "https://t.co/kbKLczC59L"
+                        }
+                    ]
+                },
+                "id": 1453258043433553926,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0388\u03c7\u03b5\u03c4\u03b5 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Johnson; \u03a4\u03b9 \u03b9\u03c3\u03c7\u03cd\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c0\u03bf\u03b9\u03bf \u03c3\u03ba\u03b5\u03cd\u03b1\u03c3\u03bc\u03b1 https://t.co/kbKLczC59L"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453375914511904777,
+                "created_at": "2021-10-27 14:59:55+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 106,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591294/novavax-upebale-aitima-egkrisis-gia-to-embolio-kata-tou-koronoiou-sti-m-bretania?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635344979",
+                            "start": 83,
+                            "url": "https://t.co/TsoVYZCq1v"
+                        }
+                    ]
+                },
+                "id": 1453375914511904777,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "Novavax: \u03a5\u03c0\u03ad\u03b2\u03b1\u03bb\u03b5 \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7 \u039c. \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1 https://t.co/TsoVYZCq1v"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-12-23 12:49:16+00:00",
+                "description": "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7",
+                "id": 98872288,
+                "name": "capital.gr",
+                "public_metrics": {
+                    "followers_count": 77428,
+                    "following_count": 0,
+                    "listed_count": 764,
+                    "tweet_count": 213259
+                },
+                "username": "capitalgr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-03-07 20:09:15+00:00",
+                "description": "Hello planet, Everything flows, I like me  medicine, music, psychology, philosophy, I am not user Facebook.    \nhttps://t.co/IWED9zRboV\u2026",
+                "id": 706934759772057604,
+                "name": "oharagr",
+                "public_metrics": {
+                    "followers_count": 171,
+                    "following_count": 307,
+                    "listed_count": 4,
+                    "tweet_count": 18357
+                },
+                "username": "stylianosoharag",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-01 17:58:37+00:00",
+                "description": "\u0394\u03bf\u03c5\u03bb\u03b5\u03cd\u03c9 \u03c3\u03c4\u03b7\u03bd \u03a3\u03c5\u03bd\u03b5\u03c4\u03b1\u03b9\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03a4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b1 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 (http://t.co/VWiUduqGzm). \u03a6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf \u03a4\u0395\u0399 \u0397\u03a0\u0395\u0399\u03a1\u039f\u03a5-\u03a0\u03a1\u0395\u0392\u0395\u0396\u0391 (http://t.co/N6BNqKdyHT).",
+                "id": 2452959178,
+                "name": "Spyros Pappas \uf8ff",
+                "public_metrics": {
+                    "followers_count": 1130,
+                    "following_count": 4983,
+                    "listed_count": 28,
+                    "tweet_count": 78317
+                },
+                "username": "spyros_pappas",
+                "verified": false
+            },
+            {
+                "created_at": "2015-11-10 06:26:32+00:00",
+                "description": "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03c7\u03c9\u03c1\u03af\u03c2 \u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2. \u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a3\u03bf\u03c3\u03b9\u03b1\u03bb\u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1, \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u039a\u03ad\u03bd\u03c4\u03c1\u03bf\u03c5, \u03c9\u03c2 \u03c4\u03b7\u03bd \u0394\u03b5\u03be\u03b9\u03ac.",
+                "id": 4187436194,
+                "name": "\u039a\u03b5\u03bd\u03c4\u03c1\u03bf\u03b4\u03b5\u03be\u03b9\u03ac 1821",
+                "public_metrics": {
+                    "followers_count": 3554,
+                    "following_count": 3508,
+                    "listed_count": 19,
+                    "tweet_count": 142743
+                },
+                "username": "kentrodexia",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-18 09:12:20+00:00",
+                "description": "My own opinions, dislike people just talk and not provide evidence or accept facts. However, not respect the propaganda and provoke others. Zero tolerance.",
+                "id": 2200974762,
+                "name": "JOHN BLANDOS",
+                "public_metrics": {
+                    "followers_count": 1155,
+                    "following_count": 1702,
+                    "listed_count": 5,
+                    "tweet_count": 40869
+                },
+                "username": "johnblandos",
+                "verified": false
+            },
+            {
+                "created_at": "2020-04-19 20:11:25+00:00",
+                "description": "\u03b1\u03c0\u03bb\u03b1 \u03b4\u03b5\u03be\u03b9\u03b1 \u03c7\u03c9\u03c1\u03b9\u03c2 \u03ba\u03b5\u03bd\u03c4\u03c1\u03bf \u03ba\u03b1\u03b9 \u03b1\u03ba\u03c1\u03b1",
+                "id": 1251966541652013057,
+                "name": "magdathea",
+                "public_metrics": {
+                    "followers_count": 1401,
+                    "following_count": 1848,
+                    "listed_count": 5,
+                    "tweet_count": 45062
+                },
+                "username": "magdathea",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455681807383470082,
+            "created_at": "2021-11-02 23:42:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359251\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.capital.gr/diethni/3592518/ipa-prasino-fos-apo-tous-sumboulous-tou-cdc-sto-embolio-tis-pfizer-gia-mikra-paidia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635892641",
+                        "start": 85,
+                        "url": "https://t.co/JxB54ArmLS"
+                    }
+                ]
+            },
+            "id": 1455681807383470082,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391: \u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c6\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03b2\u03bf\u03cd\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5 CDC \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac https://t.co/JxB54ArmLS"
+        },
+        {
+            "author_id": 706934759772057604,
+            "conversation_id": 1455621316464238595,
+            "created_at": "2021-11-02 19:42:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359245\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/diethni/3592455/pfizer-sta-65-dis-blepei-ta-esoda-apo-to-embolio-kata-tou-koronoiou-ti-dietia-2021-2022",
+                        "start": 76,
+                        "url": "https://t.co/010LyYb1bm"
+                    }
+                ]
+            },
+            "id": 1455621316464238595,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. \"\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\" \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd... https://t.co/010LyYb1bm"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455587372406607873,
+            "created_at": "2021-11-02 17:27:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039a\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b1\u03bc\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5 \u03bf\u03b9 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2, \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 4% \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03bc\u03b5\u03c4\u03bf\u03c7\u03ae.",
+                        "display_url": "capital.gr/story/3592455",
+                        "end": 131,
+                        "expanded_url": "http://www.capital.gr/story/3592455",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 108,
+                        "status": 200,
+                        "title": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. '\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9' \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022",
+                        "unwound_url": "https://www.capital.gr/diethni/3592455/pfizer-sta-65-dis-blepei-ta-esoda-apo-to-embolio-kata-tou-koronoiou-ti-dietia-2021-2022",
+                        "url": "https://t.co/i9j1iKgM75"
+                    }
+                ]
+            },
+            "id": 1455587372406607873,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455569817621172227 type=retweeted"
+            ],
+            "text": "RT @capitalgr: Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. \"\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\" \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022 https://t.co/i9j1iKgM75"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455569817621172227,
+            "created_at": "2021-11-02 16:17:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039a\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b1\u03bc\u03b5\u03bd\u03cc\u03bc\u03b5\u03bd\u03bf\u03c5 \u03bf\u03b9 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2, \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 4% \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03bc\u03b5\u03c4\u03bf\u03c7\u03ae.",
+                        "display_url": "capital.gr/story/3592455",
+                        "end": 116,
+                        "expanded_url": "http://www.capital.gr/story/3592455",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455569825670041602/19gGKgT8?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 93,
+                        "status": 200,
+                        "title": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. '\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9' \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022",
+                        "unwound_url": "https://www.capital.gr/diethni/3592455/pfizer-sta-65-dis-blepei-ta-esoda-apo-to-embolio-kata-tou-koronoiou-ti-dietia-2021-2022",
+                        "url": "https://t.co/i9j1iKgM75"
+                    }
+                ]
+            },
+            "id": 1455569817621172227,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Pfizer: \u03a3\u03c4\u03b1 $65 \u03b4\u03b9\u03c3. \"\u03b2\u03bb\u03ad\u03c0\u03b5\u03b9\" \u03c4\u03b1 \u03ad\u03c3\u03bf\u03b4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03b7 \u03b4\u03b9\u03b5\u03c4\u03af\u03b1 2021-2022 https://t.co/i9j1iKgM75"
+        },
+        {
+            "author_id": 2452959178,
+            "conversation_id": 1455464245999685636,
+            "created_at": "2021-11-02 09:18:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3592277\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.capital.gr/health/3592277/ta-parapleura-ofeli-apo-to-embolio-tou-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635837426",
+                        "start": 67,
+                        "url": "https://t.co/1nBbZWL7dV"
+                    }
+                ]
+            },
+            "id": 1455464245999685636,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455459246624149505 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u03a4\u03b1... \u03c0\u03b1\u03c1\u03ac\u03c0\u03bb\u03b5\u03c5\u03c1\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/1nBbZWL7dV"
+        },
+        {
+            "author_id": 4187436194,
+            "conversation_id": 1455460078434193412,
+            "created_at": "2021-11-02 09:01:38+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3592277\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.capital.gr/health/3592277/ta-parapleura-ofeli-apo-to-embolio-tou-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635837426",
+                        "start": 67,
+                        "url": "https://t.co/1nBbZWL7dV"
+                    }
+                ]
+            },
+            "id": 1455460078434193412,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455459246624149505 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u03a4\u03b1... \u03c0\u03b1\u03c1\u03ac\u03c0\u03bb\u03b5\u03c5\u03c1\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/1nBbZWL7dV"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455459246624149505,
+            "created_at": "2021-11-02 08:58:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3592277\u2026",
+                        "end": 75,
+                        "expanded_url": "https://www.capital.gr/health/3592277/ta-parapleura-ofeli-apo-to-embolio-tou-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635837426",
+                        "start": 52,
+                        "url": "https://t.co/1nBbZWL7dV"
+                    }
+                ]
+            },
+            "id": 1455459246624149505,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u03a4\u03b1... \u03c0\u03b1\u03c1\u03ac\u03c0\u03bb\u03b5\u03c5\u03c1\u03b1 \u03bf\u03c6\u03ad\u03bb\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/1nBbZWL7dV"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455260269479960576,
+            "created_at": "2021-11-01 19:47:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359216\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.capital.gr/diethni/3592167/i-indonisia-i-proti-xora-pou-enekrine-to-embolio-tis-novavax-kata-tou-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782537",
+                        "start": 80,
+                        "url": "https://t.co/hiz9AoOsVg"
+                    }
+                ]
+            },
+            "id": 1455260269479960576,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u0399\u03bd\u03b4\u03bf\u03bd\u03b7\u03c3\u03af\u03b1 \u03b7 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Novavax \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/hiz9AoOsVg"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455222590348435458,
+            "created_at": "2021-11-01 17:17:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359198\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.capital.gr/diethni/3591982/inomena-arabika-emirata-oi-arxes-enekrinan-to-embolio-tis-pfizer-gia-ta-paidia-ilikias-5-me-11-eton?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635748237",
+                        "start": 116,
+                        "url": "https://t.co/FOILwiSzQU"
+                    }
+                ]
+            },
+            "id": 1455222590348435458,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455071566979608576 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b1 \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b1: \u039f\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b1\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/FOILwiSzQU"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455220090157379584,
+            "created_at": "2021-11-01 17:08:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                        "display_url": "capital.gr/health/3591988\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 76,
+                        "status": 200,
+                        "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                        "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "url": "https://t.co/D9A3TNJgST"
+                    }
+                ]
+            },
+            "id": 1455220090157379584,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455208028303724545 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455208028303724545,
+            "created_at": "2021-11-01 16:20:05+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                        "display_url": "capital.gr/health/3591988\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 61,
+                        "status": 200,
+                        "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                        "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "url": "https://t.co/D9A3TNJgST"
+                    }
+                ]
+            },
+            "id": 1455208028303724545,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+        },
+        {
+            "author_id": 2200974762,
+            "conversation_id": 1455072738528403457,
+            "created_at": "2021-11-01 07:22:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359198\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.capital.gr/diethni/3591982/inomena-arabika-emirata-oi-arxes-enekrinan-to-embolio-tis-pfizer-gia-ta-paidia-ilikias-5-me-11-eton?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635748237",
+                        "start": 116,
+                        "url": "https://t.co/FOILwiSzQU"
+                    }
+                ]
+            },
+            "id": 1455072738528403457,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455071566979608576 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b1 \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b1: \u039f\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b1\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/FOILwiSzQU"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455071566979608576,
+            "created_at": "2021-11-01 07:17:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359198\u2026",
+                        "end": 124,
+                        "expanded_url": "https://www.capital.gr/diethni/3591982/inomena-arabika-emirata-oi-arxes-enekrinan-to-embolio-tis-pfizer-gia-ta-paidia-ilikias-5-me-11-eton?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635748237",
+                        "start": 101,
+                        "url": "https://t.co/FOILwiSzQU"
+                    }
+                ]
+            },
+            "id": 1455071566979608576,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03b1 \u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac \u0395\u03bc\u03b9\u03c1\u03ac\u03c4\u03b1: \u039f\u03b9 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b1\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03bc\u03b5 11 \u03b5\u03c4\u03ce\u03bd https://t.co/FOILwiSzQU"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454500250836742148,
+            "created_at": "2021-10-30 17:27:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 116,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591736/embolio-oi-epistimones-zitoun-upoxreotikotita-i-kubernisi-apanta-me-peitho?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635574537",
+                        "start": 93,
+                        "url": "https://t.co/GG4ZJFgv3a"
+                    }
+                ]
+            },
+            "id": 1454500250836742148,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454340311166210051 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf: \u039f\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac '\u03bc\u03b5 \u03c0\u03b5\u03b9\u03b8\u03ce' https://t.co/GG4ZJFgv3a"
+        },
+        {
+            "author_id": 1251966541652013057,
+            "conversation_id": 1454346912111464448,
+            "created_at": "2021-10-30 07:18:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 116,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591736/embolio-oi-epistimones-zitoun-upoxreotikotita-i-kubernisi-apanta-me-peitho?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635574537",
+                        "start": 93,
+                        "url": "https://t.co/GG4ZJFgv3a"
+                    }
+                ]
+            },
+            "id": 1454346912111464448,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454340311166210051 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf: \u039f\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac '\u03bc\u03b5 \u03c0\u03b5\u03b9\u03b8\u03ce' https://t.co/GG4ZJFgv3a"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454340311166210051,
+            "created_at": "2021-10-30 06:52:05+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 101,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591736/embolio-oi-epistimones-zitoun-upoxreotikotita-i-kubernisi-apanta-me-peitho?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635574537",
+                        "start": 78,
+                        "url": "https://t.co/GG4ZJFgv3a"
+                    }
+                ]
+            },
+            "id": 1454340311166210051,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf: \u039f\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac '\u03bc\u03b5 \u03c0\u03b5\u03b9\u03b8\u03ce' https://t.co/GG4ZJFgv3a"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454204832395452418,
+            "created_at": "2021-10-29 21:53:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591725",
+                        "end": 118,
+                        "expanded_url": "http://www.capital.gr/story/3591725",
+                        "start": 95,
+                        "url": "https://t.co/LpQBrvWrr2"
+                    }
+                ]
+            },
+            "id": 1454204832395452418,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454169540640788485 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454169540640788485,
+            "created_at": "2021-10-29 19:33:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591725",
+                        "end": 103,
+                        "expanded_url": "http://www.capital.gr/story/3591725",
+                        "start": 80,
+                        "url": "https://t.co/LpQBrvWrr2"
+                    }
+                ]
+            },
+            "id": 1454169540640788485,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454153222969495556,
+            "created_at": "2021-10-29 18:28:39+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591712",
+                        "end": 133,
+                        "expanded_url": "http://www.capital.gr/story/3591712",
+                        "start": 110,
+                        "url": "https://t.co/SNDnLcr7qd"
+                    }
+                ]
+            },
+            "id": 1454153222969495556,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454141383749607424 type=retweeted"
+            ],
+            "text": "RT @capitalgr: NYT: \u0395\u03bd\u03c4\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03c9\u03c1\u03ce\u03bd \u03bf FDA \u03b8\u03b1 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer/BioNTech \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/SNDnLcr7qd"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454141383749607424,
+            "created_at": "2021-10-29 17:41:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591712",
+                        "end": 118,
+                        "expanded_url": "http://www.capital.gr/story/3591712",
+                        "start": 95,
+                        "url": "https://t.co/SNDnLcr7qd"
+                    }
+                ]
+            },
+            "id": 1454141383749607424,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "NYT: \u0395\u03bd\u03c4\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03c9\u03c1\u03ce\u03bd \u03bf FDA \u03b8\u03b1 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer/BioNTech \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/SNDnLcr7qd"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454119405768544256,
+            "created_at": "2021-10-29 16:14:17+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3591658\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.capital.gr/health/3591658/egkumosuni-mporo-na-kano-to-embolio-gripis-kai-to-embolio-covid?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635515467",
+                        "start": 66,
+                        "url": "https://t.co/ZidCP3oAbr"
+                    }
+                ]
+            },
+            "id": 1454119405768544256,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03b3\u03ba\u03c5\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7: \u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf COVID; https://t.co/ZidCP3oAbr"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453455862178136068,
+            "created_at": "2021-10-27 20:17:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359115\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/diethni/3591153/israil-emboliasmenoi-me-to-rosiko-embolio-sputnik-tha-eiserxontai-stin-xora?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635348254",
+                        "start": 76,
+                        "url": "https://t.co/75af742c9y"
+                    }
+                ]
+            },
+            "id": 1453455862178136068,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0399\u03c3\u03c1\u03b1\u03ae\u03bb: \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 \u03bc\u03b5 \u03c4\u03bf \u03c1\u03c9\u03c3\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Sputnik \u03b8\u03b1 \u03b5\u03b9\u03c3\u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c7\u03ce\u03c1\u03b1 https://t.co/75af742c9y"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453412588524605447,
+            "created_at": "2021-10-27 17:25:38+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359127\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.capital.gr/diethni/3591277/embolio-gia-koronoio-enisxutiki-dosi-gia-tous-ano-ton-65-eton-sti-souidia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635338801",
+                        "start": 90,
+                        "url": "https://t.co/VAM3D35hqs"
+                    }
+                ]
+            },
+            "id": 1453412588524605447,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453377547534753798 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc: \u0395\u03bd\u03b9\u03c3\u03c7\u03c5\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 65 \u03b5\u03c4\u03ce\u03bd \u03c3\u03c4\u03b7 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1 https://t.co/VAM3D35hqs"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453395174009212937,
+            "created_at": "2021-10-27 16:16:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3591167\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.capital.gr/health/3591167/exete-kanei-embolio-johnson-ti-isxuei-gia-ti-deuteri-dosi-kai-me-poio-skeuasma?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635317312",
+                        "start": 95,
+                        "url": "https://t.co/kbKLczC59L"
+                    }
+                ]
+            },
+            "id": 1453395174009212937,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453258043433553926 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0388\u03c7\u03b5\u03c4\u03b5 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Johnson; \u03a4\u03b9 \u03b9\u03c3\u03c7\u03cd\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03c0\u03bf\u03b9\u03bf \u03c3\u03ba\u03b5\u03cd\u03b1\u03c3\u03bc\u03b1 https://t.co/kbKLczC59L"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453393744871497733,
+            "created_at": "2021-10-27 16:10:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 121,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591294/novavax-upebale-aitima-egkrisis-gia-to-embolio-kata-tou-koronoiou-sti-m-bretania?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635344979",
+                        "start": 98,
+                        "url": "https://t.co/TsoVYZCq1v"
+                    }
+                ]
+            },
+            "id": 1453393744871497733,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453375914511904777 type=retweeted"
+            ],
+            "text": "RT @capitalgr: Novavax: \u03a5\u03c0\u03ad\u03b2\u03b1\u03bb\u03b5 \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7 \u039c. \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1 https://t.co/TsoVYZCq1v"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453377547534753798,
+            "created_at": "2021-10-27 15:06:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359127\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.capital.gr/diethni/3591277/embolio-gia-koronoio-enisxutiki-dosi-gia-tous-ano-ton-65-eton-sti-souidia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635338801",
+                        "start": 75,
+                        "url": "https://t.co/VAM3D35hqs"
+                    }
+                ]
+            },
+            "id": 1453377547534753798,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc: \u0395\u03bd\u03b9\u03c3\u03c7\u03c5\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 65 \u03b5\u03c4\u03ce\u03bd \u03c3\u03c4\u03b7 \u03a3\u03bf\u03c5\u03b7\u03b4\u03af\u03b1 https://t.co/VAM3D35hqs"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453375914511904777,
+            "created_at": "2021-10-27 14:59:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591294/novavax-upebale-aitima-egkrisis-gia-to-embolio-kata-tou-koronoiou-sti-m-bretania?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635344979",
+                        "start": 83,
+                        "url": "https://t.co/TsoVYZCq1v"
+                    }
+                ]
+            },
+            "id": 1453375914511904777,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Novavax: \u03a5\u03c0\u03ad\u03b2\u03b1\u03bb\u03b5 \u03b1\u03af\u03c4\u03b7\u03bc\u03b1 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7 \u039c. \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1 https://t.co/TsoVYZCq1v"
+        }
+    ]
+}

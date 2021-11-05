@@ -1,0 +1,130 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2016-07-01 10:45:25+00:00",
+                "description": "",
+                "id": 748829858428583936,
+                "name": "\u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1",
+                "public_metrics": {
+                    "followers_count": 1780,
+                    "following_count": 121,
+                    "listed_count": 46,
+                    "tweet_count": 47882
+                },
+                "username": "praktoreiomaced",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-10 10:08:16+00:00",
+                "description": "\u0391\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc - \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03cc \u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd: \u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03c0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 |English: @amna_newseng |Sport: @amna_sportgr",
+                "id": 250058740,
+                "name": "\u0391\u03a0\u0395-\u039c\u03a0\u0395",
+                "public_metrics": {
+                    "followers_count": 85174,
+                    "following_count": 3649,
+                    "listed_count": 997,
+                    "tweet_count": 392053
+                },
+                "username": "amna_news",
+                "verified": true
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 748829858428583936,
+            "conversation_id": 1454888900552441856,
+            "created_at": "2021-10-31 19:11:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 92,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/597292/Thessaloniki-Sugkentrosi-kai-poreia-pragmatopoiisan-antiemboliastes",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1454888901039071232/XZbnbDOp?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454888901039071232/XZbnbDOp?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 69,
+                        "status": 200,
+                        "title": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03b3\u03ba\u03ad\u03bd\u03c4\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03bd \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597292&cat=macedonia&title=Thessaloniki-Sugkentrosi-kai-poreia-pragmatopoiisan-antiemboliastes",
+                        "url": "https://t.co/w3FVdKflHk"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/dOfnsTbgpr",
+                        "end": 116,
+                        "expanded_url": "https://twitter.com/praktoreiomaced/status/1454888900552441856/photo/1",
+                        "start": 93,
+                        "url": "https://t.co/dOfnsTbgpr"
+                    }
+                ]
+            },
+            "id": 1454888900552441856,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03b3\u03ba\u03ad\u03bd\u03c4\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03bd \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2\n\nhttps://t.co/w3FVdKflHk https://t.co/dOfnsTbgpr"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1454888590488580099,
+            "created_at": "2021-10-31 19:10:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 0,
+                        "tag": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/macedonia/arti\u2026",
+                        "end": 93,
+                        "expanded_url": "https://www.amna.gr/macedonia/article/597292/",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1454888591000227843/78Tld2Hi?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454888591000227843/78Tld2Hi?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 70,
+                        "status": 200,
+                        "title": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03b3\u03ba\u03ad\u03bd\u03c4\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03bd \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597292&cat=macedonia&title=",
+                        "url": "https://t.co/dScjeuHKaR"
+                    }
+                ]
+            },
+            "id": 1454888590488580099,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 3,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03b3\u03ba\u03ad\u03bd\u03c4\u03c1\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1\u03bd \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2\n\nhttps://t.co/dScjeuHKaR"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2019-12-01 09:30:08+00:00",
+                "description": "",
+                "id": 1201070773697429505,
+                "name": "dimpenewscom1",
+                "public_metrics": {
+                    "followers_count": 343,
+                    "following_count": 1179,
+                    "listed_count": 7,
+                    "tweet_count": 23188
+                },
+                "username": "dimpenewscom1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1201070773697429505,
+            "conversation_id": 1455611581476265992,
+            "created_at": "2021-11-02 19:03:39+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 47,
+                        "start": 38,
+                        "tag": "\u03a1\u03bf\u03c5\u03bc\u03b1\u03bd\u03af\u03b1"
+                    },
+                    {
+                        "end": 76,
+                        "start": 62,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 102,
+                        "start": 94,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 208,
+                        "start": 200,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 221,
+                        "start": 209,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 231,
+                        "start": 222,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dimpenews.com/2021/11/02/133\u2026",
+                        "end": 256,
+                        "expanded_url": "https://dimpenews.com/2021/11/02/133757/",
+                        "start": 233,
+                        "url": "https://t.co/MNfci2GaIt"
+                    }
+                ]
+            },
+            "id": 1455611581476265992,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03b8\u03bd\u03b9\u03ba\u03cc \u0399\u03bd\u03c3\u03c4\u03b9\u03c4\u03bf\u03cd\u03c4\u03bf \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 #\u03a1\u03bf\u03c5\u03bc\u03b1\u03bd\u03af\u03b1 \u03c2: \u03a4\u03bf 50% \u03c4\u03c9\u03bd #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 \u03c0\u03c1\u03bf\u03c3\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03b1\u03c0\u03cc #COVID19 . \u039f\u03b9 \u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03bf \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b1\u03bd \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03bc\u03cc\u03bb\u03c5\u03bd\u03c3\u03b7\u03c2. #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 #lockdown \nhttps://t.co/MNfci2GaIt"
+        },
+        {
+            "author_id": 1201070773697429505,
+            "conversation_id": 1455260798389981188,
+            "created_at": "2021-11-01 19:49:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 14,
+                        "start": 5,
+                        "tag": "\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1"
+                    },
+                    {
+                        "end": 71,
+                        "start": 59,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 84,
+                        "start": 76,
+                        "tag": "covid19"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 111,
+                        "start": 102,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dimpenews.com/2021/11/01/%cf\u2026",
+                        "end": 136,
+                        "expanded_url": "https://dimpenews.com/2021/11/01/%cf%83%cf%84%ce%b7%ce%bd-%ce%bf%cf%85%ce%ba%cf%81%ce%b1%ce%bd%ce%af%ce%b1-%ce%bd%ce%ad%ce%b1-%ce%ba%ce%bf%cf%80%ce%ad%ce%bb%ce%b1-%ce%ba%ce%b1%cf%84%ce%b1%cf%81%cf%81%ce%ad%ce%b5%ce%b9-%ce%b5%cf%85/",
+                        "start": 113,
+                        "url": "https://t.co/W306AiAaVp"
+                    }
+                ]
+            },
+            "id": 1455260798389981188,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03c4\u03b7\u03bd #\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03af\u03b1  \u03bd\u03ad\u03b1 \u03ba\u03bf\u03c0\u03ad\u03bb\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c1\u03c1\u03ad\u03b5\u03b9 \u03b5\u03c5\u03b8\u03cd\u03c2 \u03b1\u03bc\u03ad\u03c3\u03c9\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 \u03b3\u03b9\u03b1 #covid19! BINTEO #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #lockdown \nhttps://t.co/W306AiAaVp"
+        },
+        {
+            "author_id": 1201070773697429505,
+            "conversation_id": 1453352464703541250,
+            "created_at": "2021-10-27 13:26:44+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 5,
+                        "tag": "\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9"
+                    },
+                    {
+                        "end": 88,
+                        "start": 74,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 98,
+                        "tag": "NoamChomsky"
+                    },
+                    {
+                        "end": 119,
+                        "start": 111,
+                        "tag": "covid19"
+                    },
+                    {
+                        "end": 129,
+                        "start": 120,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Metropolis Year: 1927 \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u2019 \u03b1\u03bd\u03b1\u03c4\u03c1\u03ad\u03be\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03b9 \u03bc\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c6\u03c5\u03bb\u03ac\u03c3\u03c3\u03b5\u03b9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03c9\u03bd \u03c6\u03bf\u03c5\u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03ce\u03bd, \u03c4\u03c9\u03bd \u03b2\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03c3\u03c4\u03ce\u03bd. \u03a3\u03c4\u03b7\u03bd \u03bf\u03bc\u03ce\u03bd\u03c5\u03bc\u03b7 \u03c4\u03b1\u03b9\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 1927 \u03b7 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb \u03b5\u03af\u03bd\u03b1\u2026",
+                        "display_url": "dimpenews.com/2021/10/27/%ce\u2026",
+                        "end": 154,
+                        "expanded_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "images": [
+                            {
+                                "height": 482,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 131,
+                        "status": 200,
+                        "title": "\u0397 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb (Metropolis)\u00a0 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd! \u039f\u03b9 \u03bc\u03b5\u03bd \u03c3\u2019\u03b5\u03c0\u03af\u03b3\u03b5\u03b9\u03bf \u03ba\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf, \u03bf\u03b9 \u03b4\u03b5 \u03c3\u2019 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf lockdown!A\u03c5\u03c3\u03c4\u03c1\u03af\u03b1, \u03c0\u03c1\u03bf\u03c2 lockdown \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039d\u03cc\u03b1\u03bc \u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9, \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u2026!!",
+                        "unwound_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "url": "https://t.co/JHOs4e1irR"
+                    }
+                ]
+            },
+            "id": 1453352464703541250,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03cc\u03b1\u03bc #\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9,\u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1!#\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #NoamChomsky #covid19 #lockdown \nhttps://t.co/JHOs4e1irR"
+        },
+        {
+            "author_id": 1201070773697429505,
+            "conversation_id": 1453349965263147010,
+            "created_at": "2021-10-27 13:16:48+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 14,
+                        "tag": "Metropolis"
+                    },
+                    {
+                        "end": 121,
+                        "start": 112,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 171,
+                        "start": 163,
+                        "tag": "\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9"
+                    },
+                    {
+                        "end": 246,
+                        "start": 232,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 255,
+                        "start": 247,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Metropolis Year: 1927 \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u2019 \u03b1\u03bd\u03b1\u03c4\u03c1\u03ad\u03be\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03b9 \u03bc\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c6\u03c5\u03bb\u03ac\u03c3\u03c3\u03b5\u03b9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03c9\u03bd \u03c6\u03bf\u03c5\u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03ce\u03bd, \u03c4\u03c9\u03bd \u03b2\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03c3\u03c4\u03ce\u03bd. \u03a3\u03c4\u03b7\u03bd \u03bf\u03bc\u03ce\u03bd\u03c5\u03bc\u03b7 \u03c4\u03b1\u03b9\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 1927 \u03b7 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb \u03b5\u03af\u03bd\u03b1\u2026",
+                        "display_url": "dimpenews.com/2021/10/27/%ce\u2026",
+                        "end": 279,
+                        "expanded_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "images": [
+                            {
+                                "height": 482,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 256,
+                        "status": 200,
+                        "title": "\u0397 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb (Metropolis)\u00a0 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd! \u039f\u03b9 \u03bc\u03b5\u03bd \u03c3\u2019\u03b5\u03c0\u03af\u03b3\u03b5\u03b9\u03bf \u03ba\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf, \u03bf\u03b9 \u03b4\u03b5 \u03c3\u2019 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf lockdown!A\u03c5\u03c3\u03c4\u03c1\u03af\u03b1, \u03c0\u03c1\u03bf\u03c2 lockdown \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039d\u03cc\u03b1\u03bc \u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9, \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u2026!!",
+                        "unwound_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "url": "https://t.co/JHOs4e1irR"
+                    }
+                ]
+            },
+            "id": 1453349965263147010,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb(#Metropolis)\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd+ \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039f\u03b9 \u03bc\u03b5\u03bd \u03c3'\u03b5\u03c0\u03af\u03b3\u03b5\u03b9\u03bf \u03ba\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf,\u03bf\u03b9 \u03b4\u03b5 \u03c3'\u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf #lockdown!A\u03c5\u03c3\u03c4\u03c1\u03af\u03b1,\u03c0\u03c1\u03bf\u03c2 lockdown \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039d\u03cc\u03b1\u03bc #\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9,\u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1!#\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 https://t.co/JHOs4e1irR"
+        },
+        {
+            "author_id": 1201070773697429505,
+            "conversation_id": 1453347791267368961,
+            "created_at": "2021-10-27 13:08:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 14,
+                        "tag": "Metropolis"
+                    },
+                    {
+                        "end": 121,
+                        "start": 112,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 171,
+                        "start": 163,
+                        "tag": "\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9"
+                    },
+                    {
+                        "end": 246,
+                        "start": 232,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 255,
+                        "start": 247,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Metropolis Year: 1927 \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u2019 \u03b1\u03bd\u03b1\u03c4\u03c1\u03ad\u03be\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03bf \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03b9 \u03bc\u03b1\u03c2 \u03b5\u03c0\u03b9\u03c6\u03c5\u03bb\u03ac\u03c3\u03c3\u03b5\u03b9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03c9\u03bd \u03c6\u03bf\u03c5\u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03ce\u03bd, \u03c4\u03c9\u03bd \u03b2\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03c3\u03c4\u03ce\u03bd. \u03a3\u03c4\u03b7\u03bd \u03bf\u03bc\u03ce\u03bd\u03c5\u03bc\u03b7 \u03c4\u03b1\u03b9\u03bd\u03af\u03b1 \u03c4\u03bf\u03c5 1927 \u03b7 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb \u03b5\u03af\u03bd\u03b1\u2026",
+                        "display_url": "dimpenews.com/2021/10/27/%ce\u2026",
+                        "end": 280,
+                        "expanded_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "images": [
+                            {
+                                "height": 482,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453119881428230146/Dco75F-z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 257,
+                        "status": 200,
+                        "title": "\u0397 \u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb (Metropolis)\u00a0 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd! \u039f\u03b9 \u03bc\u03b5\u03bd \u03c3\u2019\u03b5\u03c0\u03af\u03b3\u03b5\u03b9\u03bf \u03ba\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf, \u03bf\u03b9 \u03b4\u03b5 \u03c3\u2019 \u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf lockdown!A\u03c5\u03c3\u03c4\u03c1\u03af\u03b1, \u03c0\u03c1\u03bf\u03c2 lockdown \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039d\u03cc\u03b1\u03bc \u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9, \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u2026!!",
+                        "unwound_url": "https://dimpenews.com/2021/10/27/%ce%b7-%ce%bc%ce%b7%cf%84%cf%81%cf%8c%cf%80%ce%bf%ce%bb%ce%b9%cf%82-metropolis-%cf%84%cf%89%ce%bd-%ce%b5%ce%bc%ce%b2%ce%bf%ce%bb%ce%b9%ce%b1%cf%83%ce%bc%ce%ad%ce%bd%cf%89%ce%bd/",
+                        "url": "https://t.co/JHOs4e1irR"
+                    }
+                ]
+            },
+            "id": 1453347791267368961,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u00ab\u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b9\u03c2\u00bb(#Metropolis)\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd+ \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039f\u03b9 \u03bc\u03b5\u03bd \u03c3'\u03b5\u03c0\u03af\u03b3\u03b5\u03b9\u03bf \u03ba\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf,\u03bf\u03b9 \u03b4\u03b5 \u03c3'\u03c5\u03c0\u03cc\u03b3\u03b5\u03b9\u03bf #lockdown!A\u03c5\u03c3\u03c4\u03c1\u03af\u03b1,\u03c0\u03c1\u03bf\u03c2 lockdown \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd!\u039d\u03cc\u03b1\u03bc #\u03a4\u03c3\u03cc\u03bc\u03c3\u03ba\u03b9,\u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u0391\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1!#\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 \nhttps://t.co/JHOs4e1irR"
+        }
+    ]
+}

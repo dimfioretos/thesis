@@ -1,0 +1,462 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 521308614,
+                "conversation_id": 1455045713243430914,
+                "created_at": "2021-11-01 05:35:06+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBfvWX",
+                            "end": 132,
+                            "expanded_url": "http://dlvr.it/SBfvWX",
+                            "start": 109,
+                            "url": "https://t.co/zjoSvj6lhv"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/FSpIyNIj3G",
+                            "end": 156,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1455045713243430914/photo/1",
+                            "start": 133,
+                            "url": "https://t.co/FSpIyNIj3G"
+                        }
+                    ]
+                },
+                "id": 1455045713243430914,
+                "public_metrics": {
+                    "like_count": 19,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/zjoSvj6lhv https://t.co/FSpIyNIj3G"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-10-03 12:48:54+00:00",
+                "description": "\u03a0\u03b1\u03b5\u03b9 \u03ba\u03b1\u03b9\u03c1\u03bf\u03c2 \u03c0\u03bf\u03c5 T\u03bf \u03b5\u03c3\u03ba\u03b1\u03c3\u03b1 \u03b1\u03c0\u03bf \u03c4\u03bf silver Alert .\n\u0393\u03b5\u03c1\u03bf\u03c2, \u03c7\u03bf\u03bd\u03c4\u03c1\u03bf\u03c2,\u03ba\u03b1\u03ba\u03bf\u03c2,\u03b3\u03ba\u03c1\u03b9\u03bd\u03b9\u03b1\u03c1\u03b7\u03c2, \u03b1\u03c3\u03ba\u03b7\u03bc\u03bf\u03c2 , \u0395\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2, \u03a3\u03c4\u03c1\u03b5\u03b9\u03c4  \u03c6\u03c4\u03c9\u03c7\u03bf\u03c2. \u039c\u03b5 \u03b5\u03c0\u03b9\u03bb\u03b5\u03ba\u03c4\u03b9\u03ba\u03bf Altzxaimer\n\u039c\u03b1\u03ba\u03c1\u03b9\u03b1 \u03b1\u03c0\u03bf \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03b7",
+                "id": 1312373942980665344,
+                "name": "gianis.makris104",
+                "public_metrics": {
+                    "followers_count": 2474,
+                    "following_count": 4992,
+                    "listed_count": 0,
+                    "tweet_count": 23632
+                },
+                "username": "makris104",
+                "verified": false
+            },
+            {
+                "created_at": "2015-05-26 22:00:00+00:00",
+                "description": "",
+                "id": 3299840896,
+                "name": "Makel Aris",
+                "public_metrics": {
+                    "followers_count": 35,
+                    "following_count": 121,
+                    "listed_count": 0,
+                    "tweet_count": 12
+                },
+                "username": "makeleio",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-20 14:08:24+00:00",
+                "description": "xrusaugitis!!!! kai aksiomatikos emporikou nautikou",
+                "id": 1443913831,
+                "name": "mpampis mentis",
+                "public_metrics": {
+                    "followers_count": 133,
+                    "following_count": 1339,
+                    "listed_count": 0,
+                    "tweet_count": 7603
+                },
+                "username": "MentisMpampis",
+                "verified": false
+            },
+            {
+                "created_at": "2018-12-23 17:16:39+00:00",
+                "description": "\u03a4\u03bf\u03c5\u03c4\u03b5\u03c3\u03c4\u03b7\u03bd \u03c4\u03bf \u03b1\u03c5\u03c4\u03bf!!",
+                "id": 1076889333179785217,
+                "name": "Titanikos",
+                "public_metrics": {
+                    "followers_count": 419,
+                    "following_count": 544,
+                    "listed_count": 4,
+                    "tweet_count": 10213
+                },
+                "username": "jPf95afiuA7INjQ",
+                "verified": false
+            },
+            {
+                "created_at": "2016-03-20 13:48:49+00:00",
+                "description": "\u039f \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b4\u03b7\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03be\u03ac\u03c1\u03c4\u03b7\u03c4\u03bf\u03c2 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2 \u03bc\u03ad\u03bb\u03bf\u03c2 \u03c3\u03c4\u03b7\u03bd \u00ab\u0395\u039d\u03a9\u03a3\u0397 \u03a3\u03a5\u039d\u03a4\u0391\u039a\u03a4\u03a9\u039d \u0395\u03a6\u0397\u039c\u0395\u03a1\u0399\u0394\u03a9\u039d, \u03a0\u0395\u03a1\u0399\u039f\u0394\u0399\u039a\u03a9\u039d \u039a\u0391\u0399 \u0397\u039b\u0395\u039a\u03a4\u03a1\u039f\u039d\u0399\u039a\u03a9\u039d \u039c\u0395\u03a3\u03a9\u039d \u0392\u039f\u03a1\u0395\u0399\u039f\u03a5 \u0395\u039b\u039b\u0391\u0394\u039f\u03a3\u00bb. \u039c\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u0394.\u03a3.",
+                "id": 711550060413251589,
+                "name": "Pieria.tv",
+                "public_metrics": {
+                    "followers_count": 52,
+                    "following_count": 14,
+                    "listed_count": 2,
+                    "tweet_count": 3215
+                },
+                "username": "PIERIA_tv",
+                "verified": false
+            },
+            {
+                "created_at": "2015-09-10 15:05:56+00:00",
+                "description": "",
+                "id": 3610407573,
+                "name": "Akis Monahogios",
+                "public_metrics": {
+                    "followers_count": 65,
+                    "following_count": 557,
+                    "listed_count": 0,
+                    "tweet_count": 44
+                },
+                "username": "eytyxios78",
+                "verified": false
+            },
+            {
+                "created_at": "2021-09-06 20:52:47+00:00",
+                "description": "",
+                "id": 1434982817327374336,
+                "name": "A\u03a1\u039d\u0397\u03a4\u0397\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u03a5",
+                "public_metrics": {
+                    "followers_count": 15,
+                    "following_count": 34,
+                    "listed_count": 0,
+                    "tweet_count": 345
+                },
+                "username": "dimitrioslimni6",
+                "verified": false
+            },
+            {
+                "created_at": "2015-09-11 14:20:38+00:00",
+                "description": "",
+                "id": 3621081261,
+                "name": "Epameinondas",
+                "public_metrics": {
+                    "followers_count": 45,
+                    "following_count": 27,
+                    "listed_count": 0,
+                    "tweet_count": 553
+                },
+                "username": "Epameinondas51",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-16 09:41:34+00:00",
+                "description": "DEUS. ex. machina",
+                "id": 391933746,
+                "name": "JohnBlue",
+                "public_metrics": {
+                    "followers_count": 618,
+                    "following_count": 389,
+                    "listed_count": 5,
+                    "tweet_count": 221239
+                },
+                "username": "imonaxos",
+                "verified": false
+            },
+            {
+                "created_at": "2012-03-11 13:11:40+00:00",
+                "description": "\u039c\u03b1\u03ba\u03b5\u03bb\u03b5\u03b9\u03cc | \u03a4\u03bf Site \u03c4\u03c9\u03bd \u039c\u03b5\u03b3\u03ac\u03bb\u03c9\u03bd \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03c9\u03bd",
+                "id": 521308614,
+                "name": "Makeleio.gr",
+                "public_metrics": {
+                    "followers_count": 18037,
+                    "following_count": 2894,
+                    "listed_count": 108,
+                    "tweet_count": 359228
+                },
+                "username": "Makeleio_gr",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1312373942980665344,
+            "conversation_id": 1455439606283919364,
+            "created_at": "2021-11-02 07:40:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 166,
+                        "id": "3299840896",
+                        "start": 157,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/LWjByybYsa"
+                    }
+                ]
+            },
+            "id": 1455439606283919364,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/LWjByybYsa via @Makeleio.gr"
+        },
+        {
+            "author_id": 1443913831,
+            "conversation_id": 1455350791200460806,
+            "created_at": "2021-11-02 01:47:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 167,
+                        "id": "3299840896",
+                        "start": 158,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/MYfI2CY5za"
+                    }
+                ]
+            },
+            "id": 1455350791200460806,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/MYfI2CY5za \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 1076889333179785217,
+            "conversation_id": 1455328543219625984,
+            "created_at": "2021-11-02 00:18:58+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 167,
+                        "id": "3299840896",
+                        "start": 158,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/tpkcymdn9i"
+                    }
+                ]
+            },
+            "id": 1455328543219625984,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/tpkcymdn9i \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr !!\u03a4\u0391 \u0399\u0394\u0399\u0391 \u039b\u0395\u039c\u0395 20 \u039c\u0397\u039d\u0395\u03a3,\u03a4\u0391 \u0399\u0394\u0399\u0391 \u03a4\u0391 \u0399\u0394\u0399\u0391 \u03a4\u0391 \u0399\u0394\u0399\u0391...."
+        },
+        {
+            "author_id": 711550060413251589,
+            "conversation_id": 1455310067687907337,
+            "created_at": "2021-11-01 23:05:33+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 242,
+                        "id": "3299840896",
+                        "start": 233,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 227,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 204,
+                        "url": "https://t.co/QWawjaXUp9"
+                    }
+                ]
+            },
+            "id": 1455310067687907337,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "(\u0388\u03bd\u03b1 \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03c0\u03bf\u03c5 \u03b1\u03be\u03af\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03c4\u03ad\u03bb\u03bf\u03c5\u03c2. \u03a4\u03b1 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03ac\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b4\u03b9\u03ba\u03ac \u03c3\u03b1\u03c2).\n\n\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/QWawjaXUp9 \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 3610407573,
+            "conversation_id": 1455275491892637698,
+            "created_at": "2021-11-01 20:48:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 178,
+                        "id": "3299840896",
+                        "start": 169,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/Fg2gUj9x2O"
+                    }
+                ]
+            },
+            "id": 1455275491892637698,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/Fg2gUj9x2O \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 @Makeleio.gr"
+        },
+        {
+            "author_id": 1434982817327374336,
+            "conversation_id": 1455223392244748288,
+            "created_at": "2021-11-01 17:21:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 166,
+                        "id": "3299840896",
+                        "start": 157,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/dstnnZYeSg"
+                    }
+                ]
+            },
+            "id": 1455223392244748288,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/dstnnZYeSg via @Makeleio.gr"
+        },
+        {
+            "author_id": 3621081261,
+            "conversation_id": 1455087440956469248,
+            "created_at": "2021-11-01 08:20:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 167,
+                        "id": "3299840896",
+                        "start": 158,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%9c%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "start": 129,
+                        "url": "https://t.co/Zn547I6YhR"
+                    }
+                ]
+            },
+            "id": 1455087440956469248,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; &amp;#8220;\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2&amp;#8221;(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/Zn547I6YhR \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 391933746,
+            "conversation_id": 1455063009257267202,
+            "created_at": "2021-11-01 06:43:49+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455063009257267202,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455045713243430914 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/\u2026"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1455045713243430914,
+            "created_at": "2021-11-01 05:35:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBfvWX",
+                        "end": 132,
+                        "expanded_url": "http://dlvr.it/SBfvWX",
+                        "start": 109,
+                        "url": "https://t.co/zjoSvj6lhv"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/FSpIyNIj3G",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1455045713243430914/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/FSpIyNIj3G"
+                    }
+                ]
+            },
+            "id": 1455045713243430914,
+            "public_metrics": {
+                "like_count": 19,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f) https://t.co/zjoSvj6lhv https://t.co/FSpIyNIj3G"
+        }
+    ]
+}

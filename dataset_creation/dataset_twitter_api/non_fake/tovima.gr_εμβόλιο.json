@@ -1,0 +1,661 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 231807647,
+                "conversation_id": 1455417476536279040,
+                "created_at": "2021-11-02 06:12:21+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                            "end": 104,
+                            "expanded_url": "https://www.tovima.gr/2021/11/02/society/pleyris-to-emvolio-einai-i-lysi-metra-eleytherias-gia-osous-exoun-emvoliastei/",
+                            "start": 81,
+                            "url": "https://t.co/jicuIbxDzb"
+                        }
+                    ]
+                },
+                "id": 1455417476536279040,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03bb\u03cd\u03c3\u03b7 \u2013 \u039c\u03ad\u03c4\u03c1\u03b1 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af https://t.co/jicuIbxDzb"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1454168367628173333,
+                "created_at": "2021-10-29 19:28:50+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u038a\u03c3\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf FDA \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd",
+                            "display_url": "tovima.gr/2021/10/29/wor\u2026",
+                            "end": 97,
+                            "expanded_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                            "images": [
+                                {
+                                    "height": 394,
+                                    "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=orig",
+                                    "width": 700
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 74,
+                            "status": 200,
+                            "title": "Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                            "unwound_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                            "url": "https://t.co/RBYqh3TFqB"
+                        }
+                    ]
+                },
+                "id": 1454168367628173333,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd https://t.co/RBYqh3TFqB"
+            },
+            {
+                "author_id": 231807647,
+                "conversation_id": 1453593620389502976,
+                "created_at": "2021-10-28 05:25:00+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                            "end": 81,
+                            "expanded_url": "https://www.tovima.gr/2021/10/27/society/emvolio-1-stous-5-ellines-dilonei-distaktikos-i-arnitis/",
+                            "start": 58,
+                            "url": "https://t.co/RyPkjNWlkV"
+                        }
+                    ]
+                },
+                "id": 1453593620389502976,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/RyPkjNWlkV"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-12-29 14:39:08+00:00",
+                "description": "\u03a4\u03bf \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03c0\u03c1\u03bf\u03c6\u03af\u03bb \u03c4\u03b7\u03c2 \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1\u03c2 \u03a4\u039f \u0392\u0397\u039c\u0391 - The official Twitter page for the newspaper/portal Tovima.gr",
+                "id": 231807647,
+                "name": "\u03a4\u03bf \u0392\u03ae\u03bc\u03b1  - To Vima",
+                "public_metrics": {
+                    "followers_count": 229794,
+                    "following_count": 57,
+                    "listed_count": 1277,
+                    "tweet_count": 342333
+                },
+                "username": "tovimagr",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-04 14:27:35+00:00",
+                "description": "\u03a4\u039f \u0392\u0397\u039c\u0391",
+                "id": 988888963,
+                "name": "\u0391\u03bd\u03c4\u03ce\u03bd\u03b7\u03c2 \u039a\u03b1\u03c1\u03b1\u03ba\u03bf\u03cd\u03c3\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 12347,
+                    "following_count": 877,
+                    "listed_count": 160,
+                    "tweet_count": 77625
+                },
+                "username": "akarakousis",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-09 16:56:19+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2, \u03a3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2, \u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03af\u03b1\u03c2, \u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03ae\u03c2\n\nFacebook: theodosis zervoudakis vi & instagram   @tzervoudakis",
+                "id": 295773075,
+                "name": "\u0398\u03b5\u03bf\u03b4\u03cc\u03c3\u03b7\u03c2\u00a0\u0396\u03b5\u03c1\u03b2\u03bf\u03c5\u03b4\u03ac\u03ba\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 65676,
+                    "following_count": 268,
+                    "listed_count": 20,
+                    "tweet_count": 50622
+                },
+                "username": "tzervoudakis",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-30 17:07:49+00:00",
+                "description": "\u03c0\u03c1. \u0391\u03bd\u03c4\u03b9\u03c0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03ac\u03c1\u03c7\u03b7\u03c2 \u03a4\u03bf\u03c5\u03c1\u03b9\u03c3\u03bc\u03bf\u03cd \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd/\n\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03cc\u03c2 \u03a3\u03cd\u03bc\u03b2\u03bf\u03c5\u03bb\u03bf\u03c2  /\u0393\u03b5\u03c9\u03c0\u03cc\u03bd\u03bf\u03c2/ \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03af\u03b1\u03c2",
+                "id": 61539782,
+                "name": "\u03a3\u03ac\u03ba\u03b7\u03c2  \u03a0\u03b1\u03b9\u03b4\u03ae\u03c2",
+                "public_metrics": {
+                    "followers_count": 9661,
+                    "following_count": 7639,
+                    "listed_count": 25,
+                    "tweet_count": 4935
+                },
+                "username": "pediss",
+                "verified": false
+            },
+            {
+                "created_at": "2011-04-28 19:12:05+00:00",
+                "description": "\u2022Business, Politics, Culture, Media\u2022 PACHILAS GROUP -CEO- |\nNPCGROUP_SA -CEO- |\n\u038c\u03bc\u03b9\u03bb\u03bf\u03c2 \u0395\u03a3\u03a4\u0399\u0391 \u0395\u03a0\u0395\u039d\u0394\u03a5\u03a4\u0399\u039a\u0397 \u039c\u039c\u0395 \u0391.\u0395.",
+                "id": 289498635,
+                "name": "Nikos Pachilas | \u039d\u03af\u03ba\u03bf\u03c2 \u03a0\u03b1\u03c7\u03cd\u03bb\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 2342,
+                    "following_count": 2132,
+                    "listed_count": 15,
+                    "tweet_count": 139267
+                },
+                "username": "NikosPachilas",
+                "verified": false
+            },
+            {
+                "created_at": "2016-01-06 13:09:19+00:00",
+                "description": "",
+                "id": 4724929942,
+                "name": "nantia Pisces",
+                "public_metrics": {
+                    "followers_count": 494,
+                    "following_count": 198,
+                    "listed_count": 0,
+                    "tweet_count": 21011
+                },
+                "username": "nantia2132000",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748249
+                },
+                "username": "entypos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455776667188801536,
+            "created_at": "2021-11-03 05:59:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/03/sci\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.tovima.gr/2021/11/03/science/enisxytiki-dosi-poio-emvolio-prostateyei-kalytera-enanti-ton-neon-stelexon-tou-koronoiou/",
+                        "start": 91,
+                        "url": "https://t.co/I7cH4NTztI"
+                    }
+                ]
+            },
+            "id": 1455776667188801536,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bd\u03b9\u03c3\u03c7\u03c5\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u2013 \u03a0\u03bf\u03b9\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03c3\u03c4\u03b5\u03bb\u03b5\u03c7\u03ce\u03bd \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/I7cH4NTztI"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455654683952001029,
+            "created_at": "2021-11-02 21:54:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/emvolio-triti-dosi-anoigei-tin-paraskeyi-i-platforma-gia-olous/",
+                        "start": 66,
+                        "url": "https://t.co/Q7VfiqFUp6"
+                    }
+                ]
+            },
+            "id": 1455654683952001029,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7: \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/Q7VfiqFUp6"
+        },
+        {
+            "author_id": 988888963,
+            "conversation_id": 1455583823173980162,
+            "created_at": "2021-11-02 17:13:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/emvolio-triti-dosi-anoigei-tin-paraskeyi-i-platforma-gia-olous/",
+                        "start": 66,
+                        "url": "https://t.co/9O9mFdAHKU"
+                    }
+                ]
+            },
+            "id": 1455583823173980162,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7: \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/9O9mFdAHKU"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455430175907328003,
+            "created_at": "2021-11-02 07:02:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/sci\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/science/emvolio-kata-tou-koronoiou-meionei-ton-kindyno-thanatou-apo-alles-aities/",
+                        "start": 74,
+                        "url": "https://t.co/49OSkV4Lay"
+                    }
+                ]
+            },
+            "id": 1455430175907328003,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd \u2013 \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/49OSkV4Lay"
+        },
+        {
+            "author_id": 295773075,
+            "conversation_id": 1455420276439752704,
+            "created_at": "2021-11-02 06:23:28+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/pleyris-to-emvolio-einai-i-lysi-metra-eleytherias-gia-osous-exoun-emvoliastei/",
+                        "start": 95,
+                        "url": "https://t.co/jicuIbxDzb"
+                    }
+                ]
+            },
+            "id": 1455420276439752704,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455417476536279040 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03bb\u03cd\u03c3\u03b7 \u2013 \u039c\u03ad\u03c4\u03c1\u03b1 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af https://t.co/jicuIbxDzb"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455417476536279040,
+            "created_at": "2021-11-02 06:12:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/02/soc\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.tovima.gr/2021/11/02/society/pleyris-to-emvolio-einai-i-lysi-metra-eleytherias-gia-osous-exoun-emvoliastei/",
+                        "start": 81,
+                        "url": "https://t.co/jicuIbxDzb"
+                    }
+                ]
+            },
+            "id": 1455417476536279040,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03bb\u03cd\u03c3\u03b7 \u2013 \u039c\u03ad\u03c4\u03c1\u03b1 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af https://t.co/jicuIbxDzb"
+        },
+        {
+            "author_id": 61539782,
+            "conversation_id": 1455242488839553024,
+            "created_at": "2021-11-01 18:37:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/society/theodoridou-apo-ti-epireazetai-i-anosia-to-emvolio-pio-apotelesmatiko-apo-ti-fysiki-nosisi/",
+                        "start": 94,
+                        "url": "https://t.co/GCBk4F6YH7"
+                    }
+                ]
+            },
+            "id": 1455242488839553024,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03af\u03b4\u03bf\u03c5 \u2013 \u0391\u03c0\u03cc \u03c4\u03b9 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7 https://t.co/GCBk4F6YH7"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1455223759699386369,
+            "created_at": "2021-11-01 17:22:35+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/11/01/soc\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.tovima.gr/2021/11/01/society/theodoridou-apo-ti-epireazetai-i-anosia-to-emvolio-pio-apotelesmatiko-apo-ti-fysiki-nosisi/",
+                        "start": 94,
+                        "url": "https://t.co/s3TqQTiMKh"
+                    }
+                ]
+            },
+            "id": 1455223759699386369,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03af\u03b4\u03bf\u03c5 \u2013 \u0391\u03c0\u03cc \u03c4\u03b9 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7 https://t.co/s3TqQTiMKh"
+        },
+        {
+            "author_id": 289498635,
+            "conversation_id": 1454168648994668550,
+            "created_at": "2021-10-29 19:29:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u038a\u03c3\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf FDA \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd",
+                        "display_url": "tovima.gr/2021/10/29/wor\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                        "images": [
+                            {
+                                "height": 394,
+                                "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=orig",
+                                "width": 700
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 88,
+                        "status": 200,
+                        "title": "Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                        "url": "https://t.co/RBYqh3TFqB"
+                    }
+                ]
+            },
+            "id": 1454168648994668550,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454168367628173333 type=retweeted"
+            ],
+            "text": "RT @tovimagr: Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd https://t.co/RBYqh3TFqB"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1454168367628173333,
+            "created_at": "2021-10-29 19:28:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u038a\u03c3\u03c9\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf FDA \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd",
+                        "display_url": "tovima.gr/2021/10/29/wor\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                        "images": [
+                            {
+                                "height": 394,
+                                "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=orig",
+                                "width": 700
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454168367909253121/UIlfWK9a?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/29/world/pfizer-pros-egkrisi-apo-ton-fda-to-emvolio-gia-ta-paidia-apo-pente-eton/",
+                        "url": "https://t.co/RBYqh3TFqB"
+                    }
+                ]
+            },
+            "id": 1454168367628173333,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Pfizer \u2013 \u03a0\u03c1\u03bf\u03c2 \u03ad\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd FDA \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b1\u03c0\u03cc \u03c0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03c4\u03ce\u03bd https://t.co/RBYqh3TFqB"
+        },
+        {
+            "author_id": 4724929942,
+            "conversation_id": 1453597516834934785,
+            "created_at": "2021-10-28 05:40:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "231807647",
+                        "start": 3,
+                        "username": "tovimagr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/emvolio-1-stous-5-ellines-dilonei-distaktikos-i-arnitis/",
+                        "start": 72,
+                        "url": "https://t.co/RyPkjNWlkV"
+                    }
+                ]
+            },
+            "id": 1453597516834934785,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453593620389502976 type=retweeted"
+            ],
+            "text": "RT @tovimagr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/RyPkjNWlkV"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453593620389502976,
+            "created_at": "2021-10-28 05:25:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/emvolio-1-stous-5-ellines-dilonei-distaktikos-i-arnitis/",
+                        "start": 58,
+                        "url": "https://t.co/RyPkjNWlkV"
+                    }
+                ]
+            },
+            "id": 1453593620389502976,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/RyPkjNWlkV"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1453375790436003849,
+            "created_at": "2021-10-27 14:59:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 59,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/o-kimix-o-tsitsipas-kai-to-emvolio/",
+                        "start": 36,
+                        "url": "https://t.co/i703B3ocWI"
+                    }
+                ]
+            },
+            "id": 1453375790436003849,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u039a\u03af\u03bc\u03b9\u03c7, \u03bf \u03a4\u03c3\u03b9\u03c4\u03c3\u03b9\u03c0\u03ac\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf https://t.co/i703B3ocWI"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453353979073765378,
+            "created_at": "2021-10-27 13:32:45+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/soc\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/society/emvolio-1-stous-5-ellines-dilonei-distaktikos-i-arnitis/",
+                        "start": 58,
+                        "url": "https://t.co/RyPkjNWlkV"
+                    }
+                ]
+            },
+            "id": 1453353979073765378,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/RyPkjNWlkV"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453328139929767940,
+            "created_at": "2021-10-27 11:50:04+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0395\u03c6\u03cc\u03c3\u03bf\u03bd \u03b7 \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae FDA \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03c0\u03b1\u03b9\u03b4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b9\u03c2 \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2, \u03b8\u03b1 \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ae\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c0\u03cc\u03bc\u03b5\u03bd\u03b7 \u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b9\u03ba\u03cc \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c6\u03c9\u03c2 \u03c4\u03c9\u03bd \u039a\u03ad\u03bd\u03c4\u03c1\u03c9\u03bd \u0395\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7\u03c2 \u039d\u03bf\u03c3\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "tovima.gr/2021/10/27/sci\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/science/emvolio-thetiki-i-gnomodotisi-tis-fda-gia-tis-ilikies-5-11-eton/",
+                        "images": [
+                            {
+                                "height": 427,
+                                "url": "https://pbs.twimg.com/news_img/1453328143859736578/SmoV2EUF?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453328143859736578/SmoV2EUF?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 65,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03b7 \u03b3\u03bd\u03c9\u03bc\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 FDA \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 5-11 \u03b5\u03c4\u03ce\u03bd - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u03bd\u03ad\u03b1 - \u03a4\u03bf \u0392\u03ae\u03bc\u03b1 Online",
+                        "unwound_url": "https://www.tovima.gr/2021/10/27/science/emvolio-thetiki-i-gnomodotisi-tis-fda-gia-tis-ilikies-5-11-eton/",
+                        "url": "https://t.co/zZXYEU0mfH"
+                    }
+                ]
+            },
+            "id": 1453328139929767940,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03b7 \u03b3\u03bd\u03c9\u03bc\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 FDA \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/zZXYEU0mfH"
+        },
+        {
+            "author_id": 231807647,
+            "conversation_id": 1453305760239214610,
+            "created_at": "2021-10-27 10:21:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tovima.gr/2021/10/27/wor\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.tovima.gr/2021/10/27/world/emvolio-oi-anosokatestalmenoi-stis-ipa-mporoun-na-lavoun-kai-tetarti-dosi/",
+                        "start": 76,
+                        "url": "https://t.co/eyqKBVsU3o"
+                    }
+                ]
+            },
+            "id": 1453305760239214610,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u039f\u03b9 \u03b1\u03bd\u03bf\u03c3\u03bf\u03ba\u03b1\u03c4\u03b5\u03c3\u03c4\u03b1\u03bb\u03bc\u03ad\u03bd\u03bf\u03b9 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03c4\u03ad\u03c4\u03b1\u03c1\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 https://t.co/eyqKBVsU3o"
+        }
+    ]
+}

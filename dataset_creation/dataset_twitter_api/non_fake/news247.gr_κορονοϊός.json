@@ -1,0 +1,2313 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1193142311376605186,
+                "conversation_id": 1455799388916305924,
+                "created_at": "2021-11-03 07:29:56+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/koron\u2026",
+                            "end": 86,
+                            "expanded_url": "https://www.news247.gr/koinonia/koronoios-saroneischoleia-chiliades-kroysmata-alla-gia-ypoyrgeio-ola-kala.9410416.html",
+                            "start": 63,
+                            "url": "https://t.co/wIgnre6Rnq"
+                        }
+                    ]
+                },
+                "id": 1455799388916305924,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1, \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03cc\u03bb\u03b1 \u03ba\u03b1\u03bb\u03ac https://t.co/wIgnre6Rnq"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455790097639649286,
+                "created_at": "2021-11-03 06:53:01+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 179,
+                            "start": 173,
+                            "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                        },
+                        {
+                            "end": 190,
+                            "start": 180,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 201,
+                            "start": 191,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/epixeiriseis/n\u2026",
+                            "end": 226,
+                            "expanded_url": "https://www.news247.gr/epixeiriseis/nea-metra-neo-modus-operandi-gia-emporio-ypiresies-kai-emvoliasmenoys.9410556.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635920546",
+                            "start": 203,
+                            "url": "https://t.co/pLkUU5GeMC"
+                        }
+                    ]
+                },
+                "id": 1455790097639649286,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "\u0391\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03c4\u03cc\u03c7\u03b5\u03c5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03c4\u03b5\u03bb\u03b9\u03ba\u03ce\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b1\u03c1\u03cd\u03bd\u03b5\u03b9 \u03c4\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2, \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bc\u03c0\u03bf\u03c1\u03af\u03bf\u03c5, \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2. #\u03bc\u03ad\u03c4\u03c1\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\n https://t.co/pLkUU5GeMC"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455542791421972483,
+                "created_at": "2021-11-02 14:30:18+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 170,
+                            "start": 160,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 181,
+                            "start": 171,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 188,
+                            "start": 182,
+                            "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/incoming/koron\u2026",
+                            "end": 213,
+                            "expanded_url": "https://www.news247.gr/incoming/koronoios-oi-eidikoi-zitoyn-aystira-metra-me-ypochreosi-maskas.9409875.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635858373",
+                            "start": 190,
+                            "url": "https://t.co/gK0wLUNXtY"
+                        }
+                    ]
+                },
+                "id": 1455542791421972483,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u03a4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \"\u03ba\u03b1\u03c4\u03b1\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03b5\u03c2\", \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c3\u03c4 \u03ae \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd, \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03bf\u03b3\u03bd\u03ce\u03bc\u03bf\u03bd\u03b5\u03c2. #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1  https://t.co/gK0wLUNXtY"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455526884456992769,
+                "created_at": "2021-11-02 13:27:06+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "Live"
+                        },
+                        {
+                            "end": 245,
+                            "start": 237,
+                            "tag": "NEWS247"
+                        },
+                        {
+                            "end": 256,
+                            "start": 246,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3jZf40G",
+                            "end": 235,
+                            "expanded_url": "https://bit.ly/3jZf40G",
+                            "start": 212,
+                            "url": "https://t.co/G2LYDRV0Or"
+                        }
+                    ]
+                },
+                "id": 1455526884456992769,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03b7\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ac \u03bd\u03ac\u03c5\u03bb\u03bf\u03bd \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c0\u03bb\u03ad\u03bf\u03bd \u03b8\u03b1 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03bf\u03af \u03c9\u03c2 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03bf\u03af \u03c7\u03ce\u03c1\u03bf\u03b9. \n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455527146596753408,
+                "created_at": "2021-11-02 13:28:08+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "Live"
+                        },
+                        {
+                            "end": 256,
+                            "start": 248,
+                            "tag": "NEWS247"
+                        },
+                        {
+                            "end": 267,
+                            "start": 257,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3jZf40G",
+                            "end": 246,
+                            "expanded_url": "https://bit.ly/3jZf40G",
+                            "start": 223,
+                            "url": "https://t.co/G2LYDRV0Or"
+                        }
+                    ]
+                },
+                "id": 1455527146596753408,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 2,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u03b8\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03bb\u03af\u03b3\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 \u03b1\u03c0\u03cc 18 \u03ad\u03c9\u03c2 49 \u03b5\u03c4\u03ce\u03bd. \n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455533206908936211,
+                "created_at": "2021-11-02 13:52:13+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 5,
+                            "start": 0,
+                            "tag": "Live"
+                        },
+                        {
+                            "end": 172,
+                            "start": 164,
+                            "tag": "NEWS247"
+                        },
+                        {
+                            "end": 183,
+                            "start": 173,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "bit.ly/3jZf40G",
+                            "end": 162,
+                            "expanded_url": "https://bit.ly/3jZf40G",
+                            "start": 139,
+                            "url": "https://t.co/G2LYDRV0Or"
+                        }
+                    ]
+                },
+                "id": 1455533206908936211,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 1,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1: \u0395\u03be\u03b5\u03c4\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 rapid test \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b1 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1\n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455454182610178049,
+                "created_at": "2021-11-02 08:38:12+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 208,
+                            "start": 198,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 215,
+                            "start": 209,
+                            "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                        },
+                        {
+                            "end": 224,
+                            "start": 216,
+                            "tag": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "'\u03a7\u03ac\u03b4\u03b9' \u03c3\u03c4\u03b9\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9... \u03bd\u03c4\u03c1\u03af\u03bc\u03c0\u03bb\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03c3\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5 \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7. \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03c4\u03bf lockdown \u03ba\u03b1\u03b9 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b5 '\u03bf\u03c0\u03b1\u03b4\u03cc\u03c2 \u03c3\u03ba\u03bb\u03b7\u03c1\u03ae\u03c2 \u03bc\u03b5\u03c4\u03b1\u03bd\u03b1\u03c3\u03c4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae\u03c2'.",
+                            "display_url": "news247.gr/politiki/pleyr\u2026",
+                            "end": 248,
+                            "expanded_url": "https://www.news247.gr/politiki/pleyris-poly-megalyteri-i-metadosi-toy-koronoioy-stin-estiasi-apo-tis-ekklisies.9409435.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635841717",
+                            "images": [
+                                {
+                                    "height": 512,
+                                    "url": "https://pbs.twimg.com/news_img/1455448086466207744/Ik4OZBOT?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455448086466207744/Ik4OZBOT?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 225,
+                            "status": 200,
+                            "title": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: '\u03a0\u03bf\u03bb\u03cd \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b7 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b5\u03c2'",
+                            "unwound_url": "https://www.news247.gr/politiki/pleyris-poly-megalyteri-i-metadosi-toy-koronoioy-stin-estiasi-apo-tis-ekklisies.9409435.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635841717",
+                            "url": "https://t.co/0i6zpAlNSE"
+                        }
+                    ]
+                },
+                "id": 1455454182610178049,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\"\u03a7\u03ac\u03b4\u03b9\" \u03c3\u03c4\u03b9\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9... \u03bd\u03c4\u03c1\u03af\u03bc\u03c0\u03bb\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03c3\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5 \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 - \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03c4\u03bf lockdown \u03ba\u03b1\u03b9 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b5 \"\u03bf\u03c0\u03b1\u03b4\u03cc\u03c2 \u03c3\u03ba\u03bb\u03b7\u03c1\u03ae\u03c2 \u03bc\u03b5\u03c4\u03b1\u03bd\u03b1\u03c3\u03c4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae\u03c2\" #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 https://t.co/0i6zpAlNSE"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455181660899749914,
+                "created_at": "2021-11-01 14:35:18+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 164,
+                            "start": 154,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 169,
+                            "start": 165,
+                            "tag": "\u0395\u03a3\u03a5"
+                        },
+                        {
+                            "end": 181,
+                            "start": 170,
+                            "tag": "\u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/iliop\u2026",
+                            "end": 205,
+                            "expanded_url": "https://www.news247.gr/koinonia/iliopoylos-chreiazontai-metra-dimosias-ygeias-kai-enischysis-toy-esy.9408504.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635767727",
+                            "start": 182,
+                            "url": "https://t.co/KlUcejLE7S"
+                        }
+                    ]
+                },
+                "id": 1455181660899749914,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c6\u03c5\u03b3\u03ae lockdown \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03b7 \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03a4\u03cd\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u0395\u03a3\u03a5 #\u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 https://t.co/KlUcejLE7S"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455200820266426375,
+                "created_at": "2021-11-01 15:51:26+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 94,
+                            "start": 84,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/koronoio\u2026",
+                            "end": 118,
+                            "expanded_url": "https://www.news247.gr/ygeia/koronoios-5449-nea-kroysmata-simera-stin-ellada-52-nekroi-kai-430-diasolinomenoi.9408766.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635781002",
+                            "start": 95,
+                            "url": "https://t.co/HNgd48WJAA"
+                        }
+                    ]
+                },
+                "id": 1455200820266426375,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/HNgd48WJAA"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455159722651308033,
+                "created_at": "2021-11-01 13:08:08+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 239,
+                            "start": 229,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 246,
+                            "start": 240,
+                            "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                        },
+                        {
+                            "end": 256,
+                            "start": 247,
+                            "tag": "Covid_19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/koron\u2026",
+                            "end": 280,
+                            "expanded_url": "https://www.news247.gr/koinonia/koronoios-kinitra-se-giatroys-gia-nosokomeia-tis-perifereias-mparaz-elegchon-stin-estiasi.9408558.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635771232",
+                            "start": 257,
+                            "url": "https://t.co/yPuNqsOpAo"
+                        }
+                    ]
+                },
+                "id": 1455159722651308033,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03bc\u03b9\u03b3\u03b5\u03af\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7\u03c2. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #Covid_19 https://t.co/yPuNqsOpAo"
+            },
+            {
+                "author_id": 118169380,
+                "conversation_id": 1454473556323151873,
+                "created_at": "2021-10-30 15:41:33+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/koronoio\u2026",
+                            "end": 117,
+                            "expanded_url": "https://www.news247.gr/ygeia/koronoios-4-696-nea-kroysmata-simera-stin-ellada-38-nekroi-kai-404-diasolinomenoi.9406552.html",
+                            "start": 94,
+                            "url": "https://t.co/FdqcIKlaiW"
+                        }
+                    ]
+                },
+                "id": 1454473556323151873,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/FdqcIKlaiW"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454063120268382224,
+                "created_at": "2021-10-29 12:30:37+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 132,
+                            "start": 122,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                            "end": 156,
+                            "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                            "start": 133,
+                            "url": "https://t.co/9TxCUiiXOm"
+                        }
+                    ]
+                },
+                "id": 1454063120268382224,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454054782306504705,
+                "created_at": "2021-10-29 11:57:29+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 164,
+                            "start": 154,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/vorei\u2026",
+                            "end": 188,
+                            "expanded_url": "https://www.news247.gr/koinonia/voreia-ellada-asfyktioyn-oi-meth-anemvoliastoi-to-95-ton-asthenon.9405346.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635501267",
+                            "start": 165,
+                            "url": "https://t.co/BTDKXei0QP"
+                        }
+                    ]
+                },
+                "id": 1454054782306504705,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u03cc\u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03c4\u03bf 95,2-96% \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/BTDKXei0QP"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454030033778008069,
+                "created_at": "2021-10-29 10:19:09+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 99,
+                            "start": 90,
+                            "tag": "\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1"
+                        },
+                        {
+                            "end": 110,
+                            "start": 100,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/parem\u2026",
+                            "end": 134,
+                            "expanded_url": "https://www.news247.gr/koinonia/paremvasi-eisaggelea-gia-ierea-poy-feretai-na-evale-pistoys-ston-ag-dimitrio-choris-maska.9405394.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635502023",
+                            "start": 111,
+                            "url": "https://t.co/BaxPzfTolH"
+                        }
+                    ]
+                },
+                "id": 1454030033778008069,
+                "public_metrics": {
+                    "like_count": 5,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u03b5\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03ad\u03b1 \u03b3\u03b9\u03b1 \u03b9\u03b5\u03c1\u03ad\u03b1 \u03c0\u03bf\u03c5 \u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03b2\u03b1\u03bb\u03b5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03cd\u03c2 \u03c3\u03c4\u03bf\u03bd \u0391\u03b3. \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf \u03c7\u03c9\u03c1\u03af\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1 #\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/BaxPzfTolH"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-10-10 10:47:03+00:00",
+                "description": "",
+                "id": 1447151521548935169,
+                "name": "Jimitris Kiriakopoulos",
+                "public_metrics": {
+                    "followers_count": 317,
+                    "following_count": 808,
+                    "listed_count": 0,
+                    "tweet_count": 2196
+                },
+                "username": "JimitrisK",
+                "verified": false
+            },
+            {
+                "created_at": "2019-11-09 12:24:43+00:00",
+                "description": "\u0395\u03bd\u03b1\u03c2 \u03c4\u03cd\u03c0\u03bf\u03c2... \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf\u03bd \u03a4\u03cd\u03c0\u03bf...",
+                "id": 1193142311376605186,
+                "name": "O_Typos",
+                "public_metrics": {
+                    "followers_count": 689,
+                    "following_count": 678,
+                    "listed_count": 1,
+                    "tweet_count": 46736
+                },
+                "username": "OTypos",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-01 17:58:37+00:00",
+                "description": "\u0394\u03bf\u03c5\u03bb\u03b5\u03cd\u03c9 \u03c3\u03c4\u03b7\u03bd \u03a3\u03c5\u03bd\u03b5\u03c4\u03b1\u03b9\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03a4\u03c1\u03ac\u03c0\u03b5\u03b6\u03b1 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 (http://t.co/VWiUduqGzm). \u03a6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf \u03a4\u0395\u0399 \u0397\u03a0\u0395\u0399\u03a1\u039f\u03a5-\u03a0\u03a1\u0395\u0392\u0395\u0396\u0391 (http://t.co/N6BNqKdyHT).",
+                "id": 2452959178,
+                "name": "Spyros Pappas \uf8ff",
+                "public_metrics": {
+                    "followers_count": 1130,
+                    "following_count": 4983,
+                    "listed_count": 28,
+                    "tweet_count": 78317
+                },
+                "username": "spyros_pappas",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-21 11:28:20+00:00",
+                "description": "\u03a3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7\u03c2.",
+                "id": 19284221,
+                "name": "NEWS 24/7",
+                "public_metrics": {
+                    "followers_count": 145371,
+                    "following_count": 444,
+                    "listed_count": 1154,
+                    "tweet_count": 364492
+                },
+                "username": "News247gr",
+                "verified": true
+            },
+            {
+                "created_at": "2015-02-06 17:46:24+00:00",
+                "description": "Electrical Engineer  BCIT British columbia instute of technology",
+                "id": 3021835192,
+                "name": "\u03c0\u03b1\u03bd\u03b1\u03b3\u03b9\u03c9\u03c4\u03b7\u03c2 \u03c6\u03c1\u03b1\u03b9\u03b4\u03b1\u03ba\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 1247,
+                    "following_count": 1036,
+                    "listed_count": 22,
+                    "tweet_count": 117352
+                },
+                "username": "panfraidakis1",
+                "verified": false
+            },
+            {
+                "created_at": "2011-08-21 06:26:56+00:00",
+                "description": "",
+                "id": 359220332,
+                "name": "Spiros",
+                "public_metrics": {
+                    "followers_count": 40,
+                    "following_count": 143,
+                    "listed_count": 0,
+                    "tweet_count": 3077
+                },
+                "username": "Spxa12",
+                "verified": false
+            },
+            {
+                "created_at": "2010-02-23 06:49:03+00:00",
+                "description": "",
+                "id": 116666744,
+                "name": "Fr. Damaskinos",
+                "public_metrics": {
+                    "followers_count": 297,
+                    "following_count": 470,
+                    "listed_count": 2,
+                    "tweet_count": 79192
+                },
+                "username": "Fr_Damaskinos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-28 10:30:42+00:00",
+                "description": "\"\u0397 \u03b5\u03bb\u03b5\u03c5\u03b8\u03ad\u03c1\u03b9\u03b1 \u03c3\u03b5 \u03b1\u03bd\u03c4\u03af\u03b8\u03b5\u03c3\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03bf\u03c5\u03bd \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03b9, \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c0\u03b5\u03b9\u03b8\u03b1\u03c1\u03c7\u03af\u03b1, \u03cc\u03c0\u03c9\u03c2 \u03b7 \u03b1\u03bb\u03b7\u03c4\u03b5\u03af\u03b1 \u03b1\u03c0\u03b1\u03b9\u03c4\u03b5\u03af \u03b5\u03c5\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1, \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 \u03b5\u03af\u03c3\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03c4\u03c3\u03cc\u03b3\u03bb\u03b1\u03bd\u03bf\u03c2\"\n\u0394\u03b7\u03bc. \u03a0\u03bf\u03c5\u03bb\u03b9\u03ba\u03ac\u03ba\u03bf\u03c2",
+                "id": 1222104648712118273,
+                "name": "\u0395V\u0307\u0391\u00b0\u2661\u00b0",
+                "public_metrics": {
+                    "followers_count": 2794,
+                    "following_count": 2848,
+                    "listed_count": 6,
+                    "tweet_count": 55145
+                },
+                "username": "Stress_Miss_",
+                "verified": false
+            },
+            {
+                "created_at": "2009-02-13 12:46:48+00:00",
+                "description": "Editor in Chief @News247gr",
+                "id": 20767356,
+                "name": "Chris Demetis",
+                "public_metrics": {
+                    "followers_count": 2154,
+                    "following_count": 2136,
+                    "listed_count": 22,
+                    "tweet_count": 9384
+                },
+                "username": "Krs_Demo",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-05 09:04:18+00:00",
+                "description": "\u03b1\u03c0\u03bf \u03c0\u03bd\u03b5\u03c5\u03c3\u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf \u03ba\u03bb\u03b1\u03c1\u03b9\u03bd\u03b1 '\u03c0\u03bf\u03bb\u03c5 \u03c1\u03bf\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc \u03b1\u03ba\u03b1\u03bf\u03c5' \u03c0\u03c1\u03ce\u03b7\u03bd \u0395\u03a0\u0395\u039d \u03bd\u03c5\u03bd \u03b4\u03b5\u03be\u03bf\u03c2 \u03b4\u03b7\u03bc \u03c5\u03c0\u03ac\u03bb\u03bb\u03b7\u03bb\u03bf\u03c2 \u0395\u03a3\u03a0\u0391 \u03c4\u03b6\u03b7\u03c2",
+                "id": 1313042252294492160,
+                "name": "\ud83c\udff3\ufe0f\u200d\ud83c\udf08 Liber\u03b7\u03c2 Nati\u03bfnal\u03b9\u03b4\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 510,
+                    "following_count": 586,
+                    "listed_count": 1,
+                    "tweet_count": 14547
+                },
+                "username": "seklanapanta",
+                "verified": false
+            },
+            {
+                "created_at": "2010-02-27 20:33:09+00:00",
+                "description": "",
+                "id": 118169380,
+                "name": "PeGo",
+                "public_metrics": {
+                    "followers_count": 407,
+                    "following_count": 1246,
+                    "listed_count": 1,
+                    "tweet_count": 21348
+                },
+                "username": "pego_go",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-07 10:11:09+00:00",
+                "description": "",
+                "id": 3311719211,
+                "name": "souvlou",
+                "public_metrics": {
+                    "followers_count": 74,
+                    "following_count": 64,
+                    "listed_count": 0,
+                    "tweet_count": 18406
+                },
+                "username": "souvlou",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-15 17:22:01+00:00",
+                "description": "",
+                "id": 1239240378026536961,
+                "name": "Giannis magr",
+                "public_metrics": {
+                    "followers_count": 16,
+                    "following_count": 60,
+                    "listed_count": 0,
+                    "tweet_count": 70
+                },
+                "username": "GiannisMagr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-12 18:37:01+00:00",
+                "description": "",
+                "id": 786274488132534272,
+                "name": "July",
+                "public_metrics": {
+                    "followers_count": 291,
+                    "following_count": 377,
+                    "listed_count": 0,
+                    "tweet_count": 10259
+                },
+                "username": "Augustsparrow",
+                "verified": false
+            },
+            {
+                "created_at": "2013-10-05 21:20:50+00:00",
+                "description": "Dolce far niente",
+                "id": 702383608,
+                "name": "zinasoft",
+                "public_metrics": {
+                    "followers_count": 1769,
+                    "following_count": 2118,
+                    "listed_count": 11,
+                    "tweet_count": 13687
+                },
+                "username": "ankarageo",
+                "verified": false
+            },
+            {
+                "created_at": "2016-08-04 05:06:44+00:00",
+                "description": "",
+                "id": 761065811779870721,
+                "name": "\u039a\u03bf\u03bd\u03c4\u03b1\u03be\u03ae  \u039c\u03b5\u03bb\u03af\u03bd\u03b1",
+                "public_metrics": {
+                    "followers_count": 1669,
+                    "following_count": 2645,
+                    "listed_count": 58,
+                    "tweet_count": 133931
+                },
+                "username": "mel75801",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-29 15:48:23+00:00",
+                "description": "Psychiatrist- Psychotherapist\u26aa\u038c\u03c0\u03bf\u03b9\u03bf\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af \u03bc\u03cc\u03bd\u03bf \u03c4\u03b7\u03bd \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03c2",
+                "id": 3350858639,
+                "name": "Giorgos Kakarinos, MD",
+                "public_metrics": {
+                    "followers_count": 177,
+                    "following_count": 161,
+                    "listed_count": 2,
+                    "tweet_count": 2566
+                },
+                "username": "GKakarinos",
+                "verified": false
+            },
+            {
+                "created_at": "2018-07-06 09:40:22+00:00",
+                "description": "Journalist&Blogger @AllAboutARIS, \u03bb\u03ac\u03c4\u03c1\u03b7\u03c2 \u03c4\u03bf\u03c5 NBA, \u03c3\u03c7\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ae\u03c2 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03b1\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b1\u03b9\u03ce\u03bd\u03b9\u03bf\u03c2 \u03c6\u03bf\u03b9\u03c4\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03bf \u03c4\u03bc\u03ae\u03bc\u03b1 \u0394\u03b9\u03b5\u03b8\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 \u0395\u03c5\u03c1. \u03a3\u03c0\u03bf\u03c5\u03b4\u03ce\u03bd \u03c4\u03bf\u03c5 \u03a0\u0391\u039c\u0391\u039a..",
+                "id": 1015168567875198977,
+                "name": "George Gkatos",
+                "public_metrics": {
+                    "followers_count": 340,
+                    "following_count": 419,
+                    "listed_count": 2,
+                    "tweet_count": 8207
+                },
+                "username": "Gkatos97",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1455800333654020096,
+            "created_at": "2021-11-03 07:33:41+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "1193142311376605186",
+                        "start": 3,
+                        "username": "OTypos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-saroneischoleia-chiliades-kroysmata-alla-gia-ypoyrgeio-ola-kala.9410416.html",
+                        "start": 75,
+                        "url": "https://t.co/wIgnre6Rnq"
+                    }
+                ]
+            },
+            "id": 1455800333654020096,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455799388916305924 type=retweeted"
+            ],
+            "text": "RT @OTypos: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1, \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03cc\u03bb\u03b1 \u03ba\u03b1\u03bb\u03ac https://t.co/wIgnre6Rnq"
+        },
+        {
+            "author_id": 1193142311376605186,
+            "conversation_id": 1455799388916305924,
+            "created_at": "2021-11-03 07:29:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-saroneischoleia-chiliades-kroysmata-alla-gia-ypoyrgeio-ola-kala.9410416.html",
+                        "start": 63,
+                        "url": "https://t.co/wIgnre6Rnq"
+                    }
+                ]
+            },
+            "id": 1455799388916305924,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1, \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03cc\u03bb\u03b1 \u03ba\u03b1\u03bb\u03ac https://t.co/wIgnre6Rnq"
+        },
+        {
+            "author_id": 2452959178,
+            "conversation_id": 1455793953937240069,
+            "created_at": "2021-11-03 07:08:20+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455793953937240069,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455790097639649286 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0391\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03c4\u03cc\u03c7\u03b5\u03c5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03c4\u03b5\u03bb\u03b9\u03ba\u03ce\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b1\u03c1\u03cd\u03bd\u03b5\u03b9 \u03c4\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2, \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u2026"
+        },
+        {
+            "author_id": 3021835192,
+            "conversation_id": 1455790699257937922,
+            "created_at": "2021-11-03 06:55:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455790699257937922,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455790097639649286 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0391\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03c4\u03cc\u03c7\u03b5\u03c5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03c4\u03b5\u03bb\u03b9\u03ba\u03ce\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b1\u03c1\u03cd\u03bd\u03b5\u03b9 \u03c4\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2, \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455790097639649286,
+            "created_at": "2021-11-03 06:53:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 179,
+                        "start": 173,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 190,
+                        "start": 180,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 201,
+                        "start": 191,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/epixeiriseis/n\u2026",
+                        "end": 226,
+                        "expanded_url": "https://www.news247.gr/epixeiriseis/nea-metra-neo-modus-operandi-gia-emporio-ypiresies-kai-emvoliasmenoys.9410556.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635920546",
+                        "start": 203,
+                        "url": "https://t.co/pLkUU5GeMC"
+                    }
+                ]
+            },
+            "id": 1455790097639649286,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\u0391\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03c4\u03cc\u03c7\u03b5\u03c5\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03c4\u03b5\u03bb\u03b9\u03ba\u03ce\u03c2 \u03b5\u03c0\u03b9\u03b2\u03b1\u03c1\u03cd\u03bd\u03b5\u03b9 \u03c4\u03cc\u03c3\u03bf \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2, \u03cc\u03c3\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bc\u03c0\u03bf\u03c1\u03af\u03bf\u03c5, \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2. #\u03bc\u03ad\u03c4\u03c1\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\n https://t.co/pLkUU5GeMC"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455787658333106185,
+            "created_at": "2021-11-03 06:43:19+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 153,
+                        "start": 143,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 165,
+                        "start": 155,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/oikonomia/pand\u2026",
+                        "end": 190,
+                        "expanded_url": "https://www.news247.gr/oikonomia/pandimia-chreos-kai-anodos-ton-apodoseon-omologon-i-apeilitiki-triliza.9410635.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635920807",
+                        "start": 167,
+                        "url": "https://t.co/2RlkdlJF20"
+                    }
+                ]
+            },
+            "id": 1455787658333106185,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03cc\u03c0\u03bf\u03b9\u03b5\u03c2 \u03b1\u03c0\u03bf\u03c6\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 lockdown \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c3\u03c5\u03bd\u03b1\u03ba\u03cc\u03bb\u03bf\u03c5\u03b8\u03b5\u03c2 \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b5\u03c2 \u03b5\u03bd\u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03bf\u03bb\u03cd \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b5\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b2\u03ac\u03c1\u03c5\u03bd\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ad\u03bf\u03c5\u03c2. #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1  #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2  https://t.co/2RlkdlJF20"
+        },
+        {
+            "author_id": 359220332,
+            "conversation_id": 1455774188044697600,
+            "created_at": "2021-11-03 05:49:48+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-saroneischoleia-chiliades-kroysmata-alla-gia-ypoyrgeio-ola-kala.9410416.html#.YYIi-OVw2ko.twitter",
+                        "start": 63,
+                        "url": "https://t.co/Q16oVps71N"
+                    }
+                ]
+            },
+            "id": 1455774188044697600,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1, \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03cc\u03bb\u03b1 \u03ba\u03b1\u03bb\u03ac https://t.co/Q16oVps71N"
+        },
+        {
+            "author_id": 116666744,
+            "conversation_id": 1455762040765755397,
+            "created_at": "2021-11-03 05:01:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/oikonomia/poio\u2026",
+                        "end": 77,
+                        "expanded_url": "https://www.news247.gr/oikonomia/poios-koronoios-i-kriti-espase-kathe-toyristiko-rekor.9410243.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635914937",
+                        "start": 54,
+                        "url": "https://t.co/PRI5jtIcE2"
+                    }
+                ]
+            },
+            "id": 1455762040765755397,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03bf\u03b9\u03bf\u03c2 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2; \u0397 \u039a\u03c1\u03ae\u03c4\u03b7 \u03ad\u03c3\u03c0\u03b1\u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 https://t.co/PRI5jtIcE2"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455557993886539783,
+            "created_at": "2021-11-02 15:30:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455557993886539783,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455542791421972483 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \"\u03ba\u03b1\u03c4\u03b1\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03b5\u03c2\", \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c3\u03c4 \u03ae \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd, \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9\u2026"
+        },
+        {
+            "author_id": 1222104648712118273,
+            "conversation_id": 1455548539006750723,
+            "created_at": "2021-11-02 14:53:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455548539006750723,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455542791421972483 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \"\u03ba\u03b1\u03c4\u03b1\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03b5\u03c2\", \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c3\u03c4 \u03ae \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd, \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9\u2026"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455542911530115090,
+            "created_at": "2021-11-02 14:30:47+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 15,
+                        "tag": "Live"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455542911530115090,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455526884456992769 type=retweeted"
+            ],
+            "text": "RT @News247gr: #Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03b7\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u2026"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455542883096961033,
+            "created_at": "2021-11-02 14:30:40+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 15,
+                        "tag": "Live"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455542883096961033,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527146596753408 type=retweeted"
+            ],
+            "text": "RT @News247gr: #Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u03b8\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03bb\u03af\u03b3\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c4\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455542791421972483,
+            "created_at": "2021-11-02 14:30:18+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 170,
+                        "start": 160,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 181,
+                        "start": 171,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 188,
+                        "start": 182,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/incoming/koron\u2026",
+                        "end": 213,
+                        "expanded_url": "https://www.news247.gr/incoming/koronoios-oi-eidikoi-zitoyn-aystira-metra-me-ypochreosi-maskas.9409875.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635858373",
+                        "start": 190,
+                        "url": "https://t.co/gK0wLUNXtY"
+                    }
+                ]
+            },
+            "id": 1455542791421972483,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u03a4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ae \u03c7\u03c1\u03ae\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \"\u03ba\u03b1\u03c4\u03b1\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03b5\u03c2\", \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b5\u03c3\u03c4 \u03ae \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd, \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03bf\u03b3\u03bd\u03ce\u03bc\u03bf\u03bd\u03b5\u03c2. #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1  https://t.co/gK0wLUNXtY"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455542778721718280,
+            "created_at": "2021-11-02 14:30:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 20,
+                        "start": 15,
+                        "tag": "Live"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455542778721718280,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455533206908936211 type=retweeted"
+            ],
+            "text": "RT @News247gr: #Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1: \u0395\u03be\u03b5\u03c4\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 rapid test \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b1 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1\n\n\u03a0\u03b5\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455533206908936211,
+            "created_at": "2021-11-02 13:52:13+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Live"
+                    },
+                    {
+                        "end": 172,
+                        "start": 164,
+                        "tag": "NEWS247"
+                    },
+                    {
+                        "end": 183,
+                        "start": 173,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jZf40G",
+                        "end": 162,
+                        "expanded_url": "https://bit.ly/3jZf40G",
+                        "start": 139,
+                        "url": "https://t.co/G2LYDRV0Or"
+                    }
+                ]
+            },
+            "id": 1455533206908936211,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1: \u0395\u03be\u03b5\u03c4\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 rapid test \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b1 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1\n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455527146596753408,
+            "created_at": "2021-11-02 13:28:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Live"
+                    },
+                    {
+                        "end": 256,
+                        "start": 248,
+                        "tag": "NEWS247"
+                    },
+                    {
+                        "end": 267,
+                        "start": 257,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jZf40G",
+                        "end": 246,
+                        "expanded_url": "https://bit.ly/3jZf40G",
+                        "start": 223,
+                        "url": "https://t.co/G2LYDRV0Or"
+                    }
+                ]
+            },
+            "id": 1455527146596753408,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 2,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u03b8\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03bb\u03af\u03b3\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 \u03b1\u03c0\u03cc 18 \u03ad\u03c9\u03c2 49 \u03b5\u03c4\u03ce\u03bd. \n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455526884456992769,
+            "created_at": "2021-11-02 13:27:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Live"
+                    },
+                    {
+                        "end": 245,
+                        "start": 237,
+                        "tag": "NEWS247"
+                    },
+                    {
+                        "end": 256,
+                        "start": 246,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jZf40G",
+                        "end": 235,
+                        "expanded_url": "https://bit.ly/3jZf40G",
+                        "start": 212,
+                        "url": "https://t.co/G2LYDRV0Or"
+                    }
+                ]
+            },
+            "id": 1455526884456992769,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03b7\u03b8\u03bf\u03cd\u03bd \u03bf\u03b9 \u03ba\u03b1\u03c4\u03b1\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ac \u03bd\u03ac\u03c5\u03bb\u03bf\u03bd \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c0\u03bb\u03ad\u03bf\u03bd \u03b8\u03b1 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03bf\u03af \u03c9\u03c2 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03bf\u03af \u03c7\u03ce\u03c1\u03bf\u03b9. \n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455510845438443526,
+            "created_at": "2021-11-02 12:23:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Live"
+                    },
+                    {
+                        "end": 199,
+                        "start": 191,
+                        "tag": "NEWS247"
+                    },
+                    {
+                        "end": 210,
+                        "start": 200,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 221,
+                        "start": 211,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jZf40G",
+                        "end": 189,
+                        "expanded_url": "https://bit.ly/3jZf40G",
+                        "start": 166,
+                        "url": "https://t.co/G2LYDRV0Or"
+                    }
+                ]
+            },
+            "id": 1455510845438443526,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03b7 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b5\u03b9\u03b4\u03b9\u03ba\u03ce\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03b5\u03b9 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b5\u03b9\u03c3\u03b7\u03b3\u03b7\u03b8\u03b5\u03af \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7\u03bd \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7.\n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455510541754146816,
+            "created_at": "2021-11-02 12:22:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 5,
+                        "start": 0,
+                        "tag": "Live"
+                    },
+                    {
+                        "end": 267,
+                        "start": 259,
+                        "tag": "NEWS247"
+                    },
+                    {
+                        "end": 278,
+                        "start": 268,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3jZf40G",
+                        "end": 257,
+                        "expanded_url": "https://bit.ly/3jZf40G",
+                        "start": 234,
+                        "url": "https://t.co/G2LYDRV0Or"
+                    }
+                ]
+            },
+            "id": 1455510541754146816,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Live \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ce\u03c1\u03b1 \u03bc\u03b7\u03b4\u03ad\u03bd: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 - \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c5\u03c3\u03c4\u03b7\u03c1\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03bc\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 \u03c3\u03b5 \u03b5\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2, \u03c9\u03c3\u03c4\u03cc\u03c3\u03bf \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b4\u03b5 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf \u03bc\u03ad\u03c4\u03c1\u03bf \u03b1\u03c5\u03c4\u03cc.\n\n\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03b4\u03ce: https://t.co/G2LYDRV0Or\n\n#NEWS247 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 20767356,
+            "conversation_id": 1455508795598180355,
+            "created_at": "2021-11-02 12:15:13+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 95,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 115,
+                        "start": 106,
+                        "tag": "\u03bd\u03b5\u03b1\u03bc\u03b5\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 126,
+                        "start": 116,
+                        "tag": "COVID19gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/live-blog/koro\u2026",
+                        "end": 151,
+                        "expanded_url": "https://www.news247.gr/live-blog/koronoios-ora-miden-nea-metra-apo-rekor-se-rekor-ta-kroysmata.9409632.html#livecomment2117762",
+                        "start": 128,
+                        "url": "https://t.co/EFn13pjzhz"
+                    }
+                ]
+            },
+            "id": 1455508795598180355,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd \u03b1\u03c5\u03c3\u03c4\u03b7\u03c1\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03bc\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2, \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b4\u03b5 \u03c8\u03ae\u03bd\u03b5\u03c4\u03b1\u03b9, \u03b3\u03b5\u03bd\u03b9\u03ba\u03ac \u03c0\u03ac\u03bc\u03b5 \u03ba\u03b1\u03bb\u03ac \n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1\u03bc\u03b5\u03c4\u03c1\u03b1 #COVID19gr \nhttps://t.co/EFn13pjzhz"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455504852835045383,
+            "created_at": "2021-11-02 11:59:33+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455504852835045383,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455454182610178049 type=retweeted"
+            ],
+            "text": "RT @News247gr: \"\u03a7\u03ac\u03b4\u03b9\" \u03c3\u03c4\u03b9\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9... \u03bd\u03c4\u03c1\u03af\u03bc\u03c0\u03bb\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03c3\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5 \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 - \u0391\u03c0\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455454182610178049,
+            "created_at": "2021-11-02 08:38:12+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 208,
+                        "start": 198,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 215,
+                        "start": 209,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 224,
+                        "start": 216,
+                        "tag": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/politiki/pleyr\u2026",
+                        "end": 248,
+                        "expanded_url": "https://www.news247.gr/politiki/pleyris-poly-megalyteri-i-metadosi-toy-koronoioy-stin-estiasi-apo-tis-ekklisies.9409435.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635841717",
+                        "start": 225,
+                        "url": "https://t.co/0i6zpAlNSE"
+                    }
+                ]
+            },
+            "id": 1455454182610178049,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\"\u03a7\u03ac\u03b4\u03b9\" \u03c3\u03c4\u03b9\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9... \u03bd\u03c4\u03c1\u03af\u03bc\u03c0\u03bb\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03c3\u03c4\u03b9\u03c3\u03bc\u03bf\u03cd \u03c3\u03c4\u03bf\u03bd \u03b5\u03bf\u03c1\u03c4\u03b1\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5 \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 - \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03c4\u03bf lockdown \u03ba\u03b1\u03b9 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b5 \"\u03bf\u03c0\u03b1\u03b4\u03cc\u03c2 \u03c3\u03ba\u03bb\u03b7\u03c1\u03ae\u03c2 \u03bc\u03b5\u03c4\u03b1\u03bd\u03b1\u03c3\u03c4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae\u03c2\" #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 https://t.co/0i6zpAlNSE"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455206110030336000,
+            "created_at": "2021-11-01 16:12:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455206110030336000,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455181660899749914 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c6\u03c5\u03b3\u03ae lockdown \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03b7 \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf\u2026"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455205519388520455,
+            "created_at": "2021-11-01 16:10:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 109,
+                        "start": 99,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 133,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-5449-nea-kroysmata-simera-stin-ellada-52-nekroi-kai-430-diasolinomenoi.9408766.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635781002",
+                        "start": 110,
+                        "url": "https://t.co/HNgd48WJAA"
+                    }
+                ]
+            },
+            "id": 1455205519388520455,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455200820266426375 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/HNgd48WJAA"
+        },
+        {
+            "author_id": 1313042252294492160,
+            "conversation_id": 1455203409049624579,
+            "created_at": "2021-11-01 16:01:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 50,
+                        "start": 30,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u03ba\u03b1\u03c1\u03bd\u03b1\u03b2\u03b1\u03bb\u03b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 179,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-5449-nea-kroysmata-simera-stin-ellada-52-nekroi-kai-430-diasolinomenoi.9408766.html",
+                        "start": 156,
+                        "url": "https://t.co/D9zPtYFQfX"
+                    }
+                ]
+            },
+            "id": 1455203409049624579,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03cd\u03bb\u03b7\u03c2, \u03ad\u03c4\u03c3\u03b9 \u03ba\u03b5\u03c1\u03b4\u03b9\u03c3\u03b1 \u03c4\u03bf\u03bd \u03b9\u03cc...#\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u03ba\u03b1\u03c1\u03bd\u03b1\u03b2\u03b1\u03bb\u03b9  \n  \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: '\u039c\u03b1\u03cd\u03c1\u03bf' \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/D9zPtYFQfX"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455200820266426375,
+            "created_at": "2021-11-01 15:51:26+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 84,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-5449-nea-kroysmata-simera-stin-ellada-52-nekroi-kai-430-diasolinomenoi.9408766.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635781002",
+                        "start": 95,
+                        "url": "https://t.co/HNgd48WJAA"
+                    }
+                ]
+            },
+            "id": 1455200820266426375,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/HNgd48WJAA"
+        },
+        {
+            "author_id": 118169380,
+            "conversation_id": 1455197309512335370,
+            "created_at": "2021-11-01 15:37:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-5449-nea-kroysmata-simera-stin-ellada-52-nekroi-kai-430-diasolinomenoi.9408766.html",
+                        "start": 84,
+                        "url": "https://t.co/5dXvSWhFdk"
+                    }
+                ]
+            },
+            "id": 1455197309512335370,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/5dXvSWhFdk"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455181660899749914,
+            "created_at": "2021-11-01 14:35:18+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 164,
+                        "start": 154,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 169,
+                        "start": 165,
+                        "tag": "\u0395\u03a3\u03a5"
+                    },
+                    {
+                        "end": 181,
+                        "start": 170,
+                        "tag": "\u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/iliop\u2026",
+                        "end": 205,
+                        "expanded_url": "https://www.news247.gr/koinonia/iliopoylos-chreiazontai-metra-dimosias-ygeias-kai-enischysis-toy-esy.9408504.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635767727",
+                        "start": 182,
+                        "url": "https://t.co/KlUcejLE7S"
+                    }
+                ]
+            },
+            "id": 1455181660899749914,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03c6\u03c5\u03b3\u03ae lockdown \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b1\u03b3\u03ba\u03b1\u03af\u03b1 \u03b7 \u03ac\u03bc\u03b5\u03c3\u03b7 \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03a4\u03cd\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u0395\u03a3\u03a5 #\u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 https://t.co/KlUcejLE7S"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455178489112539136,
+            "created_at": "2021-11-01 14:22:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455178489112539136,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455159722651308033 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455159722651308033,
+            "created_at": "2021-11-01 13:08:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 239,
+                        "start": 229,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 246,
+                        "start": 240,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 256,
+                        "start": 247,
+                        "tag": "Covid_19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 280,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-kinitra-se-giatroys-gia-nosokomeia-tis-perifereias-mparaz-elegchon-stin-estiasi.9408558.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635771232",
+                        "start": 257,
+                        "url": "https://t.co/yPuNqsOpAo"
+                    }
+                ]
+            },
+            "id": 1455159722651308033,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03bc\u03b9\u03b3\u03b5\u03af\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7\u03c2. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #Covid_19 https://t.co/yPuNqsOpAo"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455108363755393028,
+            "created_at": "2021-11-01 09:44:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 208,
+                        "start": 199,
+                        "tag": "covid19_"
+                    },
+                    {
+                        "end": 219,
+                        "start": 209,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 230,
+                        "start": 220,
+                        "tag": "\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/emvol\u2026",
+                        "end": 254,
+                        "expanded_url": "https://www.news247.gr/koinonia/emvolio-koronoioy-poioi-anemvoliastoi-tha-lavoyn-sms.9408216.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635757093",
+                        "start": 231,
+                        "url": "https://t.co/QGwBUGKLMF"
+                    }
+                ]
+            },
+            "id": 1455108363755393028,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u03a5\u03c6\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a8\u03b7\u03c6\u03b9\u03b1\u03ba\u03ae\u03c2 \u0394\u03b9\u03b1\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03b4\u03b9\u03b5\u03c5\u03ba\u03c1\u03af\u03bd\u03b9\u03c3\u03b5 \u03c0\u03c9\u03c2 sms \u03b8\u03b1 \u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03cc\u03c3\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ad\u03bd\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ac\u03c5\u03bb\u03b7 \u03c3\u03c5\u03bd\u03c4\u03b1\u03b3\u03bf\u03b3\u03c1\u03ac\u03c6\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03ba\u03b1\u03c4\u03ac \u03ba\u03b1\u03bd\u03cc\u03bd\u03b1 \u03b5\u03af\u03c7\u03b1\u03bd \u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf \u03c1\u03b1\u03bd\u03c4\u03b5\u03b2\u03bf\u03cd \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc, \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b5 #covid19_ #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 https://t.co/QGwBUGKLMF"
+        },
+        {
+            "author_id": 3311719211,
+            "conversation_id": 1455101461390663687,
+            "created_at": "2021-11-01 09:16:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-mayros-oktovrios-ta-dyskola-erchontai-ton-noemvrio.9407904.html#.YX-wb3ibLOU.twitter",
+                        "start": 63,
+                        "url": "https://t.co/pXe2NB2Qua"
+                    }
+                ]
+            },
+            "id": 1455101461390663687,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039c\u03b1\u03cd\u03c1\u03bf\u03c2 \u039f\u03ba\u03c4\u03ce\u03b2\u03c1\u03b9\u03bf\u03c2 - \u03a4\u03b1 \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b1 \u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf https://t.co/pXe2NB2Qua"
+        },
+        {
+            "author_id": 1239240378026536961,
+            "conversation_id": 1455046887187357697,
+            "created_at": "2021-11-01 05:39:46+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 166,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-venetia-thetikoi-23-ellines-toyristes-mpikan-se-karantina.9407838.html",
+                        "start": 143,
+                        "url": "https://t.co/6Z1ZFZayY9"
+                    }
+                ]
+            },
+            "id": 1455046887187357697,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a7\u03bf\u03c1\u03b7\u03b3\u03bf\u03cd\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc.\n\n \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 - \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1: \u0398\u03b5\u03c4\u03b9\u03ba\u03bf\u03af 23 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 - \u039c\u03c0\u03ae\u03ba\u03b1\u03bd \u03c3\u03b5 \u03ba\u03b1\u03c1\u03b1\u03bd\u03c4\u03af\u03bd\u03b1 https://t.co/6Z1ZFZayY9"
+        },
+        {
+            "author_id": 786274488132534272,
+            "conversation_id": 1454524363819061258,
+            "created_at": "2021-10-30 19:03:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 252,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-4-696-nea-kroysmata-simera-stin-ellada-38-nekroi-kai-404-diasolinomenoi.9406552.html",
+                        "start": 229,
+                        "url": "https://t.co/gWYDy3Kz0t"
+                    }
+                ]
+            },
+            "id": 1454524363819061258,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bd\u03c4\u03ac\u03be\u03b5\u03b9, \u03c4\u03bf \u03c0\u03ae\u03c1\u03b5 \u03c4\u03bf \u03b2\u03c1\u03b1\u03b2\u03b5\u03af\u03bf \u03bf \u039a\u03b9\u03ba\u03af\u03bb\u03b9\u03b1\u03c2... \u039c\u03ae\u03c0\u03c9\u03c2 \u03bd\u03b1 \u03c3\u03bf\u03b2\u03b1\u03c1\u03b5\u03c5\u03c4\u03bf\u03cd\u03bc\u03b5 \u03c4\u03ce\u03c1\u03b1 \u03b3\u03b9\u03b1\u03c4\u03af \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03b5\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ad\u03c7\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7...\n\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/gWYDy3Kz0t"
+        },
+        {
+            "author_id": 116666744,
+            "conversation_id": 1454500188324876296,
+            "created_at": "2021-10-30 17:27:22+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 74,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-i-ektoxeysi-kroysmaton-fernei-nea-metra.9406782.html",
+                        "start": 51,
+                        "url": "https://t.co/9Bkn5VIiB7"
+                    }
+                ]
+            },
+            "id": 1454500188324876296,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u03b5\u03ba\u03c4\u03cc\u03be\u03b5\u03c5\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 https://t.co/9Bkn5VIiB7"
+        },
+        {
+            "author_id": 702383608,
+            "conversation_id": 1454477178943455247,
+            "created_at": "2021-10-30 15:55:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "118169380",
+                        "start": 3,
+                        "username": "pego_go"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-4-696-nea-kroysmata-simera-stin-ellada-38-nekroi-kai-404-diasolinomenoi.9406552.html",
+                        "start": 107,
+                        "url": "https://t.co/FdqcIKlaiW"
+                    }
+                ]
+            },
+            "id": 1454477178943455247,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454473556323151873 type=retweeted"
+            ],
+            "text": "RT @pego_go: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/FdqcIKlaiW"
+        },
+        {
+            "author_id": 118169380,
+            "conversation_id": 1454473556323151873,
+            "created_at": "2021-10-30 15:41:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-4-696-nea-kroysmata-simera-stin-ellada-38-nekroi-kai-404-diasolinomenoi.9406552.html",
+                        "start": 94,
+                        "url": "https://t.co/FdqcIKlaiW"
+                    }
+                ]
+            },
+            "id": 1454473556323151873,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/FdqcIKlaiW"
+        },
+        {
+            "author_id": 1313042252294492160,
+            "conversation_id": 1454461544868237313,
+            "created_at": "2021-10-30 14:53:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-4-696-nea-kroysmata-simera-stin-ellada-38-nekroi-kai-404-diasolinomenoi.9406552.html",
+                        "start": 94,
+                        "url": "https://t.co/FtDth0Vni7"
+                    }
+                ]
+            },
+            "id": 1454461544868237313,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/FtDth0Vni7"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454136857147715588,
+            "created_at": "2021-10-29 17:23:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454136857147715588,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 118169380,
+            "conversation_id": 1454092702103097347,
+            "created_at": "2021-10-29 14:28:10+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-3643-nea-kroysmata-simera-stin-ellada-55-nekroi-kai-392-diasolinomenoi.9405599.html#.YXwE9zoP4NA.twitter",
+                        "start": 84,
+                        "url": "https://t.co/GBI0nYni94"
+                    }
+                ]
+            },
+            "id": 1454092702103097347,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - 55 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 392 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/GBI0nYni94"
+        },
+        {
+            "author_id": 761065811779870721,
+            "conversation_id": 1454066163412054023,
+            "created_at": "2021-10-29 12:42:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454066163412054023,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 3350858639,
+            "conversation_id": 1454063489417351168,
+            "created_at": "2021-10-29 12:32:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454063489417351168,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454063120268382224,
+            "created_at": "2021-10-29 12:30:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                        "end": 156,
+                        "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                        "start": 133,
+                        "url": "https://t.co/9TxCUiiXOm"
+                    }
+                ]
+            },
+            "id": 1454063120268382224,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+        },
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1454055681619865604,
+            "created_at": "2021-10-29 12:01:04+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454055681619865604,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454054782306504705 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u03cc\u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454054782306504705,
+            "created_at": "2021-10-29 11:57:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 164,
+                        "start": 154,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/vorei\u2026",
+                        "end": 188,
+                        "expanded_url": "https://www.news247.gr/koinonia/voreia-ellada-asfyktioyn-oi-meth-anemvoliastoi-to-95-ton-asthenon.9405346.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635501267",
+                        "start": 165,
+                        "url": "https://t.co/BTDKXei0QP"
+                    }
+                ]
+            },
+            "id": 1454054782306504705,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u03cc\u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd \u03c4\u03bf 95,2-96% \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/BTDKXei0QP"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454052575095951367,
+            "created_at": "2021-10-29 11:48:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 105,
+                        "tag": "\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1"
+                    },
+                    {
+                        "end": 125,
+                        "start": 115,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454052575095951367,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454030033778008069 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u03b5\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03ad\u03b1 \u03b3\u03b9\u03b1 \u03b9\u03b5\u03c1\u03ad\u03b1 \u03c0\u03bf\u03c5 \u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03b2\u03b1\u03bb\u03b5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03cd\u03c2 \u03c3\u03c4\u03bf\u03bd \u0391\u03b3. \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf \u03c7\u03c9\u03c1\u03af\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1 #\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454030033778008069,
+            "created_at": "2021-10-29 10:19:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 90,
+                        "tag": "\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 100,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/parem\u2026",
+                        "end": 134,
+                        "expanded_url": "https://www.news247.gr/koinonia/paremvasi-eisaggelea-gia-ierea-poy-feretai-na-evale-pistoys-ston-ag-dimitrio-choris-maska.9405394.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635502023",
+                        "start": 111,
+                        "url": "https://t.co/BaxPzfTolH"
+                    }
+                ]
+            },
+            "id": 1454030033778008069,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u03a0\u03b1\u03c1\u03ad\u03bc\u03b2\u03b1\u03c3\u03b7 \u03b5\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03ad\u03b1 \u03b3\u03b9\u03b1 \u03b9\u03b5\u03c1\u03ad\u03b1 \u03c0\u03bf\u03c5 \u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03b2\u03b1\u03bb\u03b5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03cd\u03c2 \u03c3\u03c4\u03bf\u03bd \u0391\u03b3. \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf \u03c7\u03c9\u03c1\u03af\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1 #\u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/BaxPzfTolH"
+        },
+        {
+            "author_id": 1015168567875198977,
+            "conversation_id": 1453768464343212033,
+            "created_at": "2021-10-28 16:59:46+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/.9404\u2026",
+                        "end": 112,
+                        "expanded_url": "https://www.news247.gr/koinonia/.9404572.html",
+                        "start": 89,
+                        "url": "https://t.co/ENdsQ8YXfr"
+                    }
+                ]
+            },
+            "id": 1453768464343212033,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Deja vu!\n\n\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - \u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\n\nhttps://t.co/ENdsQ8YXfr"
+        }
+    ]
+}

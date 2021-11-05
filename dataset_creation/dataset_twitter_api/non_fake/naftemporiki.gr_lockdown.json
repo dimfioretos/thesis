@@ -1,0 +1,175 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2011-05-27 15:24:47+00:00",
+                "description": "Electronic Engineer, MBA, Executive, Dad, Racing Sailor, Judo, kendo, Science, Sports",
+                "id": 306257847,
+                "name": "George Roussos",
+                "public_metrics": {
+                    "followers_count": 1507,
+                    "following_count": 1801,
+                    "listed_count": 18,
+                    "tweet_count": 30921
+                },
+                "username": "GRoussos1",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-30 13:24:24+00:00",
+                "description": "Norge Min kj\u00e6rlighet",
+                "id": 1454438784494407692,
+                "name": "\u03a4\u03b1\u03be\u03af\u03b4\u03b9 \u03c3\u03c4\u03b7\u03bd \u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03af\u03b1",
+                "public_metrics": {
+                    "followers_count": 5,
+                    "following_count": 5,
+                    "listed_count": 0,
+                    "tweet_count": 55
+                },
+                "username": "travelkosmos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-01-02 13:40:04+00:00",
+                "description": "https://t.co/qJ6QAiR5SH , https://t.co/rOVuteryXa",
+                "id": 1055122482,
+                "name": "George Tsolakoglou",
+                "public_metrics": {
+                    "followers_count": 41,
+                    "following_count": 164,
+                    "listed_count": 0,
+                    "tweet_count": 6196
+                },
+                "username": "George23820",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 306257847,
+            "conversation_id": 1455654608299302913,
+            "created_at": "2021-11-02 21:54:38+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 241,
+                        "start": 228,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u03b1\u03b3\u03bf\u03c1\u03ac \u03c4\u03b7\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03bc\u03c0\u03b1\u03af\u03bd\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c3\u03c4\u03bf\u03bd \u03ba\u03cd\u03ba\u03bb\u03bf \u03c4\u03bf\u03c5 lockdown, \u03bc\u03b5 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7, \u03cc\u03c0\u03c9\u03c2 \u03b5\u03ba\u03c4\u03b9\u03bc\u03ac \u03b7 \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1 \u0395\u03c3\u03c4\u03b9\u03b1\u03c4\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a3\u03c5\u03bd\u03b1\u03c6\u03ce\u03bd \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd",
+                        "display_url": "naftemporiki.gr/finance/story/\u2026",
+                        "end": 227,
+                        "expanded_url": "https://www.naftemporiki.gr/finance/story/1795905",
+                        "images": [
+                            {
+                                "height": 375,
+                                "url": "https://pbs.twimg.com/news_img/1455654609868005377/iPaFQsFv?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455654609868005377/iPaFQsFv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 204,
+                        "status": 200,
+                        "title": "\u0394\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7: \u00ab\u039c\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf lockdown",
+                        "unwound_url": "https://www.naftemporiki.gr/finance/story/1795905",
+                        "url": "https://t.co/DjBazTEUie"
+                    }
+                ]
+            },
+            "id": 1455654608299302913,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03ac\u03bd \u03c4\u03b7\u03c1\u03bf\u03cd\u03c3\u03b1\u03bc\u03b5 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03c7\u03c1\u03b5\u03b9\u03b1\u03b6\u03cc\u03c4\u03b1\u03bd \u03b1\u03c5\u03c4\u03cc\u2026 \u03a4\u03bf \u03af\u03b4\u03b9\u03bf \u03b9\u03c3\u03c7\u03cd\u03b5\u03b9 \u03b3\u03b9\u03b1 \u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03a1\u03bf\u03c5\u03bc\u03b1\u03bd\u03af\u03b1 \u03cc\u03c0\u03bf\u03c5 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03b1\u03c0\u03cc \u03b5\u03bc\u03ac\u03c2.\n\u0394\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7: \u00ab\u039c\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf lockdown https://t.co/DjBazTEUie #naftemporiki"
+        },
+        {
+            "author_id": 1454438784494407692,
+            "conversation_id": 1455591497529757702,
+            "created_at": "2021-11-02 17:43:51+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 136,
+                        "start": 127,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b1 \u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03b1 \u03c0\u03bf\u03c5 \u03c4\u03b9\u03bc\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03bc\u03b5 \u03c4\u03bf \u039d\u03cc\u03bc\u03c0\u03b5\u03bb \u0395\u03b9\u03c1\u03ae\u03bd\u03b7\u03c2 \u03b8\u03b1 \u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03b2\u03c1\u03b1\u03b2\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c4\u03bf \u038c\u03c3\u03bb\u03bf \u03c4\u03bf\u03bd \u0394\u03b5\u03ba\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03b7 \u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03b9\u03ba\u03ae \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u039d\u03cc\u03bc\u03c0\u03b5\u03bb, \u03c3\u03b5 \u03b1\u03bd\u03c4\u03af\u03b8\u03b5\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7 \u03a3\u03c4\u03bf\u03ba\u03c7\u03cc\u03bb\u03bc\u03b7 \u03cc\u03c0\u03bf\u03c5 \u03bf\u03b9 \u03c4\u03b5\u03bb\u03b5\u03c4\u03ad\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ac\u03bb\u03bb\u03b1 \u039d\u03cc\u03bc\u03c0\u03b5\u03bb \u03bc\u03b1\u03c4\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03ae \u03c7\u03c1\u03bf\u03bd\u03b9\u03ac.",
+                        "display_url": "m.naftemporiki.gr/story/1795359/\u2026",
+                        "end": 189,
+                        "expanded_url": "https://m.naftemporiki.gr/story/1795359/me-fusiki-parousia-i-teleti-aponomis-tou-nompel-eirinis-sto-oslo",
+                        "images": [
+                            {
+                                "height": 253,
+                                "url": "https://pbs.twimg.com/news_img/1455591497886310404/2k8ebyDa?format=jpg&name=orig",
+                                "width": 406
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455591497886310404/2k8ebyDa?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 166,
+                        "status": 200,
+                        "title": "\u039c\u03b5 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03b7 \u03c4\u03b5\u03bb\u03b5\u03c4\u03ae \u03b1\u03c0\u03bf\u03bd\u03bf\u03bc\u03ae\u03c2 \u03c4\u03bf\u03c5 \u039d\u03cc\u03bc\u03c0\u03b5\u03bb \u0395\u03b9\u03c1\u03ae\u03bd\u03b7\u03c2 \u03c3\u03c4\u03bf \u038c\u03c3\u03bb\u03bf",
+                        "unwound_url": "https://m.naftemporiki.gr/story/1795359/me-fusiki-parousia-i-teleti-aponomis-tou-nompel-eirinis-sto-oslo",
+                        "url": "https://t.co/zBRzrF2grk"
+                    }
+                ]
+            },
+            "id": 1455591497529757702,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03c4\u03b7\u03bd \u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03af\u03b1 \u03c4\u03b9\u03bc\u03bf\u03cd\u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03c2 \u03bf\u03b9 \u03bf\u03c0\u03bf\u03af\u03bf\u03b9 \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03c0\u03bb\u03ae\u03c1\u03b7 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1.\n\u0391\u03bd\u03c4\u03af\u03b8\u03b5\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd.\n\u038c\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf #lockdown, \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9\nhttps://t.co/zBRzrF2grk"
+        },
+        {
+            "author_id": 1055122482,
+            "conversation_id": 1453464948173123587,
+            "created_at": "2021-10-27 20:53:42+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 107,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1792746/\u2026",
+                        "end": 141,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1792746/austria-sto-trapezi-metra-lockdown-mono-gia-anemboliastous",
+                        "start": 118,
+                        "url": "https://t.co/almc3yZGNY"
+                    }
+                ]
+            },
+            "id": 1453464948173123587,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039b\u03bf\u03b3\u03b9\u03ba\u03ac \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03bc\u03ac\u03c2, \u03b1\u03c6\u03bf\u03cd \u03cc\u03c4\u03b9 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03cc\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bb\u03af\u03b3\u03bf \u03ba\u03b1\u03b9\u03c1\u03cc \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/almc3yZGNY"
+        }
+    ]
+}

@@ -1,0 +1,701 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1380247130540023808,
+                "conversation_id": 1455306606258892800,
+                "created_at": "2021-11-02 08:43:27+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "id": "319244534",
+                            "start": 0,
+                            "username": "dimigalano"
+                        }
+                    ]
+                },
+                "id": 1455455504206077955,
+                "in_reply_to_user_id": 319244534,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1455306606258892800 type=replied_to"
+                ],
+                "text": "@dimigalano \u039a\u03b1\u03bd\u03b5\u03af\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c4\u03ad \u03b4\u03b5\u03bd \u03b5\u03af\u03c0\u03b5 \u03cc\u03c4\u03b9 \u03bc\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b4\u03b5\u03bd \u03ba\u03bf\u03bb\u03bb\u03ac\u03c2."
+            },
+            {
+                "author_id": 25584888,
+                "conversation_id": 1454283756249001985,
+                "created_at": "2021-10-30 03:07:21+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "protothema.gr/world/article/\u2026",
+                            "end": 94,
+                            "expanded_url": "https://www.protothema.gr/world/article/1176451/kolomvia-arhizei-o-emvoliasmos-ton-paidion-3-11-eton-gia-tin-covid-19/#.YXy25bve3kE.twitter",
+                            "start": 71,
+                            "url": "https://t.co/6qXflbkwLs"
+                        }
+                    ]
+                },
+                "id": 1454283756249001985,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03bb\u03bf\u03bc\u03b2\u03af\u03b1: \u0391\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 3-11 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/6qXflbkwLs"
+            },
+            {
+                "author_id": 25584888,
+                "conversation_id": 1454077425122521094,
+                "created_at": "2021-10-29 13:27:28+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "protothema.gr/world/article/\u2026",
+                            "end": 111,
+                            "expanded_url": "https://www.protothema.gr/world/article/1176332/sunodos-g20-stohos-o-emvoliasmos-tou-70-tou-pagosmiou-plithusmou-eos-ta-mesa-tou-2022/#.YXv2vI2pFWI.twitter",
+                            "start": 88,
+                            "url": "https://t.co/F9MKSeb6t2"
+                        }
+                    ]
+                },
+                "id": 1454077425122521094,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a3\u03cd\u03bd\u03bf\u03b4\u03bf\u03c2 G20: \u03a3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 70% \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd \u03ad\u03c9\u03c2 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 2022 https://t.co/F9MKSeb6t2"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2019-05-02 12:24:57+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\u03c2 \u03bf \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac, \u03c4\u03bf \u03bb\u03b9\u03bc\u03ac\u03bd\u03b9 \u03bc\u03b1\u03c2, \u03b7 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd!",
+                "id": 1123926348043567105,
+                "name": "Nikos. Iptamenos",
+                "public_metrics": {
+                    "followers_count": 326,
+                    "following_count": 393,
+                    "listed_count": 2,
+                    "tweet_count": 16700
+                },
+                "username": "NIptamenos",
+                "verified": false
+            },
+            {
+                "created_at": "2019-02-19 18:09:33+00:00",
+                "description": "\u03a0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u039a\u0391.\u039b\u0391.\u03a3.\u039d.\u0399.\u039a.\u039f.\u03a6. (\u039a\u03b1\u03c0\u03b9\u03c4\u03b1\u03bb\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u039b\u03b1\u03ca\u03ba\u03cc\u03c2 \u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03bc\u03bf\u03c2 \u039d\u03b5\u03bf\u03b5\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd \u0399\u03b4\u03b9\u03c9\u03c4\u03ce\u03bd \u039a\u03bf\u03bc\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u039f\u03c1\u03c6\u03b1\u03bd\u03ce\u03bd \u03a6\u03bf\u03c1\u03bf\u03c6\u03c5\u03b3\u03ac\u03b4\u03c9\u03bd)\n https://t.co/wBfbg0yrhd",
+                "id": 1097921140679421952,
+                "name": "\u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03b9\u03c3\u03c4\u03ae\u03c2",
+                "public_metrics": {
+                    "followers_count": 1790,
+                    "following_count": 928,
+                    "listed_count": 8,
+                    "tweet_count": 25895
+                },
+                "username": "Eleftheristis1",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-08 19:53:27+00:00",
+                "description": "emotionally dysfunctional",
+                "id": 1380247130540023808,
+                "name": "Katy",
+                "public_metrics": {
+                    "followers_count": 38,
+                    "following_count": 35,
+                    "listed_count": 0,
+                    "tweet_count": 900
+                },
+                "username": "kate_geofil",
+                "verified": false
+            },
+            {
+                "created_at": "2011-06-17 20:03:03+00:00",
+                "description": "\u039c\u03b5 \u03c0\u03b9\u03ac\u03bd\u03bf\u03c5\u03bd \u03ce\u03c1\u03b5\u03c2-\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b1 \u03b5\u03b8\u03bd\u03b9\u03ba\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03bf\u03c5..",
+                "id": 319244534,
+                "name": "Dimitris Galano \ud83c\uddec\ud83c\uddf7\ud83c\uddeb\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 4342,
+                    "following_count": 3125,
+                    "listed_count": 35,
+                    "tweet_count": 94459
+                },
+                "username": "dimigalano",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-16 07:11:42+00:00",
+                "description": "",
+                "id": 252946241,
+                "name": "minoanfund Oxford-A\ud83d\udc89Z \ud83e\udd8a\u2618\ufe0f\ud83c\udf40",
+                "public_metrics": {
+                    "followers_count": 1886,
+                    "following_count": 940,
+                    "listed_count": 30,
+                    "tweet_count": 22195
+                },
+                "username": "minoanfund",
+                "verified": false
+            },
+            {
+                "created_at": "2013-06-06 10:23:47+00:00",
+                "description": "\u0397 \u03b5\u03b8\u03b5\u03bb\u03bf\u03cd\u03c3\u03b9\u03b1 \u03c3\u03ba\u03bb\u03b1\u03b2\u03b9\u03ac \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1",
+                "id": 1487415428,
+                "name": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b5\u03b9\u03b1\u03b4\u03b7 \u03b1\u03b8\u03b1\u03bd\u03b1\u03c3\u03b9\u03b1",
+                "public_metrics": {
+                    "followers_count": 34,
+                    "following_count": 113,
+                    "listed_count": 0,
+                    "tweet_count": 622
+                },
+                "username": "basia_atha",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-16 17:05:10+00:00",
+                "description": "#stopYulinforever #boycott_lamogia #\u03c3\u03cd\u03c1\u03b9\u03b6\u03b1_\u03ae\u03b8\u03b5\u03bb\u03b5\u03c2_\u03ad_\u03c3\u03ba\u03ac\u03c3\u03b5_\u03ba\u03b1\u03b9_\u03c0\u03bb\u03ae\u03c1\u03c9\u03bd\u03b5 #tsimpa_1 #StopBoknal #WeAreOlympiacos Account managed by partner I tweet as Prrrr",
+                "id": 3173348733,
+                "name": "peristeraRa. \ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 9464,
+                    "following_count": 3849,
+                    "listed_count": 203,
+                    "tweet_count": 604174
+                },
+                "username": "peristeraRa",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-20 21:59:48+00:00",
+                "description": "Greece\u2019s No. 1 news site & best-selling Sunday newspaper. Follow for breaking news, special reports and more from\n@protothema / #protothema",
+                "id": 25584888,
+                "name": "protothema.gr",
+                "public_metrics": {
+                    "followers_count": 331484,
+                    "following_count": 277,
+                    "listed_count": 1708,
+                    "tweet_count": 516167
+                },
+                "username": "protothema",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748248
+                },
+                "username": "entypos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2021-05-20 10:24:41+00:00",
+                "description": "",
+                "id": 1395324542222995457,
+                "name": "Jim",
+                "public_metrics": {
+                    "followers_count": 159,
+                    "following_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 7899
+                },
+                "username": "FtagJim",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-16 14:11:50+00:00",
+                "description": "Electrical & Computer Engineer -  N.T.U.A.",
+                "id": 203535742,
+                "name": "Akis Vergis",
+                "public_metrics": {
+                    "followers_count": 1772,
+                    "following_count": 1725,
+                    "listed_count": 30,
+                    "tweet_count": 14302
+                },
+                "username": "akisvergis",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1123926348043567105,
+            "conversation_id": 1455541299877228544,
+            "created_at": "2021-11-02 14:24:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 48,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 69,
+                        "start": 59,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 77,
+                        "start": 70,
+                        "tag": "\u0395\u03bb\u03bb\u03b1\u03b4\u03b1"
+                    },
+                    {
+                        "end": 88,
+                        "start": 78,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 98,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 123,
+                        "start": 111,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2"
+                    },
+                    {
+                        "end": 136,
+                        "start": 124,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03c4\u03c9\u03bd \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03bf\u03b3\u03bd\u03c9\u03bc\u03cc\u03bd\u03c9\u03bd - \u03a3\u03c4\u03b9\u03c2 18:00 \u03bf\u03b9 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 - \u03a4\u03b9 \u03c3\u03c5\u03b6\u03b7\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf \u039c\u03ad\u03b3\u03b1\u03c1\u03bf \u039c\u03b1\u03be\u03af\u03bc\u03bf\u03c5 \u03c5\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc \u2013 \u0391\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03bf testing \u03ba\u03b1\u03b9 \u03c3\u03b1\u03c1\u03c9\u03c4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af - \u00ab\u039c\u03ac\u03c7\u03b7\u00bb \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1",
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1177401/koronoios-neo-arnitiko-rekor-me-6700-krousmata-simera-erhodai-metra-kai-periorismoi/",
+                        "images": [
+                            {
+                                "height": 360,
+                                "url": "https://pbs.twimg.com/news_img/1455525248242171904/2B0VuORX?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455525248242171904/2B0VuORX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 139,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af",
+                        "unwound_url": "https://www.protothema.gr/greece/article/1177401/koronoios-neo-arnitiko-rekor-me-6700-krousmata-simera-erhodai-metra-kai-periorismoi/",
+                        "url": "https://t.co/E30ZKt766W"
+                    }
+                ]
+            },
+            "id": 1455541299877228544,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd, \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b1 7.000 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1... #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u03bb\u03bb\u03b1\u03b4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af \n\nhttps://t.co/E30ZKt766W"
+        },
+        {
+            "author_id": 1097921140679421952,
+            "conversation_id": 1455306606258892800,
+            "created_at": "2021-11-02 11:55:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1380247130540023808",
+                        "start": 0,
+                        "username": "kate_geofil"
+                    },
+                    {
+                        "end": 24,
+                        "id": "319244534",
+                        "start": 13,
+                        "username": "dimigalano"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "google.com/amp/s/www.prot\u2026",
+                        "end": 147,
+                        "expanded_url": "https://www.google.com/amp/s/www.protothema.gr/greece/article/1158873/giati-prepei-na-emvoliastoume-oloi-tsiodras-tsakris-theodoridou-kai-alloi-eidikoi-apadoun-se-ola/AMP/",
+                        "start": 124,
+                        "url": "https://t.co/Xjl4kRzqNP"
+                    }
+                ]
+            },
+            "id": 1455503935742124042,
+            "in_reply_to_user_id": 1380247130540023808,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455455504206077955 type=replied_to"
+            ],
+            "text": "@kate_geofil @dimigalano \u0395\u03af\u03c0\u03b1\u03bd \u03b8\u03b1 \u03ba\u03bf\u03bb\u03bb\u03b1\u03bd\u03b5 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 \u03bc\u03b5 \u03b7\u03c0\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b1. \u03a0\u03c1\u03bf\u03c2 \u03c4\u03b9 \u03bf \u03b5\u03ba\u03b2\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 \u03c4\u03cc\u03c4\u03b5?\n\nhttps://t.co/Xjl4kRzqNP"
+        },
+        {
+            "author_id": 252946241,
+            "conversation_id": 1455499854503948298,
+            "created_at": "2021-11-02 11:39:41+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 60,
+                        "tag": "\u03c8\u03b5\u03ba"
+                    },
+                    {
+                        "end": 77,
+                        "start": 65,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 97,
+                        "start": 87,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 110,
+                        "start": 98,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 119,
+                        "start": 111,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 126,
+                        "start": 120,
+                        "tag": "\u03c8\u03b5\u03ba\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 251,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1177370/katerreuse-brosta-stis-kameres-o-dieuthudis-tis-klinikis-covid-tou-genikou-nosokomeiou-sti-larisa/",
+                        "start": 228,
+                        "url": "https://t.co/A5RYyuEbb0"
+                    }
+                ]
+            },
+            "id": 1455499854503948298,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03c0\u03b1\u03bb\u03b9\u03bf\u03af \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ad\u03c2 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c4\u03bf\u03c5\u03c2 \u03bb\u03b5\u03bd \u03c4\u03bf\u03c5\u03c1\u03ba\u03bf\u03c3\u03c0\u03bf\u03c1\u03bf\u03c5\u03c2. #\u03c8\u03b5\u03ba\n#\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399\n#COVID19 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf #\u03c8\u03b5\u03ba\u03b9\u03b1 \u00ab\u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5\u00bb \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c3\u03c4\u03b7 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1 https://t.co/A5RYyuEbb0"
+        },
+        {
+            "author_id": 1487415428,
+            "conversation_id": 1454996331437690880,
+            "created_at": "2021-11-01 02:18:52+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 59,
+                        "start": 51,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 68,
+                        "start": 60,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 81,
+                        "start": 69,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2"
+                    },
+                    {
+                        "end": 95,
+                        "start": 83,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 107,
+                        "start": 97,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 117,
+                        "start": 109,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 137,
+                        "start": 118,
+                        "tag": "vaccineSideEffects"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 161,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1176819/se-karadina-oi-23-ellines-touristes-pou-vrethikan-thetikoi-stin-covid-19-sti-venetia/",
+                        "start": 138,
+                        "url": "https://t.co/x9nJxors3b"
+                    }
+                ]
+            },
+            "id": 1454996331437690880,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03bf\u03c7\u03ae, \u03b7 \u03ba\u03ac\u03c1\u03c4\u03b1 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03bc\u03b5\u03b3\u03b5\u03b8\u03cd\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2  #\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399  #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  #COVID19 #vaccineSideEffects https://t.co/x9nJxors3b"
+        },
+        {
+            "author_id": 3173348733,
+            "conversation_id": 1454347353717153796,
+            "created_at": "2021-10-30 07:20:04+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "25584888",
+                        "start": 3,
+                        "username": "protothema"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/world/article/\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.protothema.gr/world/article/1176451/kolomvia-arhizei-o-emvoliasmos-ton-paidion-3-11-eton-gia-tin-covid-19/#.YXy25bve3kE.twitter",
+                        "start": 87,
+                        "url": "https://t.co/6qXflbkwLs"
+                    }
+                ]
+            },
+            "id": 1454347353717153796,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454283756249001985 type=retweeted"
+            ],
+            "text": "RT @protothema: \u039a\u03bf\u03bb\u03bf\u03bc\u03b2\u03af\u03b1: \u0391\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 3-11 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/6qXflbkwLs"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1454341159837446148,
+            "created_at": "2021-10-30 06:55:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1176478/koronoios-nea-meleti-tou-cdc-epivevaionei-oti-o-emvoliasmos-parehei-upsiloteri-prostasia-apo-ti-fusiki-loimoxi/",
+                        "start": 100,
+                        "url": "https://t.co/AV4nupbaMG"
+                    }
+                ]
+            },
+            "id": 1454341159837446148,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03b1 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03c4\u03bf\u03c5 CDC \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03ce\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bb\u03bf\u03af\u03bc\u03c9\u03be\u03b7 https://t.co/AV4nupbaMG"
+        },
+        {
+            "author_id": 25584888,
+            "conversation_id": 1454283756249001985,
+            "created_at": "2021-10-30 03:07:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/world/article/\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.protothema.gr/world/article/1176451/kolomvia-arhizei-o-emvoliasmos-ton-paidion-3-11-eton-gia-tin-covid-19/#.YXy25bve3kE.twitter",
+                        "start": 71,
+                        "url": "https://t.co/6qXflbkwLs"
+                    }
+                ]
+            },
+            "id": 1454283756249001985,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03bb\u03bf\u03bc\u03b2\u03af\u03b1: \u0391\u03c1\u03c7\u03af\u03b6\u03b5\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 3-11 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/6qXflbkwLs"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454148533188235264,
+            "created_at": "2021-10-29 18:10:01+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "25584888",
+                        "start": 3,
+                        "username": "protothema"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/world/article/\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.protothema.gr/world/article/1176332/sunodos-g20-stohos-o-emvoliasmos-tou-70-tou-pagosmiou-plithusmou-eos-ta-mesa-tou-2022/#.YXv2vI2pFWI.twitter",
+                        "start": 104,
+                        "url": "https://t.co/F9MKSeb6t2"
+                    }
+                ]
+            },
+            "id": 1454148533188235264,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454077425122521094 type=retweeted"
+            ],
+            "text": "RT @protothema: \u03a3\u03cd\u03bd\u03bf\u03b4\u03bf\u03c2 G20: \u03a3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 70% \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd \u03ad\u03c9\u03c2 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 2022 https://t.co/F9MKSeb6t2"
+        },
+        {
+            "author_id": 25584888,
+            "conversation_id": 1454077425122521094,
+            "created_at": "2021-10-29 13:27:28+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/world/article/\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.protothema.gr/world/article/1176332/sunodos-g20-stohos-o-emvoliasmos-tou-70-tou-pagosmiou-plithusmou-eos-ta-mesa-tou-2022/#.YXv2vI2pFWI.twitter",
+                        "start": 88,
+                        "url": "https://t.co/F9MKSeb6t2"
+                    }
+                ]
+            },
+            "id": 1454077425122521094,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03cd\u03bd\u03bf\u03b4\u03bf\u03c2 G20: \u03a3\u03c4\u03cc\u03c7\u03bf\u03c2 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 70% \u03c4\u03bf\u03c5 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd \u03ad\u03c9\u03c2 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03c4\u03bf\u03c5 2022 https://t.co/F9MKSeb6t2"
+        },
+        {
+            "author_id": 1395324542222995457,
+            "conversation_id": 1453308326750658561,
+            "created_at": "2021-10-27 10:31:20+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 62,
+                        "start": 50,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 79,
+                        "start": 63,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1175556/ste-ehasan-oristika-tin-mahi-gia-ta-self-test-kai-rapid-test-ekpaideutikoi-kai-goneis/",
+                        "start": 81,
+                        "url": "https://t.co/q6dzILKHsL"
+                    }
+                ]
+            },
+            "id": 1453308326750658561,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03ad\u03c6\u03c4\u03bf\u03c5\u03bd \u03c7\u03b1\u03c3\u03c4\u03bf\u03cd\u03ba\u03b9\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03cc\u03bb\u03b5\u03c2 \u03c4\u03b9\u03c2 \u03c0\u03bb\u03b5\u03c5\u03c1\u03ad\u03c2...\n#\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2\n\nhttps://t.co/q6dzILKHsL"
+        },
+        {
+            "author_id": 203535742,
+            "conversation_id": 1453300309296619520,
+            "created_at": "2021-10-27 09:59:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "protothema.gr/world/article/\u2026",
+                        "end": 231,
+                        "expanded_url": "https://www.protothema.gr/world/article/1175557/emvolia-gia-ton-koronoio-gia-proti-fora-sto-trapezi-i-4i-dosi-apo-to-amerikaniko-cdc/#.YXkibZwZEBo.twitter",
+                        "start": 208,
+                        "url": "https://t.co/3XOsjxAAZo"
+                    }
+                ]
+            },
+            "id": 1453300309296619520,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03b7\u03b4\u03af\u03b1 \u03ba\u03b1\u03c4\u03ac\u03bd\u03c4\u03b7\u03c3\u03b5. \u0391\u03bd \u03bf \u03c0\u03bb\u03ae\u03c1\u03b7\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03ad\u03c7\u03b5\u03b9 \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03c7\u03c1\u03cc\u03bd\u03bf, \u03c4\u03cc\u03c4\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c3\u03ba\u03bf\u03c5\u03c0\u03af\u03b4\u03b9\u03b1. \u0386\u03bd\u03c4\u03b5...\n\n\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc: \u0393\u03b9\u03b1 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c6\u03bf\u03c1\u03ac \u03c3\u03c4\u03bf \u00ab\u03c4\u03c1\u03b1\u03c0\u03ad\u03b6\u03b9\u00bb \u03b7... 4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03cc CDC https://t.co/3XOsjxAAZo"
+        }
+    ]
+}

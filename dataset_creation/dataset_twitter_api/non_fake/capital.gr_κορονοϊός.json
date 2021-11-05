@@ -1,0 +1,1036 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455558828506898435,
+                "created_at": "2021-11-02 15:34:02+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3592439",
+                            "end": 107,
+                            "expanded_url": "http://www.capital.gr/story/3592439",
+                            "start": 84,
+                            "url": "https://t.co/AhQUM00cGV"
+                        }
+                    ]
+                },
+                "id": 1455558828506898435,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03c2: \u0395\u03ba\u03c4\u03cc\u03be\u03b5\u03c5\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03b1 6.700 - 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, \u03c3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/AhQUM00cGV"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455193478699302924,
+                "created_at": "2021-11-01 15:22:16+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 75,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3592006/koronoios-episimos-5-ekatommuria-nekroi-pagkosmios?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635770415",
+                            "start": 52,
+                            "url": "https://t.co/S8aGfFEiOu"
+                        }
+                    ]
+                },
+                "id": 1455193478699302924,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03c0\u03b9\u03c3\u03ae\u03bc\u03c9\u03c2 5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 https://t.co/S8aGfFEiOu"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455196194624393218,
+                "created_at": "2021-11-01 15:33:03+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3592161",
+                            "end": 108,
+                            "expanded_url": "http://www.capital.gr/story/3592161",
+                            "start": 85,
+                            "url": "https://t.co/itctILMW4o"
+                        }
+                    ]
+                },
+                "id": 1455196194624393218,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/itctILMW4o"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454726129563095044,
+                "created_at": "2021-10-31 08:25:11+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359187\u2026",
+                            "end": 105,
+                            "expanded_url": "https://www.capital.gr/diethni/3591877/germania-koronoios-16-900-krousmata-tou-neou-koronoiou-kai-33-thanatoi-se-24-ores?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635668001",
+                            "start": 82,
+                            "url": "https://t.co/wfHj1RneaH"
+                        }
+                    ]
+                },
+                "id": 1454726129563095044,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 16.900 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03ba\u03b1\u03b9 33 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03b5 24 \u03ce\u03c1\u03b5\u03c2 https://t.co/wfHj1RneaH"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454519667314380810,
+                "created_at": "2021-10-30 18:44:47+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 108,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591814/koronoios-4-696-krousmata-kai-38-thanatoi-anisuxitiki-anodos-me-404-diasolinomenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635607026",
+                            "start": 85,
+                            "url": "https://t.co/vERMCxMGZP"
+                        }
+                    ]
+                },
+                "id": 1454519667314380810,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9- \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 \u03bc\u03b5 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/vERMCxMGZP"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454169540640788485,
+                "created_at": "2021-10-29 19:33:30+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3591725",
+                            "end": 103,
+                            "expanded_url": "http://www.capital.gr/story/3591725",
+                            "start": 80,
+                            "url": "https://t.co/LpQBrvWrr2"
+                        }
+                    ]
+                },
+                "id": 1454169540640788485,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454148715720101891,
+                "created_at": "2021-10-29 18:10:45+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 87,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591565/koronoios-137-astheneis-stis-meth-ton-nosokomeion-tis-b-elladas?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635523122",
+                            "start": 64,
+                            "url": "https://t.co/ovbvYqopGu"
+                        }
+                    ]
+                },
+                "id": 1454148715720101891,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 https://t.co/ovbvYqopGu"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453766408307974153,
+                "created_at": "2021-10-28 16:51:36+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 115,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591471/koronoios-entopistikan-duo-stelexi-tis-upoparallagis-au-4-2-epikratei-i-metallaxi-delta?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635439709",
+                            "start": 92,
+                            "url": "https://t.co/HzAfeuNX5M"
+                        }
+                    ]
+                },
+                "id": 1453766408307974153,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. - \u0395\u03c0\u03b9\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 https://t.co/HzAfeuNX5M"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2009-12-23 12:49:16+00:00",
+                "description": "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7",
+                "id": 98872288,
+                "name": "capital.gr",
+                "public_metrics": {
+                    "followers_count": 77428,
+                    "following_count": 0,
+                    "listed_count": 764,
+                    "tweet_count": 213259
+                },
+                "username": "capitalgr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-09-01 09:53:48+00:00",
+                "description": "\u03a0\u03c4\u03c5\u03c7\u03b9\u03bf\u03c5\u03c7\u03bf\u03c2 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03c9\u03bd \u0395\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03c9\u03bd \u03ba \u0394\u03b7\u03bc \u0394\u03b9\u03bf\u03b9\u03ba\u03b7\u03c3\u03b7\u03c2 \u039d\u03bf\u03bc\u03b9\u03ba\u03b7\u03c2 \u0391\u03b8\u03b7\u03bd\u03c9\u03bd!\u0391\u03bc\u03b1 \u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5\u03bd \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03bb\u03b5\u03c2 \u03ba\u03bf\u03b9\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b1\u03b8\u03b1\u03b9\u03bd\u03b5\u03b9\u03c2!!!!",
+                "id": 771284912355827712,
+                "name": "\u0393\u03b9\u03b1\u03bd\u03bd\u03b1 \u039a\u03bf\u03c5\u03b2\u03b1\u03c1\u03b1\u03ba\u03b7",
+                "public_metrics": {
+                    "followers_count": 2175,
+                    "following_count": 3421,
+                    "listed_count": 2,
+                    "tweet_count": 28233
+                },
+                "username": "Yiannakouv",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455587525934948358,
+            "created_at": "2021-11-02 17:28:04+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592439",
+                        "end": 122,
+                        "expanded_url": "http://www.capital.gr/story/3592439",
+                        "start": 99,
+                        "url": "https://t.co/AhQUM00cGV"
+                    }
+                ]
+            },
+            "id": 1455587525934948358,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558828506898435 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03c2: \u0395\u03ba\u03c4\u03cc\u03be\u03b5\u03c5\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03b1 6.700 - 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, \u03c3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/AhQUM00cGV"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455558828506898435,
+            "created_at": "2021-11-02 15:34:02+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592439",
+                        "end": 107,
+                        "expanded_url": "http://www.capital.gr/story/3592439",
+                        "start": 84,
+                        "url": "https://t.co/AhQUM00cGV"
+                    }
+                ]
+            },
+            "id": 1455558828506898435,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03c2: \u0395\u03ba\u03c4\u03cc\u03be\u03b5\u03c5\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03b1 6.700 - 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, \u03c3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/AhQUM00cGV"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455235776904564738,
+            "created_at": "2021-11-01 18:10:20+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592006/koronoios-episimos-5-ekatommuria-nekroi-pagkosmios?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635770415",
+                        "start": 67,
+                        "url": "https://t.co/S8aGfFEiOu"
+                    }
+                ]
+            },
+            "id": 1455235776904564738,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455193478699302924 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03c0\u03b9\u03c3\u03ae\u03bc\u03c9\u03c2 5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 https://t.co/S8aGfFEiOu"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455220234344861704,
+            "created_at": "2021-11-01 17:08:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592161",
+                        "end": 123,
+                        "expanded_url": "http://www.capital.gr/story/3592161",
+                        "start": 100,
+                        "url": "https://t.co/itctILMW4o"
+                    }
+                ]
+            },
+            "id": 1455220234344861704,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455196194624393218 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/itctILMW4o"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455196194624393218,
+            "created_at": "2021-11-01 15:33:03+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592161",
+                        "end": 108,
+                        "expanded_url": "http://www.capital.gr/story/3592161",
+                        "start": 85,
+                        "url": "https://t.co/itctILMW4o"
+                    }
+                ]
+            },
+            "id": 1455196194624393218,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 430 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/itctILMW4o"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455193478699302924,
+            "created_at": "2021-11-01 15:22:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 75,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592006/koronoios-episimos-5-ekatommuria-nekroi-pagkosmios?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635770415",
+                        "start": 52,
+                        "url": "https://t.co/S8aGfFEiOu"
+                    }
+                ]
+            },
+            "id": 1455193478699302924,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03c0\u03b9\u03c3\u03ae\u03bc\u03c9\u03c2 5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 https://t.co/S8aGfFEiOu"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455191620597469188,
+            "created_at": "2021-11-01 15:14:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 120,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592133/koronoios-foboi-gia-neo-arnitiko-rekor-krousmaton-simera-ektakti-suskepsi-me-summetoxi-tsiodra?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635777288",
+                        "start": 97,
+                        "url": "https://t.co/0kYN2J5zJU"
+                    }
+                ]
+            },
+            "id": 1455191620597469188,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a6\u03cc\u03b2\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7 \u03c3\u03cd\u03c3\u03ba\u03b5\u03c8\u03b7 \u03bc\u03b5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae \u03a4\u03c3\u03b9\u03cc\u03b4\u03c1\u03b1 https://t.co/0kYN2J5zJU"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455183075344850944,
+            "created_at": "2021-11-01 14:40:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592133",
+                        "end": 120,
+                        "expanded_url": "http://www.capital.gr/story/3592133",
+                        "start": 97,
+                        "url": "https://t.co/EDYq2fEdk4"
+                    }
+                ]
+            },
+            "id": 1455183075344850944,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a6\u03cc\u03b2\u03bf\u03b9 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7 \u03c3\u03cd\u03c3\u03ba\u03b5\u03c8\u03b7 \u03bc\u03b5 \u03c3\u03c5\u03bc\u03bc\u03b5\u03c4\u03bf\u03c7\u03ae \u03a4\u03c3\u03b9\u03cc\u03b4\u03c1\u03b1 https://t.co/EDYq2fEdk4"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454902841601150980,
+            "created_at": "2021-10-31 20:07:22+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039c\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 357 (84.8%) \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03ae \u03bc\u03b5\u03c1\u03b9\u03ba\u03ce\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 64 (15.2%) \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9. \u0388\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac 15.938 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9.",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591931/koronoios-2-727-krousmata-kai-44-thanatoi-nea-anodos-me-421-diasolinomenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635696017",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1454902846630019076/bFjXa-iD?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454902846630019076/bFjXa-iD?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 77,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9- \u039d\u03ad\u03b1 \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 \u03bc\u03b5 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3591931/koronoios-2-727-krousmata-kai-44-thanatoi-nea-anodos-me-421-diasolinomenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635696017",
+                        "url": "https://t.co/7YMrXKoZTy"
+                    }
+                ]
+            },
+            "id": 1454902841601150980,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9- \u039d\u03ad\u03b1 \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 \u03bc\u03b5 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03bf\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/7YMrXKoZTy"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454835261892857864,
+            "created_at": "2021-10-31 15:38:50+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359187\u2026",
+                        "end": 120,
+                        "expanded_url": "https://www.capital.gr/diethni/3591877/germania-koronoios-16-900-krousmata-tou-neou-koronoiou-kai-33-thanatoi-se-24-ores?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635668001",
+                        "start": 97,
+                        "url": "https://t.co/wfHj1RneaH"
+                    }
+                ]
+            },
+            "id": 1454835261892857864,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454726129563095044 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 16.900 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03ba\u03b1\u03b9 33 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03b5 24 \u03ce\u03c1\u03b5\u03c2 https://t.co/wfHj1RneaH"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454726129563095044,
+            "created_at": "2021-10-31 08:25:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359187\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.capital.gr/diethni/3591877/germania-koronoios-16-900-krousmata-tou-neou-koronoiou-kai-33-thanatoi-se-24-ores?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635668001",
+                        "start": 82,
+                        "url": "https://t.co/wfHj1RneaH"
+                    }
+                ]
+            },
+            "id": 1454726129563095044,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 16.900 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03ba\u03b1\u03b9 33 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03b5 24 \u03ce\u03c1\u03b5\u03c2 https://t.co/wfHj1RneaH"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454543070029094918,
+            "created_at": "2021-10-30 20:17:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591814/koronoios-4-696-krousmata-kai-38-thanatoi-anisuxitiki-anodos-me-404-diasolinomenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635607026",
+                        "start": 100,
+                        "url": "https://t.co/vERMCxMGZP"
+                    }
+                ]
+            },
+            "id": 1454543070029094918,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454519667314380810 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9- \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 \u03bc\u03b5 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/vERMCxMGZP"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454519667314380810,
+            "created_at": "2021-10-30 18:44:47+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591814/koronoios-4-696-krousmata-kai-38-thanatoi-anisuxitiki-anodos-me-404-diasolinomenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635607026",
+                        "start": 85,
+                        "url": "https://t.co/vERMCxMGZP"
+                    }
+                ]
+            },
+            "id": 1454519667314380810,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9- \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03ac\u03bd\u03bf\u03b4\u03bf\u03c2 \u03bc\u03b5 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/vERMCxMGZP"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454394509530386433,
+            "created_at": "2021-10-30 10:27:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359177\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.capital.gr/diethni/3591779/rosia-koronoios-neo-imerisio-rekor-krousmaton-me-40-251-molunseis-kategrapse-i-xora?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635586902",
+                        "start": 84,
+                        "url": "https://t.co/k2FHzOvUmd"
+                    }
+                ]
+            },
+            "id": 1454394509530386433,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a1\u03c9\u03c3\u03af\u03b1-\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b7\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 40.251 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c4\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03b7 \u03c7\u03ce\u03c1\u03b1 https://t.co/k2FHzOvUmd"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454205739896119300,
+            "created_at": "2021-10-29 21:57:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359173\u2026",
+                        "end": 150,
+                        "expanded_url": "https://www.capital.gr/diethni/3591731/brazilia-koronoios-oi-dieuthuntes-tis-ugeionomikis-ruthmistikis-arxis-dexontai-apeiles-thanatou-an-egkrinoun-embolia-se-paidia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635542732",
+                        "start": 127,
+                        "url": "https://t.co/13dyg3ZD09"
+                    }
+                ]
+            },
+            "id": 1454205739896119300,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0392\u03c1\u03b1\u03b6\u03b9\u03bb\u03af\u03b1 - \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f\u03b9 \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae\u03c2 \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b1\u03c1\u03c7\u03ae\u03c2 \u03b4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ad\u03c2 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03bd \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac https://t.co/13dyg3ZD09"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454204832395452418,
+            "created_at": "2021-10-29 21:53:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591725",
+                        "end": 118,
+                        "expanded_url": "http://www.capital.gr/story/3591725",
+                        "start": 95,
+                        "url": "https://t.co/LpQBrvWrr2"
+                    }
+                ]
+            },
+            "id": 1454204832395452418,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454169540640788485 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454169540640788485,
+            "created_at": "2021-10-29 19:33:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591725",
+                        "end": 103,
+                        "expanded_url": "http://www.capital.gr/story/3591725",
+                        "start": 80,
+                        "url": "https://t.co/LpQBrvWrr2"
+                    }
+                ]
+            },
+            "id": 1454169540640788485,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd https://t.co/LpQBrvWrr2"
+        },
+        {
+            "author_id": 771284912355827712,
+            "conversation_id": 1454149263932502017,
+            "created_at": "2021-10-29 18:12:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 102,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591565/koronoios-137-astheneis-stis-meth-ton-nosokomeion-tis-b-elladas?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635523122",
+                        "start": 79,
+                        "url": "https://t.co/ovbvYqopGu"
+                    }
+                ]
+            },
+            "id": 1454149263932502017,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454148715720101891 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 https://t.co/ovbvYqopGu"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454148715720101891,
+            "created_at": "2021-10-29 18:10:45+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591565/koronoios-137-astheneis-stis-meth-ton-nosokomeion-tis-b-elladas?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635523122",
+                        "start": 64,
+                        "url": "https://t.co/ovbvYqopGu"
+                    }
+                ]
+            },
+            "id": 1454148715720101891,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 https://t.co/ovbvYqopGu"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454111691432763395,
+            "created_at": "2021-10-29 15:43:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591690",
+                        "end": 95,
+                        "expanded_url": "http://www.capital.gr/story/3591690",
+                        "start": 72,
+                        "url": "https://t.co/kRFLp649oH"
+                    }
+                ]
+            },
+            "id": 1454111691432763395,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Gilead - \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03b1 $1,9 \u03b4\u03b9\u03c3. \u03bf\u03b9 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u03c6\u03b1\u03c1\u03bc\u03ac\u03ba\u03bf\u03c5 Veklury \u03c4\u03bf \u03b3 https://t.co/kRFLp649oH"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454091371661434883,
+            "created_at": "2021-10-29 14:22:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 3.643 \u03b1\u03bd\u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c0\u03bf\u03c5 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03bc\u03b1\u03c2 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf, \u03b5\u03bd\u03ce \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf \u03af\u03b4\u03b9\u03bf \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1 55 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03b5\u03c0\u03af\u03c0\u03bb\u03bf\u03ba\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5.",
+                        "display_url": "capital.gr/story/3591671",
+                        "end": 113,
+                        "expanded_url": "http://www.capital.gr/story/3591671",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1454091383401291782/EPayZIDM?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454091383401291782/EPayZIDM?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 90,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03b1 3.643 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - '\u0391\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd' \u03c4\u03bf\u03c5\u03c2 400 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3591671/koronoios-sta-3-643-ta-nea-krousmata-55-thanatoi-aggizoun-tous-400-oi-diasolinomenoi",
+                        "url": "https://t.co/0JT6muazvV"
+                    }
+                ]
+            },
+            "id": 1454091371661434883,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03b1 3.643 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - \"\u0391\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\" \u03c4\u03bf\u03c5\u03c2 400 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/0JT6muazvV"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453781002782969858,
+            "created_at": "2021-10-28 17:49:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591471/koronoios-entopistikan-duo-stelexi-tis-upoparallagis-au-4-2-epikratei-i-metallaxi-delta?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635439709",
+                        "start": 107,
+                        "url": "https://t.co/HzAfeuNX5M"
+                    }
+                ]
+            },
+            "id": 1453781002782969858,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453766408307974153 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. - \u0395\u03c0\u03b9\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 https://t.co/HzAfeuNX5M"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453766408307974153,
+            "created_at": "2021-10-28 16:51:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591471/koronoios-entopistikan-duo-stelexi-tis-upoparallagis-au-4-2-epikratei-i-metallaxi-delta?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635439709",
+                        "start": 92,
+                        "url": "https://t.co/HzAfeuNX5M"
+                    }
+                ]
+            },
+            "id": 1453766408307974153,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. - \u0395\u03c0\u03b9\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 https://t.co/HzAfeuNX5M"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453750830113361920,
+            "created_at": "2021-10-28 15:49:41+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591466/koronoios-2-984-krousmata-31-oi-thanatoi-391-oi-diasolinomenoi?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635432752",
+                        "start": 66,
+                        "url": "https://t.co/TKAfcDIHL1"
+                    }
+                ]
+            },
+            "id": 1453750830113361920,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.984 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 31 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 391 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TKAfcDIHL1"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453730944561528839,
+            "created_at": "2021-10-28 14:30:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591466",
+                        "end": 90,
+                        "expanded_url": "http://www.capital.gr/story/3591466",
+                        "start": 67,
+                        "url": "https://t.co/5vd5MCGun8"
+                    }
+                ]
+            },
+            "id": 1453730944561528839,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "*\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.984 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 31 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 391 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/5vd5MCGun8"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453683546510483462,
+            "created_at": "2021-10-28 11:22:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/diethni/3591435/kina-koronoios-mia-triti-poli-se-lokntaoun-epeita-apo-ena-krousma-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419120",
+                        "start": 76,
+                        "url": "https://t.co/aqNWW229Vz"
+                    }
+                ]
+            },
+            "id": 1453683546510483462,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03af\u03bd\u03b1-\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039c\u03b9\u03b1 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c3\u03b5 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 Covid-19 https://t.co/aqNWW229Vz"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453370801953071112,
+            "created_at": "2021-10-27 14:39:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591302",
+                        "end": 96,
+                        "expanded_url": "http://www.capital.gr/story/3591302",
+                        "start": 73,
+                        "url": "https://t.co/90Ez9GRBff"
+                    }
+                ]
+            },
+            "id": 1453370801953071112,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - \u03a3\u03c4\u03bf\u03c5\u03c2 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/90Ez9GRBff"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453357619561869317,
+            "created_at": "2021-10-27 13:47:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359122\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.capital.gr/diethni/3591223/koronoios-upsilo-krousmaton-apo-ton-aprilio-gia-tin-ouggaria?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635329609",
+                        "start": 61,
+                        "url": "https://t.co/F82XTbiNtk"
+                    }
+                ]
+            },
+            "id": 1453357619561869317,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a5\u03c8\u03b7\u03bb\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0391\u03c0\u03c1\u03af\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u039f\u03c5\u03b3\u03b3\u03b1\u03c1\u03af\u03b1 https://t.co/F82XTbiNtk"
+        }
+    ]
+}

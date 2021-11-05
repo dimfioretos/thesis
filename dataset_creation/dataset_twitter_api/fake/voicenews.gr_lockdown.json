@@ -1,0 +1,102 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2014-10-03 11:54:17+00:00",
+                "description": "",
+                "id": 2801820046,
+                "name": "Voice News",
+                "public_metrics": {
+                    "followers_count": 7701,
+                    "following_count": 1519,
+                    "listed_count": 75,
+                    "tweet_count": 242918
+                },
+                "username": "apokalyptikodel",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455643986090237955,
+            "created_at": "2021-11-02 21:12:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u03b1\u03b3\u03bf\u03c1\u03ac \u03c4\u03b7\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03bc\u03c0\u03b1\u03af\u03bd\u03b5\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c3\u03c4\u03bf\u03bd \u03ba\u03cd\u03ba\u03bb\u03bf \u03c4\u03bf\u03c5 lockdown, \u03bc\u03b5 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7",
+                        "display_url": "voicenews.gr/poese-se-atypo\u2026",
+                        "end": 67,
+                        "expanded_url": "https://voicenews.gr/poese-se-atypo-lockdown-kai-pali-i-estiasi/",
+                        "images": [
+                            {
+                                "height": 1055,
+                                "url": "https://pbs.twimg.com/news_img/1455643992171876356/yDeCJROK?format=jpg&name=orig",
+                                "width": 1536
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455643992171876356/yDeCJROK?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 44,
+                        "status": 200,
+                        "title": "\u03a0\u039f\u0395\u03a3\u0395: \u03a3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf lockdown \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7 - Voice News",
+                        "unwound_url": "https://voicenews.gr/poese-se-atypo-lockdown-kai-pali-i-estiasi/",
+                        "url": "https://t.co/o5FbOlMoxM"
+                    }
+                ]
+            },
+            "id": 1455643986090237955,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u039f\u0395\u03a3\u0395: \u03a3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf lockdown \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7 https://t.co/o5FbOlMoxM"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455268476780695552,
+            "created_at": "2021-11-01 20:20:17+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u00a0 \u0391\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf\u03af \u03c4\u03b7\u03c2 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u0395\u03bb \u03a0\u03ac\u03c3\u03bf \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03c1\u03cc\u03bc\u03bf\u03c5\u03c2 \u03b3\u03cd\u03c1\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b5\u03c5\u03bd",
+                        "display_url": "voicenews.gr/texas-lockdown\u2026",
+                        "end": 93,
+                        "expanded_url": "https://voicenews.gr/texas-lockdown-se-dyo-scholeia-meta-apo-parousia-enoplou-stin-periochi/",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1455268482250072073/nFHgXA47?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455268482250072073/nFHgXA47?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 70,
+                        "status": 200,
+                        "title": "T\u03ad\u03be\u03b1\u03c2: Lockdown \u03c3\u03b5 \u03b4\u03c5\u03bf \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03ad\u03bd\u03bf\u03c0\u03bb\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae - Voice News",
+                        "unwound_url": "https://voicenews.gr/texas-lockdown-se-dyo-scholeia-meta-apo-parousia-enoplou-stin-periochi/",
+                        "url": "https://t.co/duzoaI9cNR"
+                    }
+                ]
+            },
+            "id": 1455268476780695552,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "T\u03ad\u03be\u03b1\u03c2: Lockdown \u03c3\u03b5 \u03b4\u03c5\u03bf \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03ad\u03bd\u03bf\u03c0\u03bb\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae https://t.co/duzoaI9cNR"
+        }
+    ]
+}

@@ -1,0 +1,820 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 986719866806767617,
+                "conversation_id": 1454836117287718912,
+                "created_at": "2021-10-31 15:42:14+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 97,
+                            "id": "78114955",
+                            "start": 88,
+                            "username": "alfavita"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "alfavita.gr/koinonia/36187\u2026",
+                            "end": 82,
+                            "expanded_url": "https://www.alfavita.gr/koinonia/361879_koronoios-2727-kroysmata-44-thanatoi-421-diasolinomenoi",
+                            "start": 59,
+                            "url": "https://t.co/TtEX9Pfn4T"
+                        }
+                    ]
+                },
+                "id": 1454836117287718912,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TtEX9Pfn4T \u03bc\u03ad\u03c3\u03c9 @alfavita"
+            },
+            {
+                "author_id": 78114955,
+                "conversation_id": 1454358936467828737,
+                "created_at": "2021-10-30 08:06:05+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBZLd8",
+                            "end": 90,
+                            "expanded_url": "http://dlvr.it/SBZLd8",
+                            "start": 67,
+                            "url": "https://t.co/t9wg8eNylC"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/NneMHtagFY",
+                            "end": 114,
+                            "expanded_url": "https://twitter.com/alfavita/status/1454358936467828737/photo/1",
+                            "start": 91,
+                            "url": "https://t.co/NneMHtagFY"
+                        }
+                    ]
+                },
+                "id": 1454358936467828737,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bf\u03b9\u03b1 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03bf\u03ac\u03bd\u03bf\u03c3\u03b1 \u03bd\u03bf\u03c3\u03ae\u03bc\u03b1\u03c4\u03b1 https://t.co/t9wg8eNylC https://t.co/NneMHtagFY"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-06-02 21:15:23+00:00",
+                "description": "\u03a7\u03b7\u03bc\u03b9\u03ba\u03cc\u03c2 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2 - \u03a6\u03c5\u03c3\u03b9\u03ba\u03cc\u03c2",
+                "id": 2542148664,
+                "name": "\u0392\u0391\u03a1\u0395\u039b\u0391\u03a3 \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 60,
+                    "following_count": 44,
+                    "listed_count": 0,
+                    "tweet_count": 33683
+                },
+                "username": "gvarelas1",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-28 20:34:20+00:00",
+                "description": "\u03a4\u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7, \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03b3\u03bf\u03c1\u03ac \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2",
+                "id": 78114955,
+                "name": "alfavita.gr",
+                "public_metrics": {
+                    "followers_count": 12396,
+                    "following_count": 199,
+                    "listed_count": 179,
+                    "tweet_count": 179203
+                },
+                "username": "alfavita",
+                "verified": false
+            },
+            {
+                "created_at": "2021-07-22 11:22:01+00:00",
+                "description": "\u039f \u0395\u03a6\u0395\u0394\u03a1\u0399\u039a\u039f\u03a3 \u039b\u039f\u0393\u0391\u03a1\u0399\u0391\u03a3\u039c\u039f\u03a3 \u03a4\u039f\u03a5\n@GiannesT1.\n\u03a8\u0397\u03a6\u0399\u0396\u03a9/\u03a5\u03a0\u039f\u03a3\u03a4\u0397\u03a1\u0399\u0396\u03a9 \u03a4\u039f \u039a\u039f\u039c\u039c\u039f\u03a5\u039d\u0399\u03a3\u03a4\u0399\u039a\u039f \u039a\u039f\u039c\u039c\u0391 \u0395\u039b\u039b\u0391\u0394\u0391\u03a3.",
+                "id": 1418169025209774082,
+                "name": "\u0393\u0399\u0391\u039d\u039d\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 503,
+                    "following_count": 1086,
+                    "listed_count": 0,
+                    "tweet_count": 28089
+                },
+                "username": "bjwtn0rg3E9LbOO",
+                "verified": false
+            },
+            {
+                "created_at": "2018-04-18 21:35:23+00:00",
+                "description": "\u0395\u03c1\u03b3\u03b1\u03c4\u03b9\u03ba\u03cc \u03a0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03cc\n\n\"\u039f \u03ba\u03bf\u03bc\u03bc\u03bf\u03c5\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03bd\u03b9\u03cc\u03c4\u03b7 \u03c4\u03bf\u03c5 \u03ba\u03cc\u03c3\u03bc\u03bf\u03c5\"\n\n\u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 \u03b5\u03ba\u03c6\u03c1\u03ac\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf Praxis Review. \u039f\u03b9 \u03b1\u03bd\u03b1\u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03b9\u03c2 \u03cc\u03c3\u03bf\u03c5\u03c2/\u03cc\u03c3\u03b5\u03c2 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bd.",
+                "id": 986719866806767617,
+                "name": "Praxis Review",
+                "public_metrics": {
+                    "followers_count": 10902,
+                    "following_count": 457,
+                    "listed_count": 47,
+                    "tweet_count": 28165
+                },
+                "username": "praxis_review",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-03 15:42:21+00:00",
+                "description": "\u0391\u039d\u03a4\u0399\u03a6\u0391\u03a3\u0399\u03a3\u03a4\u0391\u03a3.\n\u0391\u039d\u03a4\u0399\u0394\u0395\u039e\u0399\u039f\u03a3.\n\u0391\u039d\u03a4\u0399\u03a3\u039f\u03a3\u0399\u0391\u039b\u0394\u0397\u039c\u039f\u039a\u03a1\u0391\u03a4\u0397\u03a3.\n\u0391\u039d\u03a4\u0399\u039c\u039f\u039d\u0391\u03a1\u03a7\u0399\u039a\u039f\u03a3.\n\u0391\u039d\u03a4\u0399\u039a\u0391\u03a0\u0399\u03a4\u0391\u039b\u0399\u03a3\u03a4\u0397\u03a3.\n\u0391\u0398\u0395\u039f\u03a3.\n\u03a8\u0397\u03a6\u0399\u0396\u03a9 \u039a\u0391\u0399 \u03a5\u03a0\u039f\u03a3\u03a4\u0397\u03a1\u0399\u0396\u03a9 \u03a4\u039f \u039a\u039a\u0395.",
+                "id": 1312417583023484937,
+                "name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 2306,
+                    "following_count": 4507,
+                    "listed_count": 0,
+                    "tweet_count": 142953
+                },
+                "username": "GiannesT1",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-05 19:30:48+00:00",
+                "description": "",
+                "id": 3138236981,
+                "name": "Liana K",
+                "public_metrics": {
+                    "followers_count": 795,
+                    "following_count": 86,
+                    "listed_count": 14,
+                    "tweet_count": 246825
+                },
+                "username": "lianalk3",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1455460766753173507,
+            "created_at": "2021-11-02 09:04:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 104,
+                        "id": "78114955",
+                        "start": 95,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36200\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/362001_koronoios-i-anosia-fthinei-se-exi-mines-meta-ton-pliri-emboliasmo",
+                        "start": 66,
+                        "url": "https://t.co/RKYVQy6jmB"
+                    }
+                ]
+            },
+            "id": 1455460766753173507,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03c3\u03b5 \u03ad\u03be\u03b9 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03c0\u03bb\u03ae\u03c1\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc https://t.co/RKYVQy6jmB \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1455452490577633281,
+            "created_at": "2021-11-02 08:31:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 99,
+                        "id": "78114955",
+                        "start": 90,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36201\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/362017_koronoios-dramatiki-problepsi-gia-10000-kroysmata-tin-imera",
+                        "start": 61,
+                        "url": "https://t.co/Yn4JoasElZ"
+                    }
+                ]
+            },
+            "id": 1455452490577633281,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03c0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 https://t.co/Yn4JoasElZ \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1455450572405067776,
+            "created_at": "2021-11-02 08:23:52+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 121,
+                        "id": "78114955",
+                        "start": 112,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36201\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/362018_koronoios-nea-metra-meta-tin-ekrixi-kroysmaton-syskepsi-sto-maximoy-me-tsiodra",
+                        "start": 83,
+                        "url": "https://t.co/XSLamby1FB"
+                    }
+                ]
+            },
+            "id": 1455450572405067776,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u00ab\u03ad\u03ba\u03c1\u03b7\u03be\u03b7\u00bb \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u2013 \u03a3\u03cd\u03c3\u03ba\u03b5\u03c8\u03b7 \u03c3\u03c4\u03bf \u039c\u03b1\u03be\u03af\u03bc\u03bf\u03c5 \u03bc\u03b5 \u03a4\u03c3\u03b9\u03cc\u03b4\u03c1\u03b1 https://t.co/XSLamby1FB \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 1418169025209774082,
+            "conversation_id": 1454909975688581120,
+            "created_at": "2021-10-31 20:35:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986719866806767617",
+                        "start": 3,
+                        "username": "praxis_review"
+                    },
+                    {
+                        "end": 116,
+                        "id": "78114955",
+                        "start": 107,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36187\u2026",
+                        "end": 101,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361879_koronoios-2727-kroysmata-44-thanatoi-421-diasolinomenoi",
+                        "start": 78,
+                        "url": "https://t.co/TtEX9Pfn4T"
+                    }
+                ]
+            },
+            "id": 1454909975688581120,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454836117287718912 type=retweeted"
+            ],
+            "text": "RT @praxis_review: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TtEX9Pfn4T \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 1312417583023484937,
+            "conversation_id": 1454888753948942346,
+            "created_at": "2021-10-31 19:11:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "986719866806767617",
+                        "start": 3,
+                        "username": "praxis_review"
+                    },
+                    {
+                        "end": 116,
+                        "id": "78114955",
+                        "start": 107,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36187\u2026",
+                        "end": 101,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361879_koronoios-2727-kroysmata-44-thanatoi-421-diasolinomenoi",
+                        "start": 78,
+                        "url": "https://t.co/TtEX9Pfn4T"
+                    }
+                ]
+            },
+            "id": 1454888753948942346,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454836117287718912 type=retweeted"
+            ],
+            "text": "RT @praxis_review: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TtEX9Pfn4T \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 986719866806767617,
+            "conversation_id": 1454836117287718912,
+            "created_at": "2021-10-31 15:42:14+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 97,
+                        "id": "78114955",
+                        "start": 88,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36187\u2026",
+                        "end": 82,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361879_koronoios-2727-kroysmata-44-thanatoi-421-diasolinomenoi",
+                        "start": 59,
+                        "url": "https://t.co/TtEX9Pfn4T"
+                    }
+                ]
+            },
+            "id": 1454836117287718912,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TtEX9Pfn4T \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454796329356513281,
+            "created_at": "2021-10-31 13:04:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 113,
+                        "id": "78114955",
+                        "start": 104,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36186\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361865_koronoios-aparaititi-i-enishytiki-dosi-se-karkinopatheis-gia-eparki-anosia",
+                        "start": 75,
+                        "url": "https://t.co/jQ2aNIXDhi"
+                    }
+                ]
+            },
+            "id": 1454796329356513281,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c0\u03b1\u03c1\u03b1\u03af\u03c4\u03b7\u03c4\u03b7 \u03b7 \u03b5\u03bd\u03b9\u03c3\u03c7\u03c5\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03c3\u03b5 \u03ba\u03b1\u03c1\u03ba\u03b9\u03bd\u03bf\u03c0\u03b1\u03b8\u03b5\u03af\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b1\u03c1\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 https://t.co/jQ2aNIXDhi \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454494834555645954,
+            "created_at": "2021-10-30 17:06:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBbQRb",
+                        "end": 62,
+                        "expanded_url": "http://dlvr.it/SBbQRb",
+                        "start": 39,
+                        "url": "https://t.co/W48qBiGeZ5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/YjCbLSzGoo",
+                        "end": 86,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454494834555645954/photo/1",
+                        "start": 63,
+                        "url": "https://t.co/YjCbLSzGoo"
+                    }
+                ]
+            },
+            "id": 1454494834555645954,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u0388\u03ba\u03c1\u03b7\u03be\u03b7\u00bb \u03bc\u03b5 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/W48qBiGeZ5 https://t.co/YjCbLSzGoo"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454437094026366976,
+            "created_at": "2021-10-30 13:16:40+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 111,
+                        "id": "78114955",
+                        "start": 102,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36183\u2026",
+                        "end": 96,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361831_koronoios-ta-embolia-parehoyn-megalyteri-prostasia-apo-ti-fysiki-anosia",
+                        "start": 73,
+                        "url": "https://t.co/5qFoueSOwX"
+                    }
+                ]
+            },
+            "id": 1454437094026366976,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 https://t.co/5qFoueSOwX \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454435251170721792,
+            "created_at": "2021-10-30 13:09:20+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 105,
+                        "id": "78114955",
+                        "start": 96,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36182\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361823_koronoios-poia-therapeia-boitha-toys-astheneis-me-aytoanosa-nosimata",
+                        "start": 67,
+                        "url": "https://t.co/Ffuv4BRWFq"
+                    }
+                ]
+            },
+            "id": 1454435251170721792,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bf\u03b9\u03b1 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03bf\u03ac\u03bd\u03bf\u03c3\u03b1 \u03bd\u03bf\u03c3\u03ae\u03bc\u03b1\u03c4\u03b1 https://t.co/Ffuv4BRWFq \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454404247492067335,
+            "created_at": "2021-10-30 11:06:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBZh1P",
+                        "end": 96,
+                        "expanded_url": "http://dlvr.it/SBZh1P",
+                        "start": 73,
+                        "url": "https://t.co/iKggZBo7gX"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/gyuCtRqd7y",
+                        "end": 120,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454404247492067335/photo/1",
+                        "start": 97,
+                        "url": "https://t.co/gyuCtRqd7y"
+                    }
+                ]
+            },
+            "id": 1454404247492067335,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 https://t.co/iKggZBo7gX https://t.co/gyuCtRqd7y"
+        },
+        {
+            "author_id": 3138236981,
+            "conversation_id": 1454363411538718720,
+            "created_at": "2021-10-30 08:23:52+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "78114955",
+                        "start": 3,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBZLd8",
+                        "end": 104,
+                        "expanded_url": "http://dlvr.it/SBZLd8",
+                        "start": 81,
+                        "url": "https://t.co/t9wg8eNylC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NneMHtagFY",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454358936467828737/photo/1",
+                        "start": 105,
+                        "url": "https://t.co/NneMHtagFY"
+                    }
+                ]
+            },
+            "id": 1454363411538718720,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454358936467828737 type=retweeted"
+            ],
+            "text": "RT @alfavita: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bf\u03b9\u03b1 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03bf\u03ac\u03bd\u03bf\u03c3\u03b1 \u03bd\u03bf\u03c3\u03ae\u03bc\u03b1\u03c4\u03b1 https://t.co/t9wg8eNylC https://t.co/NneMHtagFY"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454358946169298947,
+            "created_at": "2021-10-30 08:06:08+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBZLdq",
+                        "end": 112,
+                        "expanded_url": "http://dlvr.it/SBZLdq",
+                        "start": 89,
+                        "url": "https://t.co/VYS84xgYa5"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zHMevsfhgb",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454358946169298947/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/zHMevsfhgb"
+                    }
+                ]
+            },
+            "id": 1454358946169298947,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039c\u03ad\u03c7\u03c1\u03b9 \u03c4\u03bf \u03c4\u03ad\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 2021 \u03c4\u03bf \u00ab\u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c6\u03c9\u03c2\u00bb \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc \u03bc\u03b1\u03b8\u03b7\u03c4\u03ce\u03bd 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/VYS84xgYa5 https://t.co/zHMevsfhgb"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454358936467828737,
+            "created_at": "2021-10-30 08:06:05+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBZLd8",
+                        "end": 90,
+                        "expanded_url": "http://dlvr.it/SBZLd8",
+                        "start": 67,
+                        "url": "https://t.co/t9wg8eNylC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NneMHtagFY",
+                        "end": 114,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454358936467828737/photo/1",
+                        "start": 91,
+                        "url": "https://t.co/NneMHtagFY"
+                    }
+                ]
+            },
+            "id": 1454358936467828737,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bf\u03b9\u03b1 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03b2\u03bf\u03b7\u03b8\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03bf\u03ac\u03bd\u03bf\u03c3\u03b1 \u03bd\u03bf\u03c3\u03ae\u03bc\u03b1\u03c4\u03b1 https://t.co/t9wg8eNylC https://t.co/NneMHtagFY"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454132196415983622,
+            "created_at": "2021-10-29 17:05:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBXhJV",
+                        "end": 82,
+                        "expanded_url": "http://dlvr.it/SBXhJV",
+                        "start": 59,
+                        "url": "https://t.co/OozxYSTEqp"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/nprTVX7ovz",
+                        "end": 106,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454132196415983622/photo/1",
+                        "start": 83,
+                        "url": "https://t.co/nprTVX7ovz"
+                    }
+                ]
+            },
+            "id": 1454132196415983622,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 392 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/OozxYSTEqp https://t.co/nprTVX7ovz"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454029973719748608,
+            "created_at": "2021-10-29 10:18:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 122,
+                        "id": "78114955",
+                        "start": 113,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36175\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361753_epistimi-ygeia-se-makra-covid-19-mporei-na-odigisoyn-kai-oi-loimoxeis-se",
+                        "start": 84,
+                        "url": "https://t.co/sPZP5bnr0P"
+                    }
+                ]
+            },
+            "id": 1454029973719748608,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b5 \u03bc\u03b1\u03ba\u03c1\u03ac Covid-19 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03bb\u03bf\u03b9\u03bc\u03ce\u03be\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/sPZP5bnr0P \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454029089678020608,
+            "created_at": "2021-10-29 10:15:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "78114955",
+                        "start": 109,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36176\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361769_ereynoyn-mystiko-ton-anthropon-poy-den-arrostainoyn-apo-covid-19",
+                        "start": 80,
+                        "url": "https://t.co/ntRRB9pv9F"
+                    }
+                ]
+            },
+            "id": 1454029089678020608,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03bc\u03c5\u03c3\u03c4\u03b9\u03ba\u03cc \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b1\u03c1\u03c1\u03c9\u03c3\u03c4\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc Covid-19 https://t.co/ntRRB9pv9F \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1453983375459508225,
+            "created_at": "2021-10-29 07:13:45+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "78114955",
+                        "start": 103,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36172\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361728_koronoios-ta-farmaka-poy-boithoyn-toys-sobara-astheneis-oi-sostes-doseis",
+                        "start": 74,
+                        "url": "https://t.co/qRhOZyIRMS"
+                    }
+                ]
+            },
+            "id": 1453983375459508225,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b1 \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03b1 \u03c0\u03bf\u03c5 \u03b2\u03bf\u03b7\u03b8\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ac \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u2013 \u039f\u03b9 \u03c3\u03c9\u03c3\u03c4\u03ad\u03c2 \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 https://t.co/qRhOZyIRMS \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1453977010150256640,
+            "created_at": "2021-10-29 06:48:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 112,
+                        "id": "78114955",
+                        "start": 103,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36172\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361729_koronoios-ti-symbainei-me-ta-antisomata-pliros-emboliasmenon-poy-nosisan",
+                        "start": 74,
+                        "url": "https://t.co/QtqwXrVRzJ"
+                    }
+                ]
+            },
+            "id": 1453977010150256640,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b9 \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c0\u03bf\u03c5 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b1\u03bd https://t.co/QtqwXrVRzJ \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1453666485210165253,
+            "created_at": "2021-10-28 10:14:32+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 119,
+                        "id": "78114955",
+                        "start": 110,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/ekpaideysi/361\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.alfavita.gr/ekpaideysi/361699_koronoios-i-pahysarkia-epireazei-arnitika-akoma-kai-astheneis-me-ipia-symptomata",
+                        "start": 81,
+                        "url": "https://t.co/TI5RpIcEUG"
+                    }
+                ]
+            },
+            "id": 1453666485210165253,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u03c0\u03b1\u03c7\u03c5\u03c3\u03b1\u03c1\u03ba\u03af\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ae\u03c0\u03b9\u03b1 \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 https://t.co/TI5RpIcEUG \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 373909732,
+                "conversation_id": 1455618515159994371,
+                "created_at": "2021-11-02 19:31:12+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/korono\u2026",
+                            "end": 132,
+                            "expanded_url": "https://www.enikos.gr/society/koronoios-i-ekrixi-krousmaton-efere-nea-metra-sfingei-o-kloios-gia-tous-anemvoliastous-apo-to-savvato/1700488/",
+                            "start": 109,
+                            "url": "https://t.co/SsDK1eIYe3"
+                        }
+                    ]
+                },
+                "id": 1455618515159994371,
+                "public_metrics": {
+                    "like_count": 11,
+                    "quote_count": 1,
+                    "reply_count": 6,
+                    "retweet_count": 5
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u201c\u03ad\u03ba\u03c1\u03b7\u03be\u03b7\u201d \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ad\u03c6\u03b5\u03c1\u03b5 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u2013 \u03a3\u03c6\u03af\u03b3\u03b3\u03b5\u03b9 \u03bf \u201c\u03ba\u03bb\u03bf\u03b9\u03cc\u03c2\u201d \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf https://t.co/SsDK1eIYe3"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-02-01 17:18:39+00:00",
+                "description": "",
+                "id": 3010523297,
+                "name": "Manos D",
+                "public_metrics": {
+                    "followers_count": 21,
+                    "following_count": 20,
+                    "listed_count": 0,
+                    "tweet_count": 23
+                },
+                "username": "manosdiolatzis",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-15 11:33:44+00:00",
+                "description": "\u0395\u03b4\u03ce \u03bc\u03b9\u03bb\u03ac\u03bc\u03b5 \u03c3\u03c4\u03bf\u03bd \u03b5\u03bd\u03b9\u03ba\u03cc.",
+                "id": 373909732,
+                "name": "enikos.gr",
+                "public_metrics": {
+                    "followers_count": 405557,
+                    "following_count": 33,
+                    "listed_count": 1188,
+                    "tweet_count": 619155
+                },
+                "username": "enikos_gr",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3010523297,
+            "conversation_id": 1455618515159994371,
+            "created_at": "2021-11-02 19:49:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "373909732",
+                        "start": 0,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1455623065338003461,
+            "in_reply_to_user_id": 373909732,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455618515159994371 type=replied_to"
+            ],
+            "text": "@enikos_gr \u0393\u03c5\u03c1\u03af\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03b1\u03bd\u03ac\u03c0\u03bf\u03b4\u03b1 \u03c4\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03c4\u03bf \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5!"
+        }
+    ]
+}

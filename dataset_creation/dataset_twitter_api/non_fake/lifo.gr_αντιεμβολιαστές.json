@@ -1,0 +1,264 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 70340615,
+                "conversation_id": 1455065633096355841,
+                "created_at": "2021-11-01 06:54:15+00:00",
+                "id": 1455065633096355841,
+                "public_metrics": {
+                    "like_count": 2295,
+                    "quote_count": 134,
+                    "reply_count": 379,
+                    "retweet_count": 288
+                },
+                "text": "\u0388\u03bd\u03b1\u03c2 \u00ab\u03ba\u03cd\u03c1\u03b9\u03bf\u03c2\u00bb influencer \u03c5\u03c0\u03bf\u03c4\u03af\u03b8\u03b5\u03c4\u03b1\u03b9 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03ba\u03ac\u03c4\u03b9 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c7\u03c5\u03b4\u03b1\u03af\u03bf \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03bc\u03af\u03b1\u03c2 \u03ac\u03b3\u03bd\u03c9\u03c3\u03c4\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03b9\u03c0\u03bb\u03b1\u03bd\u03ae\u03c2 \u03ba\u03c5\u03c1\u03af\u03b1\u03c2. \u038c\u03c4\u03b1\u03bd \u03cc\u03bc\u03c9\u03c2 \u03bf \u03af\u03b4\u03b9\u03bf\u03c2 \u03b5\u03be\u03cd\u03b2\u03c1\u03b9\u03b6\u03b5 \u03c4\u03bf\u03bd \u03a0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc \u03cc\u03bb\u03bf \u03c4\u03bf \u03c8\u03b5\u03c5\u03c4\u03bf\u03c0\u03c1\u03bf\u03bf\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc TL \u03c4\u03bf\u03bd \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03c3\u03b5 \u03c7\u03b1\u03c1\u03b9\u03c4\u03c9\u03bc\u03ad\u03bd\u03bf. \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03bc\u03c0\u03b5\u03b9 \u03ad\u03bd\u03b1 \u03c6\u03c1\u03ad\u03bd\u03bf \u03c3\u03c4\u03b7 \u03c7\u03c5\u03b4\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03bf\u03c5 \u0394\u03b9\u03b1\u03b4\u03b9\u03ba\u03c4\u03cd\u03bf\u03c5. \u0395\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c4\u03bf\u03be\u03b9\u03ba\u03ae."
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-07-01 06:00:41+00:00",
+                "description": "We, are the robots!",
+                "id": 52649354,
+                "name": "\u03a4\u03b5\u03c7\u03bd\u03bf\u03bc\u03ac\u03b3\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 293,
+                    "following_count": 431,
+                    "listed_count": 0,
+                    "tweet_count": 3896
+                },
+                "username": "Technomagos",
+                "verified": false
+            },
+            {
+                "created_at": "2009-08-31 07:48:35+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u0391\u039d\u03a4\u0399\u03a0\u03a1\u039f\u0395\u0394\u03a1\u039f\u03a3 \u03c4\u03b7\u03c2 \u039d\u0394 FB: https://t.co/AW4o08qslp Youtube: https://t.co/kAXwGJEl7f",
+                "id": 70340615,
+                "name": "\u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 275018,
+                    "following_count": 3892,
+                    "listed_count": 951,
+                    "tweet_count": 149000
+                },
+                "username": "AdonisGeorgiadi",
+                "verified": true
+            },
+            {
+                "created_at": "2014-02-17 22:30:27+00:00",
+                "description": "",
+                "id": 2349489651,
+                "name": "chrysib11",
+                "public_metrics": {
+                    "followers_count": 2866,
+                    "following_count": 3524,
+                    "listed_count": 23,
+                    "tweet_count": 322734
+                },
+                "username": "xbilli11",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-13 12:38:05+00:00",
+                "description": "https://t.co/rshBCbPWhn - https://t.co/9WzXNbtFds - https://t.co/KDTCYWIkC0",
+                "id": 297963914,
+                "name": "\u0395\u03a1\u03a4",
+                "public_metrics": {
+                    "followers_count": 102731,
+                    "following_count": 752,
+                    "listed_count": 846,
+                    "tweet_count": 184682
+                },
+                "username": "ertofficial_",
+                "verified": false
+            },
+            {
+                "created_at": "2009-05-02 04:36:58+00:00",
+                "description": "Minister of Digital Governance, Hellenic Republic",
+                "id": 37141924,
+                "name": "Kyriakos Pierrakakis",
+                "public_metrics": {
+                    "followers_count": 39692,
+                    "following_count": 1894,
+                    "listed_count": 228,
+                    "tweet_count": 9644
+                },
+                "username": "Pierrakakis",
+                "verified": true
+            },
+            {
+                "created_at": "2021-08-31 16:41:44+00:00",
+                "description": "MD     \u0395\u03c7\u03c9 \u03c7\u03b1\u03c3\u03b5\u03b9 \u03c0\u03bb\u03b5\u03bf\u03bd \u03ba\u03b1\u03b8\u03b5 \u03b9\u03c7\u03bd\u03bf\u03c2 \u03c5\u03c0\u03bf\u03bc\u03bf\u03bd\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03bf\u03b7\u03c3\u03b9\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03bb\u03b5\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd covid19 & \u03c4\u03b1 covid19 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1",
+                "id": 1432745352994643969,
+                "name": "No name",
+                "public_metrics": {
+                    "followers_count": 42,
+                    "following_count": 75,
+                    "listed_count": 0,
+                    "tweet_count": 654
+                },
+                "username": "VaccineIsSafe1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 52649354,
+            "conversation_id": 1455065633096355841,
+            "created_at": "2021-11-01 10:37:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "70340615",
+                        "start": 0,
+                        "username": "AdonisGeorgiadi"
+                    },
+                    {
+                        "end": 26,
+                        "id": "2349489651",
+                        "start": 17,
+                        "username": "xbilli11"
+                    },
+                    {
+                        "end": 112,
+                        "id": "297963914",
+                        "start": 99,
+                        "username": "ertofficial_"
+                    },
+                    {
+                        "end": 185,
+                        "id": "37141924",
+                        "start": 173,
+                        "username": "Pierrakakis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0393\u03b9\u03b1\u03c4\u03af \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03c0\u03bf\u03c1\u03b9\u03ba\u03bf\u03cd \u03c3\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u0395\u03a1\u03a4 \u03b1\u03c0\u03cc \u03c4\u03c1\u03af\u03c4\u03bf\u03c5\u03c2 - \u03ba\u03b1\u03b9 \u03bc\u03ac\u03bb\u03b9\u03c3\u03c4\u03b1 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b1\u03c0\u03b1\u03c1\u03ac\u03b4\u03b5\u03ba\u03c4\u03bf \u03c4\u03c1\u03cc\u03c0\u03bf; \u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1",
+                        "display_url": "mikropragmata.lifo.gr/zoi/i-psekasme\u2026",
+                        "end": 307,
+                        "expanded_url": "https://mikropragmata.lifo.gr/zoi/i-psekasmeni-katantia-tis-ert-open/",
+                        "images": [
+                            {
+                                "height": 300,
+                                "url": "https://pbs.twimg.com/news_img/1455121766595104768/1tJ0XpI9?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455121766595104768/1tJ0XpI9?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 284,
+                        "status": 200,
+                        "title": "\u0397 \u03c8\u03b5\u03ba\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03ba\u03b1\u03c4\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c4\u03b7\u03c2 \u0395\u03a1\u03a4 Open",
+                        "unwound_url": "https://mikropragmata.lifo.gr/zoi/i-psekasmeni-katantia-tis-ert-open/",
+                        "url": "https://t.co/yQv1vmQiiF"
+                    }
+                ]
+            },
+            "id": 1455121761134075907,
+            "in_reply_to_user_id": 70340615,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455065633096355841 type=replied_to"
+            ],
+            "text": "@AdonisGeorgiadi @xbilli11 \u0393\u03b9\u03b1\u03c4\u03af \u03b4\u03b5\u03bd \u03be\u03b5\u03ba\u03b9\u03bd\u03ac\u03c4\u03b5 \u03bc\u03b5 \u03c4\u03b7 \u03b4\u03af\u03c9\u03be\u03b7 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ac\u03bd\u03bf\u03bc\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03bb\u03bf\u03b3\u03bf\u03c4\u03cd\u03c0\u03bf\u03c5 \u03c4\u03b7\u03c2 \u0395\u03a1\u03a4 @ertofficial_  \u03bd\u03b1 \u03ba\u03bb\u03b5\u03af\u03c3\u03b5\u03b9 \u03c4\u03bf dns \u03c4\u03bf\u03c5 \u03c8\u03b5\u03ba\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5 ertopen. com (\u03c1\u03c9\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd @Pierrakakis) \u03a4\u03bf \u03b4\u03b7\u03bc\u03b9\u03bf\u03cd\u03c1\u03b3\u03b7\u03c3\u03b1\u03bd \u03c0\u03c1\u03ce\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03bd\u03b7\u03bc\u03bf\u03bd\u03b9\u03b1\u03ba\u03bf\u03af \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bd\u03c5\u03bd \u03c3\u03ba\u03bb\u03b7\u03c1\u03bf\u03af \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2 (\u03b2\u03bb. \u03ac\u03c1\u03b8\u03c1\u03bf) https://t.co/yQv1vmQiiF"
+        },
+        {
+            "author_id": 1432745352994643969,
+            "conversation_id": 1455116550206365707,
+            "created_at": "2021-11-01 10:16:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "\u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03b9"
+                    },
+                    {
+                        "end": 168,
+                        "start": 160,
+                        "tag": "\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5"
+                    },
+                    {
+                        "end": 197,
+                        "start": 181,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 212,
+                        "start": 198,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 219,
+                        "start": 213,
+                        "tag": "\u03c8\u03b5\u03ba\u03b9\u03b1"
+                    },
+                    {
+                        "end": 228,
+                        "start": 220,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 243,
+                        "start": 229,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 255,
+                        "start": 245,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 273,
+                        "start": 263,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0388\u03bd\u03b1 \u03b1\u03bd\u03b1\u03c4\u03c1\u03b5\u03c0\u03c4\u03b9\u03ba\u03cc \u03b7\u03c7\u03b7\u03c4\u03b9\u03ba\u03cc \u03bd\u03c4\u03bf\u03ba\u03b9\u03bc\u03b1\u03bd\u03c4\u03ad\u03c1 \u03c4\u03bf\u03c5 \u0386\u03c1\u03b7 \u0394\u03b7\u03bc\u03bf\u03ba\u03af\u03b4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b1\u03bc\u03c6\u03b9\u03bb\u03b5\u03b3\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5, \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b1\u03bd\u03ae\u03ba\u03b5\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2, \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf \u03b3\u03ba\u03bf\u03c5\u03c1\u03bf\u03cd \u03c4\u03bf\u03c5\u03c2.",
+                        "display_url": "lifo.gr/podcasts/wraia\u2026",
+                        "end": 33,
+                        "expanded_url": "https://www.lifo.gr/podcasts/wraia-pragmata/i-skliri-alitheia-gia-ton-kathigiti-koybela",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455116556141305862/c0jxIfRS?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455116556141305862/c0jxIfRS?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 10,
+                        "status": 200,
+                        "title": "\u0397 \u03c3\u03ba\u03bb\u03b7\u03c1\u03ae \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae \u039a\u03bf\u03cd\u03b2\u03b5\u03bb\u03b1 | LiFO",
+                        "unwound_url": "https://www.lifo.gr/podcasts/wraia-pragmata/i-skliri-alitheia-gia-ton-kathigiti-koybela",
+                        "url": "https://t.co/QAFTO0HOwx"
+                    }
+                ]
+            },
+            "id": 1455116550206365707,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c5\u03b2\u03b5\u03bb\u03b1\u03c2  https://t.co/QAFTO0HOwx \u03a3\u03c5\u03bd\u03b5\u03c7\u03b9\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03b9\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03b7\u03c2 &amp; \u03bd\u03b1 \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b5\u03b9 \u0394\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03b5\u03c0\u03b5\u03bc\u03b2\u03b5\u03b9 \u0395\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03b5\u03b1\u03c2 \u03a3\u03c5\u03bd\u03b5\u03c7\u03b9\u03b6\u03b5\u03b9 \u03bd\u03b1 #\u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03b9 \u03bf\u03c0\u03c9\u03c2 &amp; \u03bf \u03b4\u03b9\u03ba\u03b7\u03b3\u03bf\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 #\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1 2021 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03c8\u03b5\u03ba\u03b9\u03b1 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9  #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 \u039d\u03b5\u03ba\u03c1\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u0391\u03b9\u03c3\u03c7\u03bf\u03c2 \u2714\ufe0f"
+        }
+    ]
+}

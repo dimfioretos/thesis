@@ -1,0 +1,110 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2014-08-04 16:02:14+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 HuffPost. Blogs, \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2, \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1, Viral.",
+                "id": 2706857144,
+                "name": "HuffPost Greece",
+                "public_metrics": {
+                    "followers_count": 38517,
+                    "following_count": 782,
+                    "listed_count": 479,
+                    "tweet_count": 127138
+                },
+                "username": "HuffPostGreece",
+                "verified": true
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455784727768670211,
+            "created_at": "2021-11-03 06:31:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-archizoen-stis-epa-oi-emvoliasmoi-paidion-5-11-eton-me-to-emvolio-tes-pfizer_gr_6182246ae4b0c8666bd56509",
+                        "start": 88,
+                        "url": "https://t.co/QY8ouAiGk9"
+                    }
+                ]
+            },
+            "id": 1455784727768670211,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c1\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5-11 \u03b5\u03c4\u03ce\u03bd \u03bc\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer\n\nhttps://t.co/QY8ouAiGk9"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455095449724112899,
+            "created_at": "2021-11-01 08:52:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u038a\u03c3\u03c9\u03c2 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1.",
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 91,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-tsiroto-anti-eneseon-yia-to-emvolio-kata-tes-covid-19_gr_617f9528e4b066de4f71c671",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455095451917684739/7p3SevCt?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455095451917684739/7p3SevCt?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 68,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf\u00bb \u03b1\u03bd\u03c4\u03af \u03b5\u03bd\u03ad\u03c3\u03b5\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/koronoios-tsiroto-anti-eneseon-yia-to-emvolio-kata-tes-covid-19_gr_617f9528e4b066de4f71c671",
+                        "url": "https://t.co/oItdqDrX66"
+                    }
+                ]
+            },
+            "id": 1455095449724112899,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf\u00bb \u03b1\u03bd\u03c4\u03af \u03b5\u03bd\u03ad\u03c3\u03b5\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19\n\nhttps://t.co/oItdqDrX66"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454170546296524802,
+            "created_at": "2021-10-29 19:37:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/epa-koro\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/epa-koronoios-h-fda-pros-eykrise-toe-emvolioe-pfizer-biontech-yia-paidia-5-11-eton_gr_617c4774e4b079111a64eaea",
+                        "start": 80,
+                        "url": "https://t.co/TQDs9JpNdX"
+                    }
+                ]
+            },
+            "id": 1454170546296524802,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391- \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: H FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer/ BioNTech \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd\nhttps://t.co/TQDs9JpNdX"
+        }
+    ]
+}

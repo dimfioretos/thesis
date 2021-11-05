@@ -1,0 +1,99 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2021-03-15 23:34:11+00:00",
+                "description": "Researcher of truth - Critical thinker\nI Love nature & animals\n \n\u2626\ud83c\uddec\ud83c\uddf7     \u26d4NO DM /NO LISTS /NO GROUPS /NO TAGS",
+                "id": 1371604890636664834,
+                "name": "S\u271favros \u039cANTAS",
+                "public_metrics": {
+                    "followers_count": 4144,
+                    "following_count": 4329,
+                    "listed_count": 7,
+                    "tweet_count": 15435
+                },
+                "username": "stevemad13",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1371604890636664834,
+            "conversation_id": 1454014010903379969,
+            "created_at": "2021-10-29 09:15:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 92,
+                        "start": 78,
+                        "tag": "NewWorldOrder"
+                    },
+                    {
+                        "end": 104,
+                        "start": 93,
+                        "tag": "GreatReset"
+                    },
+                    {
+                        "end": 117,
+                        "start": 106,
+                        "tag": "Agenda2030"
+                    },
+                    {
+                        "end": 134,
+                        "start": 118,
+                        "tag": "GlobalGoverment"
+                    },
+                    {
+                        "end": 148,
+                        "start": 135,
+                        "tag": "GlobalLeader"
+                    },
+                    {
+                        "end": 161,
+                        "start": 149,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 173,
+                        "start": 163,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                        "display_url": "katohika.gr/diethni/ek-tis\u2026",
+                        "end": 197,
+                        "expanded_url": "https://katohika.gr/diethni/ek-tis-ntp-ta-paidia-sas-den-einai-paidia-sas/",
+                        "images": [
+                            {
+                                "height": 484,
+                                "url": "https://pbs.twimg.com/news_img/1454014015382958085/Ml3NjuIO?format=jpg&name=orig",
+                                "width": 725
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454014015382958085/Ml3NjuIO?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 174,
+                        "status": 200,
+                        "title": "\u0395\u03ba \u03c4\u03b7\u03c2 \u039d\u03a4\u03a0: \u03a4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03b1\u03c2, \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03b1\u03c2 - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/ek-tis-ntp-ta-paidia-sas-den-einai-paidia-sas/",
+                        "url": "https://t.co/0F3fSjNYMA"
+                    }
+                ]
+            },
+            "id": 1454014010903379969,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03ba \u03c4\u03b7\u03c2 \u039d\u03a4\u03a0: \"\u03a4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03b1\u03c2, \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03b1\u03c2\"\n\u0393\u03c1\u03ac\u03c6\u03b5\u03b9 \u03bf \u03a7\u03c1\u03ae\u03c3\u03c4\u03bf\u03c2 \u039c\u03b1\u03bd\u03c4\u03b6\u03b9\u03ac\u03c1\u03b7\u03c2\n#NewWorldOrder #GreatReset  #Agenda2030 #GlobalGoverment #GlobalLeader #\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399  #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1\nhttps://t.co/0F3fSjNYMA"
+        }
+    ]
+}

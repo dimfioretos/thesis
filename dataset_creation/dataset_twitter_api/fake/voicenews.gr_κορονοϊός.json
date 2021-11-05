@@ -1,0 +1,476 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 2801820046,
+                "conversation_id": 1455574344470573057,
+                "created_at": "2021-11-02 16:35:41+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "voicenews.gr/koronoios-afta\u2026",
+                            "end": 103,
+                            "expanded_url": "https://voicenews.gr/koronoios-afta-einai-ta-nea-metra-pou-anakoinothikan-gia-tous-mi-emvoliasmenous/",
+                            "start": 80,
+                            "url": "https://t.co/GOAXIxQl9l"
+                        }
+                    ]
+                },
+                "id": 1455574344470573057,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/GOAXIxQl9l"
+            },
+            {
+                "author_id": 2801820046,
+                "conversation_id": 1454519285183823878,
+                "created_at": "2021-10-30 18:43:15+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0394\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ce\u03bd, \u03c4\u03c1\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03bf\u03ba\u03b1\u0390",
+                            "display_url": "voicenews.gr/koronoios-erev\u2026",
+                            "end": 109,
+                            "expanded_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                            "images": [
+                                {
+                                    "height": 288,
+                                    "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=orig",
+                                    "width": 512
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 86,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 - Voice News",
+                            "unwound_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                            "url": "https://t.co/eTjP9j40zt"
+                        }
+                    ]
+                },
+                "id": 1454519285183823878,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 https://t.co/eTjP9j40zt"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-05-04 20:16:30+00:00",
+                "description": "\u03a3\u03b1\u03bd \u03c4\u03bf \u03c4\u03c1\u03b9\u03b1\u03bd\u03c4\u03ac\u03c6\u03c5\u03bb\u03bb\u03bf \u03b5\u03c7\u03c9 \u03b1\u03b3\u03ba\u03b1\u03b8\u03b9\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03bd\u03b1\u03bd \u03b1\u03c5\u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03b5 \u03c0\u03bb\u03b7\u03b3\u03c9\u03bd\u03bf\u03c5\u03bd",
+                "id": 1257403659031318532,
+                "name": "Red Rose",
+                "public_metrics": {
+                    "followers_count": 2154,
+                    "following_count": 1142,
+                    "listed_count": 1,
+                    "tweet_count": 272978
+                },
+                "username": "RedRose27317211",
+                "verified": false
+            },
+            {
+                "created_at": "2014-10-03 11:54:17+00:00",
+                "description": "",
+                "id": 2801820046,
+                "name": "Voice News",
+                "public_metrics": {
+                    "followers_count": 7701,
+                    "following_count": 1519,
+                    "listed_count": 75,
+                    "tweet_count": 242918
+                },
+                "username": "apokalyptikodel",
+                "verified": false
+            },
+            {
+                "created_at": "2012-09-22 18:24:05+00:00",
+                "description": "\u03a4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b4\u03b5\u03bd \u039e\u03b5\u03c7\u03bd\u03b9\u03ad\u03c4\u03b1\u03b9..\u03a4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b4\u03b5\u03bd \u03bc\u03ad\u03bd\u03b5\u03b9 \u03b4\u03af\u03c7\u03c9\u03c2 \u0391\u03bd\u03c4\u03b1\u03c0\u03cc\u03b4\u03bf\u03c3\u03b7..\u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u0391\u03b3\u03ce\u03bd\u03b1\u03c2 \u03b4\u03b5\u03bd \u03c0\u03ac\u03b5\u03b9 \u03a7\u03b1\u03bc\u03ad\u03bd\u03bf\u03c2_",
+                "id": 840213090,
+                "name": "A\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bfs_\u2618\ufe0f",
+                "public_metrics": {
+                    "followers_count": 13800,
+                    "following_count": 15050,
+                    "listed_count": 32,
+                    "tweet_count": 357694
+                },
+                "username": "galex1908",
+                "verified": false
+            },
+            {
+                "created_at": "2019-07-24 11:22:35+00:00",
+                "description": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u039b\u03cd\u03c3\u03b7",
+                "id": 1153988844498444288,
+                "name": "Maria Athanasiou- \u0395\u039b\u039b\u0397\u039d\u0399\u039a\u0397 \u039b\u03a5\u03a3\u0397",
+                "public_metrics": {
+                    "followers_count": 298,
+                    "following_count": 154,
+                    "listed_count": 1,
+                    "tweet_count": 7769
+                },
+                "username": "MariaAt03902914",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-16 09:41:34+00:00",
+                "description": "DEUS. ex. machina",
+                "id": 391933746,
+                "name": "JohnBlue",
+                "public_metrics": {
+                    "followers_count": 618,
+                    "following_count": 389,
+                    "listed_count": 5,
+                    "tweet_count": 221239
+                },
+                "username": "imonaxos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1257403659031318532,
+            "conversation_id": 1455625014015930368,
+            "created_at": "2021-11-02 19:57:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-afta\u2026",
+                        "end": 124,
+                        "expanded_url": "https://voicenews.gr/koronoios-afta-einai-ta-nea-metra-pou-anakoinothikan-gia-tous-mi-emvoliasmenous/",
+                        "start": 101,
+                        "url": "https://t.co/GOAXIxQl9l"
+                    }
+                ]
+            },
+            "id": 1455625014015930368,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455574344470573057 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/GOAXIxQl9l"
+        },
+        {
+            "author_id": 840213090,
+            "conversation_id": 1455585904408547331,
+            "created_at": "2021-11-02 17:21:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-afta\u2026",
+                        "end": 124,
+                        "expanded_url": "https://voicenews.gr/koronoios-afta-einai-ta-nea-metra-pou-anakoinothikan-gia-tous-mi-emvoliasmenous/",
+                        "start": 101,
+                        "url": "https://t.co/GOAXIxQl9l"
+                    }
+                ]
+            },
+            "id": 1455585904408547331,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455574344470573057 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/GOAXIxQl9l"
+        },
+        {
+            "author_id": 1153988844498444288,
+            "conversation_id": 1455576319723454475,
+            "created_at": "2021-11-02 16:43:32+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-afta\u2026",
+                        "end": 124,
+                        "expanded_url": "https://voicenews.gr/koronoios-afta-einai-ta-nea-metra-pou-anakoinothikan-gia-tous-mi-emvoliasmenous/",
+                        "start": 101,
+                        "url": "https://t.co/GOAXIxQl9l"
+                    }
+                ]
+            },
+            "id": 1455576319723454475,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455574344470573057 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/GOAXIxQl9l"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455574344470573057,
+            "created_at": "2021-11-02 16:35:41+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-afta\u2026",
+                        "end": 103,
+                        "expanded_url": "https://voicenews.gr/koronoios-afta-einai-ta-nea-metra-pou-anakoinothikan-gia-tous-mi-emvoliasmenous/",
+                        "start": 80,
+                        "url": "https://t.co/GOAXIxQl9l"
+                    }
+                ]
+            },
+            "id": 1455574344470573057,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c5\u03c4\u03ac \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/GOAXIxQl9l"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455469677292015629,
+            "created_at": "2021-11-02 09:39:47+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b8\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03c3\u03c4\u03b9\u03c2 18:00 \u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 13.",
+                        "display_url": "voicenews.gr/koronoios-ekta\u2026",
+                        "end": 82,
+                        "expanded_url": "https://voicenews.gr/koronoios-ektaktes-anakoinoseis-plevri-stis-6-to-apogevma/",
+                        "images": [
+                            {
+                                "height": 410,
+                                "url": "https://pbs.twimg.com/news_img/1455469677631660033/dn07_bli?format=jpg&name=orig",
+                                "width": 700
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455469677631660033/dn07_bli?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 59,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 \u03c3\u03c4\u03b9\u03c2 6 \u03c4\u03bf \u03b1\u03c0\u03cc\u03b3\u03b5\u03c5\u03bc\u03b1 - Voice News",
+                        "unwound_url": "https://voicenews.gr/koronoios-ektaktes-anakoinoseis-plevri-stis-6-to-apogevma/",
+                        "url": "https://t.co/SDyWfynfit"
+                    }
+                ]
+            },
+            "id": 1455469677292015629,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0388\u03ba\u03c4\u03b1\u03ba\u03c4\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 \u03c3\u03c4\u03b9\u03c2 6 \u03c4\u03bf \u03b1\u03c0\u03cc\u03b3\u03b5\u03c5\u03bc\u03b1 https://t.co/SDyWfynfit"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455084673705594881,
+            "created_at": "2021-11-01 08:09:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-evdo\u2026",
+                        "end": 100,
+                        "expanded_url": "https://voicenews.gr/koronoios-evdomada-me-nea-perioristika-metra-ti-anamenetai-na-anakoinothei/",
+                        "start": 77,
+                        "url": "https://t.co/AGxT9FJLE3"
+                    }
+                ]
+            },
+            "id": 1455084673705594881,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03bd\u03ad\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u2013 \u03a4\u03b9 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03c9\u03b8\u03b5\u03af https://t.co/AGxT9FJLE3"
+        },
+        {
+            "author_id": 391933746,
+            "conversation_id": 1454523050301480970,
+            "created_at": "2021-10-30 18:58:13+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ce\u03bd, \u03c4\u03c1\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03bf\u03ba\u03b1\u0390",
+                        "display_url": "voicenews.gr/koronoios-erev\u2026",
+                        "end": 130,
+                        "expanded_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                        "images": [
+                            {
+                                "height": 288,
+                                "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=orig",
+                                "width": 512
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 107,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 - Voice News",
+                        "unwound_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                        "url": "https://t.co/eTjP9j40zt"
+                    }
+                ]
+            },
+            "id": 1454523050301480970,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454519285183823878 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 https://t.co/eTjP9j40zt"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1454519285183823878,
+            "created_at": "2021-10-30 18:43:15+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0394\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7 \u03b4\u03b9\u03ac\u03c1\u03ba\u03b5\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ce\u03bd, \u03c4\u03c1\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03ba\u03bf\u03ba\u03b1\u0390",
+                        "display_url": "voicenews.gr/koronoios-erev\u2026",
+                        "end": 109,
+                        "expanded_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                        "images": [
+                            {
+                                "height": 288,
+                                "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=orig",
+                                "width": 512
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454519290435096582/XW-4jCpE?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 86,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 - Voice News",
+                        "unwound_url": "https://voicenews.gr/koronoios-erevna-kethea-anisychitiki-afxisi-sta-antikatathliptika-kai-narkotikes-ousies/",
+                        "url": "https://t.co/eTjP9j40zt"
+                    }
+                ]
+            },
+            "id": 1454519285183823878,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u039a\u0395\u0398\u0395\u0391: \u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03bd\u03b1\u03c1\u03ba\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03bf\u03c5\u03c3\u03af\u03b5\u03c2 https://t.co/eTjP9j40zt"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1454462950731833356,
+            "created_at": "2021-10-30 14:59:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/koronoios-ipa-\u2026",
+                        "end": 106,
+                        "expanded_url": "https://voicenews.gr/koronoios-ipa-pithani-ekdochi-i-diafygi-tou-iou-apo-ergastirio-ti-lene-oi-eidikoi/",
+                        "start": 83,
+                        "url": "https://t.co/coFuMikL9V"
+                    }
+                ]
+            },
+            "id": 1454462950731833356,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2-\u0397\u03a0\u0391: \u03a0\u03b9\u03b8\u03b1\u03bd\u03ae \u03b5\u03ba\u03b4\u03bf\u03c7\u03ae \u03b7 \u03b4\u03b9\u03b1\u03c6\u03c5\u03b3\u03ae \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03b1\u03c0\u03cc \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u2013 \u03a4\u03b9 \u03bb\u03ad\u03bd\u03b5 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af https://t.co/coFuMikL9V"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1454396597626941441,
+            "created_at": "2021-10-30 10:35:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "voicenews.gr/ypourgeio-paid\u2026",
+                        "end": 109,
+                        "expanded_url": "https://voicenews.gr/ypourgeio-paideias-koronoios-proslipseis-anapliroton-gia-kalypsi-anagkon-sta-scholeia/",
+                        "start": 86,
+                        "url": "https://t.co/MrABvUcIqm"
+                    }
+                ]
+            },
+            "id": 1454396597626941441,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1\u03c2 \u2013 \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03c1\u03bf\u03c3\u03bb\u03ae\u03c8\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03b1\u03bd\u03b1\u03b3\u03ba\u03ce\u03bd \u03c3\u03c4\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b5\u03af\u03b1 https://t.co/MrABvUcIqm"
+        }
+    ]
+}

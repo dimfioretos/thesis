@@ -1,0 +1,651 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 23296450,
+                "conversation_id": 1455527386800443399,
+                "created_at": "2021-11-02 13:29:06+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039f \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9: \u00ab\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba. \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u00bb",
+                            "display_url": "tanea.gr/2021/11/02/pol\u2026",
+                            "end": 98,
+                            "expanded_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                            "images": [
+                                {
+                                    "height": 640,
+                                    "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 75,
+                            "status": 200,
+                            "title": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb - \u03a4\u0391 \u039d\u0395\u0391",
+                            "unwound_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                            "url": "https://t.co/S1SW5H4gMW"
+                        }
+                    ]
+                },
+                "id": 1455527386800443399,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 14,
+                    "reply_count": 2,
+                    "retweet_count": 3
+                },
+                "text": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb https://t.co/S1SW5H4gMW"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-03-08 10:48:38+00:00",
+                "description": "\u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b1\u03c0\u03cc \u00abTA NEA\u00bb",
+                "id": 23296450,
+                "name": "TA NEA",
+                "public_metrics": {
+                    "followers_count": 174439,
+                    "following_count": 240,
+                    "listed_count": 1102,
+                    "tweet_count": 184453
+                },
+                "username": "ta_nea",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-07 17:24:14+00:00",
+                "description": "social concerns",
+                "id": 485866950,
+                "name": "takis_el_greco",
+                "public_metrics": {
+                    "followers_count": 75,
+                    "following_count": 99,
+                    "listed_count": 10,
+                    "tweet_count": 21545
+                },
+                "username": "takis_el_greco",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-31 22:27:30+00:00",
+                "description": "",
+                "id": 1454937733814751232,
+                "name": "epdalianis",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 39,
+                    "listed_count": 0,
+                    "tweet_count": 1
+                },
+                "username": "epdalianis",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-21 07:48:56+00:00",
+                "description": "Seeking out the big stories ...  \n#News #People #Nature #Physics #Photography #Tech #Landscape #Travel #Aviation #Love #Music #History  \nTake care. Have fun !",
+                "id": 339534214,
+                "name": "Michael Argiroudis",
+                "public_metrics": {
+                    "followers_count": 11439,
+                    "following_count": 11512,
+                    "listed_count": 113,
+                    "tweet_count": 208966
+                },
+                "username": "MikeArgi",
+                "verified": false
+            },
+            {
+                "created_at": "2012-03-02 23:58:01+00:00",
+                "description": "Entertainment Entrepreneur, Music Lover",
+                "id": 512581366,
+                "name": "Miltos Karatzas",
+                "public_metrics": {
+                    "followers_count": 15627,
+                    "following_count": 12991,
+                    "listed_count": 56,
+                    "tweet_count": 85691
+                },
+                "username": "Miltos_Karatzas",
+                "verified": false
+            },
+            {
+                "created_at": "2020-06-27 10:25:34+00:00",
+                "description": "#travel  #photos  #live",
+                "id": 1276823900660391936,
+                "name": "Danae",
+                "public_metrics": {
+                    "followers_count": 227,
+                    "following_count": 241,
+                    "listed_count": 0,
+                    "tweet_count": 1822
+                },
+                "username": "Danae81376659",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455590275154382857,
+            "created_at": "2021-11-02 17:38:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/zaoutis-ola-ta-krousmata-sto-100-einai-apo-ti-metallaksi-delta-nea-ekklisi-gia-ton-emvoliasmo/",
+                        "start": 100,
+                        "url": "https://t.co/VIHAANz0JQ"
+                    }
+                ]
+            },
+            "id": 1455590275154382857,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0396\u03b1\u03bf\u03cd\u03c4\u03b7\u03c2 \u2013 \u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf 100%, \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1 \u2013 \u039d\u03ad\u03b1 \u03ad\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc https://t.co/VIHAANz0JQ"
+        },
+        {
+            "author_id": 485866950,
+            "conversation_id": 1455580083276722177,
+            "created_at": "2021-11-02 16:58:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "23296450",
+                        "start": 3,
+                        "username": "ta_nea"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9: \u00ab\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba. \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u00bb",
+                        "display_url": "tanea.gr/2021/11/02/pol\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 87,
+                        "status": 200,
+                        "title": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "url": "https://t.co/S1SW5H4gMW"
+                    }
+                ]
+            },
+            "id": 1455580083276722177,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527386800443399 type=retweeted"
+            ],
+            "text": "RT @ta_nea: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb https://t.co/S1SW5H4gMW"
+        },
+        {
+            "author_id": 1454937733814751232,
+            "conversation_id": 1455578722535358470,
+            "created_at": "2021-11-02 16:53:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "23296450",
+                        "start": 3,
+                        "username": "ta_nea"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9: \u00ab\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba. \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u00bb",
+                        "display_url": "tanea.gr/2021/11/02/pol\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 87,
+                        "status": 200,
+                        "title": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "url": "https://t.co/S1SW5H4gMW"
+                    }
+                ]
+            },
+            "id": 1455578722535358470,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527386800443399 type=retweeted"
+            ],
+            "text": "RT @ta_nea: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb https://t.co/S1SW5H4gMW"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455565199734419460,
+            "created_at": "2021-11-02 15:59:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 124,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/koronoios-pou-entopizontai-ta-6-700-krousmata-pano-apo-1-000-molynseis-se-attiki-kai-thessaloniki/",
+                        "start": 101,
+                        "url": "https://t.co/flLHkX29r5"
+                    }
+                ]
+            },
+            "id": 1455565199734419460,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u03a0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 1.000 \u03bc\u03bf\u03bb\u03cd\u03bd\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 https://t.co/flLHkX29r5"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455562005595762691,
+            "created_at": "2021-11-02 15:46:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/koronaios-6-700-nea-krousmata-kai-59-thanatoi-stous-434-diasolinomenoi/",
+                        "start": 74,
+                        "url": "https://t.co/sErhqAkvPT"
+                    }
+                ]
+            },
+            "id": 1455562005595762691,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/sErhqAkvPT"
+        },
+        {
+            "author_id": 339534214,
+            "conversation_id": 1455530993679544323,
+            "created_at": "2021-11-02 13:43:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "23296450",
+                        "start": 3,
+                        "username": "ta_nea"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9: \u00ab\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba. \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u00bb",
+                        "display_url": "tanea.gr/2021/11/02/pol\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 87,
+                        "status": 200,
+                        "title": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "url": "https://t.co/S1SW5H4gMW"
+                    }
+                ]
+            },
+            "id": 1455530993679544323,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455527386800443399 type=retweeted"
+            ],
+            "text": "RT @ta_nea: \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb https://t.co/S1SW5H4gMW"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455527386800443399,
+            "created_at": "2021-11-02 13:29:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0391\u03bb\u03ad\u03be\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c4\u03b9: \u00ab\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03bf\u03bc\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba. \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03bd\u03b5\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03bd\u03b1 \u03bc\u03b5 \u03b5\u03ba\u03c0\u03bb\u03ae\u03c3\u03c3\u03b5\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u00bb",
+                        "display_url": "tanea.gr/2021/11/02/pol\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "images": [
+                            {
+                                "height": 640,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455527392265506825/rs3SpECr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 75,
+                        "status": 200,
+                        "title": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/02/politics/georgiadis-kanena-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10-000/",
+                        "url": "https://t.co/S1SW5H4gMW"
+                    }
+                ]
+            },
+            "id": 1455527386800443399,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 14,
+                "reply_count": 2,
+                "retweet_count": 3
+            },
+            "text": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bd\u03ad\u03bd\u03b1 lockdown \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\u00bb https://t.co/S1SW5H4gMW"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455501260212350978,
+            "created_at": "2021-11-02 11:45:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/koronaios-xoris-telos-o-pandimikos-efialtis-plirofories-gia-pano-apo-6-000-nea-krousmata-simera/",
+                        "start": 100,
+                        "url": "https://t.co/Qx8MAddjq7"
+                    }
+                ]
+            },
+            "id": 1455501260212350978,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 \u03a7\u03c9\u03c1\u03af\u03c2 \u03c4\u03ad\u03bb\u03bf\u03c2 \u03bf \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03ba\u03cc\u03c2 \u03b5\u03c6\u03b9\u03ac\u03bb\u03c4\u03b7\u03c2 \u2013 \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 https://t.co/Qx8MAddjq7"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455430060014555136,
+            "created_at": "2021-11-02 07:02:21+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/koronaios-provlepseis-sok-gia-10-000-krousmata-tin-imera-ti-metra-eksetazontai/",
+                        "start": 81,
+                        "url": "https://t.co/KoTTqOkwFS"
+                    }
+                ]
+            },
+            "id": 1455430060014555136,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 \u03a0\u03c1\u03bf\u03b2\u03bb\u03ad\u03c8\u03b5\u03b9\u03c2 \u03c3\u03bf\u03ba \u03b3\u03b9\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u2013 \u03a4\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 https://t.co/KoTTqOkwFS"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455237393435566085,
+            "created_at": "2021-11-01 18:16:46+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/01/gre\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.tanea.gr/2021/11/01/greece/koronaios-5-449-nea-krousmata-kai-52-thanatoi-stous-430-oi-diasolinomenoi/",
+                        "start": 77,
+                        "url": "https://t.co/f4q0c9H9pB"
+                    }
+                ]
+            },
+            "id": 1455237393435566085,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u03a3\u03c4\u03bf\u03c5\u03c2 430 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/f4q0c9H9pB"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455144410883182599,
+            "created_at": "2021-11-01 12:07:17+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/11/01/gre\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.tanea.gr/2021/11/01/greece/papaeyaggelou-topikou-xaraktira-ta-nea-metra-erxontai-5-000-krousmata-imerisios/",
+                        "start": 84,
+                        "url": "https://t.co/QqXodHaUAC"
+                    }
+                ]
+            },
+            "id": 1455144410883182599,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b1\u03c0\u03b1\u03b5\u03c5\u03b1\u03b3\u03b3\u03ad\u03bb\u03bf\u03c5 \u2013 T\u03bf\u03c0\u03b9\u03ba\u03bf\u03cd \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03ae\u03c1\u03b1 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u2013 \u0395\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7\u03bc\u03b5\u03c1\u03b7\u03c3\u03af\u03c9\u03c2 https://t.co/QqXodHaUAC"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1454461015802908676,
+            "created_at": "2021-10-30 14:51:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/30/gre\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.tanea.gr/2021/10/30/greece/koronaios-4-696-nea-krousmata-kai-38-thanatoi-stous-404-oi-diasolinomenoi/",
+                        "start": 77,
+                        "url": "https://t.co/gfZPNWyYQU"
+                    }
+                ]
+            },
+            "id": 1454461015802908676,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 3,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u03a3\u03c4\u03bf\u03c5\u03c2 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/gfZPNWyYQU"
+        },
+        {
+            "author_id": 512581366,
+            "conversation_id": 1454454773399400455,
+            "created_at": "2021-10-30 14:26:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/30/gre\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.tanea.gr/2021/10/30/greece/sarigiannis-provlepsi-gia-5000-krousmata-tin-imera-sto-stoxastro-anemvoliastoi-xoris-ypokeimena/",
+                        "start": 99,
+                        "url": "https://t.co/F27J54zwEn"
+                    }
+                ]
+            },
+            "id": 1454454773399400455,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 \u03a0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 5000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u2013 \u03a3\u03c4\u03bf \u03c3\u03c4\u03cc\u03c7\u03b1\u03c3\u03c4\u03c1\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 https://t.co/F27J54zwEn"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1454361615034376193,
+            "created_at": "2021-10-30 08:16:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/30/gre\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.tanea.gr/2021/10/30/greece/sarigiannis-provlepsi-gia-5000-krousmata-tin-imera-sto-stoxastro-anemvoliastoi-xoris-ypokeimena/",
+                        "start": 99,
+                        "url": "https://t.co/bHoom5Gjtl"
+                    }
+                ]
+            },
+            "id": 1454361615034376193,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u2013 \u03a0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 5000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 \u2013 \u03a3\u03c4\u03bf \u03c3\u03c4\u03cc\u03c7\u03b1\u03c3\u03c4\u03c1\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03b1 https://t.co/bHoom5Gjtl"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1454096424090718211,
+            "created_at": "2021-10-29 14:42:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/29/gre\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.tanea.gr/2021/10/29/greece/koronaios-pou-entopizontai-ta-3-643-krousmata-deite-analytika-ton-xarti-tis-diasporas/",
+                        "start": 90,
+                        "url": "https://t.co/8oSkOYJ95r"
+                    }
+                ]
+            },
+            "id": 1454096424090718211,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 \u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 \u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03c7\u03ac\u03c1\u03c4\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2 https://t.co/8oSkOYJ95r"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1454092214036992013,
+            "created_at": "2021-10-29 14:26:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/29/gre\u2026",
+                        "end": 100,
+                        "expanded_url": "https://www.tanea.gr/2021/10/29/greece/koronaios-3-643-nea-krousmata-kai-55-thanatoi-stous-392-oi-diasolinomenoi/",
+                        "start": 77,
+                        "url": "https://t.co/fnlI8YwrQt"
+                    }
+                ]
+            },
+            "id": 1454092214036992013,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 \u2013 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u2013 \u03a3\u03c4\u03bf\u03c5\u03c2 392 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/fnlI8YwrQt"
+        },
+        {
+            "author_id": 1276823900660391936,
+            "conversation_id": 1453502708007251969,
+            "created_at": "2021-10-27 23:23:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 35,
+                        "start": 25,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 54,
+                        "start": 44,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "tanea.gr/2021/10/27/gre\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.tanea.gr/2021/10/27/greece/koronaios-epistrateyontai-pente-idiotikes-klinikes-se-thessaloniki-kai-thessalia/",
+                        "start": 100,
+                        "url": "https://t.co/yhrH1U4DUe"
+                    }
+                ]
+            },
+            "id": 1453502708007251969,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03cd\u03c3\u03ba\u03bf\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac  #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \u03ba\u03b1\u03b9  \u03c4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03ba\u03b1\u03b9 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1! \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c0\u03c1\u03bf\u03c3\u03bf\u03c7\u03ae! https://t.co/yhrH1U4DUe"
+        }
+    ]
+}

@@ -1,0 +1,980 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 3366439607,
+                "conversation_id": 1455225118632800256,
+                "created_at": "2021-11-01 17:27:59+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 9,
+                            "start": 0,
+                            "tag": "Congress"
+                        },
+                        {
+                            "end": 73,
+                            "start": 65,
+                            "tag": "COVID19"
+                        },
+                        {
+                            "end": 90,
+                            "start": 77,
+                            "tag": "COVIDVaccine"
+                        },
+                        {
+                            "end": 109,
+                            "start": 91,
+                            "tag": "BiologicalProduct"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Congress made crucial change to vaccine definition weeks before COVID-19 The US government\u2019s definition of \u2018biological product\u2019 up until December 2",
+                            "display_url": "greeknewsondemand.com/2021/11/01/con\u2026",
+                            "end": 134,
+                            "expanded_url": "http://greeknewsondemand.com/2021/11/01/congress-made-crucial-change-to-vaccine-definition-weeks-before-covid-19/",
+                            "images": [
+                                {
+                                    "height": 470,
+                                    "url": "https://pbs.twimg.com/news_img/1455224996616310784/74UlPbkj?format=jpg&name=orig",
+                                    "width": 810
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455224996616310784/74UlPbkj?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 111,
+                            "status": 200,
+                            "title": "Congress made crucial change to vaccine definition weeks before COVID-19",
+                            "unwound_url": "http://greeknewsondemand.com/2021/11/01/congress-made-crucial-change-to-vaccine-definition-weeks-before-covid-19/",
+                            "url": "https://t.co/KKmSt0fq91"
+                        }
+                    ]
+                },
+                "id": 1455225118632800256,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#Congress made crucial change to vaccine definition weeks before #COVID19 // #COVIDVaccine #BiologicalProduct\n\nhttps://t.co/KKmSt0fq91"
+            },
+            {
+                "author_id": 3366439607,
+                "conversation_id": 1454301603578535943,
+                "created_at": "2021-10-30 04:18:16+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 24,
+                            "start": 20,
+                            "tag": "FDA"
+                        },
+                        {
+                            "end": 48,
+                            "start": 40,
+                            "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 56,
+                            "start": 50,
+                            "tag": "Covid"
+                        },
+                        {
+                            "end": 68,
+                            "start": 61,
+                            "tag": "Pfizer"
+                        },
+                        {
+                            "end": 80,
+                            "start": 73,
+                            "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                            "end": 130,
+                            "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%b5%ce%ba%cf%84%ce%b1%ce%ba%cf%84%ce%bf-%ce%b5%ce%b3%ce%ba%cf%81%ce%af%ce%bd%ce%b5%ce%b9-%ce%bf-fda-%cf%84%ce%bf-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%b7%cf%86%cf%8c%cf%81%ce%bf-%ce%b5%ce%bc/",
+                            "start": 107,
+                            "url": "https://t.co/ZCxpihXYi2"
+                        }
+                    ]
+                },
+                "id": 1454301603578535943,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/ZCxpihXYi2"
+            },
+            {
+                "author_id": 25694578,
+                "conversation_id": 1454301513895923722,
+                "created_at": "2021-10-30 04:17:55+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 24,
+                            "start": 20,
+                            "tag": "FDA"
+                        },
+                        {
+                            "end": 48,
+                            "start": 40,
+                            "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 56,
+                            "start": 50,
+                            "tag": "Covid"
+                        },
+                        {
+                            "end": 68,
+                            "start": 61,
+                            "tag": "Pfizer"
+                        },
+                        {
+                            "end": 80,
+                            "start": 73,
+                            "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                            "end": 130,
+                            "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%b5%ce%ba%cf%84%ce%b1%ce%ba%cf%84%ce%bf-%ce%b5%ce%b3%ce%ba%cf%81%ce%af%ce%bd%ce%b5%ce%b9-%ce%bf-fda-%cf%84%ce%bf-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%b7%cf%86%cf%8c%cf%81%ce%bf-%ce%b5%ce%bc/",
+                            "start": 107,
+                            "url": "https://t.co/sYka39oPTl"
+                        }
+                    ]
+                },
+                "id": 1454301513895923722,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/sYka39oPTl"
+            },
+            {
+                "author_id": 1429550804940345348,
+                "conversation_id": 1452567147155234816,
+                "created_at": "2021-10-25 09:26:09+00:00",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 9,
+                            "normalized_text": "CDC",
+                            "probability": 0.5713,
+                            "start": 7,
+                            "type": "Organization"
+                        },
+                        {
+                            "end": 34,
+                            "normalized_text": "Robert Redfield",
+                            "probability": 0.9291,
+                            "start": 20,
+                            "type": "Person"
+                        },
+                        {
+                            "end": 88,
+                            "normalized_text": "Maryland",
+                            "probability": 0.8086,
+                            "start": 81,
+                            "type": "Place"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/zkzRsUq9z9",
+                            "end": 149,
+                            "expanded_url": "https://twitter.com/uk_patriot1/status/1452567147155234816/video/1",
+                            "start": 126,
+                            "url": "https://t.co/zkzRsUq9z9"
+                        }
+                    ]
+                },
+                "id": 1452567147155234816,
+                "public_metrics": {
+                    "like_count": 110,
+                    "quote_count": 24,
+                    "reply_count": 15,
+                    "retweet_count": 114
+                },
+                "text": "Former CDC Director Robert Redfield said more than 40% of the people who died in Maryland over the last 6-8 weeks were jabbed https://t.co/zkzRsUq9z9"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-07-08 19:25:40+00:00",
+                "description": "Greek News Service Bringing you the latest news on Greece.",
+                "id": 3366439607,
+                "name": "Greek News on Demand",
+                "public_metrics": {
+                    "followers_count": 380,
+                    "following_count": 104,
+                    "listed_count": 6,
+                    "tweet_count": 298322
+                },
+                "username": "GreekNewsGuy",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-21 16:43:08+00:00",
+                "description": "Greek-American journalist, Greek Translator for the DOJ, Apple and Hollywood/Author/Greek political pundit on Greek TV. See my site: https://t.co/u58toX0cwh",
+                "id": 25694578,
+                "name": "john kountouris",
+                "public_metrics": {
+                    "followers_count": 658,
+                    "following_count": 292,
+                    "listed_count": 11,
+                    "tweet_count": 26960
+                },
+                "username": "johndk7",
+                "verified": false
+            },
+            {
+                "created_at": "2013-01-02 21:09:13+00:00",
+                "description": "\u03a5\u03a0\u0395\u03a1\u0397\u03a6\u0391\u039d\u0397 \u0395\u039b\u039b\u0397\u039d\u0399\u0394\u0391 \u0395\u039a \u039a\u03a1\u0397\u03a4\u0397\u03a3 (\u0395\u039a \u03a0\u0391\u03a4\u03a1\u039f\u03a3 & \u0393\u0395\u039d\u039d\u0397\u03a3\u0397\u03a3) & \u0391\u039d\u0391\u03a4\u039f\u039b\u0399\u039a\u0397\u03a3 \u03a1\u03a9\u039c\u03a5\u039b\u0399\u0391\u03a3 (\u0395\u039a \u039c\u0397\u03a4\u03a1\u039f\u03a3) \u039f\u03a1\u039c\u03a9\u039c\u0395\u039d\u0397!!",
+                "id": 1056118795,
+                "name": "\u0395\u03a5\u0393\u0395\u039d\u0399\u0391 \u0394\u0397\u039c\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a5",
+                "public_metrics": {
+                    "followers_count": 661,
+                    "following_count": 489,
+                    "listed_count": 4,
+                    "tweet_count": 11203
+                },
+                "username": "eugeniailios",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-02 09:09:05+00:00",
+                "description": "PHOTO JOURNALIST,PHOTO STORY TELLER,TRUTH SEEKER..........",
+                "id": 2599517731,
+                "name": "\u03a0\u03b1\u03c1\u03b1\u03b2\u03b1\u03c4\u03bf\u03c2 \u039a\u03c9\u03c3\u03c4\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 925,
+                    "following_count": 2123,
+                    "listed_count": 7,
+                    "tweet_count": 120905
+                },
+                "username": "1024102410",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-25 18:03:17+00:00",
+                "description": "",
+                "id": 1309553981379801089,
+                "name": "elenaki orfanidou",
+                "public_metrics": {
+                    "followers_count": 80,
+                    "following_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 27391
+                },
+                "username": "elenakiorfanid1",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-01 06:00:21+00:00",
+                "description": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03cc\u03c2 \u039f\u03c1\u03b8\u03cc\u03b4\u03bf\u03be\u03bf\u03c2-\u039f\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c4\u03ae\u03c2 \u039f\u03c1\u03b8\u03bf\u03b4\u03cc\u03be\u03bf\u03c5 \u03a0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2\n\u03c0\u03b1\u03c2 \u03bf\u03c5\u03bd \u03cc\u03c3\u03c4\u03b9\u03c2 \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ae\u03c3\u03b5\u03b9 \u03b5\u03bd \u03b5\u03bc\u03bf\u03af \u03ad\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd,\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ae\u03c3\u03c9 \u03ba\u03b1\u03b3\u03ce \u03b5\u03bd \u03b1\u03c5\u03c4\u03ce \u03ad\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03cc\u03c2 \u03bc\u03bf\u03c5+\u0399\u03a3.\u03a7\u03a1.",
+                "id": 1333651823446659072,
+                "name": "\u039a\u03c9\u03c3\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 27,
+                    "following_count": 182,
+                    "listed_count": 0,
+                    "tweet_count": 257
+                },
+                "username": "olimpiodoros",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-05 09:55:50+00:00",
+                "description": "I'm not special at all, actually I'm very ordinary I'm extra ordinary.",
+                "id": 1290949300403539968,
+                "name": "Marios Constantinou",
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 208,
+                    "listed_count": 0,
+                    "tweet_count": 131
+                },
+                "username": "marioscons",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-22 21:07:42+00:00",
+                "description": "",
+                "id": 1429550804940345348,
+                "name": "UK Patriot",
+                "public_metrics": {
+                    "followers_count": 1885,
+                    "following_count": 4376,
+                    "listed_count": 1,
+                    "tweet_count": 358
+                },
+                "username": "uk_patriot1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1455350409933955075,
+            "created_at": "2021-11-02 01:45:51+00:00",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Trump",
+                        "probability": 0.9937,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 8,
+                        "tag": "SupremeCourt"
+                    },
+                    {
+                        "end": 49,
+                        "start": 29,
+                        "tag": "ReligiousExemptions"
+                    },
+                    {
+                        "end": 87,
+                        "start": 81,
+                        "tag": "Maine"
+                    },
+                    {
+                        "end": 124,
+                        "start": 111,
+                        "tag": "COVIDVaccine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/11/02/tru\u2026",
+                        "end": 149,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/02/trumps-supreme-court-denies-religious-exemptions-to-mandatory-covid-19-shots-to-maine-health-care-workers/",
+                        "start": 126,
+                        "url": "https://t.co/37l8qPgycD"
+                    }
+                ]
+            },
+            "id": 1455350409933955075,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Trump\u2019s #SupremeCourt Denies #ReligiousExemptions to Mandatory COVID-19 Shots to #Maine Health Care Workers // #COVIDVaccine\n\nhttps://t.co/37l8qPgycD"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1455350296696156163,
+            "created_at": "2021-11-02 01:45:24+00:00",
+            "entities": {
+                "annotations": [
+                    {
+                        "end": 4,
+                        "normalized_text": "Trump",
+                        "probability": 0.9937,
+                        "start": 0,
+                        "type": "Person"
+                    }
+                ],
+                "hashtags": [
+                    {
+                        "end": 21,
+                        "start": 8,
+                        "tag": "SupremeCourt"
+                    },
+                    {
+                        "end": 49,
+                        "start": 29,
+                        "tag": "ReligiousExemptions"
+                    },
+                    {
+                        "end": 87,
+                        "start": 81,
+                        "tag": "Maine"
+                    },
+                    {
+                        "end": 124,
+                        "start": 111,
+                        "tag": "COVIDVaccine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/11/02/tru\u2026",
+                        "end": 149,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/02/trumps-supreme-court-denies-religious-exemptions-to-mandatory-covid-19-shots-to-maine-health-care-workers/",
+                        "start": 126,
+                        "url": "https://t.co/aKSm4MW9A2"
+                    }
+                ]
+            },
+            "id": 1455350296696156163,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Trump\u2019s #SupremeCourt Denies #ReligiousExemptions to Mandatory COVID-19 Shots to #Maine Health Care Workers // #COVIDVaccine\n\nhttps://t.co/aKSm4MW9A2"
+        },
+        {
+            "author_id": 1056118795,
+            "conversation_id": 1455257849576267780,
+            "created_at": "2021-11-01 19:38:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 18,
+                        "tag": "Congress"
+                    },
+                    {
+                        "end": 91,
+                        "start": 83,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 108,
+                        "start": 95,
+                        "tag": "COVIDVaccine"
+                    },
+                    {
+                        "end": 127,
+                        "start": 109,
+                        "tag": "BiologicalProduct"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3366439607",
+                        "start": 3,
+                        "username": "GreekNewsGuy"
+                    }
+                ]
+            },
+            "id": 1455257849576267780,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455225118632800256 type=retweeted"
+            ],
+            "text": "RT @GreekNewsGuy: #Congress made crucial change to vaccine definition weeks before #COVID19 // #COVIDVaccine #BiologicalProduct\n\nhttps://t.\u2026"
+        },
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1455225118632800256,
+            "created_at": "2021-11-01 17:27:59+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Congress"
+                    },
+                    {
+                        "end": 73,
+                        "start": 65,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 90,
+                        "start": 77,
+                        "tag": "COVIDVaccine"
+                    },
+                    {
+                        "end": 109,
+                        "start": 91,
+                        "tag": "BiologicalProduct"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Congress made crucial change to vaccine definition weeks before COVID-19 The US government\u2019s definition of \u2018biological product\u2019 up until December 2",
+                        "display_url": "greeknewsondemand.com/2021/11/01/con\u2026",
+                        "end": 134,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/01/congress-made-crucial-change-to-vaccine-definition-weeks-before-covid-19/",
+                        "images": [
+                            {
+                                "height": 470,
+                                "url": "https://pbs.twimg.com/news_img/1455224996616310784/74UlPbkj?format=jpg&name=orig",
+                                "width": 810
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455224996616310784/74UlPbkj?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 111,
+                        "status": 200,
+                        "title": "Congress made crucial change to vaccine definition weeks before COVID-19",
+                        "unwound_url": "http://greeknewsondemand.com/2021/11/01/congress-made-crucial-change-to-vaccine-definition-weeks-before-covid-19/",
+                        "url": "https://t.co/KKmSt0fq91"
+                    }
+                ]
+            },
+            "id": 1455225118632800256,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#Congress made crucial change to vaccine definition weeks before #COVID19 // #COVIDVaccine #BiologicalProduct\n\nhttps://t.co/KKmSt0fq91"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1455224996314312705,
+            "created_at": "2021-11-01 17:27:30+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "Congress"
+                    },
+                    {
+                        "end": 73,
+                        "start": 65,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 90,
+                        "start": 77,
+                        "tag": "COVIDVaccine"
+                    },
+                    {
+                        "end": 109,
+                        "start": 91,
+                        "tag": "BiologicalProduct"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/11/01/con\u2026",
+                        "end": 134,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/01/congress-made-crucial-change-to-vaccine-definition-weeks-before-covid-19/",
+                        "start": 111,
+                        "url": "https://t.co/XaDG2CMbHr"
+                    }
+                ]
+            },
+            "id": 1455224996314312705,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#Congress made crucial change to vaccine definition weeks before #COVID19 // #COVIDVaccine #BiologicalProduct\n\nhttps://t.co/XaDG2CMbHr"
+        },
+        {
+            "author_id": 2599517731,
+            "conversation_id": 1454410038060191753,
+            "created_at": "2021-10-30 11:29:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                        "end": 124,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%b5%ce%ba%cf%84%ce%b1%ce%ba%cf%84%ce%bf-%ce%b5%ce%b3%ce%ba%cf%81%ce%af%ce%bd%ce%b5%ce%b9-%ce%bf-fda-%cf%84%ce%bf-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%b7%cf%86%cf%8c%cf%81%ce%bf-%ce%b5%ce%bc/",
+                        "start": 101,
+                        "url": "https://t.co/yenssicY2E"
+                    }
+                ]
+            },
+            "id": 1454410038060191753,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb Covid \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!! https://t.co/yenssicY2E"
+        },
+        {
+            "author_id": 1309553981379801089,
+            "conversation_id": 1454347023751303172,
+            "created_at": "2021-10-30 07:18:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 42,
+                        "start": 38,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 74,
+                        "start": 68,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 86,
+                        "start": 79,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 98,
+                        "start": 91,
+                        "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3366439607",
+                        "start": 3,
+                        "username": "GreekNewsGuy"
+                    }
+                ]
+            },
+            "id": 1454347023751303172,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454301603578535943 type=retweeted"
+            ],
+            "text": "RT @GreekNewsGuy: \u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/Z\u2026"
+        },
+        {
+            "author_id": 1333651823446659072,
+            "conversation_id": 1454325960346677248,
+            "created_at": "2021-10-30 05:55:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 33,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 61,
+                        "start": 53,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 69,
+                        "start": 63,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 93,
+                        "start": 86,
+                        "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 11,
+                        "id": "25694578",
+                        "start": 3,
+                        "username": "johndk7"
+                    }
+                ]
+            },
+            "id": 1454325960346677248,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454301513895923722 type=retweeted"
+            ],
+            "text": "RT @johndk7: \u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/sYka39\u2026"
+        },
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1454301603578535943,
+            "created_at": "2021-10-30 04:18:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 20,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 56,
+                        "start": 50,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 68,
+                        "start": 61,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 80,
+                        "start": 73,
+                        "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                        "end": 130,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%b5%ce%ba%cf%84%ce%b1%ce%ba%cf%84%ce%bf-%ce%b5%ce%b3%ce%ba%cf%81%ce%af%ce%bd%ce%b5%ce%b9-%ce%bf-fda-%cf%84%ce%bf-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%b7%cf%86%cf%8c%cf%81%ce%bf-%ce%b5%ce%bc/",
+                        "start": 107,
+                        "url": "https://t.co/ZCxpihXYi2"
+                    }
+                ]
+            },
+            "id": 1454301603578535943,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/ZCxpihXYi2"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1454301513895923722,
+            "created_at": "2021-10-30 04:17:55+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 20,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 48,
+                        "start": 40,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 56,
+                        "start": 50,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 68,
+                        "start": 61,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 80,
+                        "start": 73,
+                        "tag": "\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                        "end": 130,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%b5%ce%ba%cf%84%ce%b1%ce%ba%cf%84%ce%bf-%ce%b5%ce%b3%ce%ba%cf%81%ce%af%ce%bd%ce%b5%ce%b9-%ce%bf-fda-%cf%84%ce%bf-%ce%b8%ce%b1%ce%bd%ce%b1%cf%84%ce%b7%cf%86%cf%8c%cf%81%ce%bf-%ce%b5%ce%bc/",
+                        "start": 107,
+                        "url": "https://t.co/sYka39oPTl"
+                    }
+                ]
+            },
+            "id": 1454301513895923722,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: \u0395\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03bf #FDA \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u00ab#\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u00bb #Covid \u03c4\u03b7\u03c2 #Pfizer \u03b3\u03b9\u03b1 #\u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd!!!\n\nhttps://t.co/sYka39oPTl"
+        },
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1454193426614808576,
+            "created_at": "2021-10-29 21:08:25+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 9,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 30,
+                        "start": 23,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 37,
+                        "start": 31,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "Vaccine"
+                    },
+                    {
+                        "end": 81,
+                        "start": 72,
+                        "tag": "Children"
+                    },
+                    {
+                        "end": 87,
+                        "start": 82,
+                        "tag": "kids"
+                    },
+                    {
+                        "end": 92,
+                        "start": 88,
+                        "tag": "CDC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/10/30/jus\u2026",
+                        "end": 117,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/just-in-fda-approves-killer-pfizer-covid-vaccine-for-kids-ages-5-to-11/",
+                        "start": 94,
+                        "url": "https://t.co/25PmXfn0OX"
+                    }
+                ]
+            },
+            "id": 1454193426614808576,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "JUST IN: #FDA Approves #Pfizer #Covid #Vaccine For Kids Ages 5 to 11 // #Children #kids #CDC\n\nhttps://t.co/25PmXfn0OX"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1454193386198499329,
+            "created_at": "2021-10-29 21:08:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 13,
+                        "start": 9,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 30,
+                        "start": 23,
+                        "tag": "Pfizer"
+                    },
+                    {
+                        "end": 37,
+                        "start": 31,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "Vaccine"
+                    },
+                    {
+                        "end": 81,
+                        "start": 72,
+                        "tag": "Children"
+                    },
+                    {
+                        "end": 87,
+                        "start": 82,
+                        "tag": "kids"
+                    },
+                    {
+                        "end": 92,
+                        "start": 88,
+                        "tag": "CDC"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "greeknewsondemand.com/2021/10/30/jus\u2026",
+                        "end": 117,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/just-in-fda-approves-killer-pfizer-covid-vaccine-for-kids-ages-5-to-11/",
+                        "start": 94,
+                        "url": "https://t.co/VoSC6lsHft"
+                    }
+                ]
+            },
+            "id": 1454193386198499329,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "JUST IN: #FDA Approves #Pfizer #Covid #Vaccine For Kids Ages 5 to 11 // #Children #kids #CDC\n\nhttps://t.co/VoSC6lsHft"
+        },
+        {
+            "author_id": 1290949300403539968,
+            "conversation_id": 1453783787536633859,
+            "created_at": "2021-10-28 18:00:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "twitter.com/uk_patriot1/st\u2026",
+                        "end": 23,
+                        "expanded_url": "https://twitter.com/uk_patriot1/status/1452567147155234816?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1452567147155234816%7Ctwgr%5E%7Ctwcon%5Es1_c10&ref_url=http%3A%2F%2Fgreeknewsondemand.com%2F2021%2F10%2F28%2Fformer-cdc-director-robert-redfield-claims-more-than-40-covid-19-deaths-in-maryland-were-fully-vaccinated%2F",
+                        "start": 0,
+                        "url": "https://t.co/SwCOcWWeYl"
+                    }
+                ]
+            },
+            "id": 1453783787536633859,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1452567147155234816 type=quoted"
+            ],
+            "text": "https://t.co/SwCOcWWeYl"
+        }
+    ]
+}

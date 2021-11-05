@@ -1,0 +1,788 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1104465334365577216,
+                "conversation_id": 1455163474020032525,
+                "created_at": "2021-11-01 19:27:55+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "216007993",
+                            "start": 0,
+                            "username": "MinDevGR"
+                        }
+                    ]
+                },
+                "id": 1455255301427539971,
+                "in_reply_to_user_id": 1104465334365577216,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1455255192178466819 type=replied_to"
+                ],
+                "text": "@MinDevGR \u03b1\u03c2 \u03bc\u03b9\u03bb\u03b7\u03c3\u03bf\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c5\u03c0\u03b5\u03c1\u03bf\u03c7\u03b7 \u03c6\u03c5\u03bb\u03b7 \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03c9\u03bd \u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03c7\u03b1\u03c1\u03b9\u03b6\u03bf\u03c5\u03bd \u03b5\u03bd\u03b1\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03bf-\u03b9\u03bf \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf\u03bd \u03b1\u03bb\u03bb\u03bf \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bf\u03bb\u03bf\u03b9 \u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1 \u03bf\u03c6\u03b5\u03bb\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c2 \u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7\u03bd \u03b9\u03b5\u03c1\u03b7 \u03b1\u03b3\u03b5\u03bb\u03b1\u03b4\u03b1 \u03c0\u03bf\u03c5 \u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03bf\u03c5\u03bc\u03b5(\u03bc\u03b5 \u03c4\u03bf \u03b5\u03c4\u03c3\u03b9 \u03b3\u03bf\u03c5\u03c3\u03c4\u03b1\u03c1\u03c9) \u03c3\u03c4\u03b7\u03bd \u03c7\u03c9\u03c1\u03b1 \u03bc\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03c9\u03c2 \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b5\u03bd \u03ba\u03c1\u03b1\u03c4\u03b5\u03b9 \u03b5\u03c7\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03bd\u03c4\u03b5\u03c2..."
+            },
+            {
+                "author_id": 1104465334365577216,
+                "conversation_id": 1452215465498095625,
+                "created_at": "2021-11-01 18:47:10+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "216007993",
+                            "start": 0,
+                            "username": "MinDevGR"
+                        }
+                    ]
+                },
+                "id": 1455245045519499266,
+                "in_reply_to_user_id": 1104465334365577216,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1455244975323688960 type=replied_to"
+                ],
+                "text": "@MinDevGR \u03b1\u03c2 \u03bc\u03b9\u03bb\u03b7\u03c3\u03bf\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c5\u03c0\u03b5\u03c1\u03bf\u03c7\u03b7 \u03c6\u03c5\u03bb\u03b7 \u03c4\u03c9\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03c9\u03bd \u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03c7\u03b1\u03c1\u03b9\u03b6\u03bf\u03c5\u03bd \u03b5\u03bd\u03b1\u03bd \u03ba\u03b9\u03bd\u03b5\u03b6\u03bf-\u03b9\u03bf \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf\u03bd \u03b1\u03bb\u03bb\u03bf \u03ba\u03b1\u03b9 \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03b1\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bf\u03bb\u03bf\u03b9 \u03c4\u03b1 \u03c0\u03bf\u03bb\u03bb\u03b1\u03c0\u03bb\u03b1 \u03bf\u03c6\u03b5\u03bb\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c2 \u03b8\u03b1\u03c5\u03bc\u03b1\u03c3\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c5\u03c4\u03b7 \u03c4\u03b7\u03bd \u03b9\u03b5\u03c1\u03b7 \u03b1\u03b3\u03b5\u03bb\u03b1\u03b4\u03b1 \u03c0\u03bf\u03c5 \u03c6\u03b9\u03bb\u03bf\u03be\u03b5\u03bd\u03bf\u03c5\u03bc\u03b5(\u03bc\u03b5 \u03c4\u03bf \u03b5\u03c4\u03c3\u03b9 \u03b3\u03bf\u03c5\u03c3\u03c4\u03b1\u03c1\u03c9) \u03c3\u03c4\u03b7\u03bd \u03c7\u03c9\u03c1\u03b1 \u03bc\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03c9\u03c2 \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b5\u03bd \u03ba\u03c1\u03b1\u03c4\u03b5\u03b9 \u03b5\u03c7\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b1\u03bd\u03c4\u03b5\u03c2..."
+            },
+            {
+                "author_id": 17962401,
+                "conversation_id": 1454176768160632833,
+                "created_at": "2021-10-31 20:18:40+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "484624051",
+                            "start": 0,
+                            "username": "_0minus_"
+                        },
+                        {
+                            "end": 23,
+                            "id": "1245008090128420864",
+                            "start": 10,
+                            "username": "kyriakosbech"
+                        },
+                        {
+                            "end": 30,
+                            "id": "312561126",
+                            "start": 24,
+                            "username": "tg128"
+                        }
+                    ]
+                },
+                "id": 1454905685528006657,
+                "in_reply_to_user_id": 484624051,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454900129115394049 type=replied_to"
+                ],
+                "text": "@_0minus_ @kyriakosbech @tg128 \u0395 \u03ba\u03ac\u03bd\u03c4\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf\u03c5\u03c2, \u03bd\u03b1 \u03c4\u03bf \u03be\u03b5\u03c0\u03b5\u03c1\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5.\n\u03a3\u03ba\u03cc\u03bd\u03b5\u03c2 \u03cc\u03c4\u03b1\u03bd \u03b8\u03b1 \u03ba\u03bf\u03bb\u03bb\u03ae\u03c3\u03b5\u03c4\u03b5, \u03b8\u03b1 \u03c0\u03af\u03c3\u03c4\u03b5\u03c5\u03b5 \u03ac\u03bb\u03bb\u03b5\u03c2 2-3 \u03c3\u03c4\u03bf \u03bb\u03b1\u03b9\u03bc\u03cc \u03c3\u03b1\u03c2.\n\n\u0392\u03bb\u03ac\u03ba\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03b9 \u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03ac\u03bb\u03bf\u03b9, \u0399\u03c4\u03b1\u03bb\u03bf\u03af, \u0394\u03b1\u03bd\u03bf\u03af &amp; \u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03bf\u03af \u03c0\u03bf\u03c5 \u03c4\u03bf \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd?"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1454828846625312770,
+                "created_at": "2021-10-31 15:13:21+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b1 \u03c7\u03b1\u03bc\u03b7\u03bb\u03ac \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03c3\u03b5 \u03c3\u03c5\u03bd\u03b4\u03c5\u03b1\u03c3\u03bc\u03cc \u03bc\u03b5 \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03bb\u03bb\u03b1\u03be\u03b7 \u0394\u03ad\u03bb\u03c4\u03b1+ \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03b5\u03bb\u03c0\u03af\u03b4\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u00ab\u03c4\u03b5\u03af\u03c7\u03bf\u03c2 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\u03c2\u00bb",
+                            "display_url": "in.gr/2021/10/31/gre\u2026",
+                            "end": 121,
+                            "expanded_url": "https://www.in.gr/2021/10/31/greece/koronaios-apiasto-oneiro-teixos-anosias-delta-dynamitizei-kai-tis-teleytaies-elpides/",
+                            "images": [
+                                {
+                                    "height": 427,
+                                    "url": "https://pbs.twimg.com/news_img/1454828851247341568/U_SHv-WB?format=jpg&name=orig",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454828851247341568/U_SHv-WB?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 98,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u00ab\u0386\u03c0\u03b9\u03b1\u03c3\u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf \u03c4\u03bf \u03c4\u03b5\u03af\u03c7\u03bf\u03c2 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\u03c2\u00bb - \u0397 \u0394\u03ad\u03bb\u03c4\u03b1 + \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c4\u03af\u03b6\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b5\u03bb\u03c0\u03af\u03b4\u03b5\u03c2 | in.gr",
+                            "unwound_url": "https://www.in.gr/2021/10/31/greece/koronaios-apiasto-oneiro-teixos-anosias-delta-dynamitizei-kai-tis-teleytaies-elpides/",
+                            "url": "https://t.co/3HTOVO4Lar"
+                        }
+                    ]
+                },
+                "id": 1454828846625312770,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u00ab\u0386\u03c0\u03b9\u03b1\u03c3\u03c4\u03bf \u03cc\u03bd\u03b5\u03b9\u03c1\u03bf \u03c4\u03bf \u03c4\u03b5\u03af\u03c7\u03bf\u03c2 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\u03c2\u00bb - \u0397 \u0394\u03ad\u03bb\u03c4\u03b1 + \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03c4\u03af\u03b6\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b5\u03bb\u03c0\u03af\u03b4\u03b5\u03c2 https://t.co/3HTOVO4Lar"
+            },
+            {
+                "author_id": 4082922973,
+                "conversation_id": 1453735090022862857,
+                "created_at": "2021-10-28 14:47:09+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 262,
+                            "start": 246,
+                            "tag": "thesweetestkids"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 52,
+                            "id": "3293990757",
+                            "start": 40,
+                            "username": "GaganjotGij"
+                        },
+                        {
+                            "end": 214,
+                            "id": "544324561",
+                            "start": 204,
+                            "username": "ward_rich"
+                        },
+                        {
+                            "end": 276,
+                            "id": "975725122110787584",
+                            "start": 263,
+                            "username": "TribuneDrive"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/jtOADUoFA9",
+                            "end": 300,
+                            "expanded_url": "https://twitter.com/Mlle_Makavita/status/1453735090022862857/photo/1",
+                            "start": 277,
+                            "url": "https://t.co/jtOADUoFA9"
+                        }
+                    ]
+                },
+                "id": 1453735090022862857,
+                "public_metrics": {
+                    "like_count": 15,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "Lockdown drill today. Students in Gr. 4 @GaganjotGij class: \u201cMademoiselle, did you wear that Warrior top because you knew it was lockdown and you\u2019re our warrior?\u201d \ud83d\ude04 and \u201cMademoiselle, what happens to Mr. @ward_rich? Does he go somewhere safe?\u201d \ud83e\udd7a\ud83e\udd70#thesweetestkids @TribuneDrive https://t.co/jtOADUoFA9"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-01-28 17:05:29+00:00",
+                "description": "The leading news site in Greece",
+                "id": 19662198,
+                "name": "in.gr/news",
+                "public_metrics": {
+                    "followers_count": 150533,
+                    "following_count": 50,
+                    "listed_count": 1203,
+                    "tweet_count": 475058
+                },
+                "username": "in_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-07 09:17:44+00:00",
+                "description": "\u0394\u03b9\u03b5\u03b8\u03bd\u03bf\u03bb\u03bf\u03b3\u03bf\u03c2, PM",
+                "id": 1258325062769422337,
+                "name": "VickVien",
+                "public_metrics": {
+                    "followers_count": 919,
+                    "following_count": 984,
+                    "listed_count": 0,
+                    "tweet_count": 5201
+                },
+                "username": "VickVien",
+                "verified": false
+            },
+            {
+                "created_at": "2019-03-09 19:33:50+00:00",
+                "description": "",
+                "id": 1104465334365577216,
+                "name": "helios.panoptes.5",
+                "public_metrics": {
+                    "followers_count": 22,
+                    "following_count": 0,
+                    "listed_count": 0,
+                    "tweet_count": 5269
+                },
+                "username": "helios_5",
+                "verified": false
+            },
+            {
+                "created_at": "2010-11-15 15:04:51+00:00",
+                "description": "\u0395\u03c0\u03af\u03c3\u03b7\u03bc\u03bf \u03a4witter account \u03c4\u03bf\u03c5 \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd | Ministry of Development and Investments - \u0394\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7: \u0393\u03c1\u03b1\u03c6\u03b5\u03af\u03bf \u03a4\u03cd\u03c0\u03bf\u03c5 \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf\u03c5",
+                "id": 216007993,
+                "name": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd",
+                "public_metrics": {
+                    "followers_count": 46512,
+                    "following_count": 241,
+                    "listed_count": 344,
+                    "tweet_count": 4355
+                },
+                "username": "MinDevGR",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-06 09:46:18+00:00",
+                "description": "Modern Ninja/Goat Herder - Livestock Enthusiast - Professional/Scientific/Advanced Goat Herding Consultancy Services - Low tolerance for BS",
+                "id": 484624051,
+                "name": "_0minus_",
+                "public_metrics": {
+                    "followers_count": 155,
+                    "following_count": 506,
+                    "listed_count": 1,
+                    "tweet_count": 3087
+                },
+                "username": "_0minus_",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-08 13:34:10+00:00",
+                "description": "Unlike Jeffrey`s explanation in '12 Monkeys', twitter alone cannot copy my mind.",
+                "id": 17962401,
+                "name": "-(ankostis)-",
+                "public_metrics": {
+                    "followers_count": 774,
+                    "following_count": 2152,
+                    "listed_count": 26,
+                    "tweet_count": 29284
+                },
+                "username": "ankostis",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-31 15:20:45+00:00",
+                "description": "",
+                "id": 1245008090128420864,
+                "name": "kyriakosb",
+                "public_metrics": {
+                    "followers_count": 152,
+                    "following_count": 454,
+                    "listed_count": 1,
+                    "tweet_count": 952
+                },
+                "username": "kyriakosbech",
+                "verified": false
+            },
+            {
+                "created_at": "2011-06-07 09:44:43+00:00",
+                "description": "Physics-Molecular Biology    ---                          \n\n''Everything in nature is the result of chance and necessity'' - \nDemocritus - Jacques Monod",
+                "id": 312561126,
+                "name": "Tassos",
+                "public_metrics": {
+                    "followers_count": 2323,
+                    "following_count": 1444,
+                    "listed_count": 31,
+                    "tweet_count": 44872
+                },
+                "username": "tg128",
+                "verified": false
+            },
+            {
+                "created_at": "2021-06-07 16:27:54+00:00",
+                "description": "\u0388\u03bd\u03b1\u03c2 \u03b1\u03c0\u03bb\u03cc\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+                "id": 1401938904958345218,
+                "name": "Koka",
+                "public_metrics": {
+                    "followers_count": 99,
+                    "following_count": 428,
+                    "listed_count": 0,
+                    "tweet_count": 843
+                },
+                "username": "Koka06910828",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-28 18:47:25+00:00",
+                "description": "\u0399\u03c3\u03c4\u03bf\u03c1\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ad\u03b1\u03c2- \u03c0\u03bf\u03b9\u03b7\u03c4\u03ae\u03c2- \u03b5\u03c0\u03b9\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae\u03c2 \u0395\u03bb\u03bb\u03ae\u03bd\u03c9\u03bd \u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03ba\u03c1\u03b1\u03c4\u03ce\u03bd",
+                "id": 1332757907901992961,
+                "name": "\u0393\u03b5\u03ce\u03c1\u03b3\u03b9\u03bf\u03c2 \u039a\u03b1\u03c1\u03b1\u03bc\u03b1\u03b4\u03bf\u03cd\u03ba\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 310,
+                    "following_count": 830,
+                    "listed_count": 0,
+                    "tweet_count": 3157
+                },
+                "username": "gkaramadoukis",
+                "verified": false
+            },
+            {
+                "created_at": "2018-03-19 13:26:12+00:00",
+                "description": "Home of the TRAILBLAZERS!",
+                "id": 975725122110787584,
+                "name": "Tribune Drive P.S.",
+                "public_metrics": {
+                    "followers_count": 615,
+                    "following_count": 278,
+                    "listed_count": 2,
+                    "tweet_count": 9534
+                },
+                "username": "TribuneDrive",
+                "verified": false
+            },
+            {
+                "created_at": "2015-10-31 19:31:34+00:00",
+                "description": "Gr. 4 & 5 Core French Teacher at Tribune Dr. Public School in my 20th \ud83d\udc40 year of teaching \ud83d\ude03 (2021-2022) \ud83d\udc9c",
+                "id": 4082922973,
+                "name": "Tusha Makavita",
+                "public_metrics": {
+                    "followers_count": 160,
+                    "following_count": 204,
+                    "listed_count": 0,
+                    "tweet_count": 951
+                },
+                "username": "Mlle_Makavita",
+                "verified": false
+            },
+            {
+                "created_at": "2015-05-22 13:46:05+00:00",
+                "description": "Life long learner. Guide on the side to my students. Mother. Enjoy reading fiction and poetry.",
+                "id": 3293990757,
+                "name": "gaganjot",
+                "public_metrics": {
+                    "followers_count": 11,
+                    "following_count": 72,
+                    "listed_count": 0,
+                    "tweet_count": 100
+                },
+                "username": "GaganjotGij",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-03 14:41:05+00:00",
+                "description": "Principal - Tribune Drive P.S. - PDSB",
+                "id": 544324561,
+                "name": "Rich Ward",
+                "public_metrics": {
+                    "followers_count": 608,
+                    "following_count": 642,
+                    "listed_count": 10,
+                    "tweet_count": 1623
+                },
+                "username": "ward_rich",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455767356291092480,
+            "created_at": "2021-11-03 05:22:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a7\u03c9\u03c1\u03af\u03c2 test \u03b3\u03b9\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc \u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bf\u03cd\u03c4\u03b5 \u03bd\u03b1 \u03b4\u03bf\u03c5\u03bb\u03ad\u03c8\u03bf\u03c5\u03bd, \u03bf\u03cd\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd \u03bc\u03b5 \u03c4\u03bf \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03bf, \u03bf\u03cd\u03c4\u03b5 \u03bd\u03b1 \u03c8\u03c9\u03bd\u03af\u03c3\u03bf\u03c5\u03bd, \u03bf\u03cd\u03c4\u03b5 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c3\u03ba\u03b5\u03b4\u03ac\u03c3\u03bf\u03c5\u03bd.",
+                        "display_url": "in.gr/2021/11/03/gre\u2026",
+                        "end": 151,
+                        "expanded_url": "https://www.in.gr/2021/11/03/greece/koronaios-lockdown-mono-gia-tous-anemvoliastous-meta-tin-ekriksi-krousmaton-ti-allazei-apo-savvato-analytika-ta-nea-metra/",
+                        "images": [
+                            {
+                                "height": 427,
+                                "url": "https://pbs.twimg.com/news_img/1455767356706365446/l1uwTJ2A?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455767356706365446/l1uwTJ2A?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 128,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - Lockdown \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd - \u03a4\u03b9 \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf, \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/11/03/greece/koronaios-lockdown-mono-gia-tous-anemvoliastous-meta-tin-ekriksi-krousmaton-ti-allazei-apo-savvato-analytika-ta-nea-metra/",
+                        "url": "https://t.co/SotY4gYooU"
+                    }
+                ]
+            },
+            "id": 1455767356291092480,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 -Lockdown \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd - \u03a4\u03b9 \u03b1\u03bb\u03bb\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf, \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 https://t.co/SotY4gYooU"
+        },
+        {
+            "author_id": 1258325062769422337,
+            "conversation_id": 1455460607801663489,
+            "created_at": "2021-11-02 09:03:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f\u03b9 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b5\u03b9\u03b4\u03b9\u03ba\u03ce\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ad\u03ba\u03c1\u03b7\u03be\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd. \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03b5\u03b9 \u03b7 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7",
+                        "display_url": "in.gr/2021/11/02/gre\u2026",
+                        "end": 234,
+                        "expanded_url": "https://www.in.gr/2021/11/02/greece/koronaios-efialtikes-provlepseis-gia-10-000-krousmata-ti-mera-ti-metra-eksetazontai/",
+                        "images": [
+                            {
+                                "height": 427,
+                                "url": "https://pbs.twimg.com/news_img/1455429810231160834/QeidvoXV?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455429810231160834/QeidvoXV?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 211,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u0395\u03c6\u03b9\u03b1\u03bb\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03c1\u03bf\u03b2\u03bb\u03ad\u03c8\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7 \u03bc\u03ad\u03c1\u03b1 - \u03a4\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/11/02/greece/koronaios-efialtikes-provlepseis-gia-10-000-krousmata-ti-mera-ti-metra-eksetazontai/",
+                        "url": "https://t.co/8RSQZgGuCm"
+                    }
+                ]
+            },
+            "id": 1455460607801663489,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03b9 \u03c0\u03c1\u03bf\u03c4\u03b5\u03b9\u03bd\u03bf\u03c5\u03bd lockdown \u03ba\u03b9 \u03b5\u03c0\u03b9\u03c4\u03b1\u03c7\u03c5\u03bd\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03c9\u03bd \u03ba \u03b7 \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7 \u03c3\u03ba\u03b5\u03c6\u03c4\u03b5\u03c4\u03b1\u03b9 \u03c9\u03c2 \u03bc\u03b5\u03c4\u03c1\u03b1...\u03bd\u03b1 \u03b1\u03c5\u03be\u03b7\u03b8\u03b5\u03b9 \u03b7 \u03b1\u03c0\u03bf\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03b9\u03b1\u03c3\u03b7 \u03b1\u03c0\u03bf \u03c4\u03b1 1,5 \u03c3\u03c4\u03b1 2 \u03bc\u03b5\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03ba\u03bb\u03b5\u03b9\u03c3\u03b5\u03b9 \u03b7 \u03bc\u03bf\u03c5\u03c3\u03b9\u03ba\u03b7!\n\u039a\u03b1\u03bb\u03b1 \u03b8\u03b1 \u03c0\u03b1\u03b5\u03b9 \u03ba\u03b9 \u03b1\u03c5\u03c4\u03bf\nhttps://t.co/8RSQZgGuCm"
+        },
+        {
+            "author_id": 1104465334365577216,
+            "conversation_id": 1455163474020032525,
+            "created_at": "2021-11-01 19:28:28+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "216007993",
+                        "start": 0,
+                        "username": "MinDevGR"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03c4\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03ac, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b1\u03c0\u03b1\u03b3\u03bf\u03c1\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03bf click-away, \u03c9\u03c3\u03c4\u03cc\u03c3\u03bf \u03c4\u03b1 \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ac \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ac",
+                        "display_url": "in.gr/2021/01/05/gre\u2026",
+                        "end": 60,
+                        "expanded_url": "https://in.gr/2021/01/05/greece/lockdown-psonizoun-apo-tin-piso-porta-stin-elliniki-chinatown/",
+                        "images": [
+                            {
+                                "height": 400,
+                                "url": "https://pbs.twimg.com/news_img/1455245217989332996/f480a5PU?format=jpg&name=orig",
+                                "width": 872
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455245217989332996/f480a5PU?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 37,
+                        "status": 200,
+                        "title": "Lockdown : \u03a8\u03c9\u03bd\u03af\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c9 \u03c0\u03cc\u03c1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u2026 Chinatown | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/01/05/greece/lockdown-psonizoun-apo-tin-piso-porta-stin-elliniki-chinatown/",
+                        "url": "https://t.co/2atPBF51aZ"
+                    }
+                ]
+            },
+            "id": 1455255438669320199,
+            "in_reply_to_user_id": 1104465334365577216,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455255301427539971 type=replied_to"
+            ],
+            "text": "@MinDevGR ...\u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03b1\u03bd\u03c4\u03b1 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b1 \n\nhttps://t.co/2atPBF51aZ\n\n\u03ba\u03b1\u03b9 \u03b4\u03b5\u03bd \u03b5\u03b9\u03bd\u03b1\u03b9 \u03bc\u03bf\u03bd\u03bf \u03b2\u03b5\u03b2\u03b1\u03b9\u03b1 \u03c4\u03bf Lockdown \u03b1\u03bb\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u03c6\u03bf\u03c1\u03bf\u03b4\u03b9\u03b1\u03c6\u03c5\u03b3\u03b7 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03b5\u03b9\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03bf\u03bb\u03b1 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c0\u03b5\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03bf \u03b1\u03bd\u03c5\u03c0\u03b1\u03c1\u03ba\u03c4\u03bf\u03c2 \u03b5\u03bb\u03b5\u03b3\u03c7\u03bf \u03c4\u03b7\u03c2 \u03c3\u03b1\u03b2\u03bf\u03c5\u03c1\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03c5\u03bb\u03b1\u03bd\u03b5 \u03bc\u03b5 \u03b5\u03bd\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03bf\u03c6\u03c9\u03bd\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c5\u03c3\u03b9\u03b1\u03b6\u03b5\u03b9 \u03c0\u03b1\u03bd\u03c4\u03b5\u03bb\u03c9\u03c2"
+        },
+        {
+            "author_id": 1104465334365577216,
+            "conversation_id": 1452215465498095625,
+            "created_at": "2021-11-01 18:47:49+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "216007993",
+                        "start": 0,
+                        "username": "MinDevGR"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03c4\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03ac, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b1\u03c0\u03b1\u03b3\u03bf\u03c1\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03bf click-away, \u03c9\u03c3\u03c4\u03cc\u03c3\u03bf \u03c4\u03b1 \u03ba\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ac \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u0391\u03b8\u03ae\u03bd\u03b1\u03c2 \u03b4\u03bf\u03c5\u03bb\u03b5\u03cd\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ac",
+                        "display_url": "in.gr/2021/01/05/gre\u2026",
+                        "end": 60,
+                        "expanded_url": "https://in.gr/2021/01/05/greece/lockdown-psonizoun-apo-tin-piso-porta-stin-elliniki-chinatown/",
+                        "images": [
+                            {
+                                "height": 400,
+                                "url": "https://pbs.twimg.com/news_img/1455245217989332996/f480a5PU?format=jpg&name=orig",
+                                "width": 872
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455245217989332996/f480a5PU?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 37,
+                        "status": 200,
+                        "title": "Lockdown : \u03a8\u03c9\u03bd\u03af\u03b6\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c9 \u03c0\u03cc\u03c1\u03c4\u03b1 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u2026 Chinatown | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/01/05/greece/lockdown-psonizoun-apo-tin-piso-porta-stin-elliniki-chinatown/",
+                        "url": "https://t.co/2atPBF51aZ"
+                    }
+                ]
+            },
+            "id": 1455245207239278599,
+            "in_reply_to_user_id": 1104465334365577216,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455245045519499266 type=replied_to"
+            ],
+            "text": "@MinDevGR ...\u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03b1\u03bd\u03c4\u03b1 \u03b3\u03c1\u03b1\u03bc\u03bc\u03b5\u03bd\u03b1 \n\nhttps://t.co/2atPBF51aZ\n\n\u03ba\u03b1\u03b9 \u03b4\u03b5\u03bd \u03b5\u03b9\u03bd\u03b1\u03b9 \u03bc\u03bf\u03bd\u03bf \u03b2\u03b5\u03b2\u03b1\u03b9\u03b1 \u03c4\u03bf Lockdown \u03b1\u03bb\u03bb\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u03c6\u03bf\u03c1\u03bf\u03b4\u03b9\u03b1\u03c6\u03c5\u03b3\u03b7 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bd\u03c4\u03b5\u03bb\u03b5\u03b9\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03bf\u03bb\u03b1 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03c0\u03b5\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03bf \u03b1\u03bd\u03c5\u03c0\u03b1\u03c1\u03ba\u03c4\u03bf\u03c2 \u03b5\u03bb\u03b5\u03b3\u03c7\u03bf \u03c4\u03b7\u03c2 \u03c3\u03b1\u03b2\u03bf\u03c5\u03c1\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03bf\u03c5\u03bb\u03b1\u03bd\u03b5 \u03bc\u03b5 \u03b5\u03bd\u03b1 \u03b5\u03bb\u03bb\u03b7\u03bd\u03bf\u03c6\u03c9\u03bd\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c5\u03c3\u03b9\u03b1\u03b6\u03b5\u03b9 \u03c0\u03b1\u03bd\u03c4\u03b5\u03bb\u03c9\u03c2"
+        },
+        {
+            "author_id": 484624051,
+            "conversation_id": 1454176768160632833,
+            "created_at": "2021-10-31 20:22:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "17962401",
+                        "start": 0,
+                        "username": "ankostis"
+                    },
+                    {
+                        "end": 23,
+                        "id": "1245008090128420864",
+                        "start": 10,
+                        "username": "kyriakosbech"
+                    },
+                    {
+                        "end": 30,
+                        "id": "312561126",
+                        "start": 24,
+                        "username": "tg128"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039a\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03bb\u03cc\u03b3\u03bf \u03b3\u03b9\u03b1 \u00ab\u03b2\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03b2\u03b5\u03b2\u03b1\u03b9\u03cc\u03c4\u03b7\u03c4\u03b1\u00bb, \u03b5\u03c0\u03b5\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03cc\u03c4\u03b9\u00a0\u00ab\u03ba\u03ac\u03c0\u03bf\u03b9\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03b8\u03b1 \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03c3\u03c4\u03b5\u03af \u03ad\u03bd\u03b1\u03c2 \u03ac\u03bb\u03bb\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bb\u03ac \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03bf\u03c5\u03bc\u03b5\u00bb",
+                        "display_url": "in.gr/2021/10/30/wor\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.in.gr/2021/10/30/world/pou-isos-emfanistei-neos-ios-pou-den-tha-mporoume-na-periorisoume/",
+                        "images": [
+                            {
+                                "height": 1040,
+                                "url": "https://pbs.twimg.com/news_img/1454319112524648451/K5UuGk0N?format=jpg&name=orig",
+                                "width": 1560
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454319112524648451/K5UuGk0N?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 67,
+                        "status": 200,
+                        "title": "\u03a0\u039f\u03a5 - \u038a\u03c3\u03c9\u03c2 \u03b5\u03bc\u03c6\u03b1\u03bd\u03b9\u03c3\u03c4\u03b5\u03af \u03bd\u03ad\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03bf\u03c5\u03bc\u03b5 | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/30/world/pou-isos-emfanistei-neos-ios-pou-den-tha-mporoume-na-periorisoume/",
+                        "url": "https://t.co/v8QETDUtLI"
+                    }
+                ]
+            },
+            "id": 1454906752286314499,
+            "in_reply_to_user_id": 17962401,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454905685528006657 type=replied_to"
+            ],
+            "text": "@ankostis @kyriakosbech @tg128 \u0394\u03b5\u03bd \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03af\u03c0\u03bf\u03c4\u03b1.. \u039a\u03bf\u03af\u03c4\u03b1 \u03b5\u03b4\u03ce...\nhttps://t.co/v8QETDUtLI\n\u03a3\u03cd\u03bc\u03c0\u03c4\u03c9\u03c3\u03b7 \u03b8\u03b1'\u03bd\u03b1\u03b9 \u03b5; \u039d\u03b1 \u03bc\u03b1\u03c2 \u03bc\u03b9\u03bb\u03ac\u03bd\u03b5 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03bf \u03b9\u03cc \u03b1\u03c0\u03cc \u03c4\u03ce\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03bf\u03c5\u03bd \u03ba\u03b9\u03cc\u03bb\u03b1\u03c2... \u0394\u03b7\u03bb\u03b1\u03b4\u03ae Lockdown \u03b5\u03c0'\u03b1\u03cc\u03c1\u03b9\u03c3\u03c4\u03bf\u03bd... \u0393\u03b9\u03b1 \u03c4\u03bf \u03ba\u03b1\u03bb\u03cc \u03bc\u03b1\u03c2 \u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c2 \u03b2\u03b5\u03b2\u03b1\u03af\u03c9\u03c2..."
+        },
+        {
+            "author_id": 1401938904958345218,
+            "conversation_id": 1454828846625312770,
+            "created_at": "2021-10-31 15:33:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 6,
+                        "id": "19662198",
+                        "start": 0,
+                        "username": "in_gr"
+                    }
+                ]
+            },
+            "id": 1454833793571778560,
+            "in_reply_to_user_id": 19662198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454828846625312770 type=replied_to"
+            ],
+            "text": "@in_gr \u03a4\u03bf \u03c0\u03ac\u03c4\u03b5 \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b1 lockdown \u03ba\u03b1\u03b8\u03ac\u03c1\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 1332757907901992961,
+            "conversation_id": 1454391799217369089,
+            "created_at": "2021-10-30 10:16:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u00ab\u039c\u03b1\u03c2 \u03b5\u03bd\u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bd\u03b1 \u03c5\u03c0\u03ac\u03c1\u03be\u03b5\u03b9 \u03ad\u03bd\u03b1 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03cc \u03bc\u03ad\u03c1\u03b9\u03c3\u03bc\u03b1 \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c7\u03b1\u03bc\u03b7\u03bb\u03cc\u03bc\u03b9\u03c3\u03b8\u03bf\u03c5\u03c2\u00bb \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0395\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ce\u03bd \u03a5\u03c0\u03bf\u03b8\u03ad\u03c3\u03b5\u03c9\u03bd",
+                        "display_url": "in.gr/2021/10/30/eco\u2026",
+                        "end": 223,
+                        "expanded_url": "https://www.in.gr/2021/10/30/economy/oikonomikes-eidiseis/xatzidakis-nea-ayksisi-ston-katotato-mistho-pote-tha-dothei/",
+                        "images": [
+                            {
+                                "height": 389,
+                                "url": "https://pbs.twimg.com/news_img/1454358066376413192/mYlzevMr?format=jpg&name=orig",
+                                "width": 650
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454358066376413192/mYlzevMr?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 200,
+                        "status": 200,
+                        "title": "\u03a7\u03b1\u03c4\u03b6\u03b7\u03b4\u03ac\u03ba\u03b7\u03c2 \u2013 \u039d\u03ad\u03b1 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf\u03bd \u03ba\u03b1\u03c4\u03ce\u03c4\u03b1\u03c4\u03bf \u03bc\u03b9\u03c3\u03b8\u03cc \u2013 \u03a0\u03cc\u03c4\u03b5 \u03b8\u03b1 \u03b4\u03bf\u03b8\u03b5\u03af | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/30/economy/oikonomikes-eidiseis/xatzidakis-nea-ayksisi-ston-katotato-mistho-pote-tha-dothei/",
+                        "url": "https://t.co/tZpyUbYcZi"
+                    }
+                ]
+            },
+            "id": 1454391799217369089,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03bf\u03af \u03bf\u03b9 \u03b5\u03b8\u03bd\u03b9\u03ba\u03b9\u03c3\u03c4\u03b1\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03ba\u03af\u03b1\u03c2 \u03ce\u03c1\u03b1\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03b1\u03c2 \u03b5\u03af\u03c7\u03b1\u03bd \u03c0\u03c1\u03ae\u03be\u03b5\u03b9 \u03b3\u03bd\u03c9\u03c3\u03c4\u03cc \u03c3\u03b7\u03bc\u03b5\u03af\u03bf \u03c4\u03bf\u03c5 \u03c3\u03ce\u03bc\u03b1\u03c4\u03cc\u03c2 \u03bc\u03b1\u03c2 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c3\u03c7\u03ad\u03b4\u03b9\u03bf \u03bc\u03b5 \u03c4\u03b1 lockdown \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03ad\u03c8\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c0\u03ac\u03c1\u03bf\u03c5\u03bd\u03b5 \u03c4\u03b9\u03c2 \u03bf\u03b9\u03ba\u03af\u03b5\u03c2; https://t.co/tZpyUbYcZi"
+        },
+        {
+            "author_id": 975725122110787584,
+            "conversation_id": 1453735448472264716,
+            "created_at": "2021-10-28 14:48:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "4082922973",
+                        "start": 3,
+                        "username": "Mlle_Makavita"
+                    },
+                    {
+                        "end": 71,
+                        "id": "3293990757",
+                        "start": 59,
+                        "username": "GaganjotGij"
+                    }
+                ]
+            },
+            "id": 1453735448472264716,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453735090022862857 type=retweeted"
+            ],
+            "text": "RT @Mlle_Makavita: Lockdown drill today. Students in Gr. 4 @GaganjotGij class: \u201cMademoiselle, did you wear that Warrior top because you kne\u2026"
+        },
+        {
+            "author_id": 4082922973,
+            "conversation_id": 1453735090022862857,
+            "created_at": "2021-10-28 14:47:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 262,
+                        "start": 246,
+                        "tag": "thesweetestkids"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 52,
+                        "id": "3293990757",
+                        "start": 40,
+                        "username": "GaganjotGij"
+                    },
+                    {
+                        "end": 214,
+                        "id": "544324561",
+                        "start": 204,
+                        "username": "ward_rich"
+                    },
+                    {
+                        "end": 276,
+                        "id": "975725122110787584",
+                        "start": 263,
+                        "username": "TribuneDrive"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pic.twitter.com/jtOADUoFA9",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/Mlle_Makavita/status/1453735090022862857/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/jtOADUoFA9"
+                    }
+                ]
+            },
+            "id": 1453735090022862857,
+            "public_metrics": {
+                "like_count": 15,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "Lockdown drill today. Students in Gr. 4 @GaganjotGij class: \u201cMademoiselle, did you wear that Warrior top because you knew it was lockdown and you\u2019re our warrior?\u201d \ud83d\ude04 and \u201cMademoiselle, what happens to Mr. @ward_rich? Does he go somewhere safe?\u201d \ud83e\udd7a\ud83e\udd70#thesweetestkids @TribuneDrive https://t.co/jtOADUoFA9"
+        }
+    ]
+}

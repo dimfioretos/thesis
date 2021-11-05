@@ -1,0 +1,163 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2011-04-04 15:50:02+00:00",
+                "description": "\u0393\u03b9\u03b1\u03c4\u03af \u03b7 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2  #dikaiologitika",
+                "id": 277043000,
+                "name": "dikaiologitika",
+                "public_metrics": {
+                    "followers_count": 7835,
+                    "following_count": 197,
+                    "listed_count": 101,
+                    "tweet_count": 201256
+                },
+                "username": "dikaiologitika",
+                "verified": false
+            },
+            {
+                "created_at": "2007-12-26 16:48:40+00:00",
+                "description": "",
+                "id": 11537872,
+                "name": "stefanos",
+                "public_metrics": {
+                    "followers_count": 1601,
+                    "following_count": 1302,
+                    "listed_count": 35,
+                    "tweet_count": 161967
+                },
+                "username": "stefs",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 277043000,
+            "conversation_id": 1455770161429073921,
+            "created_at": "2021-11-03 05:33:48+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 66,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u038c\u03bb\u03b1 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 rapid test \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd",
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 96,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/361154/triti-dosi-gia-emvoliasmenous-se-idiotypo-lockdown-oi-anemvoliastoi-den-pane-pouthena-xoris-rapid-test-oi-eksaireseis-kai-ta-metra",
+                        "images": [
+                            {
+                                "height": 598,
+                                "url": "https://pbs.twimg.com/news_img/1455770163995873282/2h5E1M-o?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455770163995873282/2h5E1M-o?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 73,
+                        "status": 200,
+                        "title": "\u03a4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 - \u03a3\u03b5 \u03b9\u03b4\u03b9\u03cc\u03c4\u03c5\u03c0\u03bf lockdown \u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9, \u03bf\u03b9 \u03b5\u03be\u03b1\u03b9\u03c1\u03ad\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/361154/triti-dosi-gia-emvoliasmenous-se-idiotypo-lockdown-oi-anemvoliastoi-den-pane-pouthena-xoris-rapid-test-oi-eksaireseis-kai-ta-metra",
+                        "url": "https://t.co/kUoLgqja5N"
+                    }
+                ]
+            },
+            "id": 1455770161429073921,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03c0\u03bb\u03b1\u03c3\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03c1\u03cc\u03c3\u03c4\u03b9\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c4\u03b7\u03c1\u03bf\u03cd\u03bd \u03c4\u03b1 #\u03bc\u03ad\u03c4\u03c1\u03b1 https://t.co/kUoLgqja5N"
+        },
+        {
+            "author_id": 277043000,
+            "conversation_id": 1455453281598201856,
+            "created_at": "2021-11-02 08:34:38+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03b5\u03c0\u03b9\u03bb\u03ad\u03b3\u03b5\u03b9 \u03bd\u03b1 \u00ab\u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03ce\u03c3\u03b5\u03b9\u00bb \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd, \u03c0\u03b1\u03c1\u03ac \u03bd\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown. \u039f \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2 \u03bc\u03c0\u03ae\u03ba\u03b5 \u00ab\u03c4\u03c1\u03bf\u03bc\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2\u00bb \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 5.500 \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4...",
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 109,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/361035/emmesi-katholiki-ypoxreotikotita-emvoliasmoy-gia-na-apofefxthei-to-katholiko-lockdown",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1455453282034503681/rmLlvG2-?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455453282034503681/rmLlvG2-?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 86,
+                        "status": 200,
+                        "title": "\u0388\u03bc\u03bc\u03b5\u03c3\u03b7 \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03ae... \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03b5\u03af \u03c4\u03bf \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc lockdown",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/361035/emmesi-katholiki-ypoxreotikotita-emvoliasmoy-gia-na-apofefxthei-to-katholiko-lockdown",
+                        "url": "https://t.co/HoXuD8RS3l"
+                    }
+                ]
+            },
+            "id": 1455453281598201856,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0388\u03bc\u03bc\u03b5\u03c3\u03b7 \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03ae... \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03b5\u03af \u03c4\u03bf \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc lockdown\nhttps://t.co/HoXuD8RS3l"
+        },
+        {
+            "author_id": 11537872,
+            "conversation_id": 1454382051839430658,
+            "created_at": "2021-10-30 09:37:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2 \u03b1\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b5\u03bd\u03cc\u03c2 \u03bd\u03ad\u03bf\u03c5 lockdown \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1",
+                        "display_url": "dikaiologitika.gr/eidhseis/polit\u2026",
+                        "end": 112,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/politikes-eidhseis/360811/geordiadis-kamia-periptosi-lockdown-ti-eipe-o-ypourgos-energeias",
+                        "images": [
+                            {
+                                "height": 618,
+                                "url": "https://pbs.twimg.com/news_img/1454382052363677699/Haa15-2S?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454382052363677699/Haa15-2S?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 89,
+                        "status": 200,
+                        "title": "\u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bc\u03af\u03b1 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 lockdown\u00bb",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/politikes-eidhseis/360811/geordiadis-kamia-periptosi-lockdown-ti-eipe-o-ypourgos-energeias",
+                        "url": "https://t.co/jIs1kjEZnq"
+                    }
+                ]
+            },
+            "id": 1454382051839430658,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b1 \u03b7\u03b4\u03b7 \u03c3\u03c4\u03b1 \u03bc\u03b1\u03b3\u03b1\u03b6\u03b9\u03ac \u03b4\u03b5\u03bd \u03c0\u03b1\u03c4\u03ac\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03bc\u03ad\u03c3\u03b1.\n\u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u00ab\u039a\u03b1\u03bc\u03af\u03b1 \u03c0\u03b5\u03c1\u03af\u03c0\u03c4\u03c9\u03c3\u03b7 lockdown\u00bb https://t.co/jIs1kjEZnq"
+        }
+    ]
+}

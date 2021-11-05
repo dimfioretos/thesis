@@ -1,0 +1,1671 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 425195640,
+                "conversation_id": 1455502323220951047,
+                "created_at": "2021-11-02 11:49:30+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/larisa\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                            "start": 0,
+                            "url": "https://t.co/EGQ685KuKa"
+                        }
+                    ]
+                },
+                "id": 1455502323220951047,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "https://t.co/EGQ685KuKa"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1455487713243770884,
+                "created_at": "2021-11-02 10:51:27+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/larisa\u2026",
+                            "end": 90,
+                            "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                            "start": 67,
+                            "url": "https://t.co/5seo9Z7fG0"
+                        }
+                    ]
+                },
+                "id": 1455487713243770884,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5\nhttps://t.co/5seo9Z7fG0"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1455327169891250178,
+                "created_at": "2021-11-02 00:13:30+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/international/\u2026",
+                            "end": 116,
+                            "expanded_url": "https://www.enikos.gr/international/koronoios-pente-ekatommyria-nekroi-exaitias-tis-covid-19-i-katastasi-diaferei-kata-ipeiro/1699894/",
+                            "start": 93,
+                            "url": "https://t.co/5OaUbveP2y"
+                        }
+                    ]
+                },
+                "id": 1455327169891250178,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 COVID-19 \u2013 \u0397 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03ba\u03b1\u03c4\u03ac \u03ae\u03c0\u03b5\u03b9\u03c1\u03bf\nhttps://t.co/5OaUbveP2y"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1454367135426306061,
+                "created_at": "2021-10-30 08:38:40+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/emvoli\u2026",
+                            "end": 126,
+                            "expanded_url": "https://www.enikos.gr/society/emvolia-i-triti-dosi-tou-pfizer-biontech-meionei-simantika-ton-kindyno-nosileias-i-varias-covid/1698692/",
+                            "start": 103,
+                            "url": "https://t.co/5GCvmL2R0R"
+                        }
+                    ]
+                },
+                "id": 1454367135426306061,
+                "public_metrics": {
+                    "like_count": 7,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 5
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R0R"
+            },
+            {
+                "author_id": 53105096,
+                "conversation_id": 1454356831644659715,
+                "created_at": "2021-10-30 07:57:43+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/business/statu\u2026",
+                            "end": 289,
+                            "expanded_url": "https://twitter.com/business/status/1453772598504919041",
+                            "start": 266,
+                            "url": "https://t.co/IB0XtG2IK9"
+                        }
+                    ]
+                },
+                "id": 1454356831644659715,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 3
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1453772598504919041 type=quoted"
+                ],
+                "text": "\u0391\u03c5\u03c4\u03cc \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03ae\u03c3\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c6\u03af\u03bb\u03bf\u03c5\u03c2, \u03cc\u03c4\u03b9 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bd\u03bf\u03c3\u03b7\u03c3\u03b7, \u03cc\u03c7\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd. \u0391\u03bd \u03ba\u03b1\u03b9 \u03b7 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf \u03c7\u03c1\u03cc\u03bd\u03bf. \u039c\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 \u03c3\u03c4\u03bf \u03c3\u03c0\u03af\u03c4\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7 \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ac \u03c3\u03c5\u03bd\u03c4\u03b7\u03c1\u03b5\u03af \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1. https://t.co/IB0XtG2IK9"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1453909686013542404,
+                "created_at": "2021-10-29 02:20:56+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/international/\u2026",
+                            "end": 91,
+                            "expanded_url": "https://www.enikos.gr/international/vretania-i-oikonomia-navagei-logo-brexit-ochi-covid-19-symfona-me-to-obr/1697733/",
+                            "start": 68,
+                            "url": "https://t.co/FQEW8WywFT"
+                        }
+                    ]
+                },
+                "id": 1453909686013542404,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u201c\u0397 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u201c\u03bd\u03b1\u03c5\u03b1\u03b3\u03b5\u03af\u201d \u03bb\u03cc\u03b3\u03c9 Brexit \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bb\u03cc\u03b3\u03c9 COVID-19\u2033\nhttps://t.co/FQEW8WywFT"
+            },
+            {
+                "author_id": 410191217,
+                "conversation_id": 1453267251264643077,
+                "created_at": "2021-10-27 07:48:07+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 184,
+                            "id": "373909732",
+                            "start": 174,
+                            "username": "enikos_gr"
+                        },
+                        {
+                            "end": 192,
+                            "id": "17389650",
+                            "start": 185,
+                            "username": "skaigr"
+                        },
+                        {
+                            "end": 204,
+                            "id": "25584888",
+                            "start": 193,
+                            "username": "protothema"
+                        },
+                        {
+                            "end": 220,
+                            "id": "186060772",
+                            "start": 205,
+                            "username": "Kathimerini_gr"
+                        },
+                        {
+                            "end": 230,
+                            "id": "329561922",
+                            "start": 221,
+                            "username": "serkot65"
+                        },
+                        {
+                            "end": 245,
+                            "id": "76015405",
+                            "start": 231,
+                            "username": "zougla_online"
+                        },
+                        {
+                            "end": 257,
+                            "id": "258729654",
+                            "start": 246,
+                            "username": "iefimerida"
+                        },
+                        {
+                            "end": 268,
+                            "id": "131500587",
+                            "start": 258,
+                            "username": "TOPONTIKI"
+                        },
+                        {
+                            "end": 276,
+                            "id": "23296450",
+                            "start": 269,
+                            "username": "ta_nea"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "twitter.com/StateDept/stat\u2026",
+                            "end": 300,
+                            "expanded_url": "https://twitter.com/StateDept/status/1452749308663504897",
+                            "start": 277,
+                            "url": "https://t.co/QL7OAGl4sf"
+                        }
+                    ]
+                },
+                "id": 1453267251264643077,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1452749308663504897 type=quoted"
+                ],
+                "text": "\u039f\u03b9 \u0397\u03a0\u0391 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bd \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd COVID-19 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2. \u0386\u03bb\u03bb\u03bf \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 (\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf) \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b7 \u03bc\u03cc\u03bb\u03c5\u03bd\u03c3\u03b7, \u03c4\u03bf \u03be\u03b5\u03ba\u03ac\u03b8\u03b1\u03c1\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1..\n@enikos_gr @skaigr @protothema @Kathimerini_gr @serkot65 @zougla_online @iefimerida @TOPONTIKI @ta_nea https://t.co/QL7OAGl4sf"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1453610488772927488,
+                "created_at": "2021-10-28 06:32:01+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/i-pach\u2026",
+                            "end": 96,
+                            "expanded_url": "https://www.enikos.gr/society/i-pachysarkia-epireazei-arnitika-akomi-kai-tous-astheneis-me-ipia-covid-19/1697424/",
+                            "start": 73,
+                            "url": "https://t.co/ouKRTo7ugZ"
+                        }
+                    ]
+                },
+                "id": 1453610488772927488,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0397 \u03c0\u03b1\u03c7\u03c5\u03c3\u03b1\u03c1\u03ba\u03af\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ae\u03c0\u03b9\u03b1 COVID-19 https://t.co/ouKRTo7ugZ"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1453377726585446414,
+                "created_at": "2021-10-27 15:07:07+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b1 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b8\u03b5\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03bd\u03ac \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac, \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 \u03bf \u0395\u039f\u0394\u03a5 \u03c3\u03c4\u03b7 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u03ad\u03ba\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1",
+                            "display_url": "enikos.gr/society/korono\u2026",
+                            "end": 118,
+                            "expanded_url": "https://www.enikos.gr/society/koronoios-ta-pososta-thetikotitas-ana-perifereiaki-enotita-posa-einai-ta-krousmata-se-paidia/1697100/",
+                            "images": [
+                                {
+                                    "height": 412,
+                                    "url": "https://pbs.twimg.com/news_img/1453377728917479436/9-TIISmU?format=jpg&name=orig",
+                                    "width": 600
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453377728917479436/9-TIISmU?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 95,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b8\u03b5\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b1\u03bd\u03ac \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 - \u03a0\u03cc\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac",
+                            "unwound_url": "https://www.enikos.gr/society/koronoios-ta-pososta-thetikotitas-ana-perifereiaki-enotita-posa-einai-ta-krousmata-se-paidia/1697100/",
+                            "url": "https://t.co/WvNBoleHQ6"
+                        }
+                    ]
+                },
+                "id": 1453377726585446414,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 0
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a4\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b8\u03b5\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03b1\u03bd\u03ac \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u2013 \u03a0\u03cc\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac\nhttps://t.co/WvNBoleHQ6"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1453374241039126528,
+                "created_at": "2021-10-27 14:53:16+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039f \u0395\u039f\u0394\u03a5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b5 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03bf \u03b1\u03c0\u03cc\u03b3\u03b5\u03c5\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7\u03c2. \u0391\u03c0\u03cc \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u00a025 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03b9\u03c3\u03b1\u03b3\u03cc\u03bc\u03b5\u03bd\u03b1 \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd 15 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03ba\u03b1\u03c4\u03cc\u03c0\u03b9\u03bd \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2",
+                            "display_url": "enikos.gr/society/pou-en\u2026",
+                            "end": 115,
+                            "expanded_url": "https://www.enikos.gr/society/pou-entopizontai-ta-3-651-nea-krousmata-koronoiou-poies-perioches-vriskontai-sto-kokkino/1697097/",
+                            "images": [
+                                {
+                                    "height": 412,
+                                    "url": "https://pbs.twimg.com/news_img/1453374244319121411/IK2I0yYz?format=jpg&name=orig",
+                                    "width": 600
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453374244319121411/IK2I0yYz?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 92,
+                            "status": 200,
+                            "title": "\u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd - \u03a0\u03bf\u03b9\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \"\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\"",
+                            "unwound_url": "https://www.enikos.gr/society/pou-entopizontai-ta-3-651-nea-krousmata-koronoiou-poies-perioches-vriskontai-sto-kokkino/1697097/",
+                            "url": "https://t.co/1e7h04pCVA"
+                        }
+                    ]
+                },
+                "id": 1453374241039126528,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03bf\u03cd \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u2013 \u03a0\u03bf\u03b9\u03b5\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u201c\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u201d https://t.co/1e7h04pCVA"
+            },
+            {
+                "author_id": 9624742,
+                "conversation_id": 1452749308663504897,
+                "created_at": "2021-10-25 21:30:00+00:00",
+                "entities": {
+                    "annotations": [
+                        {
+                            "end": 16,
+                            "normalized_text": "United States",
+                            "probability": 0.7151,
+                            "start": 4,
+                            "type": "Place"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "Frequently Asked Questions on COVID-19 Vaccinations and Testing for International Travel",
+                            "display_url": "go.usa.gov/xeqyy",
+                            "end": 206,
+                            "expanded_url": "https://go.usa.gov/xeqyy",
+                            "images": [
+                                {
+                                    "height": 200,
+                                    "url": "https://pbs.twimg.com/news_img/1455361905833373707/1SSw6yYM?format=jpg&name=orig",
+                                    "width": 200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455361905833373707/1SSw6yYM?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 183,
+                            "status": 200,
+                            "title": "Frequently Asked Questions on COVID-19 Vaccinations and Testing for International Travel",
+                            "unwound_url": "https://travel.state.gov/content/travel/en/international-travel/emergencies/covid-19-faqs-for-travel-to-the-us-information.html",
+                            "url": "https://t.co/oOT2DogVfv"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/Q6tXgWTRP9",
+                            "end": 230,
+                            "expanded_url": "https://twitter.com/StateDept/status/1452749308663504897/photo/1",
+                            "start": 207,
+                            "url": "https://t.co/Q6tXgWTRP9"
+                        }
+                    ]
+                },
+                "id": 1452749308663504897,
+                "public_metrics": {
+                    "like_count": 2285,
+                    "quote_count": 600,
+                    "reply_count": 686,
+                    "retweet_count": 1125
+                },
+                "text": "The United States\u2019 new international air travel policy, effective November 8, replaces the existing country-by-country restrictions, putting in place a consistent approach worldwide. https://t.co/oOT2DogVfv https://t.co/Q6tXgWTRP9"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-11-11 19:24:46+00:00",
+                "description": "",
+                "id": 410191217,
+                "name": "Nikos Noulezas",
+                "public_metrics": {
+                    "followers_count": 363,
+                    "following_count": 321,
+                    "listed_count": 11,
+                    "tweet_count": 11752
+                },
+                "username": "NikosNoulezas",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-15 11:33:44+00:00",
+                "description": "\u0395\u03b4\u03ce \u03bc\u03b9\u03bb\u03ac\u03bc\u03b5 \u03c3\u03c4\u03bf\u03bd \u03b5\u03bd\u03b9\u03ba\u03cc.",
+                "id": 373909732,
+                "name": "enikos.gr",
+                "public_metrics": {
+                    "followers_count": 405557,
+                    "following_count": 33,
+                    "listed_count": 1188,
+                    "tweet_count": 619155
+                },
+                "username": "enikos_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-20 21:59:48+00:00",
+                "description": "Greece\u2019s No. 1 news site & best-selling Sunday newspaper. Follow for breaking news, special reports and more from\n@protothema / #protothema",
+                "id": 25584888,
+                "name": "protothema.gr",
+                "public_metrics": {
+                    "followers_count": 331484,
+                    "following_count": 277,
+                    "listed_count": 1708,
+                    "tweet_count": 516167
+                },
+                "username": "protothema",
+                "verified": false
+            },
+            {
+                "created_at": "2014-01-04 09:25:14+00:00",
+                "description": "",
+                "id": 2275849495,
+                "name": "stella papanastasioy",
+                "public_metrics": {
+                    "followers_count": 248,
+                    "following_count": 1407,
+                    "listed_count": 0,
+                    "tweet_count": 6291
+                },
+                "username": "stellapapanast",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-15 20:28:33+00:00",
+                "description": "\u039aeep your distance if you're a right-wing clueless moron!\n\n\u03a4\u03bf \u03bc\u03c0\u03bf\u03c1\u03b4\u03bf\u03c1\u03bf\u03b4\u03bf\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf \u03c3\u03c4\u03bf \u03bc\u03b1\u03cd\u03c1\u03bf \u03bc\u03bf\u03c5 \u03b7 @magda_tou_jesus ;) \n2\u03bf \u03b1\u03ba\u03ba\u03b1\u03bf\u03c5 \u03b3\u03b9\u03b1\u03c4\u03af \u03bc\u03b5 \u03c1\u03af\u03c7\u03bd\u03bf\u03c5\u03bd: @amy4sanity_",
+                "id": 493453810,
+                "name": "\u03bd\u03b1\u0438\u2202\u03b1 #\u0455\u0443\u043c\u03c1\u03b1\u0438_g\u03b1\u043c\u03b9\u0454\u0455\u03b1\u03b9",
+                "public_metrics": {
+                    "followers_count": 5251,
+                    "following_count": 5197,
+                    "listed_count": 14,
+                    "tweet_count": 118998
+                },
+                "username": "amy4sanity",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-30 17:51:01+00:00",
+                "description": "Communist, vegetarian, happy.",
+                "id": 425195640,
+                "name": "Lucky Colibri",
+                "public_metrics": {
+                    "followers_count": 522,
+                    "following_count": 534,
+                    "listed_count": 2,
+                    "tweet_count": 3621
+                },
+                "username": "LuckyColibri",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-01 18:14:35+00:00",
+                "description": "\u0394\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03bd\u03bf\u03bc\u03af\u03b6\u03b5\u03c4\u03b5, \u03b5\u03af\u03bc\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03c9.",
+                "id": 1345070043709759495,
+                "name": "\u0391\u03c0\u03cc \u03c7\u03c9\u03c1\u03b9\u03cc",
+                "public_metrics": {
+                    "followers_count": 800,
+                    "following_count": 1150,
+                    "listed_count": 0,
+                    "tweet_count": 28491
+                },
+                "username": "Rf5eNaXpdXDsGvq",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-01 08:25:51+00:00",
+                "description": "\u0395\u03ba\u03b4\u03cc\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 Realnews \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd https://t.co/XtRe5Wo6RX \u03ba\u03b1\u03b9 https://t.co/BvCTDucu0a",
+                "id": 327267369,
+                "name": "Nikos Chatzinikolaou",
+                "public_metrics": {
+                    "followers_count": 629510,
+                    "following_count": 37817,
+                    "listed_count": 1537,
+                    "tweet_count": 395949
+                },
+                "username": "NChatzinikolaou",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-31 17:27:15+00:00",
+                "description": "",
+                "id": 826481985539407877,
+                "name": "Eleni Filippidou",
+                "public_metrics": {
+                    "followers_count": 183,
+                    "following_count": 34,
+                    "listed_count": 2,
+                    "tweet_count": 27718
+                },
+                "username": "FilippidouEleni",
+                "verified": false
+            },
+            {
+                "created_at": "2019-05-02 12:24:57+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\u03c2 \u03bf \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac, \u03c4\u03bf \u03bb\u03b9\u03bc\u03ac\u03bd\u03b9 \u03bc\u03b1\u03c2, \u03b7 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd!",
+                "id": 1123926348043567105,
+                "name": "Nikos. Iptamenos",
+                "public_metrics": {
+                    "followers_count": 326,
+                    "following_count": 393,
+                    "listed_count": 2,
+                    "tweet_count": 16700
+                },
+                "username": "NIptamenos",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-09 16:56:19+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2, \u03a3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2, \u0395\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03af\u03b1\u03c2, \u03a0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03b1\u03c3\u03c4\u03ae\u03c2\n\nFacebook: theodosis zervoudakis vi & instagram   @tzervoudakis",
+                "id": 295773075,
+                "name": "\u0398\u03b5\u03bf\u03b4\u03cc\u03c3\u03b7\u03c2\u00a0\u0396\u03b5\u03c1\u03b2\u03bf\u03c5\u03b4\u03ac\u03ba\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 65676,
+                    "following_count": 268,
+                    "listed_count": 20,
+                    "tweet_count": 50622
+                },
+                "username": "tzervoudakis",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-14 23:08:56+00:00",
+                "description": "",
+                "id": 1349855759794917383,
+                "name": "Giota Papapetrou",
+                "public_metrics": {
+                    "followers_count": 834,
+                    "following_count": 775,
+                    "listed_count": 3,
+                    "tweet_count": 22998
+                },
+                "username": "GiotaPapapetrou",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-02 16:09:40+00:00",
+                "description": "",
+                "id": 53105096,
+                "name": "George Pavlakis",
+                "public_metrics": {
+                    "followers_count": 469,
+                    "following_count": 320,
+                    "listed_count": 12,
+                    "tweet_count": 3925
+                },
+                "username": "georgepavlakis",
+                "verified": false
+            },
+            {
+                "created_at": "2009-08-31 07:48:35+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd \u0391\u039d\u03a4\u0399\u03a0\u03a1\u039f\u0395\u0394\u03a1\u039f\u03a3 \u03c4\u03b7\u03c2 \u039d\u0394 FB: https://t.co/AW4o08qslp Youtube: https://t.co/kAXwGJEl7f",
+                "id": 70340615,
+                "name": "\u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 275018,
+                    "following_count": 3892,
+                    "listed_count": 951,
+                    "tweet_count": 149000
+                },
+                "username": "AdonisGeorgiadi",
+                "verified": true
+            },
+            {
+                "created_at": "2010-02-08 14:42:08+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0392\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u0391 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u039d\u0394, \u0394\u03b9\u03ba\u03b7\u03b3\u03bf\u03c1\u03bf\u03c2 \u0394\u039d LLM",
+                "id": 112445908,
+                "name": "\u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 46986,
+                    "following_count": 5610,
+                    "listed_count": 307,
+                    "tweet_count": 14119
+                },
+                "username": "thanosplevris",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-24 20:09:33+00:00",
+                "description": "Promoter, Producer, Presenter",
+                "id": 304607486,
+                "name": "\u0399\u03c9\u03c3\u03ae\u03c6 \u0391\u03b2\u03c1\u03ac\u03bc\u03bf\u03b3\u03bb\u03bf\u03c5\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 1461,
+                    "following_count": 1744,
+                    "listed_count": 0,
+                    "tweet_count": 94120
+                },
+                "username": "IosifAvramoglou",
+                "verified": false
+            },
+            {
+                "created_at": "2020-04-23 13:32:24+00:00",
+                "description": "(BSc, MSc, MBA, PhD cand.) You can fool everyone for a while, a few all the time, but not everyone all the time. Abraham Lincoln, 1809-1865, American President",
+                "id": 1253315738833747968,
+                "name": "Dimitrios Papakyriakou\u2764 \ud83c\uddec\ud83c\uddf7 \ud83c\udde8\ud83c\uddfe \ud83c\uddf5\ud83c\uddf1 \ud83c\uddea\ud83c\uddfa \ud83d\udd4a\ufe0f \ud83d\uddfd",
+                "public_metrics": {
+                    "followers_count": 35,
+                    "following_count": 126,
+                    "listed_count": 0,
+                    "tweet_count": 1782
+                },
+                "username": "DimitriosPapak2",
+                "verified": false
+            },
+            {
+                "created_at": "2017-05-11 11:39:31+00:00",
+                "description": "\u039a\u03cc\u03ba\u03ba\u03b9\u03bd\u03b7 \u039a\u03bb\u03c9\u03c3\u03c4\u03ae \u0395\u03c0\u03b9\u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c3\u03b7\u03c2 \u0395\u03bd\u03b4\u03c5\u03bc\u03ac\u03c4\u03c9\u03bd ....",
+                "id": 862633260958003200,
+                "name": "Filippidou Olga",
+                "public_metrics": {
+                    "followers_count": 4313,
+                    "following_count": 1979,
+                    "listed_count": 8,
+                    "tweet_count": 94555
+                },
+                "username": "FilippidouO",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-14 19:30:42+00:00",
+                "description": "no comment",
+                "id": 1371181908877533184,
+                "name": "\u039c\u03b1\u03c0\u03b5\u03c4 \u03a3\u03ce\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 220,
+                    "following_count": 754,
+                    "listed_count": 2,
+                    "tweet_count": 15037
+                },
+                "username": "5guyp2eevNQb09M",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-11 19:11:53+00:00",
+                "description": "Father of four \n\nI DREAM\u2192 I WANT\u2192 I CAN \u270c\n\n\u0391\u03ba\u03bf\u03bc\u03ac\u03c4\u03b9\u03c3\u03c4\u03bf\u03c2 - \u039c\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1.\n\n\u03a0\u03b9\u03bf \u03b5\u03cd\u03ba\u03bf\u03bb\u03bf \u03bd\u03b1 \u03b5\u03be\u03b1\u03c0\u03b1\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2 \u03c0\u03b1\u03c1\u03b1 \u03bd\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b5\u03af\u03c3\u03b5\u03b9\u03c2 \u03cc\u03c4\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03be\u03b1\u03c0\u03b1\u03c4\u03b7\u03b8\u03b5\u03af.",
+                "id": 389039338,
+                "name": "\ud835\udcd6\ud835\udcd4\ud835\udcde\ud835\udce1\ud835\udcd6\ud835\udcd4",
+                "public_metrics": {
+                    "followers_count": 478,
+                    "following_count": 441,
+                    "listed_count": 5,
+                    "tweet_count": 16215
+                },
+                "username": "geoklf1",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-31 16:32:18+00:00",
+                "description": "no party",
+                "id": 1223282705581907970,
+                "name": "ruud _reloaded",
+                "public_metrics": {
+                    "followers_count": 670,
+                    "following_count": 634,
+                    "listed_count": 1,
+                    "tweet_count": 31319
+                },
+                "username": "mspencer333",
+                "verified": false
+            },
+            {
+                "created_at": "2008-11-14 16:00:30+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf skai.gr",
+                "id": 17389650,
+                "name": "SKAI.gr",
+                "public_metrics": {
+                    "followers_count": 653454,
+                    "following_count": 54,
+                    "listed_count": 2473,
+                    "tweet_count": 360708
+                },
+                "username": "skaigr",
+                "verified": true
+            },
+            {
+                "created_at": "2010-09-02 14:05:36+00:00",
+                "description": "\u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7, \u03b1\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b5\u03c2 \u03bc\u03b5 \u03c4\u03bf \u03ba\u03cd\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae\u03c2.\nTwitter account of Greece's leading Newspaper, Kathimerini",
+                "id": 186060772,
+                "name": "\u0397 \u039a\u0391\u0398\u0397\u039c\u0395\u03a1\u0399\u039d\u0397",
+                "public_metrics": {
+                    "followers_count": 422589,
+                    "following_count": 434,
+                    "listed_count": 1970,
+                    "tweet_count": 396073
+                },
+                "username": "Kathimerini_gr",
+                "verified": true
+            },
+            {
+                "created_at": "2011-07-05 08:38:48+00:00",
+                "description": "Journalist and occasionally ...elephant trainer, Traveller, dreamer and big spender. Two sons, one wife / https://t.co/3r8IaXDByM https://t.co/9eYt2bWqvg Instagram  serafeim kotrotsos",
+                "id": 329561922,
+                "name": "Kotrotsos Serafeim",
+                "public_metrics": {
+                    "followers_count": 45344,
+                    "following_count": 4473,
+                    "listed_count": 308,
+                    "tweet_count": 146228
+                },
+                "username": "serkot65",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-21 12:19:34+00:00",
+                "description": "The official twitter account of zougla.gr!",
+                "id": 76015405,
+                "name": "zougla.gr",
+                "public_metrics": {
+                    "followers_count": 55182,
+                    "following_count": 1014,
+                    "listed_count": 413,
+                    "tweet_count": 347088
+                },
+                "username": "zougla_online",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-28 10:50:45+00:00",
+                "description": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03b9 \u03bd\u03ad\u03b1 \u03bc\u03b5 \u03ac\u03c0\u03bf\u03c8\u03b7 \nhttps://t.co/ZFPBVnbU2T https://t.co/rE3DZ9O6Bd",
+                "id": 258729654,
+                "name": "iefimerida",
+                "public_metrics": {
+                    "followers_count": 141243,
+                    "following_count": 4043,
+                    "listed_count": 943,
+                    "tweet_count": 512828
+                },
+                "username": "iefimerida",
+                "verified": false
+            },
+            {
+                "created_at": "2010-04-10 13:14:30+00:00",
+                "description": "E\u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b9\u03b1\u03af\u03b1 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae- \u03a3\u03b1\u03c4\u03b9\u03c1\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 A\u03c0\u03bf\u03ba\u03b1\u03bb\u03c5\u03c0\u03c4\u03b9\u03ba\u03ae \u03b5\u03c6\u03b7\u03bc\u03b5\u03c1\u03af\u03b4\u03b1. (\u0391\u03c0\u03cc \u03c4\u03bf...1979, \u03b5;)",
+                "id": 131500587,
+                "name": "\u03a4\u039f \u03a0\u039f\u039d\u03a4\u0399\u039a\u0399",
+                "public_metrics": {
+                    "followers_count": 125483,
+                    "following_count": 197,
+                    "listed_count": 891,
+                    "tweet_count": 318881
+                },
+                "username": "TOPONTIKI",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-08 10:48:38+00:00",
+                "description": "\u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b1\u03c0\u03cc \u00abTA NEA\u00bb",
+                "id": 23296450,
+                "name": "TA NEA",
+                "public_metrics": {
+                    "followers_count": 174439,
+                    "following_count": 240,
+                    "listed_count": 1102,
+                    "tweet_count": 184453
+                },
+                "username": "ta_nea",
+                "verified": false
+            },
+            {
+                "created_at": "2007-10-23 15:02:45+00:00",
+                "description": "Welcome to the U.S. Department of State Twitter account. Follow @SecBlinken for more from the Secretary. For all Department accounts: https://t.co/kzsNMIOwF9.",
+                "id": 9624742,
+                "name": "Department of State",
+                "public_metrics": {
+                    "followers_count": 6201548,
+                    "following_count": 222,
+                    "listed_count": 23138,
+                    "tweet_count": 72006
+                },
+                "username": "StateDept",
+                "verified": true
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 410191217,
+            "conversation_id": 1455657134348193796,
+            "created_at": "2021-11-02 22:04:40+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 241,
+                        "id": "373909732",
+                        "start": 231,
+                        "username": "enikos_gr"
+                    },
+                    {
+                        "end": 253,
+                        "id": "25584888",
+                        "start": 242,
+                        "username": "protothema"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bmj.com/content/375/bm\u2026",
+                        "end": 278,
+                        "expanded_url": "https://www.bmj.com/content/375/bmj.n2635",
+                        "start": 255,
+                        "url": "https://t.co/2fTgD03lqy"
+                    }
+                ]
+            },
+            "id": 1455657134348193796,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03b9\u03bf\u03b4\u03cc\u03c4\u03b7\u03c2 \u03c0\u03b1\u03c1\u03ad\u03b4\u03c9\u03c3\u03b5 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c0\u03b1\u03c1\u03b1\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd, \u03b5\u03bb\u03b5\u03b3\u03c7\u03cc\u03bc\u03b5\u03bd\u03c9\u03bd \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 \u03c7\u03c1\u03bf\u03bd\u03bf\u03c4\u03c1\u03b9\u03b2\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03cd\u03b8\u03b7\u03c3\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03ae \u03b1\u03bd\u03b5\u03c0\u03b9\u03b8\u03cd\u03bc\u03b7\u03c4\u03c9\u03bd \u03c0\u03b1\u03c1\u03b5\u03bd\u03b5\u03c1\u03b3\u03b5\u03b9\u03ce\u03bd \u03c3\u03c4\u03bf\u03bd FDA \u03c3\u03c4\u03b7 \u03b2\u03b1\u03c3\u03b9\u03ba\u03ae \u03b4\u03bf\u03ba\u03b9\u03bc\u03ae \u03c6\u03ac\u03c3\u03b7\u03c2 3 \u03c4\u03b7\u03c2 Pfizer \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf mRNA \u03c4\u03bf\u03c5 Covid.\n@enikos_gr @protothema \nhttps://t.co/2fTgD03lqy"
+        },
+        {
+            "author_id": 2275849495,
+            "conversation_id": 1455597535586832389,
+            "created_at": "2021-11-02 18:07:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 88,
+                        "url": "https://t.co/7NUMT2VLC1"
+                    }
+                ]
+            },
+            "id": 1455597535586832389,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 https://t.co/7NUMT2VLC1"
+        },
+        {
+            "author_id": 493453810,
+            "conversation_id": 1455503545076158468,
+            "created_at": "2021-11-02 11:54:21+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "425195640",
+                        "start": 3,
+                        "username": "LuckyColibri"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 18,
+                        "url": "https://t.co/EGQ685KuKa"
+                    }
+                ]
+            },
+            "id": 1455503545076158468,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455502323220951047 type=retweeted"
+            ],
+            "text": "RT @LuckyColibri: https://t.co/EGQ685KuKa"
+        },
+        {
+            "author_id": 425195640,
+            "conversation_id": 1455502323220951047,
+            "created_at": "2021-11-02 11:49:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 0,
+                        "url": "https://t.co/EGQ685KuKa"
+                    }
+                ]
+            },
+            "id": 1455502323220951047,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "https://t.co/EGQ685KuKa"
+        },
+        {
+            "author_id": 1345070043709759495,
+            "conversation_id": 1455499397605822467,
+            "created_at": "2021-11-02 11:37:52+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 0,
+                        "url": "https://t.co/2mcuyLlIHM"
+                    }
+                ]
+            },
+            "id": 1455499397605822467,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "https://t.co/2mcuyLlIHM"
+        },
+        {
+            "author_id": 327267369,
+            "conversation_id": 1455493303336583175,
+            "created_at": "2021-11-02 11:13:39+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 82,
+                        "url": "https://t.co/5seo9Z7fG0"
+                    }
+                ]
+            },
+            "id": 1455493303336583175,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455487713243770884 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5\nhttps://t.co/5seo9Z7fG0"
+        },
+        {
+            "author_id": 826481985539407877,
+            "conversation_id": 1455491605234913287,
+            "created_at": "2021-11-02 11:06:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 82,
+                        "url": "https://t.co/5seo9Z7fG0"
+                    }
+                ]
+            },
+            "id": 1455491605234913287,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455487713243770884 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5\nhttps://t.co/5seo9Z7fG0"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1455487713243770884,
+            "created_at": "2021-11-02 10:51:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/larisa\u2026",
+                        "end": 90,
+                        "expanded_url": "https://www.enikos.gr/society/larisa-katerrefse-o-diefthyntis-tis-klinikis-covid-tou-nosokomeiou/1700139/",
+                        "start": 67,
+                        "url": "https://t.co/5seo9Z7fG0"
+                    }
+                ]
+            },
+            "id": 1455487713243770884,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 COVID \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5\nhttps://t.co/5seo9Z7fG0"
+        },
+        {
+            "author_id": 327267369,
+            "conversation_id": 1455417993475809282,
+            "created_at": "2021-11-02 06:14:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/international/\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.enikos.gr/international/koronoios-pente-ekatommyria-nekroi-exaitias-tis-covid-19-i-katastasi-diaferei-kata-ipeiro/1699894/",
+                        "start": 108,
+                        "url": "https://t.co/5OaUbveP2y"
+                    }
+                ]
+            },
+            "id": 1455417993475809282,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455327169891250178 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 COVID-19 \u2013 \u0397 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03ba\u03b1\u03c4\u03ac \u03ae\u03c0\u03b5\u03b9\u03c1\u03bf\nhttps://t.co/5OaUbveP2y"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1455327169891250178,
+            "created_at": "2021-11-02 00:13:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/international/\u2026",
+                        "end": 116,
+                        "expanded_url": "https://www.enikos.gr/international/koronoios-pente-ekatommyria-nekroi-exaitias-tis-covid-19-i-katastasi-diaferei-kata-ipeiro/1699894/",
+                        "start": 93,
+                        "url": "https://t.co/5OaUbveP2y"
+                    }
+                ]
+            },
+            "id": 1455327169891250178,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03ad\u03bd\u03c4\u03b5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 COVID-19 \u2013 \u0397 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b4\u03b9\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03ba\u03b1\u03c4\u03ac \u03ae\u03c0\u03b5\u03b9\u03c1\u03bf\nhttps://t.co/5OaUbveP2y"
+        },
+        {
+            "author_id": 1123926348043567105,
+            "conversation_id": 1454484259956314119,
+            "created_at": "2021-10-30 16:24:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454484259956314119,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454367135426306061 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R\u2026"
+        },
+        {
+            "author_id": 295773075,
+            "conversation_id": 1454483196410793985,
+            "created_at": "2021-10-30 16:19:51+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454483196410793985,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454367135426306061 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R\u2026"
+        },
+        {
+            "author_id": 327267369,
+            "conversation_id": 1454482184136495115,
+            "created_at": "2021-10-30 16:15:50+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454482184136495115,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454367135426306061 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R\u2026"
+        },
+        {
+            "author_id": 1349855759794917383,
+            "conversation_id": 1454391413580369920,
+            "created_at": "2021-10-30 10:15:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454391413580369920,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454367135426306061 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R\u2026"
+        },
+        {
+            "author_id": 410191217,
+            "conversation_id": 1454356831644659715,
+            "created_at": "2021-10-30 08:51:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "53105096",
+                        "start": 0,
+                        "username": "georgepavlakis"
+                    },
+                    {
+                        "end": 257,
+                        "id": "70340615",
+                        "start": 241,
+                        "username": "AdonisGeorgiadi"
+                    },
+                    {
+                        "end": 272,
+                        "id": "112445908",
+                        "start": 258,
+                        "username": "thanosplevris"
+                    },
+                    {
+                        "end": 283,
+                        "id": "373909732",
+                        "start": 273,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454370316239708166,
+            "in_reply_to_user_id": 53105096,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454356831644659715 type=replied_to"
+            ],
+            "text": "@georgepavlakis \u03a3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2, \u039a\u0395\u039d\u039f \u0393\u03a1\u0391\u039c\u039c\u0391 \u03b7 \u201cCovid-free\u201d \u03c3\u03ae\u03bc\u03b1\u03bd\u03c3\u03b7 \u03c3\u03b5 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03bf \u03b9\u03cc\u03c2 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03b5\u03af \u0395\u039b\u0395\u03a5\u0398\u0395\u03a1\u0391\u03a3, \u03b4\u03af\u03c7\u03c9\u03c2 \u039a\u0391\u039d\u0395\u0399\u03a3 \u03bd\u03b1 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9 \u03c0\u03cc\u03c3\u03bf\u03b9 \u03b5\u03ba \u03c4\u03c9\u03bd \u201cCovid-free\u201d \u03ba\u03b1\u03c4\u03cc\u03c7\u03c9\u03bd \u03b4\u03b9\u03b1\u03c3\u03c0\u03b5\u03af\u03c1\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03af\u03c9\u03c3\u03b7 \u03b1\u03c0\u03bb\u03ac \u03bc\u03b5 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03b1\u03c4\u03b9\u03bc\u03c9\u03c1\u03b7\u03c3\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1 \u03c7\u03b5\u03af\u03c1\u03b1\u03c2...\n@AdonisGeorgiadi @thanosplevris @enikos_gr"
+        },
+        {
+            "author_id": 304607486,
+            "conversation_id": 1454367310517522441,
+            "created_at": "2021-10-30 08:39:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1454367310517522441,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454367135426306061 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R\u2026"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1454367135426306061,
+            "created_at": "2021-10-30 08:38:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/emvoli\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.enikos.gr/society/emvolia-i-triti-dosi-tou-pfizer-biontech-meionei-simantika-ton-kindyno-nosileias-i-varias-covid/1698692/",
+                        "start": 103,
+                        "url": "https://t.co/5GCvmL2R0R"
+                    }
+                ]
+            },
+            "id": 1454367135426306061,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ae \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 COVID \u2013 \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1\nhttps://t.co/5GCvmL2R0R"
+        },
+        {
+            "author_id": 327267369,
+            "conversation_id": 1453958368423333895,
+            "created_at": "2021-10-29 05:34:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/international/\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.enikos.gr/international/vretania-i-oikonomia-navagei-logo-brexit-ochi-covid-19-symfona-me-to-obr/1697733/",
+                        "start": 83,
+                        "url": "https://t.co/FQEW8WywFT"
+                    }
+                ]
+            },
+            "id": 1453958368423333895,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453909686013542404 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u201c\u0397 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u201c\u03bd\u03b1\u03c5\u03b1\u03b3\u03b5\u03af\u201d \u03bb\u03cc\u03b3\u03c9 Brexit \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bb\u03cc\u03b3\u03c9 COVID-19\u2033\nhttps://t.co/FQEW8WywFT"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1453909686013542404,
+            "created_at": "2021-10-29 02:20:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/international/\u2026",
+                        "end": 91,
+                        "expanded_url": "https://www.enikos.gr/international/vretania-i-oikonomia-navagei-logo-brexit-ochi-covid-19-symfona-me-to-obr/1697733/",
+                        "start": 68,
+                        "url": "https://t.co/FQEW8WywFT"
+                    }
+                ]
+            },
+            "id": 1453909686013542404,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u201c\u0397 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1 \u201c\u03bd\u03b1\u03c5\u03b1\u03b3\u03b5\u03af\u201d \u03bb\u03cc\u03b3\u03c9 Brexit \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bb\u03cc\u03b3\u03c9 COVID-19\u2033\nhttps://t.co/FQEW8WywFT"
+        },
+        {
+            "author_id": 1253315738833747968,
+            "conversation_id": 1453630150713741313,
+            "created_at": "2021-10-28 07:50:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "410191217",
+                        "start": 3,
+                        "username": "NikosNoulezas"
+                    }
+                ]
+            },
+            "id": 1453630150713741313,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453267251264643077 type=retweeted"
+            ],
+            "text": "RT @NikosNoulezas: \u039f\u03b9 \u0397\u03a0\u0391 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bd \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd COVID-19 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2. \u0386\u03bb\u03bb\u03bf \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u2026"
+        },
+        {
+            "author_id": 327267369,
+            "conversation_id": 1453617200607211520,
+            "created_at": "2021-10-28 06:58:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/i-pach\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.enikos.gr/society/i-pachysarkia-epireazei-arnitika-akomi-kai-tous-astheneis-me-ipia-covid-19/1697424/",
+                        "start": 88,
+                        "url": "https://t.co/ouKRTo7ugZ"
+                    }
+                ]
+            },
+            "id": 1453617200607211520,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453610488772927488 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0397 \u03c0\u03b1\u03c7\u03c5\u03c3\u03b1\u03c1\u03ba\u03af\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ae\u03c0\u03b9\u03b1 COVID-19 https://t.co/ouKRTo7ugZ"
+        },
+        {
+            "author_id": 862633260958003200,
+            "conversation_id": 1453611022971965443,
+            "created_at": "2021-10-28 06:34:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/i-pach\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.enikos.gr/society/i-pachysarkia-epireazei-arnitika-akomi-kai-tous-astheneis-me-ipia-covid-19/1697424/",
+                        "start": 88,
+                        "url": "https://t.co/ouKRTo7ugZ"
+                    }
+                ]
+            },
+            "id": 1453611022971965443,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453610488772927488 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u0397 \u03c0\u03b1\u03c7\u03c5\u03c3\u03b1\u03c1\u03ba\u03af\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ae\u03c0\u03b9\u03b1 COVID-19 https://t.co/ouKRTo7ugZ"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1453610488772927488,
+            "created_at": "2021-10-28 06:32:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/i-pach\u2026",
+                        "end": 96,
+                        "expanded_url": "https://www.enikos.gr/society/i-pachysarkia-epireazei-arnitika-akomi-kai-tous-astheneis-me-ipia-covid-19/1697424/",
+                        "start": 73,
+                        "url": "https://t.co/ouKRTo7ugZ"
+                    }
+                ]
+            },
+            "id": 1453610488772927488,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0397 \u03c0\u03b1\u03c7\u03c5\u03c3\u03b1\u03c1\u03ba\u03af\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ae\u03c0\u03b9\u03b1 COVID-19 https://t.co/ouKRTo7ugZ"
+        },
+        {
+            "author_id": 1371181908877533184,
+            "conversation_id": 1453377726585446414,
+            "created_at": "2021-10-27 15:11:16+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "373909732",
+                        "start": 0,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1453378772586074121,
+            "in_reply_to_user_id": 373909732,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453377726585446414 type=replied_to"
+            ],
+            "text": "@enikos_gr \u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1 \u03c3\u03b5 \u03b1\u03c0\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03c2 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 ,\u03bc\u03b9\u03b1\u03c2 \u03b3\u03b5\u03bc\u03ac\u03c4\u03b7\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc free covid ,\u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bf\u03c0\u03bf\u03af\u03bf\u03c2 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ae\u03c3\u03b5\u03b9 \u03b1\u03c0\u03bf \u03ad\u03bd\u03b1 \u03c4\u03bf \u03c0\u03bf\u03bb\u03cd \u03b4\u03cd\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1, \u03cc\u03bc\u03c9\u03c2 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03b5\u03ba\u03c4\u03b5\u03bb\u03b5\u03af \u03c0\u03ac\u03bd\u03c4\u03b1 \u03c4\u03bf \u03c3\u03c7\u03ad\u03b4\u03b9\u03bf \u03c4\u03bf\u03c5....\u03bc\u03b5 \u03c4\u03bf \u03b6\u03cc\u03c1\u03b9 \u03b8\u03b1 \u03c4\u03bf \u03b4\u03b5\u03af\u03c4\u03b5 \u03cc\u03bb\u03bf\u03b9 ,\u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03b4\u03b5\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 !\ud83d\ude21"
+        },
+        {
+            "author_id": 1371181908877533184,
+            "conversation_id": 1453374241039126528,
+            "created_at": "2021-10-27 14:56:15+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "373909732",
+                        "start": 0,
+                        "username": "enikos_gr"
+                    }
+                ]
+            },
+            "id": 1453374991588896774,
+            "in_reply_to_user_id": 373909732,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453374241039126528 type=replied_to"
+            ],
+            "text": "@enikos_gr \u038c\u03bb\u03b1 \u03c4\u03b1 \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1 \u03c3\u03b5 \u03b1\u03c0\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03c2 \u03bc\u03b5\u03c4\u03ac\u03b4\u03bf\u03c3\u03b7 ,\u03bc\u03b9\u03b1\u03c2 \u03b3\u03b5\u03bc\u03ac\u03c4\u03b7\u03c2 \u03b5\u03ba\u03ba\u03bb\u03b7\u03c3\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc free covid ,\u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bf\u03c0\u03bf\u03af\u03bf\u03c2 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03ae\u03c3\u03b5\u03b9 \u03b1\u03c0\u03bf \u03ad\u03bd\u03b1 \u03c4\u03bf \u03c0\u03bf\u03bb\u03cd \u03b4\u03cd\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9\u03b1, \u03cc\u03bc\u03c9\u03c2 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03b5\u03ba\u03c4\u03b5\u03bb\u03b5\u03af \u03c0\u03ac\u03bd\u03c4\u03b1 \u03c4\u03bf \u03c3\u03c7\u03ad\u03b4\u03b9\u03bf \u03c4\u03bf\u03c5....\u03bc\u03b5 \u03c4\u03bf \u03b6\u03cc\u03c1\u03b9 \u03b8\u03b1 \u03c4\u03bf \u03b4\u03b5\u03af\u03c4\u03b5 \u03cc\u03bb\u03bf\u03b9 ,\u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03b4\u03b5\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 !\ud83d\ude21"
+        },
+        {
+            "author_id": 389039338,
+            "conversation_id": 1453272833522638853,
+            "created_at": "2021-10-27 08:10:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "410191217",
+                        "start": 3,
+                        "username": "NikosNoulezas"
+                    }
+                ]
+            },
+            "id": 1453272833522638853,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453267251264643077 type=retweeted"
+            ],
+            "text": "RT @NikosNoulezas: \u039f\u03b9 \u0397\u03a0\u0391 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bd \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd COVID-19 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2. \u0386\u03bb\u03bb\u03bf \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u2026"
+        },
+        {
+            "author_id": 1223282705581907970,
+            "conversation_id": 1453268793648635922,
+            "created_at": "2021-10-27 07:54:15+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "410191217",
+                        "start": 3,
+                        "username": "NikosNoulezas"
+                    }
+                ]
+            },
+            "id": 1453268793648635922,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453267251264643077 type=retweeted"
+            ],
+            "text": "RT @NikosNoulezas: \u039f\u03b9 \u0397\u03a0\u0391 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bd \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd COVID-19 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2. \u0386\u03bb\u03bb\u03bf \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u2026"
+        },
+        {
+            "author_id": 410191217,
+            "conversation_id": 1453267251264643077,
+            "created_at": "2021-10-27 07:48:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 184,
+                        "id": "373909732",
+                        "start": 174,
+                        "username": "enikos_gr"
+                    },
+                    {
+                        "end": 192,
+                        "id": "17389650",
+                        "start": 185,
+                        "username": "skaigr"
+                    },
+                    {
+                        "end": 204,
+                        "id": "25584888",
+                        "start": 193,
+                        "username": "protothema"
+                    },
+                    {
+                        "end": 220,
+                        "id": "186060772",
+                        "start": 205,
+                        "username": "Kathimerini_gr"
+                    },
+                    {
+                        "end": 230,
+                        "id": "329561922",
+                        "start": 221,
+                        "username": "serkot65"
+                    },
+                    {
+                        "end": 245,
+                        "id": "76015405",
+                        "start": 231,
+                        "username": "zougla_online"
+                    },
+                    {
+                        "end": 257,
+                        "id": "258729654",
+                        "start": 246,
+                        "username": "iefimerida"
+                    },
+                    {
+                        "end": 268,
+                        "id": "131500587",
+                        "start": 258,
+                        "username": "TOPONTIKI"
+                    },
+                    {
+                        "end": 276,
+                        "id": "23296450",
+                        "start": 269,
+                        "username": "ta_nea"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "twitter.com/StateDept/stat\u2026",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/StateDept/status/1452749308663504897",
+                        "start": 277,
+                        "url": "https://t.co/QL7OAGl4sf"
+                    }
+                ]
+            },
+            "id": 1453267251264643077,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1452749308663504897 type=quoted"
+            ],
+            "text": "\u039f\u03b9 \u0397\u03a0\u0391 \u03b1\u03c0\u03b1\u03b9\u03c4\u03bf\u03cd\u03bd \u03c0\u03c1\u03b9\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03c3\u03bf\u03b4\u03bf \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd COVID-19 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03c5\u03c2. \u0386\u03bb\u03bb\u03bf \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 (\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf) \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b7 \u03bc\u03cc\u03bb\u03c5\u03bd\u03c3\u03b7, \u03c4\u03bf \u03be\u03b5\u03ba\u03ac\u03b8\u03b1\u03c1\u03bf \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1..\n@enikos_gr @skaigr @protothema @Kathimerini_gr @serkot65 @zougla_online @iefimerida @TOPONTIKI @ta_nea https://t.co/QL7OAGl4sf"
+        }
+    ]
+}

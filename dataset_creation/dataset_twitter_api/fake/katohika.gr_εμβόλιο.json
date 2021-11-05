@@ -1,0 +1,789 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1323402274547314688,
+                "conversation_id": 1454841241485598721,
+                "created_at": "2021-10-31 16:02:36+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 20,
+                            "start": 11,
+                            "tag": "Covid_19"
+                        },
+                        {
+                            "end": 41,
+                            "start": 21,
+                            "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                        },
+                        {
+                            "end": 55,
+                            "start": 42,
+                            "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                        },
+                        {
+                            "end": 70,
+                            "start": 56,
+                            "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                        },
+                        {
+                            "end": 77,
+                            "start": 71,
+                            "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                        },
+                        {
+                            "end": 92,
+                            "start": 78,
+                            "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                        },
+                        {
+                            "end": 101,
+                            "start": 93,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 116,
+                            "start": 102,
+                            "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 241,
+                            "id": "1577908854",
+                            "start": 235,
+                            "username": "wpvkp"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                            "display_url": "katohika.gr/diethni/michae\u2026",
+                            "end": 218,
+                            "expanded_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                            "images": [
+                                {
+                                    "height": 450,
+                                    "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=orig",
+                                    "width": 940
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 195,
+                            "status": 200,
+                            "title": "Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                            "unwound_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                            "url": "https://t.co/kd02ZDtd8a"
+                        }
+                    ]
+                },
+                "id": 1454841241485598721,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . https://t.co/kd02ZDtd8a \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 @wpvkp \u039c\u0391\u03a3 \u0391\u03a6\u039f\u03a1\u0386.."
+            },
+            {
+                "author_id": 165765064,
+                "conversation_id": 1453847717432733700,
+                "created_at": "2021-10-28 22:14:41+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 133,
+                            "id": "1577908854",
+                            "start": 127,
+                            "username": "wpvkp"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03c1\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03c9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03b1\u03af\u03bc\u03b1",
+                            "display_url": "katohika.gr/diethni/ola-af\u2026",
+                            "end": 122,
+                            "expanded_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                            "images": [
+                                {
+                                    "height": 466,
+                                    "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=orig",
+                                    "width": 834
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 99,
+                            "status": 200,
+                            "title": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                            "unwound_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                            "url": "https://t.co/pzVQikNNiN"
+                        }
+                    ]
+                },
+                "id": 1453847717432733700,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/pzVQikNNiN via @wpvkp"
+            },
+            {
+                "author_id": 4807381340,
+                "conversation_id": 1453760024921190402,
+                "created_at": "2021-10-28 16:26:14+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03c1\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03c9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03b1\u03af\u03bc\u03b1",
+                            "display_url": "katohika.gr/diethni/ola-af\u2026",
+                            "end": 136,
+                            "expanded_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                            "images": [
+                                {
+                                    "height": 466,
+                                    "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=orig",
+                                    "width": 834
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 113,
+                            "status": 200,
+                            "title": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                            "unwound_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                            "url": "https://t.co/lCsXOv98eB"
+                        }
+                    ]
+                },
+                "id": 1453760024921190402,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1 https://t.co/lCsXOv98eB \u03ba\u03bf\u03b9\u03bd\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c3\u03c5\u03bd\u03b4\u03ad\u03c3\u03bc\u03bf\u03c5 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03b1\u03c6\u03bf\u03c1\u03ac \u03cc\u03bb\u03bf\u03c5\u03c2 \u03bc\u03b1\u03c2 \u03ba \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf \u03b1\u03af\u03bc\u03b1 \u03c3\u03ac\u03c2 \u03bc\u03b5 \u03c4\u03bf\ud83d\udc89\ud83d\udc89\ud83d\udc89\ud83d\udc89"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-08-06 21:56:38+00:00",
+                "description": "",
+                "id": 1423764937399230474,
+                "name": "IONASX21",
+                "public_metrics": {
+                    "followers_count": 260,
+                    "following_count": 447,
+                    "listed_count": 0,
+                    "tweet_count": 4242
+                },
+                "username": "ionasx21",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-02 23:11:40+00:00",
+                "description": "life is good only if there is life.. \ud83d\udcad\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f\ud83d\udd8b\ufe0f\ud83c\uddec\ud83c\uddf7",
+                "id": 1323402274547314688,
+                "name": "@erena.k\ud83c\uddec\ud83c\uddf7\u26ea",
+                "public_metrics": {
+                    "followers_count": 36,
+                    "following_count": 58,
+                    "listed_count": 0,
+                    "tweet_count": 804
+                },
+                "username": "_erena85",
+                "verified": false
+            },
+            {
+                "created_at": "2013-07-08 15:25:24+00:00",
+                "description": "You can find me at http://t.co/5JvNVUQqbm",
+                "id": 1577908854,
+                "name": "Wordpress Tuts",
+                "public_metrics": {
+                    "followers_count": 237,
+                    "following_count": 67,
+                    "listed_count": 3,
+                    "tweet_count": 154
+                },
+                "username": "wpvkp",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-10 20:40:31+00:00",
+                "description": "",
+                "id": 3369761339,
+                "name": "kolin linko",
+                "public_metrics": {
+                    "followers_count": 579,
+                    "following_count": 695,
+                    "listed_count": 2,
+                    "tweet_count": 10831
+                },
+                "username": "kolinlinko1",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-12 13:46:30+00:00",
+                "description": "",
+                "id": 165765064,
+                "name": "this time from me",
+                "public_metrics": {
+                    "followers_count": 2751,
+                    "following_count": 3861,
+                    "listed_count": 12,
+                    "tweet_count": 41778
+                },
+                "username": "thistimefromme",
+                "verified": false
+            },
+            {
+                "created_at": "2014-12-20 20:59:27+00:00",
+                "description": "\u271d\ufe0f\u2626\ufe0f\u262e\ufe0f Grecque, naturalis\u00e9e fran\u00e7aise, fi\u00e8re de mes origines DEA(M2)PsychologieLYON2, humaniste, \u00e9cologiste. \nex-LR, #RN, suivie par @MLP_officiel\ud83d\ude18\ud83d\udc9f",
+                "id": 2934175713,
+                "name": "Nausica deGr\u00e8ce \u039d\u03b1\u03c5\u03c3\u03b9\u03ba\u03ac \u0395\u03bb\u03bb\u03ac\u03c2 #TeamPatriotesLibres",
+                "public_metrics": {
+                    "followers_count": 10938,
+                    "following_count": 4831,
+                    "listed_count": 169,
+                    "tweet_count": 481094
+                },
+                "username": "nausicalibre",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-23 14:42:22+00:00",
+                "description": "Don't get vaccinated with the Evil vaccines and don't accept any rapid test or self test enter into your nose or your mouth !!! You decide for your health !!!",
+                "id": 616247952,
+                "name": "Chris Vanakliotis A'",
+                "public_metrics": {
+                    "followers_count": 1330,
+                    "following_count": 3493,
+                    "listed_count": 6,
+                    "tweet_count": 35531
+                },
+                "username": "ChrisVanaklioti",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-26 18:08:54+00:00",
+                "description": "",
+                "id": 422023154,
+                "name": "\u03a3\u0391\u039a\u0397\u03a3 \u03a7",
+                "public_metrics": {
+                    "followers_count": 351,
+                    "following_count": 670,
+                    "listed_count": 0,
+                    "tweet_count": 8124
+                },
+                "username": "chalkiasathanas",
+                "verified": false
+            },
+            {
+                "created_at": "2012-11-16 20:50:01+00:00",
+                "description": "",
+                "id": 952384224,
+                "name": "MANOS AR",
+                "public_metrics": {
+                    "followers_count": 1370,
+                    "following_count": 366,
+                    "listed_count": 4,
+                    "tweet_count": 391263
+                },
+                "username": "manos_1959",
+                "verified": false
+            },
+            {
+                "created_at": "2016-01-24 11:38:55+00:00",
+                "description": "\u03a4\u03ae \u03a5\u03c0\u03b5\u03c1\u03bc\u03ac\u03c7\u03c9 \u03a3\u03c4\u03c1\u03b1\u03c4\u03b7\u03b3\u03ce\u03bd \u03c4\u03ac \u03bd\u03b9\u03ba\u03b7\u03c4\u03ae\u03c1\u03b9\u03b1 \u03c9\u03c2 \u03bb\u03c5\u03c4\u03c1\u03c9\u03b8\u03b5\u03af\u03c3\u03b1 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b9\u03bd\u03ce\u03bd \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03ae\u03c1\u03b9\u03b1 \u03b1\u03bd\u03b1\u03b3\u03c1\u03b1\u03c6\u03ce \u03c3\u03bf\u03b9 \u03ae \u03c0\u03cc\u03bb\u03b9\u03c2 \u03c3\u03bf\u03c5,\u0398\u03b5\u03bf\u03c4\u03cc\u03ba\u03b5.\u0391\u03bb\u03bb'\u03ce\u03c2 \u03ad\u03c7\u03bf\u03c5\u03c3\u03b1 \u03c4\u03cc.. \u03af\u03bd\u03b1 \u03ba\u03c1\u03b1\u03be\u03c9 \u03c3\u03cc\u03b9.\u03a7\u03b1\u03af\u03c1\u03b5 \u039d\u03cd\u03bc\u03c6\u03b7 \u03ac\u03bd\u03cd\u03bc\u03c6\u03b5\u03c5\u03c4\u03b5",
+                "id": 4807381340,
+                "name": "@giannis_sty",
+                "public_metrics": {
+                    "followers_count": 330,
+                    "following_count": 471,
+                    "listed_count": 2,
+                    "tweet_count": 15319
+                },
+                "username": "giannis_sty",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1423764937399230474,
+            "conversation_id": 1455037148378374149,
+            "created_at": "2021-11-01 05:01:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 14,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 34,
+                        "start": 25,
+                        "tag": "Covid_19"
+                    },
+                    {
+                        "end": 55,
+                        "start": 35,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                    },
+                    {
+                        "end": 69,
+                        "start": 56,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    },
+                    {
+                        "end": 84,
+                        "start": 70,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                    },
+                    {
+                        "end": 91,
+                        "start": 85,
+                        "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                    },
+                    {
+                        "end": 106,
+                        "start": 92,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 115,
+                        "start": 107,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 130,
+                        "start": 116,
+                        "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1323402274547314688",
+                        "start": 3,
+                        "username": "_erena85"
+                    }
+                ]
+            },
+            "id": 1455037148378374149,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454841241485598721 type=retweeted"
+            ],
+            "text": "RT @_erena85: #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael\u2026"
+        },
+        {
+            "author_id": 1323402274547314688,
+            "conversation_id": 1454841241485598721,
+            "created_at": "2021-10-31 16:02:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 20,
+                        "start": 11,
+                        "tag": "Covid_19"
+                    },
+                    {
+                        "end": 41,
+                        "start": 21,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                    },
+                    {
+                        "end": 55,
+                        "start": 42,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    },
+                    {
+                        "end": 70,
+                        "start": 56,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                    },
+                    {
+                        "end": 92,
+                        "start": 78,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 116,
+                        "start": 102,
+                        "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 241,
+                        "id": "1577908854",
+                        "start": 235,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                        "display_url": "katohika.gr/diethni/michae\u2026",
+                        "end": 218,
+                        "expanded_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                        "images": [
+                            {
+                                "height": 450,
+                                "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=orig",
+                                "width": 940
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 195,
+                        "status": 200,
+                        "title": "Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                        "url": "https://t.co/kd02ZDtd8a"
+                    }
+                ]
+            },
+            "id": 1454841241485598721,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . https://t.co/kd02ZDtd8a \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 @wpvkp \u039c\u0391\u03a3 \u0391\u03a6\u039f\u03a1\u0386.."
+        },
+        {
+            "author_id": 3369761339,
+            "conversation_id": 1454000804302569476,
+            "created_at": "2021-10-29 08:23:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "165765064",
+                        "start": 3,
+                        "username": "thistimefromme"
+                    }
+                ]
+            },
+            "id": 1454000804302569476,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453847717432733700 type=retweeted"
+            ],
+            "text": "RT @thistimefromme: \u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/pzVQikN\u2026"
+        },
+        {
+            "author_id": 2934175713,
+            "conversation_id": 1453984323871313923,
+            "created_at": "2021-10-29 07:17:31+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "165765064",
+                        "start": 3,
+                        "username": "thistimefromme"
+                    }
+                ]
+            },
+            "id": 1453984323871313923,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453847717432733700 type=retweeted"
+            ],
+            "text": "RT @thistimefromme: \u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/pzVQikN\u2026"
+        },
+        {
+            "author_id": 616247952,
+            "conversation_id": 1453983942810406913,
+            "created_at": "2021-10-29 07:16:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "165765064",
+                        "start": 3,
+                        "username": "thistimefromme"
+                    }
+                ]
+            },
+            "id": 1453983942810406913,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453847717432733700 type=retweeted"
+            ],
+            "text": "RT @thistimefromme: \u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/pzVQikN\u2026"
+        },
+        {
+            "author_id": 165765064,
+            "conversation_id": 1453847717432733700,
+            "created_at": "2021-10-28 22:14:41+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 133,
+                        "id": "1577908854",
+                        "start": 127,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03c1\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03c9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03b1\u03af\u03bc\u03b1",
+                        "display_url": "katohika.gr/diethni/ola-af\u2026",
+                        "end": 122,
+                        "expanded_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "images": [
+                            {
+                                "height": 466,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=orig",
+                                "width": 834
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 99,
+                        "status": 200,
+                        "title": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "url": "https://t.co/pzVQikNNiN"
+                    }
+                ]
+            },
+            "id": 1453847717432733700,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/pzVQikNNiN via @wpvkp"
+        },
+        {
+            "author_id": 422023154,
+            "conversation_id": 1453805011440476160,
+            "created_at": "2021-10-28 19:24:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 133,
+                        "id": "1577908854",
+                        "start": 127,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03c1\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03c9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03b1\u03af\u03bc\u03b1",
+                        "display_url": "katohika.gr/diethni/ola-af\u2026",
+                        "end": 121,
+                        "expanded_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "images": [
+                            {
+                                "height": 466,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=orig",
+                                "width": 834
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 98,
+                        "status": 200,
+                        "title": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "url": "https://t.co/V3gXLs4EAw"
+                    }
+                ]
+            },
+            "id": 1453805011440476160,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf https://t.co/V3gXLs4EAw \u03bc\u03ad\u03c3\u03c9 @wpvkp"
+        },
+        {
+            "author_id": 422023154,
+            "conversation_id": 1453804038911414286,
+            "created_at": "2021-10-28 19:21:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 107,
+                        "id": "1577908854",
+                        "start": 101,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                        "display_url": "katohika.gr/diethni/den-pi\u2026",
+                        "end": 95,
+                        "expanded_url": "https://katohika.gr/diethni/den-pistevete-pos-oi-anthropoi-allazoun-meta-to-emvolio-etsi-deite-afto/",
+                        "images": [
+                            {
+                                "height": 695,
+                                "url": "https://pbs.twimg.com/news_img/1453746167884419082/3-9Ujnjv?format=jpg&name=orig",
+                                "width": 1240
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453746167884419082/3-9Ujnjv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 72,
+                        "status": 200,
+                        "title": "\u0394\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5 \u03c0\u03c9\u03c2 \u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03b1\u03bb\u03bb\u03ac\u03b6\u03bf\u03c5\u03bd \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03c4\u03c3\u03b9, \u03b4\u03b5\u03af\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/den-pistevete-pos-oi-anthropoi-allazoun-meta-to-emvolio-etsi-deite-afto/",
+                        "url": "https://t.co/o3rAva2g6V"
+                    }
+                ]
+            },
+            "id": 1453804038911414286,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03b5\u03c4\u03b5 \u03c0\u03c9\u03c2 \u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03b1\u03bb\u03bb\u03ac\u03b6\u03bf\u03c5\u03bd \u03bc\u03b5\u03c4\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03c4\u03c3\u03b9, \u03b4\u03b5\u03af\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc https://t.co/o3rAva2g6V \u03bc\u03ad\u03c3\u03c9 @wpvkp"
+        },
+        {
+            "author_id": 952384224,
+            "conversation_id": 1453765185534054404,
+            "created_at": "2021-10-28 16:46:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "4807381340",
+                        "start": 3,
+                        "username": "giannis_sty"
+                    }
+                ]
+            },
+            "id": 1453765185534054404,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453760024921190402 type=retweeted"
+            ],
+            "text": "RT @giannis_sty: \u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1 https://t\u2026"
+        },
+        {
+            "author_id": 4807381340,
+            "conversation_id": 1453760024921190402,
+            "created_at": "2021-10-28 16:26:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0393\u03b9\u03b1 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c3\u03c5\u03bd\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u03bc\u03ad\u03c1\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ad\u03bd\u03c4\u03bf\u03bd\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03cc\u03c3\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03c9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c0\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03bf \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03bf \u03b1\u03af\u03bc\u03b1",
+                        "display_url": "katohika.gr/diethni/ola-af\u2026",
+                        "end": 136,
+                        "expanded_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "images": [
+                            {
+                                "height": 466,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=orig",
+                                "width": 834
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453760029652312068/9IRXqsua?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 113,
+                        "status": 200,
+                        "title": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/ola-afta-tha-mpoun-mesa-mas-sokarismeni-i-koini-gnomi-me-osa-edeiksan-epistimones-gia-to-emvolio/",
+                        "url": "https://t.co/lCsXOv98eB"
+                    }
+                ]
+            },
+            "id": 1453760024921190402,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u038c\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c5\u03bd \u039c\u0395\u03a3\u0391 \u039c\u0391\u03a3;;; \u03a3\u03bf\u03ba\u03b1\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03b7 \u03b7 \u03ba\u03bf\u03b9\u03bd\u03ae \u03b3\u03bd\u03ce\u03bc\u03b7 \u03bc\u03b5 \u03cc\u03c3\u03b1 \u03ad\u03b4\u03b5\u03b9\u03be\u03b1\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1 https://t.co/lCsXOv98eB \u03ba\u03bf\u03b9\u03bd\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c3\u03c5\u03bd\u03b4\u03ad\u03c3\u03bc\u03bf\u03c5 \u03c0\u03b1\u03bd\u03c4\u03bf\u03cd \u03b1\u03c6\u03bf\u03c1\u03ac \u03cc\u03bb\u03bf\u03c5\u03c2 \u03bc\u03b1\u03c2 \u03ba \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf \u03b1\u03af\u03bc\u03b1 \u03c3\u03ac\u03c2 \u03bc\u03b5 \u03c4\u03bf\ud83d\udc89\ud83d\udc89\ud83d\udc89\ud83d\udc89"
+        }
+    ]
+}

@@ -1,0 +1,275 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2015-03-15 19:00:38+00:00",
+                "description": "",
+                "id": 3092150141,
+                "name": "Incredible but Greek",
+                "public_metrics": {
+                    "followers_count": 9,
+                    "following_count": 1,
+                    "listed_count": 1,
+                    "tweet_count": 556
+                },
+                "username": "Incredible_GR",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-19 14:27:51+00:00",
+                "description": "Salonick, Gr",
+                "id": 2985883774,
+                "name": "Salonick",
+                "public_metrics": {
+                    "followers_count": 1999,
+                    "following_count": 3079,
+                    "listed_count": 37,
+                    "tweet_count": 38230
+                },
+                "username": "nifa1972",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-14 09:13:53+00:00",
+                "description": "",
+                "id": 1010761706,
+                "name": "THE GOD!",
+                "public_metrics": {
+                    "followers_count": 287,
+                    "following_count": 896,
+                    "listed_count": 0,
+                    "tweet_count": 5409
+                },
+                "username": "papatrouper",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-05 06:09:51+00:00",
+                "description": "https://t.co/5W0p8vwtR6",
+                "id": 261089212,
+                "name": "Babis Dermitzakis",
+                "public_metrics": {
+                    "followers_count": 324,
+                    "following_count": 1348,
+                    "listed_count": 1,
+                    "tweet_count": 3811
+                },
+                "username": "hdermi",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3092150141,
+            "conversation_id": 1454508448918425604,
+            "created_at": "2021-10-30 18:00:12+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 215,
+                        "start": 200,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 229,
+                        "start": 217,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af"
+                    },
+                    {
+                        "end": 241,
+                        "start": 231,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u038c\u03c0\u03c9\u03c2 \u03b5\u03af\u03c0\u03b5 \u03bf \u03af\u03b4\u03b9\u03bf\u03c2 \u03bc\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03bf \u03ba\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03cc \u03b4\u03b5\u03bb\u03c4\u03af\u03bf \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd, \u03ad\u03c0\u03b5\u03c3\u03b5 \u03b8\u03cd\u03bc\u03b1 \u03c4\u03c1\u03b1\u03bc\u03c0\u03bf\u03cd\u03ba\u03b9\u03ba\u03b7\u03c2 \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7\u03c2 \u03c3\u03b5 \u03bc\u03b9\u03b1 \u03c4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1, \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03b4\u03b9\u03bf\u03ba\u03c4\u03ae\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03b3\u03b9\u03bf \u03c4\u03bf\u03c5, \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae\u2026 \u03b6\u03b7\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ac \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd",
+                        "display_url": "in.gr/2021/10/30/gre\u2026",
+                        "end": 266,
+                        "expanded_url": "https://www.in.gr/2021/10/30/greece/vasilakopoulos-sto-mega-mou-epitethikan-se-taverna-epeidi-diamartyrithika-gia-ton-elegxo-ton-pistopoiitikon/",
+                        "images": [
+                            {
+                                "height": 480,
+                                "url": "https://pbs.twimg.com/news_img/1454496896802754566/0G5RCk5K?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454496896802754566/0G5RCk5K?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 243,
+                        "status": 200,
+                        "title": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u03c3\u03c4\u03bf MEGA - \u00ab\u039c\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c4\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03c4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b4\u03b9\u03b1\u03bc\u03b1\u03c1\u03c4\u03c5\u03c1\u03ae\u03b8\u03b7\u03ba\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c4\u03c9\u03bd \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd\u00bb | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/30/greece/vasilakopoulos-sto-mega-mou-epitethikan-se-taverna-epeidi-diamartyrithika-gia-ton-elegxo-ton-pistopoiitikon/",
+                        "url": "https://t.co/yLgN8jzFvg"
+                    }
+                ]
+            },
+            "id": 1454508448918425604,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03c5\u03c4\u03cc \u03ba\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03bf\u03c4\u03b9 \u03c4\u03bf \u03bc\u03ad\u03c4\u03c1\u03bf \u03bd\u03b1 \u03b6\u03b7\u03c4\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ac \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c0\u03b5\u03bb\u03ac\u03c4\u03b5\u03c2 \u03b5\u03bd\u03bf\u03c2 \u03ba\u03b1\u03c4\u03b1\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ac \u03b1\u03bd\u03b5\u03c6\u03ac\u03c1\u03bc\u03bf\u03c3\u03c4\u03bf. \u039f\u03b9 \u03b1\u03ba\u03b1\u03c4\u03b1\u03bb\u03cc\u03b3\u03b9\u03c3\u03c4\u03bf\u03b9 \u03c0\u03bf\u03c5 \u03c4\u03bf \u03c3\u03ba\u03ad\u03c6\u03c4\u03b7\u03ba\u03b1\u03bd \u03b1\u03c5\u03c4\u03cc, \u03b6\u03bf\u03cd\u03bd\u03b5 \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c3\u03bc\u03bf \u03c4\u03bf\u03c5\u03c2.\n#\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2, #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af, #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 \nhttps://t.co/yLgN8jzFvg"
+        },
+        {
+            "author_id": 2985883774,
+            "conversation_id": 1453812554262794244,
+            "created_at": "2021-10-28 19:54:58+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 95,
+                        "tag": "\u03b1\u03c1\u03bd\u03b7\u03c4\u03ad\u03c2"
+                    },
+                    {
+                        "end": 116,
+                        "start": 104,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2"
+                    },
+                    {
+                        "end": 127,
+                        "start": 117,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0395\u03ba\u03b5\u03af\u03bd\u03bf\u03c2 \u03cc\u03bc\u03c9\u03c2 \u03b4\u03b5\u03bd \u03ae\u03b8\u03b5\u03bb\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b4\u03b5\u03bd \u03c0\u03af\u03c3\u03c4\u03b5\u03c5\u03b5 \u03c3\u03c4\u03bf\u03bd \u03b9\u03cc \u03c0\u03bf\u03c5 \u03bc\u03b5 \u03c4\u03b7 \u03bc\u03bf\u03c1\u03c6\u03ae \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b1\u03bb\u03bb\u03ac \u03c3\u03b5 \u03cc\u03bb\u03bf \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c4\u03b5\u03c1\u03ae\u03c3\u03b5\u03b9 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b6\u03c9\u03ad\u03c2",
+                        "display_url": "in.gr/2021/10/28/gre\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.in.gr/2021/10/28/greece/koronaios-otan-oikogeneia-plironei-tin-emmoni-enos-melous-tis-na-min-emvoliastei/",
+                        "images": [
+                            {
+                                "height": 416,
+                                "url": "https://pbs.twimg.com/news_img/1453812558096388100/w_R6qPBV?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453812558096388100/w_R6qPBV?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 129,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u039f\u03c4\u03b1\u03bd \u03b7 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bb\u03b7\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03bc\u03bc\u03bf\u03bd\u03ae \u03b5\u03bd\u03cc\u03c2 \u03bc\u03ad\u03bb\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/28/greece/koronaios-otan-oikogeneia-plironei-tin-emmoni-enos-melous-tis-na-min-emvoliastei/",
+                        "url": "https://t.co/div0V3AKLm"
+                    }
+                ]
+            },
+            "id": 1453812554262794244,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 &amp;#8211; \u039f\u03c4\u03b1\u03bd \u03b7 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1 \u03c0\u03bb\u03b7\u03c1\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b5\u03bc\u03bc\u03bf\u03bd\u03ae \u03b5\u03bd\u03cc\u03c2 \u03bc\u03ad\u03bb\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af #\u03b1\u03c1\u03bd\u03b7\u03c4\u03ad\u03c2 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2  https://t.co/div0V3AKLm"
+        },
+        {
+            "author_id": 1010761706,
+            "conversation_id": 1453452889951817733,
+            "created_at": "2021-10-27 20:05:47+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 162,
+                        "start": 146,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 171,
+                        "start": 163,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 182,
+                        "start": 172,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0391\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03c5\u03c3\u03c4\u03c5\u03c7\u03ce\u03c2 \u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ac \u03c0\u03bf\u03c5 \u03bf\u03bb\u03cc\u03ba\u03bb\u03b7\u03c1\u03b5\u03c2 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2 \u03be\u03b5\u03ba\u03bb\u03b7\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc. \u03a3\u03c4\u03b7\u03bd \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9, \u03b5\u03bd\u03af\u03bf\u03c4\u03b5 \u03b4\u03b5 \u03ba\u03b1\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03b2\u03c5\u03b8\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2",
+                        "display_url": "in.gr/2021/10/27/in-\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.in.gr/2021/10/27/in-tv/kathe-mera-prospathousa-na-ton-peiso-na-emvoliastei-se-apognosi-syzygos-arniti-pou-afise-tria-paidia-orfana/",
+                        "images": [
+                            {
+                                "height": 454,
+                                "url": "https://pbs.twimg.com/news_img/1453452890442551304/yxfIQs6M?format=jpg&name=orig",
+                                "width": 681
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453452890442551304/yxfIQs6M?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 122,
+                        "status": 200,
+                        "title": "\u00ab\u039a\u03ac\u03b8\u03b5 \u03bc\u03ad\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1 \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03af\u03c3\u03c9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u00bb - \u03a3\u03b5 \u03b1\u03c0\u03cc\u03b3\u03bd\u03c9\u03c3\u03b7 \u03b7 \u03c3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bf\u03c1\u03c6\u03b1\u03bd\u03ac | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/27/in-tv/kathe-mera-prospathousa-na-ton-peiso-na-emvoliastei-se-apognosi-syzygos-arniti-pou-afise-tria-paidia-orfana/",
+                        "url": "https://t.co/m7RJKk7Gb7"
+                    }
+                ]
+            },
+            "id": 1453452889951817733,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039a\u03ac\u03b8\u03b5 \u03bc\u03ad\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1 \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03af\u03c3\u03c9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u00bb &amp;#8211; \u03a3\u03b5 \u03b1\u03c0\u03cc\u03b3\u03bd\u03c9\u03c3\u03b7 \u03b7 \u03c3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bf\u03c1\u03c6\u03b1\u03bd\u03ac https://t.co/m7RJKk7Gb7 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+        },
+        {
+            "author_id": 261089212,
+            "conversation_id": 1453317911041478660,
+            "created_at": "2021-10-27 11:09:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "O\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03b2\u03b1\u03c3\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b1\u03c2. \u0386\u03bc\u03b5\u03c3\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ac, \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ac, \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ac, \u03b1\u03b8\u03bb\u03b7\u03c4\u03b9\u03ba\u03ac, \u03c4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ac \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03b1 \u03b8\u03ad\u03bc\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf In.gr.",
+                        "display_url": "in.gr",
+                        "end": 35,
+                        "expanded_url": "http://in.gr",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454118718175330314/a5-BwyJC?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454118718175330314/a5-BwyJC?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 12,
+                        "status": 200,
+                        "title": "in.gr | \u038c\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 - \u039f\u03bb\u03bf\u03ba\u03bb\u03b7\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u03ba\u03ac\u03bb\u03c5\u03c8\u03b7 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd",
+                        "unwound_url": "https://www.in.gr/",
+                        "url": "https://t.co/cKJFH9k5Xj"
+                    }
+                ]
+            },
+            "id": 1453317911041478660,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03b1\u03b2\u03ac\u03b6\u03c9 \u03c3\u03c4\u03bf https://t.co/cKJFH9k5Xj: \u00abE\u03af\u03bd\u03b1\u03b9 \u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03cc \u03c4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03cc\u03c4\u03b9 \u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03b4\u03b5\u03bd \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 30 \u03bc\u03b5 50 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac, \u00bb. \u03a0\u03bf\u03cd \u03c4\u03bf \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03c4\u03bf \u03c4\u03c1\u03bf\u03bc\u03b5\u03c1\u03cc \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2; \n\u0395\u03bc\u03b5\u03af\u03c2 \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b7 \u03b1\u03c0\u03bf\u03b8\u03ad\u03c9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b1\u03b9\u03c3\u03b9\u03bf\u03b4\u03bf\u03be\u03af\u03b1\u03c2: \u03c3\u03b9\u03b3\u03ac \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03b2\u03c1\u03b5\u03b9 \u03b5\u03bc\u03ad\u03bd\u03b1 \u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2."
+        }
+    ]
+}

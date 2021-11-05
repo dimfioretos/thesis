@@ -1,0 +1,688 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 462249767,
+                "conversation_id": 1455558642577649668,
+                "created_at": "2021-11-02 15:33:18+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/politiki/artic\u2026",
+                            "end": 165,
+                            "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                            "start": 142,
+                            "url": "https://t.co/t6Ut3nLr8x"
+                        }
+                    ]
+                },
+                "id": 1455558642577649668,
+                "public_metrics": {
+                    "like_count": 21,
+                    "quote_count": 0,
+                    "reply_count": 6,
+                    "retweet_count": 4
+                },
+                "text": "\u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc :\nhttps://t.co/t6Ut3nLr8x"
+            },
+            {
+                "author_id": 1133037362982924289,
+                "conversation_id": 1455592021280894978,
+                "created_at": "2021-11-02 17:45:56+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                            "display_url": "thetoc.gr/politiki/artic\u2026",
+                            "end": 49,
+                            "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 26,
+                            "status": 200,
+                            "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                            "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                            "url": "https://t.co/MmSXKI7muV"
+                        }
+                    ]
+                },
+                "id": 1455592021280894978,
+                "public_metrics": {
+                    "like_count": 5,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 4
+                },
+                "text": "\u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1455573141477109764,
+                "created_at": "2021-11-02 16:30:54+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/politiki/artic\u2026",
+                            "end": 177,
+                            "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635868285",
+                            "start": 154,
+                            "url": "https://t.co/jV1dPnDRa1"
+                        }
+                    ]
+                },
+                "id": 1455573141477109764,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 5,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2. https://t.co/jV1dPnDRa1"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-10-21 13:17:23+00:00",
+                "description": "\u03b1\u03bd\u03c4\u03b9\u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03b5\u03b9\u03c2 \u03b1\u03c0\u03bf\u03c8\u03b5\u03b9\u03c2",
+                "id": 2839909750,
+                "name": "Ketelapongo",
+                "public_metrics": {
+                    "followers_count": 5050,
+                    "following_count": 2649,
+                    "listed_count": 35,
+                    "tweet_count": 38769
+                },
+                "username": "ketelapongo",
+                "verified": false
+            },
+            {
+                "created_at": "2012-01-12 18:55:36+00:00",
+                "description": "\u0391\u0392\u03a3\u03a0, Information Technologies, Logistics, HR",
+                "id": 462249767,
+                "name": "Tassos Ioannides",
+                "public_metrics": {
+                    "followers_count": 4064,
+                    "following_count": 4112,
+                    "listed_count": 16,
+                    "tweet_count": 51054
+                },
+                "username": "TassosIoannides",
+                "verified": false
+            },
+            {
+                "created_at": "2018-08-04 11:12:58+00:00",
+                "description": "\u0391\u03c1\u03c3\u03ac\u03ba\u03b5\u03b9\u03bf \u03a4\u03bf\u03c3\u03af\u03c4\u03c3\u03b5\u03b9\u03bf \u0395\u03ba\u03ac\u03bb\u03b7\u03c2",
+                "id": 1025701121749340160,
+                "name": "Christina Dim",
+                "public_metrics": {
+                    "followers_count": 4122,
+                    "following_count": 5001,
+                    "listed_count": 11,
+                    "tweet_count": 311258
+                },
+                "username": "ChristinaDim31",
+                "verified": false
+            },
+            {
+                "created_at": "2019-05-27 15:48:52+00:00",
+                "description": "\u0395\u03b3\u03ce \u03bf \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2.\n\u0394\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03b5\u03b3\u03ce \u03c3\u03c4\u03bf \u03b1\u03b2\u03b1\u03c4\u03b1\u03c1.\n\u039f,\u03c4\u03b9 \u03ba\u03ac\u03bd\u03c9 RT \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b3\u03b1\u03bc\u03ac\u03c4\u03bf.",
+                "id": 1133037362982924289,
+                "name": "Leon Trotsky the one and only",
+                "public_metrics": {
+                    "followers_count": 1923,
+                    "following_count": 1638,
+                    "listed_count": 10,
+                    "tweet_count": 21761
+                },
+                "username": "TrotskyTheReal",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-22 08:59:46+00:00",
+                "description": "\u0395\u03af\u03bc\u03b1\u03b9, \u03bb\u03ad\u03bd\u03b5, \u03c0\u03bf\u03bb\u03cd \u03c4\u03c5\u03c7\u03b5\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03b3\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1 \u0388\u03bb\u03bb\u03b7\u03bd\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c0\u03b9\u03bf \u03c4\u03c5\u03c7\u03b5\u03c1\u03cc\u03c2 \u03c0\u03bf\u03c5 \u03bc\u03b5 \u03b2\u03ac\u03c6\u03c4\u03b9\u03c3\u03b1\u03bd \u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03cc!",
+                "id": 1385156209288826880,
+                "name": "Banania",
+                "public_metrics": {
+                    "followers_count": 122,
+                    "following_count": 210,
+                    "listed_count": 0,
+                    "tweet_count": 3309
+                },
+                "username": "Kyrpantelis2",
+                "verified": false
+            },
+            {
+                "created_at": "2015-10-26 13:06:24+00:00",
+                "description": "* \u0394\u03b1\u03b9\u03bd \u03b1\u03b9\u03c7\u03bf \u03b1\u03b9\u03bb\u03bf\u03b9\u03bd\u03b5\u03b9\u03ba\u03c9 \u03b4\u03b5\u03b9\u03b1\u03b2\u03b1\u03c4\u03c5\u03c1\u03b7\u03c9\n* \u0394\u03b1\u03b9\u03bd \u03ba\u03b1\u03bd\u03bf \u03c9\u03c1\u03b8\u03c9\u03b3\u03c1\u03b1\u03c6\u03bf\u03b9\u03ba\u03b1 \u03bb\u03b1\u03b8\u03b5\u03b9\n* \u0393\u03ba\u03b1\u03b3\u03ba\u03b1\u03bd\u03b9\u03c3\u03c4\u03ae\u03c2 \n* \u03a0\u03c5\u03b3\u03bf\u03c1\u03b1\u03c0\u03b9\u03c3\u03c4\u03ae\u03c2\n*\u0391\u03b3\u03c1\u03bf\u03c4\u03bf\u03c4\u03b5\u03bc\u03c0\u03b5\u03bb\u03b7\u03c2\n*YES \u039c\u03bf\u03c5\u03c3\u03b1\u03ba\u03ac \n*YES sex\n*YES \u039e\u03cd\u03bb\u03bf \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b5\u03c2",
+                "id": 4046375158,
+                "name": "\u041c\u0430N\u0430_\u041a\u0430N\u0435_N\u0442\u043e\u043b\u043c\u0410\u0420\u0414\u0430\u043a\u0438\u0430 \ud83c\udde7\ud83c\uddfe",
+                "public_metrics": {
+                    "followers_count": 4841,
+                    "following_count": 5293,
+                    "listed_count": 18,
+                    "tweet_count": 73924
+                },
+                "username": "glue_hisamoli",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-11 11:56:56+00:00",
+                "description": "* \u039c\u03ad\u03b3\u03b9\u03c3\u03c4\u03bf\u03c2 \u03a4\u03b5\u03bd\u03cc\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 '\u0391\u03c1\u03c4\u03b9\u03b3\u03c7\u03b1\u03bc\n\n\n*\u0391\u03ba\u03ba\u03ac\u03bf\u03c5\u03bd\u03c4 \u03b3\u03b9\u03b1 \u03b5\u03ba\u03bb\u03b5\u03ba\u03c4\u03bf\u03cd\u03c2",
+                "id": 371727835,
+                "name": "\u03a0\u03bb\u03b1\u03c3\u03af\u03bc\u03c0\u03bf \u0392\u03bb\u03b1\u03bc\u03af\u03b3\u03ba\u03bf",
+                "public_metrics": {
+                    "followers_count": 4563,
+                    "following_count": 3605,
+                    "listed_count": 25,
+                    "tweet_count": 192434
+                },
+                "username": "Cosmotrolitan",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-28 13:08:02+00:00",
+                "description": "middle east politics & international relations - Following conflicts around the world. History chaser. Last but not least, a lifetimer fan of Great PAOK - \u03a0\u0391\u039f\u039a",
+                "id": 791989904414765058,
+                "name": "MICHAIL KLIN",
+                "public_metrics": {
+                    "followers_count": 1253,
+                    "following_count": 797,
+                    "listed_count": 14,
+                    "tweet_count": 80991
+                },
+                "username": "artemis_klin",
+                "verified": false
+            },
+            {
+                "created_at": "2011-04-27 10:51:25+00:00",
+                "description": "\u03a4\u03bf \u03c0\u03b1\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b5\u03b8\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c1\u03b8\u03b9\u03bf\u03b9",
+                "id": 288725041,
+                "name": "stRela",
+                "public_metrics": {
+                    "followers_count": 6260,
+                    "following_count": 870,
+                    "listed_count": 143,
+                    "tweet_count": 100438
+                },
+                "username": "ste_pl",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-08-20 09:05:33+00:00",
+                "description": "",
+                "id": 766924116955766784,
+                "name": "\u0394\u03b5\u03c3\u03c4\u03ad  \u0391\u03c1\u03b3\u03c5\u03c1\u03ce",
+                "public_metrics": {
+                    "followers_count": 187,
+                    "following_count": 251,
+                    "listed_count": 0,
+                    "tweet_count": 6207
+                },
+                "username": "ardeste1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-05-24 00:35:59+00:00",
+                "description": "",
+                "id": 2561140245,
+                "name": "Johnny",
+                "public_metrics": {
+                    "followers_count": 1058,
+                    "following_count": 1169,
+                    "listed_count": 12,
+                    "tweet_count": 16686
+                },
+                "username": "ykachrilas",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2839909750,
+            "conversation_id": 1455636111011852295,
+            "created_at": "2021-11-02 20:41:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455636111011852295,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 1025701121749340160,
+            "conversation_id": 1455603682221961219,
+            "created_at": "2021-11-02 18:32:16+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1133037362982924289",
+                        "start": 3,
+                        "username": "TrotskyTheReal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 69,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 46,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "url": "https://t.co/MmSXKI7muV"
+                    }
+                ]
+            },
+            "id": 1455603682221961219,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592021280894978 type=retweeted"
+            ],
+            "text": "RT @TrotskyTheReal: \u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+        },
+        {
+            "author_id": 1385156209288826880,
+            "conversation_id": 1455593536334831616,
+            "created_at": "2021-11-02 17:51:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1133037362982924289",
+                        "start": 3,
+                        "username": "TrotskyTheReal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 69,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 46,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "url": "https://t.co/MmSXKI7muV"
+                    }
+                ]
+            },
+            "id": 1455593536334831616,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592021280894978 type=retweeted"
+            ],
+            "text": "RT @TrotskyTheReal: \u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+        },
+        {
+            "author_id": 4046375158,
+            "conversation_id": 1455593280092135435,
+            "created_at": "2021-11-02 17:50:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1133037362982924289",
+                        "start": 3,
+                        "username": "TrotskyTheReal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 69,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 46,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "url": "https://t.co/MmSXKI7muV"
+                    }
+                ]
+            },
+            "id": 1455593280092135435,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592021280894978 type=retweeted"
+            ],
+            "text": "RT @TrotskyTheReal: \u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+        },
+        {
+            "author_id": 371727835,
+            "conversation_id": 1455592081095806976,
+            "created_at": "2021-11-02 17:46:10+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1133037362982924289",
+                        "start": 3,
+                        "username": "TrotskyTheReal"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 69,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 46,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "url": "https://t.co/MmSXKI7muV"
+                    }
+                ]
+            },
+            "id": 1455592081095806976,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592021280894978 type=retweeted"
+            ],
+            "text": "RT @TrotskyTheReal: \u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+        },
+        {
+            "author_id": 1133037362982924289,
+            "conversation_id": 1455592021280894978,
+            "created_at": "2021-11-02 17:45:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2.",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 49,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455558643005411330/tqF2y5BJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 26,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03ae\u03c2 \u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u0386\u03b4\u03c9\u03bd\u03b9: \u038c\u03c7\u03b9 \u03c3\u03b5 lockdown\u00a0\"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\"",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "url": "https://t.co/MmSXKI7muV"
+                    }
+                ]
+            },
+            "id": 1455592021280894978,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "\u03a4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \ud83d\ude01\ud83d\ude01\ud83d\ude01\n\nhttps://t.co/MmSXKI7muV"
+        },
+        {
+            "author_id": 791989904414765058,
+            "conversation_id": 1455591883971956737,
+            "created_at": "2021-11-02 17:45:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455591883971956737,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 288725041,
+            "conversation_id": 1455575621254459398,
+            "created_at": "2021-11-02 16:40:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1455575621254459398,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455573141477109764 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u2026"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455573141477109764,
+            "created_at": "2021-11-02 16:30:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 177,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635868285",
+                        "start": 154,
+                        "url": "https://t.co/jV1dPnDRa1"
+                    }
+                ]
+            },
+            "id": 1455573141477109764,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 5,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2. https://t.co/jV1dPnDRa1"
+        },
+        {
+            "author_id": 766924116955766784,
+            "conversation_id": 1455559627194650624,
+            "created_at": "2021-11-02 15:37:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455559627194650624,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 2561140245,
+            "conversation_id": 1455559317948702720,
+            "created_at": "2021-11-02 15:35:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455559317948702720,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 462249767,
+            "conversation_id": 1455558642577649668,
+            "created_at": "2021-11-02 15:33:18+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 165,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "start": 142,
+                        "url": "https://t.co/t6Ut3nLr8x"
+                    }
+                ]
+            },
+            "id": 1455558642577649668,
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 4
+            },
+            "text": "\u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc :\nhttps://t.co/t6Ut3nLr8x"
+        }
+    ]
+}

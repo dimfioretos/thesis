@@ -1,0 +1,62 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748248
+                },
+                "username": "entypos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1455216063042527240,
+            "created_at": "2021-11-01 16:52:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd",
+                        "display_url": "lifo.gr/now/greece/emb\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.lifo.gr/now/greece/emboliasmos-ayrio-oi-apofaseis-gia-tin-3i-dosi-stoys-kato-ton-50",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455216068084080650/r611k-bQ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455216068084080650/r611k-bQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 66,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u0391\u03cd\u03c1\u03b9\u03bf \u03bf\u03b9 \u03b1\u03c0\u03bf\u03c6\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd 3\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 | LiFO",
+                        "unwound_url": "https://www.lifo.gr/now/greece/emboliasmos-ayrio-oi-apofaseis-gia-tin-3i-dosi-stoys-kato-ton-50",
+                        "url": "https://t.co/9dYjY45kCl"
+                    }
+                ]
+            },
+            "id": 1455216063042527240,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2: \u0391\u03cd\u03c1\u03b9\u03bf \u03bf\u03b9 \u03b1\u03c0\u03bf\u03c6\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd 3\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 https://t.co/9dYjY45kCl"
+        }
+    ]
+}

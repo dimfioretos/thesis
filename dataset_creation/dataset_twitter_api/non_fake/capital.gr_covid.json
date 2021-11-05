@@ -1,0 +1,1282 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1119284519876595714,
+                "conversation_id": 1455562472392437765,
+                "created_at": "2021-11-02 15:48:31+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/358653\u2026",
+                            "end": 85,
+                            "expanded_url": "https://www.capital.gr/diethni/3586538/axiomatouxos-pou-oi-anemboliastoi-pethainoun-askopa-apo-covid",
+                            "start": 62,
+                            "url": "https://t.co/aDKRlzkRHQ"
+                        }
+                    ]
+                },
+                "id": 1455562472392437765,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0391\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03c2 \u03a0\u039f\u03a5: \u039f\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03ac\u03c3\u03ba\u03bf\u03c0\u03b1 \u03b1\u03c0\u03cc Covid https://t.co/aDKRlzkRHQ"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455208028303724545,
+                "created_at": "2021-11-01 16:20:05+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                            "display_url": "capital.gr/health/3591988\u2026",
+                            "end": 84,
+                            "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 61,
+                            "status": 200,
+                            "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                            "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                            "url": "https://t.co/D9A3TNJgST"
+                        }
+                    ]
+                },
+                "id": 1455208028303724545,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454809285846872067,
+                "created_at": "2021-10-31 13:55:37+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359188\u2026",
+                            "end": 133,
+                            "expanded_url": "https://www.capital.gr/diethni/3591884/embolia-gia-tin-covid-19-o-kanadas-desmeuetai-na-dorisei-se-anaptussomenes-xores-200-ekat-doseis-entos-2022?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635670422",
+                            "start": 110,
+                            "url": "https://t.co/dMyquQhewR"
+                        }
+                    ]
+                },
+                "id": 1454809285846872067,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19: \u039f \u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2 \u03b4\u03b5\u03c3\u03bc\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 200 \u03b5\u03ba\u03b1\u03c4. \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c2 2022 https://t.co/dMyquQhewR"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454499732571688963,
+                "created_at": "2021-10-30 17:25:34+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359180\u2026",
+                            "end": 112,
+                            "expanded_url": "https://www.capital.gr/diethni/3591803/g20-o-kinezos-proedros-si-zitise-tin-amoibaia-anagnorisi-ton-embolion-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                            "start": 89,
+                            "url": "https://t.co/rmVfXV7x6p"
+                        }
+                    ]
+                },
+                "id": 1454499732571688963,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "G20: \u039f \u03ba\u03b9\u03bd\u03ad\u03b6\u03bf\u03c2 \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03a3\u03b9 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bc\u03bf\u03b9\u03b2\u03b1\u03af\u03b1 \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 COVID-19 https://t.co/rmVfXV7x6p"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454370993938567168,
+                "created_at": "2021-10-30 08:54:00+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359175\u2026",
+                            "end": 121,
+                            "expanded_url": "https://www.capital.gr/diethni/3591750/i-triti-dosi-emboliou-pfizer-biontech-meionei-simantika-ton-kinduno-nosileias-kai-barias-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635579536",
+                            "start": 98,
+                            "url": "https://t.co/dCBqtzJooE"
+                        }
+                    ]
+                },
+                "id": 1454370993938567168,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer/BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 https://t.co/dCBqtzJooE"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454414402636165126,
+                "created_at": "2021-10-30 11:46:29+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359178\u2026",
+                            "end": 114,
+                            "expanded_url": "https://www.capital.gr/diethni/3591787/germania-covid-19-polu-anisuxi-i-merkel-gia-tin-auxisi-ton-krousmaton-kai-ton-nosileion?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635594197",
+                            "start": 91,
+                            "url": "https://t.co/HkqNONEPWU"
+                        }
+                    ]
+                },
+                "id": 1454414402636165126,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-Covid-19: '\u03a0\u03bf\u03bb\u03cd \u03b1\u03bd\u03ae\u03c3\u03c5\u03c7\u03b7' \u03b7 \u039c\u03ad\u03c1\u03ba\u03b5\u03bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03b9\u03ce\u03bd https://t.co/HkqNONEPWU"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454456679349817358,
+                "created_at": "2021-10-30 14:34:29+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359180\u2026",
+                            "end": 110,
+                            "expanded_url": "https://www.capital.gr/diethni/3591804/filippines-covid-19-imerisio-rekor-423-thanaton-epeita-apo-anataxinomisi-ton-dedomenon?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                            "start": 87,
+                            "url": "https://t.co/01DjiOm3nE"
+                        }
+                    ]
+                },
+                "id": 1454456679349817358,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a6\u03b9\u03bb\u03b9\u03c0\u03c0\u03af\u03bd\u03b5\u03c2-covid-19: \u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 423 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03b1\u03bd\u03b1\u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd https://t.co/01DjiOm3nE"
+            },
+            {
+                "author_id": 3264486358,
+                "conversation_id": 1453715656411521040,
+                "created_at": "2021-10-28 13:29:55+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359143\u2026",
+                            "end": 98,
+                            "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                            "start": 75,
+                            "url": "https://t.co/I5g3mBnv0I"
+                        }
+                    ]
+                },
+                "id": 1453715656411521040,
+                "public_metrics": {
+                    "like_count": 11,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/I5g3mBnv0I"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453714483113697281,
+                "created_at": "2021-10-28 13:25:16+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359143\u2026",
+                            "end": 98,
+                            "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                            "start": 75,
+                            "url": "https://t.co/yR3wnQIhk6"
+                        }
+                    ]
+                },
+                "id": 1453714483113697281,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/yR3wnQIhk6"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1453403453657595912,
+                "created_at": "2021-10-27 16:49:20+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3591332",
+                            "end": 113,
+                            "expanded_url": "http://www.capital.gr/story/3591332",
+                            "start": 90,
+                            "url": "https://t.co/8m7Y7wr048"
+                        }
+                    ]
+                },
+                "id": 1453403453657595912,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u0395\u03a3\u03a5 \u03bc\u03b5 \u03c0\u03b5\u03bd\u03c4\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b3\u03b9\u03b1 covid \u03ba\u03b1\u03b9 non covid \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 https://t.co/8m7Y7wr048"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-12-23 12:49:16+00:00",
+                "description": "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7",
+                "id": 98872288,
+                "name": "capital.gr",
+                "public_metrics": {
+                    "followers_count": 77428,
+                    "following_count": 0,
+                    "listed_count": 764,
+                    "tweet_count": 213259
+                },
+                "username": "capitalgr",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-14 21:25:58+00:00",
+                "description": "",
+                "id": 2978816009,
+                "name": "Vasilis",
+                "public_metrics": {
+                    "followers_count": 225,
+                    "following_count": 231,
+                    "listed_count": 0,
+                    "tweet_count": 15710
+                },
+                "username": "vasilis05",
+                "verified": false
+            },
+            {
+                "created_at": "2019-04-19 16:59:59+00:00",
+                "description": "\u038c\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03b7\u03bc\u03ad\u03bd\u03b5\u03c2 \u03bc\u03bf\u03c1\u03c6\u03ad\u03c2 \u03c4\u03b7\u03c2 \u03a6\u03cd\u03c3\u03b7\u03c2-\u03ac\u03c3\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03b3\u03b1\u03bb\u03b1\u03be\u03af\u03b5\u03c2, \u03ac\u03bd\u03b8\u03b7 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c5\u03bb\u03b9\u03ac, \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03b1 \u03cc\u03bd\u03c4\u03b1-\u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03b3\u03ac\u03c0\u03b7\u03c2 .H.T.Saraydarian",
+                "id": 1119284519876595714,
+                "name": "\u0397\u03c0\u03b9\u03cc\u03bd\u03b7",
+                "public_metrics": {
+                    "followers_count": 1603,
+                    "following_count": 1930,
+                    "listed_count": 3,
+                    "tweet_count": 20904
+                },
+                "username": "knowthys_lf",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2012-11-03 09:00:31+00:00",
+                "description": "\u0395\u03be \u03b9\u03b4\u03af\u03c9\u03bd \u03ba\u03c1\u03af\u03bd\u03c9 \u03c4\u03b1 \u03b1\u03bb\u03bb\u03cc\u03c4\u03c1\u03b9\u03b1",
+                "id": 922798177,
+                "name": "ILIAS",
+                "public_metrics": {
+                    "followers_count": 365,
+                    "following_count": 369,
+                    "listed_count": 0,
+                    "tweet_count": 38978
+                },
+                "username": "ilias2pakw",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-15 11:22:16+00:00",
+                "description": "Geologist https://t.co/sa4GtWykQx\nOne life .Live it !",
+                "id": 1382655215535599620,
+                "name": "George Vichos",
+                "public_metrics": {
+                    "followers_count": 254,
+                    "following_count": 320,
+                    "listed_count": 0,
+                    "tweet_count": 17441
+                },
+                "username": "GeorgiosVichos5",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-18 15:51:34+00:00",
+                "description": "",
+                "id": 32920782,
+                "name": "LEO LEGATOS",
+                "public_metrics": {
+                    "followers_count": 76,
+                    "following_count": 121,
+                    "listed_count": 2,
+                    "tweet_count": 7149
+                },
+                "username": "APXONTAS",
+                "verified": false
+            },
+            {
+                "created_at": "2015-05-16 22:34:53+00:00",
+                "description": "European 1000%!Journalist/TV Hostess of @24heuropegr Social Media Manager. #europeanpolitics\nFB page:https://t.co/YkLcuF6QHy\u2026",
+                "id": 3264486358,
+                "name": "IoannaDementiEU",
+                "public_metrics": {
+                    "followers_count": 13534,
+                    "following_count": 8960,
+                    "listed_count": 112,
+                    "tweet_count": 31290
+                },
+                "username": "IoannaDementi",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455654243277365250,
+            "created_at": "2021-11-02 21:53:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359235\u2026",
+                        "end": 120,
+                        "expanded_url": "https://www.capital.gr/diethni/3592352/pfizer-alma-poliseon-kai-kerdon-anabathmizei-tis-ektimiseis-logo-tou-emboliou-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635883747",
+                        "start": 97,
+                        "url": "https://t.co/21knt30uIC"
+                    }
+                ]
+            },
+            "id": 1455654243277365250,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Pfizer: \u0386\u03bb\u03bc\u03b1 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03c9\u03bd \u03ba\u03b1\u03b9 \u03ba\u03b5\u03c1\u03b4\u03ce\u03bd, \u03b1\u03bd\u03b1\u03b2\u03b1\u03b8\u03bc\u03af\u03b6\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03ba\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03bb\u03cc\u03b3\u03c9 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19 https://t.co/21knt30uIC"
+        },
+        {
+            "author_id": 2978816009,
+            "conversation_id": 1455564220813164548,
+            "created_at": "2021-11-02 15:55:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1119284519876595714",
+                        "start": 3,
+                        "username": "knowthys_lf"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/358653\u2026",
+                        "end": 102,
+                        "expanded_url": "https://www.capital.gr/diethni/3586538/axiomatouxos-pou-oi-anemboliastoi-pethainoun-askopa-apo-covid",
+                        "start": 79,
+                        "url": "https://t.co/aDKRlzkRHQ"
+                    }
+                ]
+            },
+            "id": 1455564220813164548,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455562472392437765 type=retweeted"
+            ],
+            "text": "RT @knowthys_lf: \u0391\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03c2 \u03a0\u039f\u03a5: \u039f\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03ac\u03c3\u03ba\u03bf\u03c0\u03b1 \u03b1\u03c0\u03cc Covid https://t.co/aDKRlzkRHQ"
+        },
+        {
+            "author_id": 1119284519876595714,
+            "conversation_id": 1455562472392437765,
+            "created_at": "2021-11-02 15:48:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/358653\u2026",
+                        "end": 85,
+                        "expanded_url": "https://www.capital.gr/diethni/3586538/axiomatouxos-pou-oi-anemboliastoi-pethainoun-askopa-apo-covid",
+                        "start": 62,
+                        "url": "https://t.co/aDKRlzkRHQ"
+                    }
+                ]
+            },
+            "id": 1455562472392437765,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0391\u03be\u03b9\u03c9\u03bc\u03b1\u03c4\u03bf\u03cd\u03c7\u03bf\u03c2 \u03a0\u039f\u03a5: \u039f\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03ac\u03c3\u03ba\u03bf\u03c0\u03b1 \u03b1\u03c0\u03cc Covid https://t.co/aDKRlzkRHQ"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455220090157379584,
+            "created_at": "2021-11-01 17:08:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                        "display_url": "capital.gr/health/3591988\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 76,
+                        "status": 200,
+                        "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                        "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "url": "https://t.co/D9A3TNJgST"
+                    }
+                ]
+            },
+            "id": 1455220090157379584,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455208028303724545 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455208028303724545,
+            "created_at": "2021-11-01 16:20:05+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Covid-19 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2.",
+                        "display_url": "capital.gr/health/3591988\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455208032678432782/L-F7e8uG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 61,
+                        "status": 200,
+                        "title": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19",
+                        "unwound_url": "https://www.capital.gr/health/3591988/erxetai-tsiroto-anti-gia-enesimo-embolio-gia-tin-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635750620",
+                        "url": "https://t.co/D9A3TNJgST"
+                    }
+                ]
+            },
+            "id": 1455208028303724545,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0388\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9; '\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf' \u03b1\u03bd\u03c4\u03af \u03b3\u03b9\u03b1 \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19 https://t.co/D9A3TNJgST"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454833465162088450,
+            "created_at": "2021-10-31 15:31:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1454833465162088450,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454809285846872067 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19: \u039f \u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2 \u03b4\u03b5\u03c3\u03bc\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 200 \u03b5\u03ba\u03b1\u03c4. \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c2 2022 https://t.co/d\u2026"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454809285846872067,
+            "created_at": "2021-10-31 13:55:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359188\u2026",
+                        "end": 133,
+                        "expanded_url": "https://www.capital.gr/diethni/3591884/embolia-gia-tin-covid-19-o-kanadas-desmeuetai-na-dorisei-se-anaptussomenes-xores-200-ekat-doseis-entos-2022?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635670422",
+                        "start": 110,
+                        "url": "https://t.co/dMyquQhewR"
+                    }
+                ]
+            },
+            "id": 1454809285846872067,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID-19: \u039f \u039a\u03b1\u03bd\u03b1\u03b4\u03ac\u03c2 \u03b4\u03b5\u03c3\u03bc\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 200 \u03b5\u03ba\u03b1\u03c4. \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03c4\u03cc\u03c2 2022 https://t.co/dMyquQhewR"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454788930335821825,
+            "created_at": "2021-10-31 12:34:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359189\u2026",
+                        "end": 102,
+                        "expanded_url": "https://www.capital.gr/diethni/3591890/rosia-covid-19-rekor-40-993-neon-krousmaton-katagrafike-to-proigoumeno-24oro?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635672680",
+                        "start": 79,
+                        "url": "https://t.co/eox6Kccms3"
+                    }
+                ]
+            },
+            "id": 1454788930335821825,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a1\u03c9\u03c3\u03af\u03b1- covid-19: \u03a1\u03b5\u03ba\u03cc\u03c1 40.993 \u03bd\u03ad\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b5 \u03c4\u03bf \u03c0\u03c1\u03bf\u03b7\u03b3\u03bf\u03cd\u03bc\u03b5\u03bd\u03bf 24\u03c9\u03c1\u03bf https://t.co/eox6Kccms3"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454756047520948225,
+            "created_at": "2021-10-31 10:24:04+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359189\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.capital.gr/diethni/3591892/covid-19-to-pekino-aperripse-os-politika-upokinoumeni-kai-pseudi-tin-amerikaniki-ereuna-gia-tin-proeleusi-tis-pandimias?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635672681",
+                        "start": 121,
+                        "url": "https://t.co/JFIzFSVGzr"
+                    }
+                ]
+            },
+            "id": 1454756047520948225,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Covid-19: \u03a4\u03bf \u03a0\u03b5\u03ba\u03af\u03bd\u03bf \u03b1\u03c0\u03ad\u03c1\u03c1\u03b9\u03c8\u03b5 \u03c9\u03c2 '\u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ac \u03c5\u03c0\u03bf\u03ba\u03b9\u03bd\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7 \u03ba\u03b1\u03b9 \u03c8\u03b5\u03c5\u03b4\u03ae' \u03c4\u03b7\u03bd \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 https://t.co/JFIzFSVGzr"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454500053519933441,
+            "created_at": "2021-10-30 17:26:50+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359180\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.capital.gr/diethni/3591803/g20-o-kinezos-proedros-si-zitise-tin-amoibaia-anagnorisi-ton-embolion-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                        "start": 104,
+                        "url": "https://t.co/rmVfXV7x6p"
+                    }
+                ]
+            },
+            "id": 1454500053519933441,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454499732571688963 type=retweeted"
+            ],
+            "text": "RT @capitalgr: G20: \u039f \u03ba\u03b9\u03bd\u03ad\u03b6\u03bf\u03c2 \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03a3\u03b9 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bc\u03bf\u03b9\u03b2\u03b1\u03af\u03b1 \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 COVID-19 https://t.co/rmVfXV7x6p"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454499732571688963,
+            "created_at": "2021-10-30 17:25:34+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359180\u2026",
+                        "end": 112,
+                        "expanded_url": "https://www.capital.gr/diethni/3591803/g20-o-kinezos-proedros-si-zitise-tin-amoibaia-anagnorisi-ton-embolion-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                        "start": 89,
+                        "url": "https://t.co/rmVfXV7x6p"
+                    }
+                ]
+            },
+            "id": 1454499732571688963,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "G20: \u039f \u03ba\u03b9\u03bd\u03ad\u03b6\u03bf\u03c2 \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03a3\u03b9 \u03b6\u03ae\u03c4\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bc\u03bf\u03b9\u03b2\u03b1\u03af\u03b1 \u03b1\u03bd\u03b1\u03b3\u03bd\u03ce\u03c1\u03b9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 COVID-19 https://t.co/rmVfXV7x6p"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454498917492695043,
+            "created_at": "2021-10-30 17:22:19+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359175\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.capital.gr/diethni/3591750/i-triti-dosi-emboliou-pfizer-biontech-meionei-simantika-ton-kinduno-nosileias-kai-barias-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635579536",
+                        "start": 113,
+                        "url": "https://t.co/dCBqtzJooE"
+                    }
+                ]
+            },
+            "id": 1454498917492695043,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454370993938567168 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer/BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 https://t.co/dCBqtzJooE"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454498592132042753,
+            "created_at": "2021-10-30 17:21:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359178\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.capital.gr/diethni/3591787/germania-covid-19-polu-anisuxi-i-merkel-gia-tin-auxisi-ton-krousmaton-kai-ton-nosileion?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635594197",
+                        "start": 106,
+                        "url": "https://t.co/HkqNONEPWU"
+                    }
+                ]
+            },
+            "id": 1454498592132042753,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454414402636165126 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-Covid-19: '\u03a0\u03bf\u03bb\u03cd \u03b1\u03bd\u03ae\u03c3\u03c5\u03c7\u03b7' \u03b7 \u039c\u03ad\u03c1\u03ba\u03b5\u03bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03b9\u03ce\u03bd https://t.co/HkqNONEPWU"
+        },
+        {
+            "author_id": 922798177,
+            "conversation_id": 1454464144204259331,
+            "created_at": "2021-10-30 15:04:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359180\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.capital.gr/diethni/3591804/filippines-covid-19-imerisio-rekor-423-thanaton-epeita-apo-anataxinomisi-ton-dedomenon?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                        "start": 102,
+                        "url": "https://t.co/01DjiOm3nE"
+                    }
+                ]
+            },
+            "id": 1454464144204259331,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454456679349817358 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u03a6\u03b9\u03bb\u03b9\u03c0\u03c0\u03af\u03bd\u03b5\u03c2-covid-19: \u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 423 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03b1\u03bd\u03b1\u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd https://t.co/01DjiOm3nE"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454456679349817358,
+            "created_at": "2021-10-30 14:34:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359180\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.capital.gr/diethni/3591804/filippines-covid-19-imerisio-rekor-423-thanaton-epeita-apo-anataxinomisi-ton-dedomenon?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635601924",
+                        "start": 87,
+                        "url": "https://t.co/01DjiOm3nE"
+                    }
+                ]
+            },
+            "id": 1454456679349817358,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a6\u03b9\u03bb\u03b9\u03c0\u03c0\u03af\u03bd\u03b5\u03c2-covid-19: \u0397\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 423 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03b1\u03bd\u03b1\u03c4\u03b1\u03be\u03b9\u03bd\u03cc\u03bc\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd https://t.co/01DjiOm3nE"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454415157413793802,
+            "created_at": "2021-10-30 11:49:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359175\u2026",
+                        "end": 133,
+                        "expanded_url": "https://www.capital.gr/diethni/3591753/cop26-kapnogona-plimmures-kai-covid-19-h-glaskobi-etoimazetai-na-upodexthei-ti-sunodo-tou-oie-gia-to-klima?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635581922",
+                        "start": 110,
+                        "url": "https://t.co/hs4HsiNeHS"
+                    }
+                ]
+            },
+            "id": 1454415157413793802,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "COP26: \u039a\u03b1\u03c0\u03bd\u03bf\u03b3\u03cc\u03bd\u03b1, \u03c0\u03bb\u03b7\u03bc\u03bc\u03cd\u03c1\u03b5\u03c2 \u03ba\u03b1\u03b9 covid-19 - H \u0393\u03bb\u03b1\u03c3\u03ba\u03ce\u03b2\u03b7 \u03b5\u03c4\u03bf\u03b9\u03bc\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c5\u03c0\u03bf\u03b4\u03b5\u03c7\u03b8\u03b5\u03af \u03c4\u03b7 \u03c3\u03cd\u03bd\u03bf\u03b4\u03bf \u03c4\u03bf\u03c5 \u039f\u0397\u0395 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03ba\u03bb\u03af\u03bc\u03b1 https://t.co/hs4HsiNeHS"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454414402636165126,
+            "created_at": "2021-10-30 11:46:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359178\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.capital.gr/diethni/3591787/germania-covid-19-polu-anisuxi-i-merkel-gia-tin-auxisi-ton-krousmaton-kai-ton-nosileion?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635594197",
+                        "start": 91,
+                        "url": "https://t.co/HkqNONEPWU"
+                    }
+                ]
+            },
+            "id": 1454414402636165126,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1-Covid-19: '\u03a0\u03bf\u03bb\u03cd \u03b1\u03bd\u03ae\u03c3\u03c5\u03c7\u03b7' \u03b7 \u039c\u03ad\u03c1\u03ba\u03b5\u03bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03b9\u03ce\u03bd https://t.co/HkqNONEPWU"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454413655706161159,
+            "created_at": "2021-10-30 11:43:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359177\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.capital.gr/diethni/3591777/bretania-tha-dorisei-ekatommuria-epipleon-doseis-embolion-kata-tis-covid-19-se-anaptussomenes-xores?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635586902",
+                        "start": 100,
+                        "url": "https://t.co/wvWkgmpjxK"
+                    }
+                ]
+            },
+            "id": 1454413655706161159,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u0398\u03b1 \u03b4\u03c9\u03c1\u03af\u03c3\u03b5\u03b9 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c0\u03bb\u03ad\u03bf\u03bd \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 covid-19 \u03c3\u03b5 \u03b1\u03bd\u03b1\u03c0\u03c4\u03c5\u03c3\u03c3\u03cc\u03bc\u03b5\u03bd\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 https://t.co/wvWkgmpjxK"
+        },
+        {
+            "author_id": 1382655215535599620,
+            "conversation_id": 1454372093286563856,
+            "created_at": "2021-10-30 08:58:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359175\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.capital.gr/diethni/3591750/i-triti-dosi-emboliou-pfizer-biontech-meionei-simantika-ton-kinduno-nosileias-kai-barias-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635579536",
+                        "start": 113,
+                        "url": "https://t.co/dCBqtzJooE"
+                    }
+                ]
+            },
+            "id": 1454372093286563856,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454370993938567168 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer/BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 https://t.co/dCBqtzJooE"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454370993938567168,
+            "created_at": "2021-10-30 08:54:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359175\u2026",
+                        "end": 121,
+                        "expanded_url": "https://www.capital.gr/diethni/3591750/i-triti-dosi-emboliou-pfizer-biontech-meionei-simantika-ton-kinduno-nosileias-kai-barias-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635579536",
+                        "start": 98,
+                        "url": "https://t.co/dCBqtzJooE"
+                    }
+                ]
+            },
+            "id": 1454370993938567168,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer/BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 https://t.co/dCBqtzJooE"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454364058174504966,
+            "created_at": "2021-10-30 08:26:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359174\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.capital.gr/diethni/3591747/kina-covid-19-kleinoun-apo-simera-oi-kinimatografoi-se-sunoikia-tou-pekinou-exaitias-krousmaton-koronoiou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635577150",
+                        "start": 108,
+                        "url": "https://t.co/JxWJzLEAEz"
+                    }
+                ]
+            },
+            "id": 1454364058174504966,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03af\u03bd\u03b1- covid-19: \u039a\u03bb\u03b5\u03af\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf\u03b9 \u03ba\u03b9\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03b9 \u03c3\u03b5 \u03c3\u03c5\u03bd\u03bf\u03b9\u03ba\u03af\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd https://t.co/JxWJzLEAEz"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454119405768544256,
+            "created_at": "2021-10-29 16:14:17+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/health/3591658\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.capital.gr/health/3591658/egkumosuni-mporo-na-kano-to-embolio-gripis-kai-to-embolio-covid?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635515467",
+                        "start": 66,
+                        "url": "https://t.co/ZidCP3oAbr"
+                    }
+                ]
+            },
+            "id": 1454119405768544256,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03b3\u03ba\u03c5\u03bc\u03bf\u03c3\u03cd\u03bd\u03b7: \u039c\u03c0\u03bf\u03c1\u03ce \u03bd\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b3\u03c1\u03af\u03c0\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf COVID; https://t.co/ZidCP3oAbr"
+        },
+        {
+            "author_id": 32920782,
+            "conversation_id": 1454056959301328907,
+            "created_at": "2021-10-29 12:06:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "3264486358",
+                        "start": 3,
+                        "username": "IoannaDementi"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                        "start": 94,
+                        "url": "https://t.co/I5g3mBnv0I"
+                    }
+                ]
+            },
+            "id": 1454056959301328907,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453715656411521040 type=retweeted"
+            ],
+            "text": "RT @IoannaDementi: \u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/I5g3mBnv0I"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453781973063946241,
+            "created_at": "2021-10-28 17:53:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                        "start": 90,
+                        "url": "https://t.co/yR3wnQIhk6"
+                    }
+                ]
+            },
+            "id": 1453781973063946241,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453714483113697281 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/yR3wnQIhk6"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453740640311955458,
+            "created_at": "2021-10-28 15:09:12+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591400/covid-19-kliniki-dokimi-deixnei-entharruntika-apotelesmata-apo-ena-antikatathliptiko-farmako?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635404562",
+                        "start": 92,
+                        "url": "https://t.co/HvuZ1iR7yg"
+                    }
+                ]
+            },
+            "id": 1453740640311955458,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "COVID-19: \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae \u03b4\u03bf\u03ba\u03b9\u03bc\u03ae \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03b5\u03bd\u03b8\u03b1\u03c1\u03c1\u03c5\u03bd\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03cc \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf https://t.co/HvuZ1iR7yg"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453739301343219712,
+            "created_at": "2021-10-28 15:03:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0394\u03b5\u03ba\u03c4\u03ac \u03b8\u03b1 \u03b3\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u0395 \u03c4\u03b1 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ac \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd COVID19 \u03c0\u03bf\u03c5 \u03b5\u03ba\u03b4\u03af\u03b4\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0391\u03c1\u03bc\u03b5\u03bd\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bf\u03b9 \u03b5\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03bb\u03b5\u03c5\u03c1\u03ac \u03c4\u03bf\u03c5\u03c2 \u03b8\u03b1 \u03b4\u03ad\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03bf \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03cc \u03a8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03a0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc.",
+                        "display_url": "capital.gr/diethni/359144\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.capital.gr/diethni/3591442/komision-dekta-ta-covid-pistopoiitika-apo-inomeno-basileio-kai-armenia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635421735",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1453739306741284864/sMi3zHt1?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453739306741284864/sMi3zHt1?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 72,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03bc\u03b9\u03c3\u03b9\u03cc\u03bd: \u0394\u03b5\u03ba\u03c4\u03ac \u03c4\u03b1 Covid \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03ba\u03b1\u03b9 \u0391\u03c1\u03bc\u03b5\u03bd\u03af\u03b1",
+                        "unwound_url": "https://www.capital.gr/diethni/3591442/komision-dekta-ta-covid-pistopoiitika-apo-inomeno-basileio-kai-armenia?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635421735",
+                        "url": "https://t.co/tNjzSjcv0r"
+                    }
+                ]
+            },
+            "id": 1453739301343219712,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03bc\u03b9\u03c3\u03b9\u03cc\u03bd: \u0394\u03b5\u03ba\u03c4\u03ac \u03c4\u03b1 Covid \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf \u03ba\u03b1\u03b9 \u0391\u03c1\u03bc\u03b5\u03bd\u03af\u03b1 https://t.co/tNjzSjcv0r"
+        },
+        {
+            "author_id": 3264486358,
+            "conversation_id": 1453715656411521040,
+            "created_at": "2021-10-28 13:29:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                        "start": 75,
+                        "url": "https://t.co/I5g3mBnv0I"
+                    }
+                ]
+            },
+            "id": 1453715656411521040,
+            "public_metrics": {
+                "like_count": 11,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/I5g3mBnv0I"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453714483113697281,
+            "created_at": "2021-10-28 13:25:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.capital.gr/diethni/3591431/eurobouli-eisodos-mono-me-prasino-psifiako-pistopoiitiko-kata-tis-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419115",
+                        "start": 75,
+                        "url": "https://t.co/yR3wnQIhk6"
+                    }
+                ]
+            },
+            "id": 1453714483113697281,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03c5\u03c1\u03c9\u03b2\u03bf\u03c5\u03bb\u03ae: \u0395\u03af\u03c3\u03bf\u03b4\u03bf\u03c2 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03bf \u03c8\u03b7\u03c6\u03b9\u03b1\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid 19 https://t.co/yR3wnQIhk6"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453683546510483462,
+            "created_at": "2021-10-28 11:22:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359143\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.capital.gr/diethni/3591435/kina-koronoios-mia-triti-poli-se-lokntaoun-epeita-apo-ena-krousma-covid-19?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635419120",
+                        "start": 76,
+                        "url": "https://t.co/aqNWW229Vz"
+                    }
+                ]
+            },
+            "id": 1453683546510483462,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03af\u03bd\u03b1-\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039c\u03b9\u03b1 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c3\u03b5 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1 Covid-19 https://t.co/aqNWW229Vz"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453412326607052812,
+            "created_at": "2021-10-27 17:24:36+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591332",
+                        "end": 128,
+                        "expanded_url": "http://www.capital.gr/story/3591332",
+                        "start": 105,
+                        "url": "https://t.co/8m7Y7wr048"
+                    }
+                ]
+            },
+            "id": 1453412326607052812,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453403453657595912 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u0395\u03a3\u03a5 \u03bc\u03b5 \u03c0\u03b5\u03bd\u03c4\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b3\u03b9\u03b1 covid \u03ba\u03b1\u03b9 non covid \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 https://t.co/8m7Y7wr048"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1453403453657595912,
+            "created_at": "2021-10-27 16:49:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3591332",
+                        "end": 113,
+                        "expanded_url": "http://www.capital.gr/story/3591332",
+                        "start": 90,
+                        "url": "https://t.co/8m7Y7wr048"
+                    }
+                ]
+            },
+            "id": 1453403453657595912,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u0395\u03a3\u03a5 \u03bc\u03b5 \u03c0\u03b5\u03bd\u03c4\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03b3\u03b9\u03b1 covid \u03ba\u03b1\u03b9 non covid \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03b9\u03c2 \u03c3\u03c4\u03b7 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 https://t.co/8m7Y7wr048"
+        }
+    ]
+}

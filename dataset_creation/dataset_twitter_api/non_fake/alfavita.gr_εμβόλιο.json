@@ -1,0 +1,84 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2014-06-02 21:15:23+00:00",
+                "description": "\u03a7\u03b7\u03bc\u03b9\u03ba\u03cc\u03c2 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2 - \u03a6\u03c5\u03c3\u03b9\u03ba\u03cc\u03c2",
+                "id": 2542148664,
+                "name": "\u0392\u0391\u03a1\u0395\u039b\u0391\u03a3 \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 60,
+                    "following_count": 44,
+                    "listed_count": 0,
+                    "tweet_count": 33683
+                },
+                "username": "gvarelas1",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-28 20:34:20+00:00",
+                "description": "\u03a4\u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7, \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03b3\u03bf\u03c1\u03ac \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2",
+                "id": 78114955,
+                "name": "alfavita.gr",
+                "public_metrics": {
+                    "followers_count": 12396,
+                    "following_count": 199,
+                    "listed_count": 179,
+                    "tweet_count": 179203
+                },
+                "username": "alfavita",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1455459920829112326,
+            "created_at": "2021-11-02 09:01:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 102,
+                        "id": "78114955",
+                        "start": 93,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2",
+                        "display_url": "alfavita.gr/koinonia/36200\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/362000_embolio-koronoioy-meionei-ton-kindyno-thanatoy-apo-alles-aities",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1455459922339106816/EuD3NPoK?format=jpg&name=orig",
+                                "width": 800
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455459922339106816/EuD3NPoK?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 64,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd: \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 | Alfavita",
+                        "unwound_url": "https://www.alfavita.gr/koinonia/362000_embolio-koronoioy-meionei-ton-kindyno-thanatoy-apo-alles-aities",
+                        "url": "https://t.co/eiJCDxMZDp"
+                    }
+                ]
+            },
+            "id": 1455459920829112326,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd: \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/eiJCDxMZDp \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        }
+    ]
+}

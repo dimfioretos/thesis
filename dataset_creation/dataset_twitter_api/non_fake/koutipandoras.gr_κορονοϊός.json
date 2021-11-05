@@ -1,0 +1,3216 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 202140100,
+                "conversation_id": 1455790699652202497,
+                "created_at": "2021-11-03 06:55:24+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 141,
+                            "start": 131,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 151,
+                            "start": 142,
+                            "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5",
+                            "display_url": "koutipandoras.gr/article/kaprab\u2026",
+                            "end": 175,
+                            "expanded_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                            "images": [
+                                {
+                                    "height": 675,
+                                    "url": "https://pbs.twimg.com/news_img/1455790702068109312/ocdg9LSB?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455790702068109312/ocdg9LSB?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 152,
+                            "status": 200,
+                            "title": "\u039a\u03b1\u03c0\u03c1\u03b1\u03b2\u03ad\u03bb\u03bf\u03c2: \u0397\u00a0\u03b8\u03bd\u03b7\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c3\u03c4\u03b9\u03c2 \u03b5\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03c0\u03b1\u03bd\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03c6\u03c4\u03ac\u03c3\u03b5\u03b9 \u03c4\u03bf 70%",
+                            "unwound_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                            "url": "https://t.co/fHguEH3cmj"
+                        }
+                    ]
+                },
+                "id": 1455790699652202497,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/fHguEH3cmj"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1455790699652202497,
+                "created_at": "2021-11-03 06:55:24+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 141,
+                            "start": 131,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 151,
+                            "start": 142,
+                            "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/kaprab\u2026",
+                            "end": 175,
+                            "expanded_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                            "start": 152,
+                            "url": "https://t.co/fHguEH3cmj"
+                        }
+                    ]
+                },
+                "id": 1455790699652202497,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/fHguEH3cmj"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1455592952923934724,
+                "created_at": "2021-11-02 17:49:38+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 162,
+                            "start": 155,
+                            "tag": "\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1"
+                        },
+                        {
+                            "end": 174,
+                            "start": 163,
+                            "tag": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2"
+                        },
+                        {
+                            "end": 185,
+                            "start": 175,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 196,
+                            "start": 186,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/syriza\u2026",
+                            "end": 221,
+                            "expanded_url": "https://www.koutipandoras.gr/article/syriza-oi-theseis-georgiadi-einai-theseis-mitsotaki-horis-epikoinoniako-retoys",
+                            "start": 198,
+                            "url": "https://t.co/QSVfj9nkr6"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/zGRWLAD3rN",
+                            "end": 245,
+                            "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455592952923934724/photo/1",
+                            "start": 222,
+                            "url": "https://t.co/zGRWLAD3rN"
+                        }
+                    ]
+                },
+                "id": 1455592952923934724,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.\n\n#\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1 #\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/QSVfj9nkr6 https://t.co/zGRWLAD3rN"
+            },
+            {
+                "author_id": 526374412,
+                "conversation_id": 1455592988286013451,
+                "created_at": "2021-11-02 17:49:46+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 162,
+                            "start": 155,
+                            "tag": "\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1"
+                        },
+                        {
+                            "end": 174,
+                            "start": 163,
+                            "tag": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2"
+                        },
+                        {
+                            "end": 185,
+                            "start": 175,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 196,
+                            "start": 186,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/syriza\u2026",
+                            "end": 221,
+                            "expanded_url": "https://www.koutipandoras.gr/article/syriza-oi-theseis-georgiadi-einai-theseis-mitsotaki-horis-epikoinoniako-retoys",
+                            "start": 198,
+                            "url": "https://t.co/7uLTnOLH9Z"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/fBWinH2MiF",
+                            "end": 245,
+                            "expanded_url": "https://twitter.com/hotdoc_mag/status/1455592988286013451/photo/1",
+                            "start": 222,
+                            "url": "https://t.co/fBWinH2MiF"
+                        }
+                    ]
+                },
+                "id": 1455592988286013451,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "\u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.\n\n#\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1 #\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/7uLTnOLH9Z https://t.co/fBWinH2MiF"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1455484082452828160,
+                "created_at": "2021-11-02 10:37:01+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 63,
+                            "start": 53,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 70,
+                            "start": 64,
+                            "tag": "covid"
+                        },
+                        {
+                            "end": 81,
+                            "start": 71,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/katerr\u2026",
+                            "end": 106,
+                            "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                            "start": 83,
+                            "url": "https://t.co/2FLWtNSsJ9"
+                        }
+                    ]
+                },
+                "id": 1455484082452828160,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/2FLWtNSsJ9"
+            },
+            {
+                "author_id": 526374412,
+                "conversation_id": 1455484104779223040,
+                "created_at": "2021-11-02 10:37:06+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 63,
+                            "start": 53,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 70,
+                            "start": 64,
+                            "tag": "covid"
+                        },
+                        {
+                            "end": 81,
+                            "start": 71,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/katerr\u2026",
+                            "end": 106,
+                            "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                            "start": 83,
+                            "url": "https://t.co/fuyhF4oQYr"
+                        }
+                    ]
+                },
+                "id": 1455484104779223040,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/fuyhF4oQYr"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1454537434998480900,
+                "created_at": "2021-10-30 19:55:23+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 114,
+                            "start": 104,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 125,
+                            "start": 115,
+                            "tag": "\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1"
+                        },
+                        {
+                            "end": 135,
+                            "start": 126,
+                            "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                        },
+                        {
+                            "end": 139,
+                            "start": 136,
+                            "tag": "\u039d\u0394"
+                        },
+                        {
+                            "end": 157,
+                            "start": 140,
+                            "tag": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2"
+                        },
+                        {
+                            "end": 169,
+                            "start": 158,
+                            "tag": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2"
+                        },
+                        {
+                            "end": 180,
+                            "start": 170,
+                            "tag": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/i-kybe\u2026",
+                            "end": 205,
+                            "expanded_url": "https://www.koutipandoras.gr/article/i-kybernisi-trehei-kai-den-ftanei-epanexetazei-nea-metra-ypo-tin-exarsi-tis-pandimias",
+                            "start": 182,
+                            "url": "https://t.co/0khyh1nwkd"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/haexBvlq0b",
+                            "end": 229,
+                            "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454537434998480900/photo/1",
+                            "start": 206,
+                            "url": "https://t.co/haexBvlq0b"
+                        }
+                    ]
+                },
+                "id": 1454537434998480900,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bc\u03b9\u03b1 \u03c6\u03bf\u03c1\u03ac, \u03bd\u03b1 \u03c0\u03c1\u03bf\u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1...\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u039d\u0394 #\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2 #\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2 #\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5\n\nhttps://t.co/0khyh1nwkd https://t.co/haexBvlq0b"
+            },
+            {
+                "author_id": 526374412,
+                "conversation_id": 1454478406440062980,
+                "created_at": "2021-10-30 16:00:49+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 64,
+                            "start": 54,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 75,
+                            "start": 65,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 82,
+                            "start": 76,
+                            "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1"
+                        },
+                        {
+                            "end": 92,
+                            "start": 83,
+                            "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/korono\u2026",
+                            "end": 118,
+                            "expanded_url": "https://www.koutipandoras.gr/article/koronoios-4696-nea-kroysmata-404-diasolinomenoi-kai-38-thanatoi?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0ZFwpyeECaDVn63Ieyt3CPLs2Uagh2Okt8gKIOgx24TEqJm6sY7eHy4Ow#Echobox=1635605890",
+                            "start": 95,
+                            "url": "https://t.co/bZkmq6fO7F"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/wKvQyw2r9g",
+                            "end": 142,
+                            "expanded_url": "https://twitter.com/hotdoc_mag/status/1454478406440062980/photo/1",
+                            "start": 119,
+                            "url": "https://t.co/wKvQyw2r9g"
+                        }
+                    ]
+                },
+                "id": 1454478406440062980,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\ud83d\uded1 \u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd!\n\u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1\u2935\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 \n\nhttps://t.co/bZkmq6fO7F https://t.co/wKvQyw2r9g"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1453784069939073025,
+                "created_at": "2021-10-28 18:01:46+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/korono\u2026",
+                            "end": 94,
+                            "expanded_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                            "start": 71,
+                            "url": "https://t.co/DUGqNDcpXY"
+                        }
+                    ]
+                },
+                "id": 1453784069939073025,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. https://t.co/DUGqNDcpXY"
+            },
+            {
+                "author_id": 202140100,
+                "conversation_id": 1453733999923236872,
+                "created_at": "2021-10-28 14:42:49+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "koutipandoras.gr/article/korono\u2026",
+                            "end": 104,
+                            "expanded_url": "https://www.koutipandoras.gr/article/koronoios-sto-kokkino-xana-me-shedon-3000-nea-kroysmata",
+                            "start": 81,
+                            "url": "https://t.co/f7YVFbmciT"
+                        }
+                    ]
+                },
+                "id": 1453733999923236872,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03bf \u00ab\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03be\u03b1\u03bd\u03ac \u03bc\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 3000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 https://t.co/f7YVFbmciT"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2013-10-14 04:16:47+00:00",
+                "description": "One way to find meaning in your life is to seek for the meaning of life",
+                "id": 713846614,
+                "name": "Yannis Kalatzis",
+                "public_metrics": {
+                    "followers_count": 513,
+                    "following_count": 751,
+                    "listed_count": 2,
+                    "tweet_count": 51596
+                },
+                "username": "YKalatzis",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-13 11:45:01+00:00",
+                "description": "",
+                "id": 202140100,
+                "name": "Kouti Pandoras",
+                "public_metrics": {
+                    "followers_count": 171359,
+                    "following_count": 1105,
+                    "listed_count": 811,
+                    "tweet_count": 158910
+                },
+                "username": "Kouti_Pandoras",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-06 21:09:22+00:00",
+                "description": "",
+                "id": 601297552,
+                "name": "WhoMadeWho",
+                "public_metrics": {
+                    "followers_count": 8171,
+                    "following_count": 1763,
+                    "listed_count": 23,
+                    "tweet_count": 171335
+                },
+                "username": "parta__",
+                "verified": false
+            },
+            {
+                "created_at": "2012-03-16 13:04:04+00:00",
+                "description": "",
+                "id": 526374412,
+                "name": "Hot Doc",
+                "public_metrics": {
+                    "followers_count": 84782,
+                    "following_count": 43,
+                    "listed_count": 443,
+                    "tweet_count": 128130
+                },
+                "username": "hotdoc_mag",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-07 15:34:10+00:00",
+                "description": "\ud83d\udc68\u200d\ud83c\udf73 Chef de partie, Writer. Translator, Wordsmith",
+                "id": 17942169,
+                "name": "Anilikos",
+                "public_metrics": {
+                    "followers_count": 844,
+                    "following_count": 838,
+                    "listed_count": 22,
+                    "tweet_count": 30624
+                },
+                "username": "Anilikos",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-08 10:53:59+00:00",
+                "description": "\u03bc\u03b5 \u03c4\u03bf \u03b4\u03af\u03ba\u03b9\u03bf",
+                "id": 1358730673134182400,
+                "name": "vavel",
+                "public_metrics": {
+                    "followers_count": 243,
+                    "following_count": 378,
+                    "listed_count": 1,
+                    "tweet_count": 28807
+                },
+                "username": "Vavelllll",
+                "verified": false
+            },
+            {
+                "created_at": "2017-07-21 15:02:53+00:00",
+                "description": "\u2013Liberte, Egalite, Fraternite...\u270c\ufe0f\u03c3\u03ba\u03b1\u03c4\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b5\u03c2 \n\nAelara \ud83d\udc0e",
+                "id": 888413978094862336,
+                "name": "Dim_ jameson",
+                "public_metrics": {
+                    "followers_count": 1636,
+                    "following_count": 1269,
+                    "listed_count": 4,
+                    "tweet_count": 50592
+                },
+                "username": "mpempinios17",
+                "verified": false
+            },
+            {
+                "created_at": "2011-06-15 16:25:45+00:00",
+                "description": "Be brave and loud!",
+                "id": 317876744,
+                "name": "H XENARl\u00f8S",
+                "public_metrics": {
+                    "followers_count": 1863,
+                    "following_count": 1726,
+                    "listed_count": 27,
+                    "tweet_count": 22684
+                },
+                "username": "hx3n4r10s",
+                "verified": false
+            },
+            {
+                "created_at": "2010-01-31 10:03:27+00:00",
+                "description": "",
+                "id": 110100393,
+                "name": "\u0386\u03bd\u03b5\u03c5_\u039b\u03cc\u03b3\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 101,
+                    "following_count": 86,
+                    "listed_count": 3,
+                    "tweet_count": 8146
+                },
+                "username": "aneflogou",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-05 18:54:20+00:00",
+                "description": "\u00b01985 army\u00b0",
+                "id": 1423356615332352007,
+                "name": "Silent\u039b\u03bf\u039b\ud83c\udff4\u200d\u2620\ufe0f\ud83c\uddfa\ud83c\uddf2\ud83c\uddf3\ud83c\uddf1\ud83c\uddec\ud83c\uddf7\ud83c\uddea\ud83c\uddfa",
+                "public_metrics": {
+                    "followers_count": 44,
+                    "following_count": 58,
+                    "listed_count": 0,
+                    "tweet_count": 4481
+                },
+                "username": "Altius_lol",
+                "verified": false
+            },
+            {
+                "created_at": "2014-11-02 09:51:53+00:00",
+                "description": "Some people think I' m a mythical genius, others think I' m a junkie madman",
+                "id": 2856478103,
+                "name": "Eirini \u2618\ufe0fRenata \u2618\ufe0f13 \u2618\ufe0f",
+                "public_metrics": {
+                    "followers_count": 1416,
+                    "following_count": 558,
+                    "listed_count": 21,
+                    "tweet_count": 23322
+                },
+                "username": "ekasotaki",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-10 09:29:57+00:00",
+                "description": "",
+                "id": 1369581015178612737,
+                "name": "Alex.komn",
+                "public_metrics": {
+                    "followers_count": 248,
+                    "following_count": 112,
+                    "listed_count": 1,
+                    "tweet_count": 58822
+                },
+                "username": "KomnAlex",
+                "verified": false
+            },
+            {
+                "created_at": "2018-02-10 15:13:42+00:00",
+                "description": "",
+                "id": 962343826395402242,
+                "name": "Boss",
+                "public_metrics": {
+                    "followers_count": 206,
+                    "following_count": 284,
+                    "listed_count": 0,
+                    "tweet_count": 9026
+                },
+                "username": "nlPedxpG3CVGOIW",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-18 23:32:10+00:00",
+                "description": "\u0391\u03b3\u03ac\u03c0\u03b7\u03c2\u03b1\u03b3\u03ce\u03bd\u03b1\u03c2\u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03bf\u03c2.\u0397 \u03b3\u03bb\u03ce\u03c3\u03c3\u03b1\u03bc\u03b1\u03c2\u03ad\u03c7\u03b5\u03b9\u03b4\u03c5\u03bf\u03bb\u03ad\u03be\u03b5\u03b9\u03c2:\u03b1\u03b3\u03ac\u03c0\u03b7 \u03ba\u03b1\u03b9 \u03ad\u03c1\u03c9\u03c4\u03b1\u03c2.\u03a0\u03cc\u03c3\u03bf\u03c3\u03c5\u03c7\u03bd\u03ac\u03cc\u03bc\u03c9\u03c2\u03bc\u03c0\u03b5\u03c1\u03b4\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9\u03bf\u03b9\u03b4\u03c5\u03bf\u03c4\u03bf\u03c5\u03c2\u2026\u0397 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7\u03b1\u03bd\u03b1\u03bc\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9\u03cc\u03c4\u03b1\u03bd\u03c0\u03ac\u03c8\u03b5\u03b9\u03c2\u03bd\u03b1\u03ba\u03b1\u03bb\u03b5\u03b9\u03c2\u03c4\u03bf\u03c6\u03cc\u03b2\u03bf \u03b1\u03b3\u03ac\u03c0\u03b7...",
+                "id": 821862778713632768,
+                "name": "\u039b\u0391\u039c\u03a0\u03a1\u039f\u03a3 \u03a7\u0391\u039c\u0397\u039b\u039f\u0398\u03a9\u03a1\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 2796,
+                    "following_count": 4979,
+                    "listed_count": 4,
+                    "tweet_count": 86367
+                },
+                "username": "lilalabros",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-07 10:11:09+00:00",
+                "description": "",
+                "id": 3311719211,
+                "name": "souvlou",
+                "public_metrics": {
+                    "followers_count": 74,
+                    "following_count": 64,
+                    "listed_count": 0,
+                    "tweet_count": 18406
+                },
+                "username": "souvlou",
+                "verified": false
+            },
+            {
+                "created_at": "2019-07-13 20:23:33+00:00",
+                "description": "\u201cWhat cannot be said above all must not be silenced but written.\u201d\n\u2015 Jacques Derrida",
+                "id": 1150138715316084736,
+                "name": "Gopa_Stileto",
+                "public_metrics": {
+                    "followers_count": 892,
+                    "following_count": 1123,
+                    "listed_count": 1,
+                    "tweet_count": 129506
+                },
+                "username": "GStileto",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-21 10:13:58+00:00",
+                "description": "",
+                "id": 3049278317,
+                "name": "SilentSGKHER",
+                "public_metrics": {
+                    "followers_count": 957,
+                    "following_count": 1963,
+                    "listed_count": 1,
+                    "tweet_count": 128473
+                },
+                "username": "SGKHER",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 713846614,
+            "conversation_id": 1455797726692663297,
+            "created_at": "2021-11-03 07:23:20+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1455797726692663297,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455790699652202497 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5\u2026"
+        },
+        {
+            "author_id": 601297552,
+            "conversation_id": 1455795472032014341,
+            "created_at": "2021-11-03 07:14:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1455795472032014341,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455790699652202497 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5\u2026"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455790723056406532,
+            "created_at": "2021-11-03 06:55:30+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 131,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 151,
+                        "start": 142,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/kaprab\u2026",
+                        "end": 175,
+                        "expanded_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                        "start": 152,
+                        "url": "https://t.co/mc91BZNc1p"
+                    }
+                ]
+            },
+            "id": 1455790723056406532,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/mc91BZNc1p"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455790699652202497,
+            "created_at": "2021-11-03 06:55:24+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 141,
+                        "start": 131,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 151,
+                        "start": 142,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5",
+                        "display_url": "koutipandoras.gr/article/kaprab\u2026",
+                        "end": 175,
+                        "expanded_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                        "images": [
+                            {
+                                "height": 675,
+                                "url": "https://pbs.twimg.com/news_img/1455790702068109312/ocdg9LSB?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455790702068109312/ocdg9LSB?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 152,
+                        "status": 200,
+                        "title": "\u039a\u03b1\u03c0\u03c1\u03b1\u03b2\u03ad\u03bb\u03bf\u03c2: \u0397\u00a0\u03b8\u03bd\u03b7\u03c4\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c3\u03c4\u03b9\u03c2 \u03b5\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03c0\u03b1\u03bd\u03b9\u03ba\u03bf\u03bb\u03ac\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03c6\u03c4\u03ac\u03c3\u03b5\u03b9 \u03c4\u03bf 70%",
+                        "unwound_url": "https://www.koutipandoras.gr/article/kaprabelos-i-thnitotita-stis-entatikes-toy-papanikolaoy-ehei-ftasei-70",
+                        "url": "https://t.co/fHguEH3cmj"
+                    }
+                ]
+            },
+            "id": 1455790699652202497,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u00ab\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c4\u03b1 \u03b2\u03b3\u03ac\u03bb\u03bf\u03c5\u03bc\u03b5 \u03c0\u03ad\u03c1\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03c0\u03b5\u03c4\u03cc\u03bd, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b1\u03b3\u03cc\u03b2\u03bf\u03c5\u03bd\u03bf\u00bb \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u039c\u0395\u0398 \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/fHguEH3cmj"
+        },
+        {
+            "author_id": 17942169,
+            "conversation_id": 1455623216664387592,
+            "created_at": "2021-11-02 19:49:53+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1455623216664387592,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592952923934724 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u2026"
+        },
+        {
+            "author_id": 1358730673134182400,
+            "conversation_id": 1455616605342339082,
+            "created_at": "2021-11-02 19:23:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1455616605342339082,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592952923934724 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u2026"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455603182965563404,
+            "created_at": "2021-11-02 18:30:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 166,
+                        "start": 158,
+                        "tag": "A\u03c5\u03c3\u03c4\u03c1\u03b9\u03b1"
+                    },
+                    {
+                        "end": 185,
+                        "start": 167,
+                        "tag": "\u03b5\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c3\u03b7_\u03c3\u03ba\u03c5\u03bb\u03bf\u03c5"
+                    },
+                    {
+                        "end": 196,
+                        "start": 186,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/aystri\u2026",
+                        "end": 221,
+                        "expanded_url": "https://www.koutipandoras.gr/article/aystria-skyloi-anihneyoyn-me-tin-osfrisi-toys-ton-koronoio",
+                        "start": 198,
+                        "url": "https://t.co/nMoQ2iZvkC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/gu6CBaponY",
+                        "end": 245,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455603182965563404/photo/1",
+                        "start": 222,
+                        "url": "https://t.co/gu6CBaponY"
+                    }
+                ]
+            },
+            "id": 1455603182965563404,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u0393\u03bd\u03c9\u03c1\u03af\u03b6\u03b1\u03bc\u03b5 \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03ba\u03b1\u03b9\u03c1\u03cc \u03cc\u03c4\u03b9 \u03bf\u03b9 \u03c3\u03ba\u03cd\u03bb\u03bf\u03b9 \u03bc\u03b1\u03c2 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03bd\u03b9\u03c7\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd \u03bc\u03b5 \u03c4\u03b7\u03bd \u03cc\u03c3\u03c6\u03c1\u03b7\u03c3\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03b1 \u03c5\u03bb\u03b9\u03ba\u03ac\u2026 \u038c\u03bc\u03c9\u03c2, \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03b1\u03bc\u03b5 \u03b5\u03b4\u03ce \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03c0\u03bf\u03bb\u03cd \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03bf\u00bb\n\n#A\u03c5\u03c3\u03c4\u03c1\u03b9\u03b1 #\u03b5\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c3\u03b7_\u03c3\u03ba\u03c5\u03bb\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/nMoQ2iZvkC https://t.co/gu6CBaponY"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455603182856441856,
+            "created_at": "2021-11-02 18:30:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 166,
+                        "start": 158,
+                        "tag": "A\u03c5\u03c3\u03c4\u03c1\u03b9\u03b1"
+                    },
+                    {
+                        "end": 185,
+                        "start": 167,
+                        "tag": "\u03b5\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c3\u03b7_\u03c3\u03ba\u03c5\u03bb\u03bf\u03c5"
+                    },
+                    {
+                        "end": 196,
+                        "start": 186,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/aystri\u2026",
+                        "end": 221,
+                        "expanded_url": "https://www.koutipandoras.gr/article/aystria-skyloi-anihneyoyn-me-tin-osfrisi-toys-ton-koronoio",
+                        "start": 198,
+                        "url": "https://t.co/Qpm1BRVkyf"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/k2J0wHSzWK",
+                        "end": 245,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1455603182856441856/photo/1",
+                        "start": 222,
+                        "url": "https://t.co/k2J0wHSzWK"
+                    }
+                ]
+            },
+            "id": 1455603182856441856,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u0393\u03bd\u03c9\u03c1\u03af\u03b6\u03b1\u03bc\u03b5 \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03ba\u03b1\u03b9\u03c1\u03cc \u03cc\u03c4\u03b9 \u03bf\u03b9 \u03c3\u03ba\u03cd\u03bb\u03bf\u03b9 \u03bc\u03b1\u03c2 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03bd\u03b9\u03c7\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd \u03bc\u03b5 \u03c4\u03b7\u03bd \u03cc\u03c3\u03c6\u03c1\u03b7\u03c3\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03b1 \u03c5\u03bb\u03b9\u03ba\u03ac\u2026 \u038c\u03bc\u03c9\u03c2, \u03b1\u03c5\u03c4\u03cc \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03c6\u03ad\u03c1\u03b1\u03bc\u03b5 \u03b5\u03b4\u03ce \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03c0\u03bf\u03bb\u03cd \u03b9\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03bf\u00bb\n\n#A\u03c5\u03c3\u03c4\u03c1\u03b9\u03b1 #\u03b5\u03ba\u03c0\u03b1\u03b9\u03b4\u03b5\u03c5\u03c3\u03b7_\u03c3\u03ba\u03c5\u03bb\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/Qpm1BRVkyf https://t.co/k2J0wHSzWK"
+        },
+        {
+            "author_id": 888413978094862336,
+            "conversation_id": 1455594301552009220,
+            "created_at": "2021-11-02 17:54:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "526374412",
+                        "start": 3,
+                        "username": "hotdoc_mag"
+                    }
+                ]
+            },
+            "id": 1455594301552009220,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592988286013451 type=retweeted"
+            ],
+            "text": "RT @hotdoc_mag: \u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u2026"
+        },
+        {
+            "author_id": 317876744,
+            "conversation_id": 1455593125926342664,
+            "created_at": "2021-11-02 17:50:19+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "526374412",
+                        "start": 3,
+                        "username": "hotdoc_mag"
+                    }
+                ]
+            },
+            "id": 1455593125926342664,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455592988286013451 type=retweeted"
+            ],
+            "text": "RT @hotdoc_mag: \u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u2026"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455592988286013451,
+            "created_at": "2021-11-02 17:49:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 162,
+                        "start": 155,
+                        "tag": "\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1"
+                    },
+                    {
+                        "end": 174,
+                        "start": 163,
+                        "tag": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2"
+                    },
+                    {
+                        "end": 185,
+                        "start": 175,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 196,
+                        "start": 186,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.",
+                        "display_url": "koutipandoras.gr/article/syriza\u2026",
+                        "end": 221,
+                        "expanded_url": "https://www.koutipandoras.gr/article/syriza-oi-theseis-georgiadi-einai-theseis-mitsotaki-horis-epikoinoniako-retoys",
+                        "images": [
+                            {
+                                "height": 675,
+                                "url": "https://pbs.twimg.com/news_img/1455592957944414210/yu1VQc1W?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455592957944414210/yu1VQc1W?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 198,
+                        "status": 200,
+                        "title": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u039f\u03b9 \u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b5\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03b1\u03ba\u03cc \u03c1\u03b5\u03c4\u03bf\u03cd\u03c2",
+                        "unwound_url": "https://www.koutipandoras.gr/article/syriza-oi-theseis-georgiadi-einai-theseis-mitsotaki-horis-epikoinoniako-retoys",
+                        "url": "https://t.co/7uLTnOLH9Z"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/fBWinH2MiF",
+                        "end": 245,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1455592988286013451/photo/1",
+                        "start": 222,
+                        "url": "https://t.co/fBWinH2MiF"
+                    }
+                ]
+            },
+            "id": 1455592988286013451,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.\n\n#\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1 #\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/7uLTnOLH9Z https://t.co/fBWinH2MiF"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455592952923934724,
+            "created_at": "2021-11-02 17:49:38+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 162,
+                        "start": 155,
+                        "tag": "\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1"
+                    },
+                    {
+                        "end": 174,
+                        "start": 163,
+                        "tag": "\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2"
+                    },
+                    {
+                        "end": 185,
+                        "start": 175,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 196,
+                        "start": 186,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/syriza\u2026",
+                        "end": 221,
+                        "expanded_url": "https://www.koutipandoras.gr/article/syriza-oi-theseis-georgiadi-einai-theseis-mitsotaki-horis-epikoinoniako-retoys",
+                        "start": 198,
+                        "url": "https://t.co/QSVfj9nkr6"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zGRWLAD3rN",
+                        "end": 245,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455592952923934724/photo/1",
+                        "start": 222,
+                        "url": "https://t.co/zGRWLAD3rN"
+                    }
+                ]
+            },
+            "id": 1455592952923934724,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u03a3\u03ac\u03bb\u03bf \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03ad\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03ce\u03c1\u03b5\u03c2 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc -\u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bc\u03cc\u03bd\u03bf \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf- \u03bf\u03b9 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b9 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7 \u03c0\u03c9\u03c2 \u03b4\u03b5\u03bd \u03c7\u03c1\u03b5\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.\n\n#\u03a3\u03c5\u03c1\u03b9\u03b6\u03b1 #\u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03b1\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/QSVfj9nkr6 https://t.co/zGRWLAD3rN"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455576884545216512,
+            "created_at": "2021-11-02 16:45:47+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 54,
+                        "tag": "\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03b7"
+                    },
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/tromaz\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.koutipandoras.gr/article/tromazei-i-katanomi-ton-kroysmaton-1329-kroysmata-stin-attiki-1108-i-thessaloniki-shedon",
+                        "start": 87,
+                        "url": "https://t.co/UDDNhgfPAb"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/NVt9auNAoQ",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1455576884545216512/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/NVt9auNAoQ"
+                    }
+                ]
+            },
+            "id": 1455576884545216512,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03ae \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \n\n#\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03b7 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/UDDNhgfPAb https://t.co/NVt9auNAoQ"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455576861124276229,
+            "created_at": "2021-11-02 16:45:41+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 54,
+                        "tag": "\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03b7"
+                    },
+                    {
+                        "end": 74,
+                        "start": 64,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/tromaz\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.koutipandoras.gr/article/tromazei-i-katanomi-ton-kroysmaton-1329-kroysmata-stin-attiki-1108-i-thessaloniki-shedon",
+                        "start": 87,
+                        "url": "https://t.co/t4f4NIofcu"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/JkwXvfZbdd",
+                        "end": 134,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455576861124276229/photo/1",
+                        "start": 111,
+                        "url": "https://t.co/JkwXvfZbdd"
+                    }
+                ]
+            },
+            "id": 1455576861124276229,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03b1\u03b2\u03ac\u03c3\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03ae \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \n\n#\u03ba\u03b1\u03c4\u03b1\u03bd\u03bf\u03bc\u03b7 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/t4f4NIofcu https://t.co/JkwXvfZbdd"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455568399300546567,
+            "created_at": "2021-11-02 16:12:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "\u03a0\u03bb\u03b5\u03c5\u03c1\u03b7\u03c2"
+                    },
+                    {
+                        "end": 101,
+                        "start": 87,
+                        "tag": "live_\u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c3\u03b7"
+                    },
+                    {
+                        "end": 108,
+                        "start": 102,
+                        "tag": "\u03bc\u03b5\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/pleyri\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.koutipandoras.gr/article/pleyris-ta-nea-metra-gia-estiasi-rapid-kai-eleghoys",
+                        "start": 121,
+                        "url": "https://t.co/PFuvTzoR2j"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/UWXPIwSPfG",
+                        "end": 168,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455568399300546567/photo/1",
+                        "start": 145,
+                        "url": "https://t.co/UWXPIwSPfG"
+                    }
+                ]
+            },
+            "id": 1455568399300546567,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: Live \u03bf\u03b9 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c3\u03c7\u03b5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\n\n#\u03a0\u03bb\u03b5\u03c5\u03c1\u03b7\u03c2 #live_\u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c3\u03b7 #\u03bc\u03b5\u03c4\u03c1\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/PFuvTzoR2j https://t.co/UWXPIwSPfG"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455568367348236288,
+            "created_at": "2021-11-02 16:11:56+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 86,
+                        "start": 78,
+                        "tag": "\u03a0\u03bb\u03b5\u03c5\u03c1\u03b7\u03c2"
+                    },
+                    {
+                        "end": 101,
+                        "start": 87,
+                        "tag": "live_\u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c3\u03b7"
+                    },
+                    {
+                        "end": 108,
+                        "start": 102,
+                        "tag": "\u03bc\u03b5\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/pleyri\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.koutipandoras.gr/article/pleyris-ta-nea-metra-gia-estiasi-rapid-kai-eleghoys",
+                        "start": 121,
+                        "url": "https://t.co/TlnpsZjPni"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/UGxA95kZ90",
+                        "end": 168,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1455568367348236288/photo/1",
+                        "start": 145,
+                        "url": "https://t.co/UGxA95kZ90"
+                    }
+                ]
+            },
+            "id": 1455568367348236288,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u039a\u03a4\u0391\u039a\u03a4\u039f: Live \u03bf\u03b9 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03c3\u03c7\u03b5\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2\n\n#\u03a0\u03bb\u03b5\u03c5\u03c1\u03b7\u03c2 #live_\u03bc\u03b5\u03c4\u03b1\u03b4\u03bf\u03c3\u03b7 #\u03bc\u03b5\u03c4\u03c1\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/TlnpsZjPni https://t.co/UGxA95kZ90"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455559106689908738,
+            "created_at": "2021-11-02 15:35:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 129,
+                        "start": 119,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 140,
+                        "start": 130,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 158,
+                        "start": 141,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/neo-ma\u2026",
+                        "end": 183,
+                        "expanded_url": "https://www.koutipandoras.gr/article/neo-mayro-rekor-kroysmaton",
+                        "start": 160,
+                        "url": "https://t.co/AYz10iAH1n"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/39rQRhyH46",
+                        "end": 207,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1455559106689908738/photo/1",
+                        "start": 184,
+                        "url": "https://t.co/39rQRhyH46"
+                    }
+                ]
+            },
+            "id": 1455559106689908738,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1: \u03a4\u03b1 \u03bd\u03ad\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 6.700!\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd\n\nhttps://t.co/AYz10iAH1n https://t.co/39rQRhyH46"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455559078965661701,
+            "created_at": "2021-11-02 15:35:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 129,
+                        "start": 119,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 140,
+                        "start": 130,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 158,
+                        "start": 141,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/neo-ma\u2026",
+                        "end": 183,
+                        "expanded_url": "https://www.koutipandoras.gr/article/neo-mayro-rekor-kroysmaton",
+                        "start": 160,
+                        "url": "https://t.co/0wYA6ojzcq"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/zutDkOm4M3",
+                        "end": 207,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1455559078965661701/photo/1",
+                        "start": 184,
+                        "url": "https://t.co/zutDkOm4M3"
+                    }
+                ]
+            },
+            "id": 1455559078965661701,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1: \u03a4\u03b1 \u03bd\u03ad\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 6.700!\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd\n\nhttps://t.co/0wYA6ojzcq https://t.co/zutDkOm4M3"
+        },
+        {
+            "author_id": 110100393,
+            "conversation_id": 1455514179125788679,
+            "created_at": "2021-11-02 12:36:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 90,
+                        "start": 84,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 101,
+                        "start": 91,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/katerr\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                        "start": 103,
+                        "url": "https://t.co/2FLWtNSsJ9"
+                    }
+                ]
+            },
+            "id": 1455514179125788679,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455484082452828160 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/2FLWtNSsJ9"
+        },
+        {
+            "author_id": 1423356615332352007,
+            "conversation_id": 1455493666882134021,
+            "created_at": "2021-11-02 11:15:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 83,
+                        "start": 73,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 90,
+                        "start": 84,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 101,
+                        "start": 91,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/katerr\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                        "start": 103,
+                        "url": "https://t.co/2FLWtNSsJ9"
+                    }
+                ]
+            },
+            "id": 1455493666882134021,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455484082452828160 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/2FLWtNSsJ9"
+        },
+        {
+            "author_id": 2856478103,
+            "conversation_id": 1455484182512218113,
+            "created_at": "2021-11-02 10:37:25+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 69,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 86,
+                        "start": 80,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 97,
+                        "start": 87,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "526374412",
+                        "start": 3,
+                        "username": "hotdoc_mag"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/katerr\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                        "start": 99,
+                        "url": "https://t.co/fuyhF4oQYr"
+                    }
+                ]
+            },
+            "id": 1455484182512218113,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455484104779223040 type=retweeted"
+            ],
+            "text": "RT @hotdoc_mag: \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/fuyhF4oQYr"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455484104779223040,
+            "created_at": "2021-11-02 10:37:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 53,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 70,
+                        "start": 64,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 81,
+                        "start": 71,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/katerr\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                        "start": 83,
+                        "url": "https://t.co/fuyhF4oQYr"
+                    }
+                ]
+            },
+            "id": 1455484104779223040,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/fuyhF4oQYr"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455484082452828160,
+            "created_at": "2021-11-02 10:37:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 53,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 70,
+                        "start": 64,
+                        "tag": "covid"
+                    },
+                    {
+                        "end": 81,
+                        "start": 71,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/katerr\u2026",
+                        "end": 106,
+                        "expanded_url": "https://www.koutipandoras.gr/article/katerreyse-mprosta-stis-kameres-apo-exantlisi-o-dieythyntis-tis-klinikis-covid-video",
+                        "start": 83,
+                        "url": "https://t.co/2FLWtNSsJ9"
+                    }
+                ]
+            },
+            "id": 1455484082452828160,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf \u03b2\u03af\u03bd\u03c4\u03b5\u03bf \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03c9\u03bd\n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #covid #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\n\nhttps://t.co/2FLWtNSsJ9"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455408168423600133,
+            "created_at": "2021-11-02 05:35:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 98,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 118,
+                        "start": 109,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/espase\u2026",
+                        "end": 142,
+                        "expanded_url": "https://www.koutipandoras.gr/article/espase-fragma-ton-5-ekatommyrion-episimon-thanaton-apo-koronoio",
+                        "start": 119,
+                        "url": "https://t.co/OsLkGZ8vw3"
+                    }
+                ]
+            },
+            "id": 1455408168423600133,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03ce\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b1\u03bd\u03ac \u03ae\u03c0\u03b5\u03b9\u03c1\u03bf - \u03a0\u03bf\u03b9\u03b5\u03c2 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ad\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bd \u03c4\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/OsLkGZ8vw3"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455408149268160516,
+            "created_at": "2021-11-02 05:35:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 98,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 118,
+                        "start": 109,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/espase\u2026",
+                        "end": 142,
+                        "expanded_url": "https://www.koutipandoras.gr/article/espase-fragma-ton-5-ekatommyrion-episimon-thanaton-apo-koronoio",
+                        "start": 119,
+                        "url": "https://t.co/3L6TnvFywH"
+                    }
+                ]
+            },
+            "id": 1455408149268160516,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03ce\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b1\u03bd\u03ac \u03ae\u03c0\u03b5\u03b9\u03c1\u03bf - \u03a0\u03bf\u03b9\u03b5\u03c2 \u03b5\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ad\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bd \u03c4\u03b7 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/3L6TnvFywH"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455085999923544069,
+            "created_at": "2021-11-01 08:15:11+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 84,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/covid-\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.koutipandoras.gr/article/covid-19-sta-5-ekatommyria-oi-episimoi-thanatoi-apo-koronoio-ston-kosmo",
+                        "start": 105,
+                        "url": "https://t.co/wp3opNE8MS"
+                    }
+                ]
+            },
+            "id": 1455085999923544069,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03bf\u03bb\u03cd \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u03c2 \u03bf \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd - \u03a0\u03bf\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c7\u03c9\u03c1\u03ce\u03bd; #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/wp3opNE8MS"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455085979979685890,
+            "created_at": "2021-11-01 08:15:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 84,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 104,
+                        "start": 95,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/covid-\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.koutipandoras.gr/article/covid-19-sta-5-ekatommyria-oi-episimoi-thanatoi-apo-koronoio-ston-kosmo",
+                        "start": 105,
+                        "url": "https://t.co/ALTKk5RlYH"
+                    }
+                ]
+            },
+            "id": 1455085979979685890,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03bf\u03bb\u03cd \u03c5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u03c2 \u03bf \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd - \u03a0\u03bf\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd \u03c4\u03c9\u03bd \u03c7\u03c9\u03c1\u03ce\u03bd; #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1\nhttps://t.co/ALTKk5RlYH"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1455065936332009477,
+            "created_at": "2021-11-01 06:55:27+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 131,
+                        "tag": "\u03c4\u03c3\u03b9\u03c1\u03bf\u03c4\u03bf"
+                    },
+                    {
+                        "end": 148,
+                        "start": 140,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 159,
+                        "start": 149,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/ereyni\u2026",
+                        "end": 183,
+                        "expanded_url": "https://www.koutipandoras.gr/article/ereynites-dokimasan-peiramatiko-tsiroto-anti-gia-embolio-kata-tis-covid-19",
+                        "start": 160,
+                        "url": "https://t.co/iOF1fijiBb"
+                    }
+                ]
+            },
+            "id": 1455065936332009477,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "To \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03b9\u03b1\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03cc,\u03c4\u03b9 \u03c4\u03b1 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ac \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 #\u03c4\u03c3\u03b9\u03c1\u03bf\u03c4\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/iOF1fijiBb"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1455065912202211328,
+            "created_at": "2021-11-01 06:55:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 139,
+                        "start": 131,
+                        "tag": "\u03c4\u03c3\u03b9\u03c1\u03bf\u03c4\u03bf"
+                    },
+                    {
+                        "end": 148,
+                        "start": 140,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 159,
+                        "start": 149,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/ereyni\u2026",
+                        "end": 183,
+                        "expanded_url": "https://www.koutipandoras.gr/article/ereynites-dokimasan-peiramatiko-tsiroto-anti-gia-embolio-kata-tis-covid-19",
+                        "start": 160,
+                        "url": "https://t.co/PKhbYhQbP5"
+                    }
+                ]
+            },
+            "id": 1455065912202211328,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "To \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03b9\u03b1\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03cc,\u03c4\u03b9 \u03c4\u03b1 \u03c0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ac \u03b5\u03bd\u03ad\u03c3\u03b9\u03bc\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 #\u03c4\u03c3\u03b9\u03c1\u03bf\u03c4\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/PKhbYhQbP5"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1454906310206664706,
+            "created_at": "2021-10-31 20:21:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 72,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 90,
+                        "start": 83,
+                        "tag": "\u03a1\u03c9\u03c3\u03c3\u03b9\u03b1"
+                    },
+                    {
+                        "end": 98,
+                        "start": 91,
+                        "tag": "\u03b3\u03b9\u03b1\u03b3\u03b9\u03b1"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "\u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/ntythi\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.koutipandoras.gr/article/ntythike-giatros-kai-frontize-kryfa-tin-arrosti-me-covid-giagia-toy-sto-nosokomeio",
+                        "start": 109,
+                        "url": "https://t.co/UYqcaTjeVj"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/O2x34JX48Z",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454906310206664706/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/O2x34JX48Z"
+                    }
+                ]
+            },
+            "id": 1454906310206664706,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03bf\u03cd\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03bc\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5 \u03c4\u03b7 \u03b3\u03b9\u03b1\u03b3\u03b9\u03ac \u03c4\u03bf\u03c5.\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03a1\u03c9\u03c3\u03c3\u03b9\u03b1 #\u03b3\u03b9\u03b1\u03b3\u03b9\u03b1 #\u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03c2\n\nhttps://t.co/UYqcaTjeVj https://t.co/O2x34JX48Z"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1454906265486888961,
+            "created_at": "2021-10-31 20:20:59+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 82,
+                        "start": 72,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 90,
+                        "start": 83,
+                        "tag": "\u03a1\u03c9\u03c3\u03c3\u03b9\u03b1"
+                    },
+                    {
+                        "end": 98,
+                        "start": 91,
+                        "tag": "\u03b3\u03b9\u03b1\u03b3\u03b9\u03b1"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "\u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/ntythi\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.koutipandoras.gr/article/ntythike-giatros-kai-frontize-kryfa-tin-arrosti-me-covid-giagia-toy-sto-nosokomeio",
+                        "start": 109,
+                        "url": "https://t.co/7Ab65ALpRA"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jzN0g2fRe4",
+                        "end": 156,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1454906265486888961/photo/1",
+                        "start": 133,
+                        "url": "https://t.co/jzN0g2fRe4"
+                    }
+                ]
+            },
+            "id": 1454906265486888961,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03bd\u03b7\u03c3\u03c5\u03c7\u03bf\u03cd\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc \u03c4\u03bf\u03c5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03bc\u03b5\u03bb\u03bf\u03cd\u03c3\u03b5 \u03c4\u03b7 \u03b3\u03b9\u03b1\u03b3\u03b9\u03ac \u03c4\u03bf\u03c5.\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03a1\u03c9\u03c3\u03c3\u03b9\u03b1 #\u03b3\u03b9\u03b1\u03b3\u03b9\u03b1 #\u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03c2\n\nhttps://t.co/7Ab65ALpRA https://t.co/jzN0g2fRe4"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1454838920345235460,
+            "created_at": "2021-10-31 15:53:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 194,
+                        "start": 184,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 205,
+                        "start": 195,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 211,
+                        "start": 206,
+                        "tag": "\u0395\u039f\u0394\u03a5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 236,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-44-thanatoi-2727-nea-kroysmata-kai-421-diasolinomenoi#",
+                        "start": 213,
+                        "url": "https://t.co/ceYUCkvdfT"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/uRNfp1zHQR",
+                        "end": 260,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454838920345235460/photo/1",
+                        "start": 237,
+                        "url": "https://t.co/uRNfp1zHQR"
+                    }
+                ]
+            },
+            "id": 1454838920345235460,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 COVID-19 \u03b5\u03af\u03bd\u03b1\u03b9 44, \u03b5\u03bd\u03ce \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac 15.938 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9. \u03a4\u03bf 95.4% \u03b5\u03af\u03c7\u03b5 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \u03bd\u03cc\u03c3\u03b7\u03bc\u03b1 \u03ae/\u03ba\u03b1\u03b9 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1 70 \u03b5\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03ac\u03bd\u03c9.\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u039f\u0394\u03a5\n\nhttps://t.co/ceYUCkvdfT https://t.co/uRNfp1zHQR"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1454838858978402310,
+            "created_at": "2021-10-31 15:53:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 194,
+                        "start": 184,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 205,
+                        "start": 195,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 211,
+                        "start": 206,
+                        "tag": "\u0395\u039f\u0394\u03a5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 236,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-44-thanatoi-2727-nea-kroysmata-kai-421-diasolinomenoi#",
+                        "start": 213,
+                        "url": "https://t.co/mQIMYOrc16"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/7sKyT5rx3d",
+                        "end": 260,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1454838858978402310/photo/1",
+                        "start": 237,
+                        "url": "https://t.co/7sKyT5rx3d"
+                    }
+                ]
+            },
+            "id": 1454838858978402310,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 COVID-19 \u03b5\u03af\u03bd\u03b1\u03b9 44, \u03b5\u03bd\u03ce \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac 15.938 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9. \u03a4\u03bf 95.4% \u03b5\u03af\u03c7\u03b5 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \u03bd\u03cc\u03c3\u03b7\u03bc\u03b1 \u03ae/\u03ba\u03b1\u03b9 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1 70 \u03b5\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03ac\u03bd\u03c9.\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u039f\u0394\u03a5\n\nhttps://t.co/mQIMYOrc16 https://t.co/7sKyT5rx3d"
+        },
+        {
+            "author_id": 1369581015178612737,
+            "conversation_id": 1454569891072258049,
+            "created_at": "2021-10-30 22:04:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 124,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1454569891072258049,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454537434998480900 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bc\u03b9\u03b1 \u03c6\u03bf\u03c1\u03ac, \u03bd\u03b1 \u03c0\u03c1\u03bf\u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1...\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1\u2026"
+        },
+        {
+            "author_id": 962343826395402242,
+            "conversation_id": 1454540873925111813,
+            "created_at": "2021-10-30 20:09:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 134,
+                        "start": 124,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ]
+            },
+            "id": 1454540873925111813,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454537434998480900 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bc\u03b9\u03b1 \u03c6\u03bf\u03c1\u03ac, \u03bd\u03b1 \u03c0\u03c1\u03bf\u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1...\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1\u2026"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1454537434998480900,
+            "created_at": "2021-10-30 19:55:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 104,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 125,
+                        "start": 115,
+                        "tag": "\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 135,
+                        "start": 126,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 139,
+                        "start": 136,
+                        "tag": "\u039d\u0394"
+                    },
+                    {
+                        "end": 157,
+                        "start": 140,
+                        "tag": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2"
+                    },
+                    {
+                        "end": 169,
+                        "start": 158,
+                        "tag": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2"
+                    },
+                    {
+                        "end": 180,
+                        "start": 170,
+                        "tag": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/i-kybe\u2026",
+                        "end": 205,
+                        "expanded_url": "https://www.koutipandoras.gr/article/i-kybernisi-trehei-kai-den-ftanei-epanexetazei-nea-metra-ypo-tin-exarsi-tis-pandimias",
+                        "start": 182,
+                        "url": "https://t.co/0khyh1nwkd"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/haexBvlq0b",
+                        "end": 229,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454537434998480900/photo/1",
+                        "start": 206,
+                        "url": "https://t.co/haexBvlq0b"
+                    }
+                ]
+            },
+            "id": 1454537434998480900,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bc\u03b9\u03b1 \u03c6\u03bf\u03c1\u03ac, \u03bd\u03b1 \u03c0\u03c1\u03bf\u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1...\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u039d\u0394 #\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2 #\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2 #\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5\n\nhttps://t.co/0khyh1nwkd https://t.co/haexBvlq0b"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1454537389385396231,
+            "created_at": "2021-10-30 19:55:12+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 114,
+                        "start": 104,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 125,
+                        "start": 115,
+                        "tag": "\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 135,
+                        "start": 126,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 139,
+                        "start": 136,
+                        "tag": "\u039d\u0394"
+                    },
+                    {
+                        "end": 157,
+                        "start": 140,
+                        "tag": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2"
+                    },
+                    {
+                        "end": 169,
+                        "start": 158,
+                        "tag": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2"
+                    },
+                    {
+                        "end": 180,
+                        "start": 170,
+                        "tag": "\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/i-kybe\u2026",
+                        "end": 205,
+                        "expanded_url": "https://www.koutipandoras.gr/article/i-kybernisi-trehei-kai-den-ftanei-epanexetazei-nea-metra-ypo-tin-exarsi-tis-pandimias",
+                        "start": 182,
+                        "url": "https://t.co/hkpxo08kwo"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/mxjdtguMSv",
+                        "end": 229,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1454537389385396231/photo/1",
+                        "start": 206,
+                        "url": "https://t.co/mxjdtguMSv"
+                    }
+                ]
+            },
+            "id": 1454537389385396231,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03bc\u03b9\u03b1 \u03c6\u03bf\u03c1\u03ac, \u03bd\u03b1 \u03c0\u03c1\u03bf\u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1...\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bd\u03b5\u03b1_\u03bc\u03b5\u03c4\u03c1\u03b1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u039d\u0394 #\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03b9\u03bf_\u03a5\u03b3\u03b5\u03b9\u03b1\u03c2 #\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7\u03c2 #\u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03bf\u03c5\n\nhttps://t.co/hkpxo08kwo https://t.co/mxjdtguMSv"
+        },
+        {
+            "author_id": 821862778713632768,
+            "conversation_id": 1454519725300592643,
+            "created_at": "2021-10-30 18:45:00+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 70,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 91,
+                        "start": 81,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 98,
+                        "start": 92,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1"
+                    },
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "526374412",
+                        "start": 3,
+                        "username": "hotdoc_mag"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 134,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-4696-nea-kroysmata-404-diasolinomenoi-kai-38-thanatoi?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0ZFwpyeECaDVn63Ieyt3CPLs2Uagh2Okt8gKIOgx24TEqJm6sY7eHy4Ow#Echobox=1635605890",
+                        "start": 111,
+                        "url": "https://t.co/bZkmq6fO7F"
+                    }
+                ]
+            },
+            "id": 1454519725300592643,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454478406440062980 type=retweeted"
+            ],
+            "text": "RT @hotdoc_mag: \ud83d\uded1 \u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd!\n\u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1\u2935\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 \n\nhttps://t.co/bZkmq6fO7F http\u2026"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1454485736657494030,
+            "created_at": "2021-10-30 16:29:57+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 105,
+                        "tag": "\u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03b1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    },
+                    {
+                        "end": 143,
+                        "start": 126,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    },
+                    {
+                        "end": 153,
+                        "start": 144,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 164,
+                        "start": 154,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 170,
+                        "start": 165,
+                        "tag": "\u0395\u039f\u0394\u03a5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/sarone\u2026",
+                        "end": 195,
+                        "expanded_url": "https://www.koutipandoras.gr/article/saronei-ti-hora-o-koronoios-10-periohes-me-tripsifio-arithmo-kroysmaton",
+                        "start": 172,
+                        "url": "https://t.co/W3lrEAD84p"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/QYSrZfimJt",
+                        "end": 219,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1454485736657494030/photo/1",
+                        "start": 196,
+                        "url": "https://t.co/QYSrZfimJt"
+                    }
+                ]
+            },
+            "id": 1454485736657494030,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b5 \u03c0\u03bf\u03bb\u03bb\u03ad\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5.\n\u2935\u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03b7 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd\n\n#\u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03b1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd #\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u039f\u0394\u03a5\n\nhttps://t.co/W3lrEAD84p https://t.co/QYSrZfimJt"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1454485688481689602,
+            "created_at": "2021-10-30 16:29:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 105,
+                        "tag": "\u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03b1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    },
+                    {
+                        "end": 143,
+                        "start": 126,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd"
+                    },
+                    {
+                        "end": 153,
+                        "start": 144,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 164,
+                        "start": 154,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 170,
+                        "start": 165,
+                        "tag": "\u0395\u039f\u0394\u03a5"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/sarone\u2026",
+                        "end": 195,
+                        "expanded_url": "https://www.koutipandoras.gr/article/saronei-ti-hora-o-koronoios-10-periohes-me-tripsifio-arithmo-kroysmaton",
+                        "start": 172,
+                        "url": "https://t.co/8pnKHKHvH9"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/UBQz2qJHmz",
+                        "end": 219,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454485688481689602/photo/1",
+                        "start": 196,
+                        "url": "https://t.co/UBQz2qJHmz"
+                    }
+                ]
+            },
+            "id": 1454485688481689602,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b5 \u03c0\u03bf\u03bb\u03bb\u03ad\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03b7 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u03bc\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5.\n\u2935\u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03b7 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac \u03c4\u03c9\u03bd \u03bd\u03ad\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd\n\n#\u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03b1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd #\u03c1\u03b5\u03ba\u03bf\u03c1_\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03c9\u03bd #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u039f\u0394\u03a5\n\nhttps://t.co/8pnKHKHvH9 https://t.co/UBQz2qJHmz"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1454478455832260621,
+            "created_at": "2021-10-30 16:01:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 54,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 75,
+                        "start": 65,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 82,
+                        "start": 76,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1"
+                    },
+                    {
+                        "end": 92,
+                        "start": 83,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-4696-nea-kroysmata-404-diasolinomenoi-kai-38-thanatoi?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0ZFwpyeECaDVn63Ieyt3CPLs2Uagh2Okt8gKIOgx24TEqJm6sY7eHy4Ow#Echobox=1635605890",
+                        "start": 95,
+                        "url": "https://t.co/aAxHDsiBJo"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/pz8kRtBNoM",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/Kouti_Pandoras/status/1454478455832260621/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/pz8kRtBNoM"
+                    }
+                ]
+            },
+            "id": 1454478455832260621,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\ud83d\uded1 \u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd!\n\u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1\u2935\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 \n\nhttps://t.co/aAxHDsiBJo https://t.co/pz8kRtBNoM"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1454478406440062980,
+            "created_at": "2021-10-30 16:00:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 64,
+                        "start": 54,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 75,
+                        "start": 65,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 82,
+                        "start": 76,
+                        "tag": "\u03c1\u03b5\u03ba\u03bf\u03c1"
+                    },
+                    {
+                        "end": 92,
+                        "start": 83,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 COVID-19 \u03b5\u03af\u03bd\u03b1\u03b9 38, \u03b5\u03bd\u03ce \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03b1\u03c6\u03b5\u03af \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac 15.894 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9. \u03a4\u03bf 95.4% \u03b5\u03af\u03c7\u03b5 \u03c5\u03c0\u03bf\u03ba\u03b5\u03af\u03bc\u03b5\u03bd\u03bf \u03bd\u03cc\u03c3\u03b7\u03bc\u03b1 \u03ae/\u03ba\u03b1\u03b9 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1 70 \u03b5\u03c4\u03ce\u03bd \u03ba\u03b1\u03b9 \u03ac\u03bd\u03c9.",
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-4696-nea-kroysmata-404-diasolinomenoi-kai-38-thanatoi?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0ZFwpyeECaDVn63Ieyt3CPLs2Uagh2Okt8gKIOgx24TEqJm6sY7eHy4Ow#Echobox=1635605890",
+                        "images": [
+                            {
+                                "height": 675,
+                                "url": "https://pbs.twimg.com/news_img/1454478411313917962/M9rEuWUq?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454478411313917962/M9rEuWUq?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 95,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a6\u03c4\u03ac\u03c3\u03b1\u03bc\u03b5 \u03c3\u03b5 \u03bd\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 4.696",
+                        "unwound_url": "https://www.koutipandoras.gr/article/koronoios-4696-nea-kroysmata-404-diasolinomenoi-kai-38-thanatoi?utm_medium=Social&utm_source=Facebook&fbclid=IwAR0ZFwpyeECaDVn63Ieyt3CPLs2Uagh2Okt8gKIOgx24TEqJm6sY7eHy4Ow#Echobox=1635605890",
+                        "url": "https://t.co/bZkmq6fO7F"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/wKvQyw2r9g",
+                        "end": 142,
+                        "expanded_url": "https://twitter.com/hotdoc_mag/status/1454478406440062980/photo/1",
+                        "start": 119,
+                        "url": "https://t.co/wKvQyw2r9g"
+                    }
+                ]
+            },
+            "id": 1454478406440062980,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\ud83d\uded1 \u03a1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd!\n\u0394\u03b5\u03af\u03c4\u03b5 \u03b1\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1\u2935\n\n#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03c1\u03b5\u03ba\u03bf\u03c1 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 \n\nhttps://t.co/bZkmq6fO7F https://t.co/wKvQyw2r9g"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453997544296665089,
+            "created_at": "2021-10-29 08:10:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 160,
+                        "start": 151,
+                        "tag": "\u03bc\u03bf\u03c3\u03b9\u03b1\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 171,
+                        "start": 161,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/mosial\u2026",
+                        "end": 195,
+                        "expanded_url": "https://www.koutipandoras.gr/article/mosialos-den-eihe-epikratisei-i-delta-simera-tha-blepame-tin-exodo",
+                        "start": 172,
+                        "url": "https://t.co/mOMXOwpCEH"
+                    }
+                ]
+            },
+            "id": 1453997544296665089,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ae \u03c3\u03c5\u03bd\u03b5\u03bd\u03bd\u03cc\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ce\u03bd \u03c6\u03bf\u03c1\u03ad\u03c9\u03bd \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c0\u03b5\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03cc\u03c3\u03bf \u03c4\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd, \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 #\u03bc\u03bf\u03c3\u03b9\u03b1\u03bb\u03bf\u03c2 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/mOMXOwpCEH"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453997544246235136,
+            "created_at": "2021-10-29 08:10:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 160,
+                        "start": 151,
+                        "tag": "\u03bc\u03bf\u03c3\u03b9\u03b1\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 171,
+                        "start": 161,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/mosial\u2026",
+                        "end": 195,
+                        "expanded_url": "https://www.koutipandoras.gr/article/mosialos-den-eihe-epikratisei-i-delta-simera-tha-blepame-tin-exodo",
+                        "start": 172,
+                        "url": "https://t.co/JuNbwmYJSb"
+                    }
+                ]
+            },
+            "id": 1453997544246235136,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03c0\u03b1\u03b9\u03c4\u03b5\u03af\u03c4\u03b1\u03b9 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ae \u03c3\u03c5\u03bd\u03b5\u03bd\u03bd\u03cc\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03cc\u03bb\u03c9\u03bd \u03c4\u03c9\u03bd \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03b9\u03ba\u03ce\u03bd \u03c6\u03bf\u03c1\u03ad\u03c9\u03bd \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c0\u03b5\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03cc\u03c3\u03bf \u03c4\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd, \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 #\u03bc\u03bf\u03c3\u03b9\u03b1\u03bb\u03bf\u03c2 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/JuNbwmYJSb"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453986915011682311,
+            "created_at": "2021-10-29 07:27:48+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 43,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 65,
+                        "start": 54,
+                        "tag": "\u03bc\u03b1\u03ba\u03c1\u03b1covid"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/poso-p\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.koutipandoras.gr/article/poso-pithani-einai-i-makra-covid-19-stoys-emboliasmenoys-ti-deihnei-nea-ereyna",
+                        "start": 66,
+                        "url": "https://t.co/knD6NxBjpE"
+                    }
+                ]
+            },
+            "id": 1453986915011682311,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03bf\u03c7\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 60 \u03b5\u03c4\u03ce\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bc\u03b1\u03ba\u03c1\u03b1covid\nhttps://t.co/knD6NxBjpE"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453986895067762691,
+            "created_at": "2021-10-29 07:27:44+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 43,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 65,
+                        "start": 54,
+                        "tag": "\u03bc\u03b1\u03ba\u03c1\u03b1covid"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/poso-p\u2026",
+                        "end": 89,
+                        "expanded_url": "https://www.koutipandoras.gr/article/poso-pithani-einai-i-makra-covid-19-stoys-emboliasmenoys-ti-deihnei-nea-ereyna",
+                        "start": 66,
+                        "url": "https://t.co/dEobzexk6J"
+                    }
+                ]
+            },
+            "id": 1453986895067762691,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03bf\u03c7\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 60 \u03b5\u03c4\u03ce\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bc\u03b1\u03ba\u03c1\u03b1covid\nhttps://t.co/dEobzexk6J"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453968908243767305,
+            "created_at": "2021-10-29 06:16:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 176,
+                        "start": 166,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 185,
+                        "start": 177,
+                        "tag": "covid19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/covid-\u2026",
+                        "end": 209,
+                        "expanded_url": "https://www.koutipandoras.gr/article/covid-19-empodio-stin-anosia-oi-ypotithetai-anikitoi",
+                        "start": 186,
+                        "url": "https://t.co/ddyc11SPFT"
+                    }
+                ]
+            },
+            "id": 1453968908243767305,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 Covid-19 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ae\u03c3\u03b5\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ac \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03b9 \u03c3\u03c4\u03bf \u03bd\u03b1 \u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03bc\u03ad\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf \u03c0\u03c1\u03cc\u03b8\u03c5\u03bc\u03bf\u03b9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #covid19\nhttps://t.co/ddyc11SPFT"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453968884986380304,
+            "created_at": "2021-10-29 06:16:10+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 176,
+                        "start": 166,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 185,
+                        "start": 177,
+                        "tag": "covid19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/covid-\u2026",
+                        "end": 209,
+                        "expanded_url": "https://www.koutipandoras.gr/article/covid-19-empodio-stin-anosia-oi-ypotithetai-anikitoi",
+                        "start": 186,
+                        "url": "https://t.co/fsAuK9gB9d"
+                    }
+                ]
+            },
+            "id": 1453968884986380304,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "O\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 Covid-19 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ae\u03c3\u03b5\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ac \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03b9 \u03c3\u03c4\u03bf \u03bd\u03b1 \u03bb\u03ac\u03b2\u03bf\u03c5\u03bd \u03bc\u03ad\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf \u03c0\u03c1\u03cc\u03b8\u03c5\u03bc\u03bf\u03b9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #covid19\nhttps://t.co/fsAuK9gB9d"
+        },
+        {
+            "author_id": 3311719211,
+            "conversation_id": 1453784619007057924,
+            "created_at": "2021-10-28 18:03:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 93,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                        "start": 70,
+                        "url": "https://t.co/f5Ll8fd6FX"
+                    }
+                ]
+            },
+            "id": 1453784619007057924,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. https://t.co/f5Ll8fd6FX"
+        },
+        {
+            "author_id": 1150138715316084736,
+            "conversation_id": 1453784223144456202,
+            "created_at": "2021-10-28 18:02:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 30,
+                        "start": 20,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                        "start": 91,
+                        "url": "https://t.co/DUGqNDcpXY"
+                    }
+                ]
+            },
+            "id": 1453784223144456202,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453784069939073025 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: #\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. https://t.co/DUGqNDcpXY"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453784069939073025,
+            "created_at": "2021-10-28 18:01:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                        "start": 71,
+                        "url": "https://t.co/DUGqNDcpXY"
+                    }
+                ]
+            },
+            "id": 1453784069939073025,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. https://t.co/DUGqNDcpXY"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453784069913862150,
+            "created_at": "2021-10-28 18:01:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03cd\u03bf \u03b5\u03ba \u03c4\u03c9\u03bd \u03c3\u03c4\u03b5\u03bb\u03b5\u03c7\u03ce\u03bd Delta \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c3\u03c4\u03bf \u03c3\u03c4\u03ad\u03bb\u03b5\u03c7\u03bf\u03c2 \u0391\u03a5.4.2, \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03b5 \u03b4\u03b5\u03af\u03b3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c4\u03bf\u03c5 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03ba\u03b1\u03b9 \u039d\u03cc\u03c4\u03b9\u03bf\u03c5 \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd.",
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                        "images": [
+                            {
+                                "height": 675,
+                                "url": "https://pbs.twimg.com/news_img/1453784075479695360/TvDxvA5m?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453784075479695360/TvDxvA5m?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 71,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2.",
+                        "unwound_url": "https://www.koutipandoras.gr/article/koronoios-entopistikan-dyo-stelehi-tis-ypoptis-ypoparallagis-ay42",
+                        "url": "https://t.co/37wIiUVCXS"
+                    }
+                ]
+            },
+            "id": 1453784069913862150,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0395\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03b4\u03cd\u03bf \u03c3\u03c4\u03b5\u03bb\u03ad\u03c7\u03b7 \u03c4\u03b7\u03c2 \u03cd\u03c0\u03bf\u03c0\u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c0\u03b1\u03c1\u03b1\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2 \u0391\u03a5.4.2. https://t.co/37wIiUVCXS"
+        },
+        {
+            "author_id": 3049278317,
+            "conversation_id": 1453745177500258308,
+            "created_at": "2021-10-28 15:27:14+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "202140100",
+                        "start": 3,
+                        "username": "Kouti_Pandoras"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 124,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-sto-kokkino-xana-me-shedon-3000-nea-kroysmata",
+                        "start": 101,
+                        "url": "https://t.co/f7YVFbmciT"
+                    }
+                ]
+            },
+            "id": 1453745177500258308,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453733999923236872 type=retweeted"
+            ],
+            "text": "RT @Kouti_Pandoras: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03bf \u00ab\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03be\u03b1\u03bd\u03ac \u03bc\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 3000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 https://t.co/f7YVFbmciT"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453734039362301963,
+            "created_at": "2021-10-28 14:42:58+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-sto-kokkino-xana-me-shedon-3000-nea-kroysmata",
+                        "start": 81,
+                        "url": "https://t.co/NrI6pJ0Bn6"
+                    }
+                ]
+            },
+            "id": 1453734039362301963,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03bf \u00ab\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03be\u03b1\u03bd\u03ac \u03bc\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 3000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 https://t.co/NrI6pJ0Bn6"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453733999923236872,
+            "created_at": "2021-10-28 14:42:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/korono\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.koutipandoras.gr/article/koronoios-sto-kokkino-xana-me-shedon-3000-nea-kroysmata",
+                        "start": 81,
+                        "url": "https://t.co/f7YVFbmciT"
+                    }
+                ]
+            },
+            "id": 1453733999923236872,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03c4\u03bf \u00ab\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03be\u03b1\u03bd\u03ac \u03bc\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 3000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u0391\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u039c\u0395\u0398 https://t.co/f7YVFbmciT"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453633198810935296,
+            "created_at": "2021-10-28 08:02:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "\u03c0\u03b1\u03c5\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/paylak\u2026",
+                        "end": 143,
+                        "expanded_url": "https://www.koutipandoras.gr/article/paylakis-kakos-egine-anoigma-se-kleistoys-horoys-gia-emboliasmenoys-me-tosa-kroysmata",
+                        "start": 120,
+                        "url": "https://t.co/IlYnx2d17l"
+                    }
+                ]
+            },
+            "id": 1453633198810935296,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1\", \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf \u03b3\u03b9\u03b1\u03c4\u03c1\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 #\u03c0\u03b1\u03c5\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/IlYnx2d17l"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453633175461183490,
+            "created_at": "2021-10-28 08:02:10+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 108,
+                        "start": 99,
+                        "tag": "\u03c0\u03b1\u03c5\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\"\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1\", \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf\u00a0\u03b3\u03b9\u03b1\u03c4\u03c1\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+                        "display_url": "koutipandoras.gr/article/paylak\u2026",
+                        "end": 143,
+                        "expanded_url": "https://www.koutipandoras.gr/article/paylakis-kakos-egine-anoigma-se-kleistoys-horoys-gia-emboliasmenoys-me-tosa-kroysmata",
+                        "images": [
+                            {
+                                "height": 675,
+                                "url": "https://pbs.twimg.com/news_img/1453633179944902658/W7f8kPCN?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453633179944902658/W7f8kPCN?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 120,
+                        "status": 200,
+                        "title": "\u03a0\u03b1\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039a\u03b1\u03ba\u03ce\u03c2 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03c4\u03cc\u03c3\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1",
+                        "unwound_url": "https://www.koutipandoras.gr/article/paylakis-kakos-egine-anoigma-se-kleistoys-horoys-gia-emboliasmenoys-me-tosa-kroysmata",
+                        "url": "https://t.co/7qyuByXrqC"
+                    }
+                ]
+            },
+            "id": 1453633175461183490,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1\", \u03c4\u03bf\u03bd\u03af\u03b6\u03b5\u03b9 \u03bf \u03b3\u03b9\u03b1\u03c4\u03c1\u03cc\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03ae\u03c2 \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 #\u03c0\u03b1\u03c5\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/7qyuByXrqC"
+        },
+        {
+            "author_id": 526374412,
+            "conversation_id": 1453606324554567680,
+            "created_at": "2021-10-28 06:15:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 178,
+                        "start": 168,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/antika\u2026",
+                        "end": 202,
+                        "expanded_url": "https://www.koutipandoras.gr/article/antikatathliptiko-farmako-pithanon-na-boitha-kai-kata-tis-covid-19",
+                        "start": 179,
+                        "url": "https://t.co/fEPH6HhzH5"
+                    }
+                ]
+            },
+            "id": 1453606324554567680,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03c6\u03bb\u03bf\u03c5\u03b2\u03bf\u03be\u03b1\u03bc\u03af\u03bd\u03b7 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bc\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03c3\u03b2\u03bb\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc Covid-19 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ce\u03bd \u03bc\u03bf\u03c1\u03c6\u03ce\u03bd \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/fEPH6HhzH5"
+        },
+        {
+            "author_id": 202140100,
+            "conversation_id": 1453606304044433412,
+            "created_at": "2021-10-28 06:15:24+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 178,
+                        "start": 168,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "koutipandoras.gr/article/antika\u2026",
+                        "end": 202,
+                        "expanded_url": "https://www.koutipandoras.gr/article/antikatathliptiko-farmako-pithanon-na-boitha-kai-kata-tis-covid-19",
+                        "start": 179,
+                        "url": "https://t.co/wijRFVaaLf"
+                    }
+                ]
+            },
+            "id": 1453606304044433412,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03c6\u03bb\u03bf\u03c5\u03b2\u03bf\u03be\u03b1\u03bc\u03af\u03bd\u03b7 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03c9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bc\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b9\u03c2 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03c1\u03bf\u03c3\u03b2\u03bb\u03b7\u03b8\u03b5\u03af \u03b1\u03c0\u03cc Covid-19 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ce\u03bd \u03bc\u03bf\u03c1\u03c6\u03ce\u03bd \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2\nhttps://t.co/wijRFVaaLf"
+        }
+    ]
+}

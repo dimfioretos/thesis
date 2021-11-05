@@ -1,0 +1,377 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1323402274547314688,
+                "conversation_id": 1454841241485598721,
+                "created_at": "2021-10-31 16:02:36+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 10,
+                            "start": 0,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 20,
+                            "start": 11,
+                            "tag": "Covid_19"
+                        },
+                        {
+                            "end": 41,
+                            "start": 21,
+                            "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                        },
+                        {
+                            "end": 55,
+                            "start": 42,
+                            "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                        },
+                        {
+                            "end": 70,
+                            "start": 56,
+                            "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                        },
+                        {
+                            "end": 77,
+                            "start": 71,
+                            "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                        },
+                        {
+                            "end": 92,
+                            "start": 78,
+                            "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                        },
+                        {
+                            "end": 101,
+                            "start": 93,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 116,
+                            "start": 102,
+                            "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 241,
+                            "id": "1577908854",
+                            "start": 235,
+                            "username": "wpvkp"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                            "display_url": "katohika.gr/diethni/michae\u2026",
+                            "end": 218,
+                            "expanded_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                            "images": [
+                                {
+                                    "height": 450,
+                                    "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=orig",
+                                    "width": 940
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 195,
+                            "status": 200,
+                            "title": "Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                            "unwound_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                            "url": "https://t.co/kd02ZDtd8a"
+                        }
+                    ]
+                },
+                "id": 1454841241485598721,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . https://t.co/kd02ZDtd8a \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 @wpvkp \u039c\u0391\u03a3 \u0391\u03a6\u039f\u03a1\u0386.."
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-09-09 21:04:48+00:00",
+                "description": "",
+                "id": 1436072960847237127,
+                "name": "pankelq",
+                "public_metrics": {
+                    "followers_count": 50,
+                    "following_count": 108,
+                    "listed_count": 0,
+                    "tweet_count": 804
+                },
+                "username": "pankelq1",
+                "verified": false
+            },
+            {
+                "created_at": "2013-07-08 15:25:24+00:00",
+                "description": "You can find me at http://t.co/5JvNVUQqbm",
+                "id": 1577908854,
+                "name": "Wordpress Tuts",
+                "public_metrics": {
+                    "followers_count": 237,
+                    "following_count": 67,
+                    "listed_count": 3,
+                    "tweet_count": 154
+                },
+                "username": "wpvkp",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-06 21:56:38+00:00",
+                "description": "",
+                "id": 1423764937399230474,
+                "name": "IONASX21",
+                "public_metrics": {
+                    "followers_count": 260,
+                    "following_count": 447,
+                    "listed_count": 0,
+                    "tweet_count": 4242
+                },
+                "username": "ionasx21",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-02 23:11:40+00:00",
+                "description": "life is good only if there is life.. \ud83d\udcad\ud83d\udc41\ufe0f\u200d\ud83d\udde8\ufe0f\ud83d\udd8b\ufe0f\ud83c\uddec\ud83c\uddf7",
+                "id": 1323402274547314688,
+                "name": "@erena.k\ud83c\uddec\ud83c\uddf7\u26ea",
+                "public_metrics": {
+                    "followers_count": 36,
+                    "following_count": 58,
+                    "listed_count": 0,
+                    "tweet_count": 804
+                },
+                "username": "_erena85",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1436072960847237127,
+            "conversation_id": 1455694897382674433,
+            "created_at": "2021-11-03 00:34:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 143,
+                        "id": "1577908854",
+                        "start": 137,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                        "display_url": "katohika.gr/ellada/eikona-\u2026",
+                        "end": 131,
+                        "expanded_url": "https://katohika.gr/ellada/eikona-sok-katerrefse-mprosta-stis-kameres-o-diefthyntis-tis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1455694897722372098/qGtAqeLN?format=jpg&name=orig",
+                                "width": 1366
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455694897722372098/qGtAqeLN?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 108,
+                        "status": 200,
+                        "title": "\u0395\u03b9\u03ba\u03cc\u03bd\u03b1 \u03c3\u03bf\u03ba: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/ellada/eikona-sok-katerrefse-mprosta-stis-kameres-o-diefthyntis-tis-klinikis-covid-tou-genikou-nosokomeiou-larisas/",
+                        "url": "https://t.co/h5rWcaEpPY"
+                    }
+                ]
+            },
+            "id": 1455694897382674433,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03b9\u03ba\u03cc\u03bd\u03b1 \u03c3\u03bf\u03ba: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2 https://t.co/h5rWcaEpPY \u03bc\u03ad\u03c3\u03c9 @wpvkp"
+        },
+        {
+            "author_id": 1423764937399230474,
+            "conversation_id": 1455037148378374149,
+            "created_at": "2021-11-01 05:01:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 24,
+                        "start": 14,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 34,
+                        "start": 25,
+                        "tag": "Covid_19"
+                    },
+                    {
+                        "end": 55,
+                        "start": 35,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                    },
+                    {
+                        "end": 69,
+                        "start": 56,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    },
+                    {
+                        "end": 84,
+                        "start": 70,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                    },
+                    {
+                        "end": 91,
+                        "start": 85,
+                        "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                    },
+                    {
+                        "end": 106,
+                        "start": 92,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 115,
+                        "start": 107,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 130,
+                        "start": 116,
+                        "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1323402274547314688",
+                        "start": 3,
+                        "username": "_erena85"
+                    }
+                ]
+            },
+            "id": 1455037148378374149,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454841241485598721 type=retweeted"
+            ],
+            "text": "RT @_erena85: #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael\u2026"
+        },
+        {
+            "author_id": 1323402274547314688,
+            "conversation_id": 1454841241485598721,
+            "created_at": "2021-10-31 16:02:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 20,
+                        "start": 11,
+                        "tag": "Covid_19"
+                    },
+                    {
+                        "end": 41,
+                        "start": 21,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                    },
+                    {
+                        "end": 55,
+                        "start": 42,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    },
+                    {
+                        "end": 70,
+                        "start": 56,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                    },
+                    {
+                        "end": 77,
+                        "start": 71,
+                        "tag": "\u03b2\u03bf\u03c5\u03bb\u03b7"
+                    },
+                    {
+                        "end": 92,
+                        "start": 78,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 101,
+                        "start": 93,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 116,
+                        "start": 102,
+                        "tag": "\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 241,
+                        "id": "1577908854",
+                        "start": 235,
+                        "username": "wpvkp"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u0391\u03bb\u03b7\u03b8\u03b9\u03bd\u03b7 \u0395\u03bd\u03b1\u03bb\u03bb\u03b1\u03ba\u03c4\u03b9\u03ba\u03b7 \u0395\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c3\u03b7 \u03a4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1\u03c2",
+                        "display_url": "katohika.gr/diethni/michae\u2026",
+                        "end": 218,
+                        "expanded_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                        "images": [
+                            {
+                                "height": 450,
+                                "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=orig",
+                                "width": 940
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454841247168974850/FPCIa_Mv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 195,
+                        "status": 200,
+                        "title": "Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . - \u039a\u03b1\u03c4\u03bf\u03c7\u03b9\u03ba\u03ac \u039d\u03b5\u03b1",
+                        "unwound_url": "https://katohika.gr/diethni/michael-yeadon-ton-noemvrio-mpainoume-stin-fasi-5-sto-programma-tyrranias/",
+                        "url": "https://t.co/kd02ZDtd8a"
+                    }
+                ]
+            },
+            "id": 1454841241485598721,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #Covid_19 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf #\u03b2\u03bf\u03c5\u03bb\u03b7 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03ba\u03c4\u03bf\u03bd\u03b9\u03b1 Michael Yeadon : \u03a4\u03bf\u03bd \u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c6\u03ac\u03c3\u03b7 5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c4\u03c5\u03c1\u03c1\u03b1\u03bd\u03af\u03b1\u03c2 . https://t.co/kd02ZDtd8a \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03c7\u03c1\u03ae\u03c3\u03c4\u03b7 @wpvkp \u039c\u0391\u03a3 \u0391\u03a6\u039f\u03a1\u0386.."
+        }
+    ]
+}

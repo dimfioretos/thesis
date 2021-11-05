@@ -1,0 +1,3175 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1455586756271738888,
+                "created_at": "2021-11-02 17:25:00+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 85,
+                            "start": 75,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/sarigi\u2026",
+                            "end": 110,
+                            "expanded_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                            "start": 87,
+                            "url": "https://t.co/7bJHgKBBFM"
+                        }
+                    ]
+                },
+                "id": 1455586756271738888,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "[\u0392\u0399\u039d\u03a4\u0395\u039f]\n\n\"\u039d\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03bf\u03bb\u03af\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bf \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\" \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/7bJHgKBBFM"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1455288936058834950,
+                "created_at": "2021-11-01 21:41:34+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 107,
+                            "start": 99,
+                            "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                        },
+                        {
+                            "end": 128,
+                            "start": 108,
+                            "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                        },
+                        {
+                            "end": 139,
+                            "start": 129,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 148,
+                            "start": 140,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/polaki\u2026",
+                            "end": 173,
+                            "expanded_url": "https://www.documentonews.gr/article/polakis-tora-sotiras-i-gkagka-gia-ta-monoklonika-kapote-psekasmenos-ego/#.YYBefY25uKY.twitter",
+                            "start": 150,
+                            "url": "https://t.co/UyuCZ0mgDU"
+                        }
+                    ]
+                },
+                "id": 1455288936058834950,
+                "public_metrics": {
+                    "like_count": 120,
+                    "quote_count": 1,
+                    "reply_count": 2,
+                    "retweet_count": 31
+                },
+                "text": "\u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf  https://t.co/UyuCZ0mgDU"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1455241594605551617,
+                "created_at": "2021-11-01 18:33:27+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 150,
+                            "id": "1293113010941296640",
+                            "start": 135,
+                            "username": "sputnikvaccine"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/h-rosi\u2026",
+                            "end": 175,
+                            "expanded_url": "https://www.documentonews.gr/article/h-rosia-epikaleitai-ereynes-gia-tin-ypsili-apotelesmatikotita-ton-sputnik-v-astra-zeneca-kai-sinopharm/#.YYAyRbrIZNs.twitter",
+                            "start": 152,
+                            "url": "https://t.co/1j7oBtZJZ9"
+                        }
+                    ]
+                },
+                "id": 1455241594605551617,
+                "public_metrics": {
+                    "like_count": 7,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 4
+                },
+                "text": "\u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA) \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf @sputnikvaccine \nhttps://t.co/1j7oBtZJZ9"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1454174363146756109,
+                "created_at": "2021-10-29 19:52:40+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 18,
+                            "start": 14,
+                            "tag": "FDA"
+                        },
+                        {
+                            "end": 69,
+                            "start": 61,
+                            "tag": "Covid19"
+                        },
+                        {
+                            "end": 120,
+                            "start": 116,
+                            "tag": "\u0397\u03a0\u0391"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/fda-na\u2026",
+                            "end": 144,
+                            "expanded_url": "https://www.documentonews.gr/article/fda-nai-sti-xrisi-emvolioy-tis-pfizer-se-paidia-5-11-eton/#.YXxQ4YUkMvk.twitter",
+                            "start": 121,
+                            "url": "https://t.co/CET4dmNYLt"
+                        }
+                    ]
+                },
+                "id": 1454174363146756109,
+                "public_metrics": {
+                    "like_count": 5,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 #\u0397\u03a0\u0391 https://t.co/CET4dmNYLt"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1454165342528364549,
+                "created_at": "2021-10-29 19:16:49+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 18,
+                            "start": 14,
+                            "tag": "FDA"
+                        },
+                        {
+                            "end": 70,
+                            "start": 62,
+                            "tag": "Covid19"
+                        },
+                        {
+                            "end": 124,
+                            "start": 120,
+                            "tag": "\u0397\u03a0\u0391"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/o-fda-\u2026",
+                            "end": 148,
+                            "expanded_url": "https://www.documentonews.gr/article/o-fda-anamenetai-na-egkrinei-ti-xorigisi-toy-emvolioy-pfizer-gia-paidia-5-11-eton/#.YXxIjepvXjQ.twitter",
+                            "start": 125,
+                            "url": "https://t.co/a3wnuXbQIV"
+                        }
+                    ]
+                },
+                "id": 1454165342528364549,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 #\u0397\u03a0\u0391 https://t.co/a3wnuXbQIV"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1454020904460169217,
+                "created_at": "2021-10-29 09:42:52+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 125,
+                            "start": 115,
+                            "tag": "\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3"
+                        },
+                        {
+                            "end": 138,
+                            "start": 126,
+                            "tag": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7"
+                        },
+                        {
+                            "end": 143,
+                            "start": 139,
+                            "tag": "\u039c\u0395\u0398"
+                        },
+                        {
+                            "end": 152,
+                            "start": 144,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 137 \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03bc\u03b5 Covid \u03c3\u03b5 \u039c\u0395\u0398, \u03c3\u03c4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u03c0\u03bf\u03c5 \u03c5\u03c0\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03bc\u03bf\u03b4\u03b9\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c4\u03b7\u03c2 3\u03b7\u03c2 \u03ba\u03b1\u03b9 4\u03b7\u03c2 \u03a5\u03a0\u0395, \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03b1\u03c5\u03c4\u03ce\u03bd \u03bd\u03b1 \u03ba\u03c5\u03bc\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc 95,2 \u03ad\u03c9\u03c2 96%. \u03a4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03c0\u03bb\u03ad\u03c2 \u03ba\u03bb\u03af\u03bd\u03b5\u03c2 Covid \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 773, \u03bc\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03c5\u03c8\u03b7\u03bb\u03cc [\u2026]",
+                            "display_url": "documentonews.gr/article/korono\u2026",
+                            "end": 177,
+                            "expanded_url": "https://www.documentonews.gr/article/koronoios-sto-kokkino-i-thessaloniki-137-astheneis-se-meth-xeperase-se-kroysmata-tin-attiki/#.YXvAGRu_6JU.twitter",
+                            "images": [
+                                {
+                                    "height": 800,
+                                    "url": "https://pbs.twimg.com/news_img/1454020904929927172/1pKc-UHk?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454020904929927172/1pKc-UHk?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 154,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a3\u03c4\u03bf \u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c3\u03b5 \u039c\u0395\u0398 - \u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c3\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae - Documento",
+                            "unwound_url": "https://www.documentonews.gr/article/koronoios-sto-kokkino-i-thessaloniki-137-astheneis-se-meth-xeperase-se-kroysmata-tin-attiki/#.YXvAGRu_6JU.twitter",
+                            "url": "https://t.co/6dtyWV7rfI"
+                        }
+                    ]
+                },
+                "id": 1454020904460169217,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 2
+                },
+                "text": "\u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. #\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3 #\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7 #\u039c\u0395\u0398 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf  https://t.co/6dtyWV7rfI"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1454020904460169217,
+                "created_at": "2021-10-29 09:42:52+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 125,
+                            "start": 115,
+                            "tag": "\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3"
+                        },
+                        {
+                            "end": 138,
+                            "start": 126,
+                            "tag": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7"
+                        },
+                        {
+                            "end": 143,
+                            "start": 139,
+                            "tag": "\u039c\u0395\u0398"
+                        },
+                        {
+                            "end": 152,
+                            "start": 144,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/korono\u2026",
+                            "end": 177,
+                            "expanded_url": "https://www.documentonews.gr/article/koronoios-sto-kokkino-i-thessaloniki-137-astheneis-se-meth-xeperase-se-kroysmata-tin-attiki/#.YXvAGRu_6JU.twitter",
+                            "start": 154,
+                            "url": "https://t.co/6dtyWV7rfI"
+                        }
+                    ]
+                },
+                "id": 1454020904460169217,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 2
+                },
+                "text": "\u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. #\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3 #\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7 #\u039c\u0395\u0398 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf  https://t.co/6dtyWV7rfI"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1453372163931656208,
+                "created_at": "2021-10-27 14:45:00+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 93,
+                            "start": 83,
+                            "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 104,
+                            "start": 94,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 113,
+                            "start": 105,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 118,
+                            "start": 114,
+                            "tag": "\u03bc\u03b5\u03b8"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/sto-el\u2026",
+                            "end": 142,
+                            "expanded_url": "https://www.documentonews.gr/article/sto-eleos-pleon-tis-pandimias-63-thanatoi-3-651-kroysmata-387-diasolinomenoi/#.YXllqKInyvs.twitter",
+                            "start": 119,
+                            "url": "https://t.co/osfsW9gtnE"
+                        }
+                    ]
+                },
+                "id": 1453372163931656208,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 6
+                },
+                "text": "\u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 https://t.co/osfsW9gtnE"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1453372163931656208,
+                "created_at": "2021-10-27 14:45:00+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 93,
+                            "start": 83,
+                            "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 104,
+                            "start": 94,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 113,
+                            "start": 105,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 118,
+                            "start": 114,
+                            "tag": "\u03bc\u03b5\u03b8"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b1 \u03bd\u03ad\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 3.651, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd 15 \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03ba\u03b1\u03c4\u03cc\u03c0\u03b9\u03bd \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03c0\u03cd\u03bb\u03b5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2. \u039f \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 728.210 (\u03b7\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b2\u03bf\u03bb\u03ae +0.5%), \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd 50.8% \u03ac\u03bd\u03b4\u03c1\u03b5\u03c2. \u039c\u03b5 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03c9\u03bd 7 \u03b7\u03bc\u03b5\u03c1\u03ce\u03bd, 151 \u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b1 [\u2026]",
+                            "display_url": "documentonews.gr/article/sto-el\u2026",
+                            "end": 142,
+                            "expanded_url": "https://www.documentonews.gr/article/sto-eleos-pleon-tis-pandimias-63-thanatoi-3-651-kroysmata-387-diasolinomenoi/#.YXllqKInyvs.twitter",
+                            "images": [
+                                {
+                                    "height": 618,
+                                    "url": "https://pbs.twimg.com/news_img/1453372167400435716/vVFoQu4V?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453372167400435716/vVFoQu4V?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 119,
+                            "status": 200,
+                            "title": "\u03a3\u03c4\u03bf \u03ad\u03bb\u03b5\u03bf\u03c2 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2: 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 3.651 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - Documento",
+                            "unwound_url": "https://www.documentonews.gr/article/sto-eleos-pleon-tis-pandimias-63-thanatoi-3-651-kroysmata-387-diasolinomenoi/#.YXllqKInyvs.twitter",
+                            "url": "https://t.co/osfsW9gtnE"
+                        }
+                    ]
+                },
+                "id": 1453372163931656208,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 6
+                },
+                "text": "\u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 https://t.co/osfsW9gtnE"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-10-25 22:13:36+00:00",
+                "description": "\u0397\u03b3\u03ad\u03c4\u03b7\u03c2 \u0391\u039b\u0395\u039e\u0397\u03a3 \u03a4\u03a3\u0399\u03a0\u03a1\u0391\u03a3\n\u03a4\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b4\u03b9\u03b5\u03b8\u03bd\u03b5\u03af\u03c2 \u03c3\u03c5\u03bd\u03b8\u03ae\u03ba\u03b5\u03c2//\n\u039c\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03b5\u03b9 \u03b7 \u03b5\u03b9\u03c1\u03c9\u03bd\u03b5\u03af\u03b1!\u03a4\u03b7\u03bd \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03b5\u03c5\u03ba\u03b1\u03b9\u03c1\u03af\u03b1!\u038a\u03c3\u03c9\u03c2 \u03b4\u03af\u03c7\u03c9\u03c2 \u03cc\u03c1\u03b9\u03b1..",
+                "id": 207714223,
+                "name": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7\u03c2 \u03a0\u03ad\u03c4\u03c1\u03bf\u03c5\u03bb\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 1820,
+                    "following_count": 1494,
+                    "listed_count": 8,
+                    "tweet_count": 109235
+                },
+                "username": "jvoti198",
+                "verified": false
+            },
+            {
+                "created_at": "2016-11-07 21:23:00+00:00",
+                "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf newsletter: https://t.co/RFO2G7JWxA \ud83d\udcbb\ud83d\udcf1\ud83d\udddehello@documentonews.gr \ud83d\udce9",
+                "id": 795738344906952705,
+                "name": "Documento\ud83d\udcf0",
+                "public_metrics": {
+                    "followers_count": 41905,
+                    "following_count": 264,
+                    "listed_count": 218,
+                    "tweet_count": 99589
+                },
+                "username": "documentonews",
+                "verified": false
+            },
+            {
+                "created_at": "2021-09-18 06:57:28+00:00",
+                "description": "Journalist...\ud83d\ude09",
+                "id": 1439121251017109511,
+                "name": "andreas marathias",
+                "public_metrics": {
+                    "followers_count": 105,
+                    "following_count": 503,
+                    "listed_count": 0,
+                    "tweet_count": 1840
+                },
+                "username": "a_marathias",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-20 14:10:23+00:00",
+                "description": "",
+                "id": 1024318488,
+                "name": "Manos Naraslis",
+                "public_metrics": {
+                    "followers_count": 1666,
+                    "following_count": 91,
+                    "listed_count": 16,
+                    "tweet_count": 25056
+                },
+                "username": "Naraslismanos99",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-08 11:09:30+00:00",
+                "description": "\u00ab\u039f\u03bb\u03b1 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03cc\u03bc\u03b9\u03bc\u03b1 \u03b5\u03bd\u03ac\u03bd\u03c4\u03b9\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03c4\u03c5\u03c1\u03ac\u03bd\u03bd\u03bf\u03c5\u03c2, \u03c3\u03c5\u03bd\u03b5\u03c0\u03ce\u03c2 \u03b4\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03bc\u03ad\u03bd\u03bf\u03c2 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03c9 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b1...\u00bb",
+                "id": 295101931,
+                "name": "Gracchus Babeuf\ud83c\udde8\ud83c\uddfa",
+                "public_metrics": {
+                    "followers_count": 3973,
+                    "following_count": 3861,
+                    "listed_count": 29,
+                    "tweet_count": 55977
+                },
+                "username": "BabeufGr",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-12 16:22:24+00:00",
+                "description": "\u03a4\u03bf \u03ad\u03b8\u03bd\u03bf\u03c2 \u03bd\u03b1 \u03bb\u03c5\u03c0\u03ac\u03c3\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c5\u03c8\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7 \u03c6\u03c9\u03bd\u03ae \u03c0\u03b1\u03c1\u03ac \u03bc\u03cc\u03bd\u03bf \u03c3\u03c4\u03b7 \u03c0\u03bf\u03bc\u03c0\u03ae \u03c4\u03b7\u03c2 \u03ba\u03b7\u03b4\u03b5\u03af\u03b1\u03c2.\u03a4\u03bf \u03ad\u03b8\u03bd\u03bf\u03c2 \u03bd\u03b1 \u03bb\u03c5\u03c0\u03ac\u03c3\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03b5\u03b9 \u03b1\u03bb\u03b5\u03c0\u03bf\u03cd \u03b3\u03b9\u03b1 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03b1\u03c4\u03b5\u03ce\u03bd\u03b1 \u03c6\u03b9\u03bb\u03cc\u03c3\u03bf\u03c6\u03bf... \u03a7\u03b1\u03bb\u03af\u03bb \u0393\u03ba\u03b9\u03bc\u03c0\u03c1\u03ac\u03bd.",
+                "id": 389551255,
+                "name": "magio",
+                "public_metrics": {
+                    "followers_count": 2362,
+                    "following_count": 2332,
+                    "listed_count": 19,
+                    "tweet_count": 53727
+                },
+                "username": "mulanas",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-07 10:03:39+00:00",
+                "description": "Ex airport planner / Auth and Lboro alumni",
+                "id": 1335887626872696832,
+                "name": "TypeOPositive",
+                "public_metrics": {
+                    "followers_count": 83,
+                    "following_count": 131,
+                    "listed_count": 0,
+                    "tweet_count": 1919
+                },
+                "username": "TypeOPositive8",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-24 14:15:28+00:00",
+                "description": "",
+                "id": 2677180819,
+                "name": "velocity",
+                "public_metrics": {
+                    "followers_count": 2780,
+                    "following_count": 4994,
+                    "listed_count": 188,
+                    "tweet_count": 873596
+                },
+                "username": "velocity2121",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-12 22:58:10+00:00",
+                "description": "",
+                "id": 3372998709,
+                "name": "\u0393\u0391\u03a4\u039f\u03a3\u039a\u03a5\u039b\u039f",
+                "public_metrics": {
+                    "followers_count": 852,
+                    "following_count": 81,
+                    "listed_count": 12,
+                    "tweet_count": 74348
+                },
+                "username": "koykoynos",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-26 20:45:19+00:00",
+                "description": "\u03a4\u03b7\u03bd \u03ac\u03bd\u03bf\u03b9\u03be\u03b7 \u03b1\u03bd \u03b4\u03b5\u03bd \u03c4\u03b7\u03bd \u03b2\u03c1\u03b5\u03af\u03c2 \u03c4\u03b7\u03bd \u03c6\u03c4\u03b9\u03ac\u03c7\u03bd\u03b5\u03b9\u03c2.",
+                "id": 1365402529778040833,
+                "name": "LEONIDAS KRITIKOS",
+                "public_metrics": {
+                    "followers_count": 853,
+                    "following_count": 1802,
+                    "listed_count": 0,
+                    "tweet_count": 12425
+                },
+                "username": "LEONIDASKRITIKO",
+                "verified": false
+            },
+            {
+                "created_at": "2020-01-21 11:04:48+00:00",
+                "description": "\u03a0\u03b1\u03b9\u03b4\u03b9\u03b1 \u03b5\u03af\u03bc\u03b1\u03b9 \u03b7 katerinaallozz parody account \u03bf  \u03ac\u03bb\u03bb\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b1\u03bd\u03b5\u03c3\u03c4\u03b1\u03bb\u03b7 \u03ba\u03bf\u03bc\u03bc\u03ce\u03c4\u03c1\u03b9\u03b1  \u03c0\u03b1\u03bd\u03c4\u03c1\u03b5\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b1\u03bc\u03ac \u03bc\u03b9\u03b1\u03c2 \u03ba\u03cc\u03c1\u03b7\u03c2 \u03b4\u03b9\u03b1\u03b2\u03ac\u03b6\u03c9 \u03c0\u03b1\u03c3\u03b7\u03c2 \u03c6\u03c5\u03c3\u03b5\u03c9\u03c2 \u03b2\u03b9\u03b2\u03bb\u03b9\u03b1 \u03b1\u03c0\u03bf \u03bb\u03bf\u03b3\u03bf\u03c4\u03b5\u03c7\u03bd\u03b9\u03b1..",
+                "id": 1219576515094044672,
+                "name": "\u039a\u03b1\u03c4\u03b5\u03c1\u03af\u03bd\u03b1",
+                "public_metrics": {
+                    "followers_count": 2054,
+                    "following_count": 1986,
+                    "listed_count": 0,
+                    "tweet_count": 61544
+                },
+                "username": "Katerina112",
+                "verified": false
+            },
+            {
+                "created_at": "2019-10-08 15:08:13+00:00",
+                "description": "",
+                "id": 1181587003244236800,
+                "name": "\u0396\u03c9\u03ae \u03a3\u03b5\u03be\u03bf\u03b3\u03bb\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 457,
+                    "following_count": 575,
+                    "listed_count": 1,
+                    "tweet_count": 45693
+                },
+                "username": "TVG6fX5TCKWVpOB",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-08 21:05:17+00:00",
+                "description": "",
+                "id": 2967249619,
+                "name": "George V",
+                "public_metrics": {
+                    "followers_count": 267,
+                    "following_count": 544,
+                    "listed_count": 0,
+                    "tweet_count": 11710
+                },
+                "username": "prassinachania",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-19 07:41:34+00:00",
+                "description": "",
+                "id": 376067547,
+                "name": "lena marko",
+                "public_metrics": {
+                    "followers_count": 81,
+                    "following_count": 276,
+                    "listed_count": 0,
+                    "tweet_count": 2985
+                },
+                "username": "lena_marko",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-16 08:08:58+00:00",
+                "description": "\u03a0\u03c1\u03ce\u03c4\u03b1 \u03c3\u03b5 \u03b1\u03b3\u03bd\u03bf\u03bf\u03cd\u03bd, \u03bc\u03b5\u03c4\u03ac \u03c3\u03b5 \u03ba\u03bf\u03c1\u03bf\u03ca\u03b4\u03b5\u03cd\u03bf\u03c5\u03bd, \u03bc\u03b5\u03c4\u03ac \u03c3\u03b5 \u03c0\u03bf\u03bb\u03b5\u03bc\u03bf\u03cd\u03bd, \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03c5\u03c2 \u03bd\u03b9\u03ba\u03ac\u03c2",
+                "id": 1317014593391202304,
+                "name": "Christophorus \u0391\u03c1\u03c7\u03c9\u03bd \u0391\u03bd\u03c4\u03b9\u03c8\u03b5\u03ba\u03b9\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 912,
+                    "following_count": 863,
+                    "listed_count": 2,
+                    "tweet_count": 8153
+                },
+                "username": "ngry_Atheist",
+                "verified": false
+            },
+            {
+                "created_at": "2019-07-13 20:23:33+00:00",
+                "description": "\u201cWhat cannot be said above all must not be silenced but written.\u201d\n\u2015 Jacques Derrida",
+                "id": 1150138715316084736,
+                "name": "Gopa_Stileto",
+                "public_metrics": {
+                    "followers_count": 892,
+                    "following_count": 1123,
+                    "listed_count": 1,
+                    "tweet_count": 129506
+                },
+                "username": "GStileto",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-30 14:15:00+00:00",
+                "description": "\u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03cc\u03c2 \u03a1\u03b9\u03b6\u03bf\u03c3\u03c0\u03ac\u03c3\u03c4\u03b7\u03c2\n\u039c\u03c0\u03bb\u03bf\u03ba\u03ac\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b5\u03c2, \u03c1\u03b1\u03c4\u03c3\u03b9\u03c3\u03c4\u03ad\u03c2,\u03bf\u03bc\u03bf\u03c6\u03bf\u03b2\u03b9\u03ba\u03bf\u03af \u03c7\u03c9\u03c1\u03af\u03c2 \u03c0\u03bf\u03bb\u03bb\u03b7 \u03ba\u03bf\u03c5\u03b2\u03ad\u03bd\u03c4\u03b1.\n\u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2 \u0395\u039c\u03a0",
+                "id": 1244628291404824578,
+                "name": "Nikos S \ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 5709,
+                    "following_count": 5561,
+                    "listed_count": 17,
+                    "tweet_count": 326381
+                },
+                "username": "NikosS_niktrah",
+                "verified": false
+            },
+            {
+                "created_at": "2015-12-04 18:29:58+00:00",
+                "description": "",
+                "id": 4374843040,
+                "name": "@ellen.ellen",
+                "public_metrics": {
+                    "followers_count": 274,
+                    "following_count": 436,
+                    "listed_count": 0,
+                    "tweet_count": 12923
+                },
+                "username": "4Ff5XaGHurBTrsa",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-23 21:42:55+00:00",
+                "description": "",
+                "id": 1031398897,
+                "name": "stellagrammenou",
+                "public_metrics": {
+                    "followers_count": 403,
+                    "following_count": 78,
+                    "listed_count": 0,
+                    "tweet_count": 59974
+                },
+                "username": "stellagrammeno1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-07 12:23:55+00:00",
+                "description": "",
+                "id": 2467266802,
+                "name": "dimitris mariadis",
+                "public_metrics": {
+                    "followers_count": 681,
+                    "following_count": 504,
+                    "listed_count": 6,
+                    "tweet_count": 57747
+                },
+                "username": "didim0254",
+                "verified": false
+            },
+            {
+                "created_at": "2016-09-17 16:51:44+00:00",
+                "description": "",
+                "id": 777188298762625024,
+                "name": "Makis Karras",
+                "public_metrics": {
+                    "followers_count": 427,
+                    "following_count": 1120,
+                    "listed_count": 2,
+                    "tweet_count": 33836
+                },
+                "username": "makis_karras",
+                "verified": false
+            },
+            {
+                "created_at": "2010-01-13 11:35:35+00:00",
+                "description": "We are an army of dreamers, and that's why we're invincible.\n\n~Subcomandante Marcos",
+                "id": 104456364,
+                "name": "\ud835\ude48\ud835\ude67. \ud835\ude47\ud835\ude5a\ud835\ude5b\ud835\ude69",
+                "public_metrics": {
+                    "followers_count": 550,
+                    "following_count": 938,
+                    "listed_count": 3,
+                    "tweet_count": 12023
+                },
+                "username": "WananchiWaDunia",
+                "verified": false
+            },
+            {
+                "created_at": "2018-05-13 07:41:24+00:00",
+                "description": "",
+                "id": 995569686472462336,
+                "name": "soultana xakousti",
+                "public_metrics": {
+                    "followers_count": 7138,
+                    "following_count": 4544,
+                    "listed_count": 40,
+                    "tweet_count": 121985
+                },
+                "username": "SXakousti",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-20 15:44:24+00:00",
+                "description": "\u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03ba\u03c1\u03af\u03b2\u03b5\u03b9\u03b1, \u03ba\u03c1\u03b1\u03c4\u03b9\u03ba\u03bf\u03b4\u03af\u03b1\u03b9\u03c4\u03bf\u03c2 \u03bd\u03b5\u03bf\u03c6\u03b9\u03bb\u03b5\u03bb\u03ad\u03c2. \u038c\u03c4\u03b1\u03bd \u03b4\u03b5\u03bd \u03bc\u03b1\u03c3\u03bf\u03c5\u03bb\u03ac\u03c9 \u03ba\u03c1\u03b1\u03c4\u03b9\u03ba\u03cc \u03c7\u03c1\u03ae\u03bc\u03b1, \u03b2\u03c1\u03af\u03b6\u03c9 \u03c4\u03bf \u03ba\u03b1\u03ba\u03cc \u03ba\u03c1\u03ac\u03c4\u03bf\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03bc\u03c0\u03bf\u03b4\u03af\u03b6\u03b5\u03b9 \u03c4\u03b7\u03bd \"\u03ba\u03b1\u03b9\u03bd\u03bf\u03c4\u03bf\u03bc\u03af\u03b1\" \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \"\u03b5\u03c0\u03b9\u03c7\u03b5\u03b9\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\".",
+                "id": 1263133404834476032,
+                "name": "\u0393\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc\u03c2 \u03bd\u03b5\u03bf\u03c6\u03b9\u03bb\u03b5\u03bb\u03ad\u03c2",
+                "public_metrics": {
+                    "followers_count": 2544,
+                    "following_count": 4995,
+                    "listed_count": 2,
+                    "tweet_count": 15271
+                },
+                "username": "jailthebankster",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-08 10:53:59+00:00",
+                "description": "\u03bc\u03b5 \u03c4\u03bf \u03b4\u03af\u03ba\u03b9\u03bf",
+                "id": 1358730673134182400,
+                "name": "vavel",
+                "public_metrics": {
+                    "followers_count": 243,
+                    "following_count": 378,
+                    "listed_count": 1,
+                    "tweet_count": 28807
+                },
+                "username": "Vavelllll",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-25 07:44:36+00:00",
+                "description": "",
+                "id": 2462855708,
+                "name": "\u03a3\u03a4\u0391\u03a5\u03a1\u039f\u03a5\u039b\u0391 \u03a3\u0399\u0392\u0399\u039b\u0399\u0391",
+                "public_metrics": {
+                    "followers_count": 352,
+                    "following_count": 154,
+                    "listed_count": 0,
+                    "tweet_count": 11911
+                },
+                "username": "ssivilia",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-13 18:48:40+00:00",
+                "description": "\u0399\u0394\u03a1\u03a5\u03a4\u0397\u03a3 & MANAGER \u03a4\u03b7\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 Wood Art - Flooring - Spa - Decking - Wooden Staircases - Pergolas - Sauna - Sunshades - Artistic Techniques -  \nWOOD TRADE",
+                "id": 3035210321,
+                "name": "Giorgos Daskalelis",
+                "public_metrics": {
+                    "followers_count": 402,
+                    "following_count": 722,
+                    "listed_count": 3,
+                    "tweet_count": 33781
+                },
+                "username": "GDaskalelis",
+                "verified": false
+            },
+            {
+                "created_at": "2010-08-17 07:21:47+00:00",
+                "description": "\ud83d\udc97",
+                "id": 179423854,
+                "name": "Themis Maglis",
+                "public_metrics": {
+                    "followers_count": 4116,
+                    "following_count": 2476,
+                    "listed_count": 82,
+                    "tweet_count": 350286
+                },
+                "username": "ThemisMaglis",
+                "verified": false
+            },
+            {
+                "created_at": "2013-10-14 04:16:47+00:00",
+                "description": "One way to find meaning in your life is to seek for the meaning of life",
+                "id": 713846614,
+                "name": "Yannis Kalatzis",
+                "public_metrics": {
+                    "followers_count": 513,
+                    "following_count": 751,
+                    "listed_count": 2,
+                    "tweet_count": 51596
+                },
+                "username": "YKalatzis",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-06 07:47:18+00:00",
+                "description": "",
+                "id": 293944193,
+                "name": "KetiSakis",
+                "public_metrics": {
+                    "followers_count": 2953,
+                    "following_count": 2829,
+                    "listed_count": 11,
+                    "tweet_count": 58022
+                },
+                "username": "SakisKeti",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-10 09:29:57+00:00",
+                "description": "",
+                "id": 1369581015178612737,
+                "name": "Alex.komn",
+                "public_metrics": {
+                    "followers_count": 248,
+                    "following_count": 112,
+                    "listed_count": 1,
+                    "tweet_count": 58820
+                },
+                "username": "KomnAlex",
+                "verified": false
+            },
+            {
+                "created_at": "2020-04-17 09:42:49+00:00",
+                "description": "\u2757I respect those who tell the truth no matter how hard it is , integrity is everything.\u2757",
+                "id": 1251083583286018048,
+                "name": "\u0398\u03b1\u03bd\u03ac\u03c3\u03b7\u03c2\u2122",
+                "public_metrics": {
+                    "followers_count": 619,
+                    "following_count": 792,
+                    "listed_count": 0,
+                    "tweet_count": 42047
+                },
+                "username": "Double_T_19",
+                "verified": false
+            },
+            {
+                "created_at": "2017-12-27 20:50:08+00:00",
+                "description": "",
+                "id": 946121040052269059,
+                "name": "\u039b\u03ac\u03bc\u03c0\u03c1\u03bf\u03c2 \u03a3\u03b5\u03b2\u03b4\u03b1\u03bb\u03ae\u03c2",
+                "public_metrics": {
+                    "followers_count": 507,
+                    "following_count": 101,
+                    "listed_count": 1,
+                    "tweet_count": 87117
+                },
+                "username": "Lam_Sevdalis",
+                "verified": false
+            },
+            {
+                "created_at": "2018-11-10 12:26:41+00:00",
+                "description": "\u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2",
+                "id": 1061233680570556418,
+                "name": "Astero Xristodoulidou",
+                "public_metrics": {
+                    "followers_count": 1357,
+                    "following_count": 790,
+                    "listed_count": 10,
+                    "tweet_count": 314076
+                },
+                "username": "AXristodoulidou",
+                "verified": false
+            },
+            {
+                "created_at": "2016-05-12 14:33:29+00:00",
+                "description": "\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03ac\u03b3\u03c1\u03b9\u03b1\u03c2 \u03c6\u03cd\u03c3\u03b7\u03c2 \u03ba \u03c4\u03c9\u03bd \u03b6\u03ce\u03c9\u03bd \u03ac\u03b3\u03c1\u03b9\u03c9\u03bd \u03ba \u03bc\u03b7.",
+                "id": 730767858700058624,
+                "name": "akatsa,\u0386\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03b1 \u039a\u03b1\u03c4\u03c3\u03b1...",
+                "public_metrics": {
+                    "followers_count": 684,
+                    "following_count": 694,
+                    "listed_count": 3,
+                    "tweet_count": 12079
+                },
+                "username": "katsa_1",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-06 13:32:50+00:00",
+                "description": "\u0393\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1.\n\u03a0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ce: \n\u039d\u03b1 \u03b3\u03af\u03bd\u03bf\u03bc\u03b1\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2. \n\u039d\u03b1 \u03bc\u03b7\u03bd \u03b1\u03b4\u03b9\u03ba\u03ce.\n\u039d\u03b1 \u03b6\u03b7\u03c4\u03ce \u03c3\u03c5\u03b3\u03b3\u03bd\u03ce\u03bc\u03b7 \u03cc\u03c0\u03bf\u03c5 \u03c3\u03c6\u03ac\u03bb\u03bb\u03c9.\n\u039d\u03b1 \u03b1\u03b3\u03b1\u03c0\u03ce.\n\u039d\u03b1 \u03c8\u03ac\u03c7\u03bd\u03c9.\n\u039d\u03b1 \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03ce.\n\u039d\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03ce.\n\u039d\u03b1 \u03b1\u03c0\u03bf\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03c9.",
+                "id": 817363295472680960,
+                "name": "\u0392\u03af\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 51,
+                    "following_count": 33,
+                    "listed_count": 0,
+                    "tweet_count": 540
+                },
+                "username": "omegaBios",
+                "verified": false
+            },
+            {
+                "created_at": "2019-12-19 21:07:06+00:00",
+                "description": "\u03b1\u03b4\u03b5\u03c1\u03c6\u03cc\u03c2 \u03c4\u03bf\u03c5 \u039a\u03bf\u03cd\u03bb\u03b7 (\u03ad\u03c7\u03c9 \u03bc\u03ad\u03c3\u03bf) \u03b1\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2",
+                "id": 1207768901603528711,
+                "name": "koulis brother",
+                "public_metrics": {
+                    "followers_count": 1431,
+                    "following_count": 1578,
+                    "listed_count": 4,
+                    "tweet_count": 70635
+                },
+                "username": "LamprosNikos",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-07 10:08:16+00:00",
+                "description": "\u0391\u03c0\u03cc\u03bb\u03c5\u03c4\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1",
+                "id": 1423949024952999936,
+                "name": "miltos",
+                "public_metrics": {
+                    "followers_count": 141,
+                    "following_count": 147,
+                    "listed_count": 0,
+                    "tweet_count": 1900
+                },
+                "username": "IoanouMiltos",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-16 21:59:47+00:00",
+                "description": "\u0391\u03bd \u03c3\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03b5\u03b9 \u03b7 \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1, \u03b7 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u03cd\u03bd\u03b7, \u03b7 \u03b9\u03c3\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u03b5\u03b9\u03c1\u03ae\u03bd\u03b7 \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03b5\u03af\u03c3\u03b1\u03b9 \u03c6\u03af\u03bb\u03bf\u03c2 \u03bc\u03bf\u03c5.",
+                "id": 1306352019280728068,
+                "name": "Spiderman jer",
+                "public_metrics": {
+                    "followers_count": 3932,
+                    "following_count": 3906,
+                    "listed_count": 5,
+                    "tweet_count": 147327
+                },
+                "username": "JerSpiderman",
+                "verified": false
+            },
+            {
+                "created_at": "2020-08-11 09:12:38+00:00",
+                "description": "Sputnik V is the world\u2019s first registered COVID-19 vaccine with over 91.6% efficacy, developed by Gamaleya Inst. Authorized in 70 countries.",
+                "id": 1293113010941296640,
+                "name": "Sputnik V",
+                "public_metrics": {
+                    "followers_count": 895471,
+                    "following_count": 155,
+                    "listed_count": 677,
+                    "tweet_count": 2499
+                },
+                "username": "sputnikvaccine",
+                "verified": true
+            },
+            {
+                "created_at": "2013-04-01 17:40:43+00:00",
+                "description": "\u0391\u03bd\u03b9\u03c7\u03bd\u03b5\u03c5\u03c4\u03ae\u03c2 \u03c3\u03b1\u03c1\u03ba\u03bf\u03c6\u03ac\u03b3\u03bf\u03c2 \u03b5\u03b9\u03b4\u03c9\u03bb\u03bf\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2",
+                "id": 1320816230,
+                "name": "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 26,
+                    "listed_count": 0,
+                    "tweet_count": 184
+                },
+                "username": "AndreasTsipras",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-29 16:05:40+00:00",
+                "description": "\u03a0\u03ac\u03bc\u03b5 \u03bc\u03b1\u03b6\u03af \u03ba\u03b1\u03b9 \u03cc\u03c0\u03bf\u03c5 \u03b2\u03b3\u03b5\u03b9....\u039c\u0395\u039d\u039f\u03a5\u039c\u0395 \u039f\u03a1\u0398\u0399\u039f\u0399 !!!",
+                "id": 172390271,
+                "name": "Costas Efthimiou",
+                "public_metrics": {
+                    "followers_count": 3626,
+                    "following_count": 4900,
+                    "listed_count": 0,
+                    "tweet_count": 105301
+                },
+                "username": "efthimiou1969",
+                "verified": false
+            },
+            {
+                "created_at": "2010-12-13 00:39:04+00:00",
+                "description": "Greek, French, English. Bookmarks (in love/like sign)",
+                "id": 225982309,
+                "name": "Kostas Kalotychos",
+                "public_metrics": {
+                    "followers_count": 752,
+                    "following_count": 2170,
+                    "listed_count": 69,
+                    "tweet_count": 141384
+                },
+                "username": "faidr",
+                "verified": false
+            },
+            {
+                "created_at": "2018-10-13 09:23:42+00:00",
+                "description": ".",
+                "id": 1051040771237978112,
+                "name": "\u03a4\u03c3\u03b1\u03b9 \u03a4\u03bf\u03c5 \u0392\u03bf\u03c5\u03bd\u03c4\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 647,
+                    "following_count": 207,
+                    "listed_count": 5,
+                    "tweet_count": 29777
+                },
+                "username": "enraptured_days",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-27 11:33:54+00:00",
+                "description": ". . . . . . . . . . . . . . . . . . . . . . . . . .",
+                "id": 77716781,
+                "name": ". . . . . . . . . . . . . . . . . . . . . . . . .",
+                "public_metrics": {
+                    "followers_count": 2509,
+                    "following_count": 1506,
+                    "listed_count": 29,
+                    "tweet_count": 10141
+                },
+                "username": "ioanniszzzz",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 207714223,
+            "conversation_id": 1455627262213099524,
+            "created_at": "2021-11-02 20:05:58+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03af\u03b3\u03bf\u03c5\u03c1\u03b1 \u03b4\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u00ab\u03c3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03bc\u03af\u03bb\u03b9\u00bb \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03bf \u0394\u03b7\u03bc\u03bf\u03c3\u03b8\u03ad\u03bd\u03b7\u03c2 \u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2, \u03c3\u03b5 \u03c4\u03bf\u03c0\u03bf\u03b8\u03ad\u03c4\u03b7\u03c3\u03ae \u03c4\u03bf\u03c5 \u03c3\u03c4\u03bf\u03bd \u0391\u039d\u03a41, \u03b4\u03b9\u03b1\u03c8\u03b5\u03cd\u03b4\u03bf\u03bd\u03c4\u03b1\u03c2 \u03b5\u03bc\u03bc\u03ad\u03c3\u03c9\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c7\u03c5\u03c1\u03b9\u03c3\u03bc\u03bf\u03cd\u03c2 \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03c3\u03c4\u03b5\u03bb\u03b5\u03c7\u03ce\u03bd, \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5 \u03af\u03b4\u03b9\u03bf\u03c5 \u03c4\u03bf\u03c5 \u039a\u03c5\u03c1. \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7, \u03c0\u03bf\u03c5 \u03b5\u03af\u03c7\u03b5 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03b1\u03c4\u03b5\u03cd\u03c3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03af\u03b4\u03b9\u03b1 \u03c6\u03c1\u03ac\u03c3\u03b7 \u03c0\u03c1\u03b9\u03bd \u03ba\u03b1\u03b9\u03c1\u03cc\u2026 \u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03bf \u039a\u03c5\u03c1. \u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2 \u03ad\u03b2\u03bb\u03b5\u03c0\u03b5 \u00ab\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03bc\u03af\u03bb\u03b9 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b7\u03bd \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u00bb \u03c3\u03b5 \u03b4\u03b9\u03ac\u03b3\u03b3\u03b5\u03bb\u03bc\u03ac \u03c4\u03bf\u03c5 \u03c4\u03bf\u03bd [\u2026]",
+                        "display_url": "documentonews.gr/article/sarigi\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                        "images": [
+                            {
+                                "height": 819,
+                                "url": "https://pbs.twimg.com/news_img/1455586765163667456/1TihLicp?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455586765163667456/1TihLicp?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 106,
+                        "status": 200,
+                        "title": "\u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2: \u00ab\u0394\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c3\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf \u03bc\u03af\u03bb\u03b9 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b1\u03bd \u03c0\u03bf\u03bb\u03bb\u03bf\u03af\u00bb (Video) - Documento",
+                        "unwound_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                        "url": "https://t.co/7bJHgKBBFM"
+                    }
+                ]
+            },
+            "id": 1455627262213099524,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455586756271738888 type=retweeted"
+            ],
+            "text": "RT @documentonews: [\u0392\u0399\u039d\u03a4\u0395\u039f]\n\n\"\u039d\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03bf\u03bb\u03af\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bf \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\" \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/7bJHgKBBFM"
+        },
+        {
+            "author_id": 1439121251017109511,
+            "conversation_id": 1455590579333705731,
+            "created_at": "2021-11-02 17:40:12+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/sarigi\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                        "start": 106,
+                        "url": "https://t.co/7bJHgKBBFM"
+                    }
+                ]
+            },
+            "id": 1455590579333705731,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455586756271738888 type=retweeted"
+            ],
+            "text": "RT @documentonews: [\u0392\u0399\u039d\u03a4\u0395\u039f]\n\n\"\u039d\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03bf\u03bb\u03af\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bf \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\" \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/7bJHgKBBFM"
+        },
+        {
+            "author_id": 1024318488,
+            "conversation_id": 1455587405189287945,
+            "created_at": "2021-11-02 17:27:35+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/sarigi\u2026",
+                        "end": 129,
+                        "expanded_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                        "start": 106,
+                        "url": "https://t.co/7bJHgKBBFM"
+                    }
+                ]
+            },
+            "id": 1455587405189287945,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455586756271738888 type=retweeted"
+            ],
+            "text": "RT @documentonews: [\u0392\u0399\u039d\u03a4\u0395\u039f]\n\n\"\u039d\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03bf\u03bb\u03af\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bf \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\" \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/7bJHgKBBFM"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1455586756271738888,
+            "created_at": "2021-11-02 17:25:00+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 75,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/sarigi\u2026",
+                        "end": 110,
+                        "expanded_url": "https://www.documentonews.gr/article/sarigiannis-den-eimaste-sto-teleytaio-mili-tis-pandimias-opos-elegan-polloi-video/?utm_medium=Social&utm_source=Twitter#Echobox=1635851171-1",
+                        "start": 87,
+                        "url": "https://t.co/7bJHgKBBFM"
+                    }
+                ]
+            },
+            "id": 1455586756271738888,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "[\u0392\u0399\u039d\u03a4\u0395\u039f]\n\n\"\u039d\u03b1 \u03c0\u03ac\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c3\u03c4\u03bf\u03bd \u03c0\u03bf\u03bb\u03af\u03c4\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c7\u03b9 \u03bf \u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\" \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/7bJHgKBBFM"
+        },
+        {
+            "author_id": 295101931,
+            "conversation_id": 1455552770191282179,
+            "created_at": "2021-11-02 15:09:57+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455552770191282179,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 389551255,
+            "conversation_id": 1455552432843464708,
+            "created_at": "2021-11-02 15:08:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455552432843464708,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1335887626872696832,
+            "conversation_id": 1455530291792125958,
+            "created_at": "2021-11-02 13:40:38+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/pfizer\u2026",
+                        "end": 246,
+                        "expanded_url": "https://www.documentonews.gr/article/pfizer-emvolio-covid-19-provlepsi-gia-poliseis-36-dis-dolarion/#.YYE-5T9zzlg.twitter",
+                        "start": 223,
+                        "url": "https://t.co/OalTRLszfg"
+                    }
+                ]
+            },
+            "id": 1455530291792125958,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a9\u03c1\u03b1\u03af\u03b1 \u03c6\u03c1\u03ad\u03c3\u03ba\u03b1 \u03b4\u03b9\u03c2 \u03c3\u03b5 business \u03b1\u03bd\u03b1 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03c4\u03c1\u03ad\u03c7\u03c4\u03b5 \u03ba\u03ac\u03bd\u03c4\u03b5 \u03ba 3\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba 4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03b5\u03c2 \u03c3\u03b1\u03c2 \u03c0\u03bf\u03c5\u03bd. \u039c\u03b7\u03bd \u03b1\u03bc\u03c6\u03b9\u03c3\u03b2\u03b7\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03b1 \u03ba\u03b1\u03bb\u03b1 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9...\n\nPfizer-\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Covid-19: \u03a0\u03c1\u03cc\u03b2\u03bb\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c0\u03c9\u03bb\u03ae\u03c3\u03b5\u03b9\u03c2 36 \u03b4\u03b9\u03c3. \u03b4\u03bf\u03bb\u03b1\u03c1\u03af\u03c9\u03bd - Documento: https://t.co/OalTRLszfg"
+        },
+        {
+            "author_id": 2677180819,
+            "conversation_id": 1455516983227789313,
+            "created_at": "2021-11-02 12:47:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455516983227789313,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 3372998709,
+            "conversation_id": 1455511075542257665,
+            "created_at": "2021-11-02 12:24:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455511075542257665,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1365402529778040833,
+            "conversation_id": 1455501301832425473,
+            "created_at": "2021-11-02 11:45:26+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455501301832425473,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1219576515094044672,
+            "conversation_id": 1455501157615476742,
+            "created_at": "2021-11-02 11:44:52+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455501157615476742,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1181587003244236800,
+            "conversation_id": 1455500761203421189,
+            "created_at": "2021-11-02 11:43:18+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455500761203421189,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 2967249619,
+            "conversation_id": 1455485288441126912,
+            "created_at": "2021-11-02 10:41:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455485288441126912,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 376067547,
+            "conversation_id": 1455480373681565700,
+            "created_at": "2021-11-02 10:22:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455480373681565700,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1317014593391202304,
+            "conversation_id": 1455478219172417541,
+            "created_at": "2021-11-02 10:13:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455478219172417541,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1150138715316084736,
+            "conversation_id": 1455477334497169409,
+            "created_at": "2021-11-02 10:10:12+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455477334497169409,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1244628291404824578,
+            "conversation_id": 1455477214619881477,
+            "created_at": "2021-11-02 10:09:44+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455477214619881477,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 4374843040,
+            "conversation_id": 1455451654250237952,
+            "created_at": "2021-11-02 08:28:10+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455451654250237952,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1031398897,
+            "conversation_id": 1455442591391096832,
+            "created_at": "2021-11-02 07:52:09+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455442591391096832,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 2467266802,
+            "conversation_id": 1455438394998284289,
+            "created_at": "2021-11-02 07:35:28+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455438394998284289,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 777188298762625024,
+            "conversation_id": 1455432680913477634,
+            "created_at": "2021-11-02 07:12:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455432680913477634,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 104456364,
+            "conversation_id": 1455425223751258112,
+            "created_at": "2021-11-02 06:43:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455425223751258112,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 995569686472462336,
+            "conversation_id": 1455423920287399938,
+            "created_at": "2021-11-02 06:37:57+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455423920287399938,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1263133404834476032,
+            "conversation_id": 1455420057241128964,
+            "created_at": "2021-11-02 06:22:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455420057241128964,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1358730673134182400,
+            "conversation_id": 1455419937158270976,
+            "created_at": "2021-11-02 06:22:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455419937158270976,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 2462855708,
+            "conversation_id": 1455407790063816706,
+            "created_at": "2021-11-02 05:33:51+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455407790063816706,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 3035210321,
+            "conversation_id": 1455392790037372929,
+            "created_at": "2021-11-02 04:34:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455392790037372929,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 179423854,
+            "conversation_id": 1455352665836240901,
+            "created_at": "2021-11-02 01:54:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455352665836240901,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 713846614,
+            "conversation_id": 1455312959832535040,
+            "created_at": "2021-11-01 23:17:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455312959832535040,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 293944193,
+            "conversation_id": 1455310619368955906,
+            "created_at": "2021-11-01 23:07:44+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455310619368955906,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1369581015178612737,
+            "conversation_id": 1455298111312642052,
+            "created_at": "2021-11-01 22:18:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455298111312642052,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1251083583286018048,
+            "conversation_id": 1455292832927916037,
+            "created_at": "2021-11-01 21:57:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455292832927916037,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 946121040052269059,
+            "conversation_id": 1455290520041934863,
+            "created_at": "2021-11-01 21:47:52+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455290520041934863,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 1061233680570556418,
+            "conversation_id": 1455289904645169154,
+            "created_at": "2021-11-01 21:45:25+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455289904645169154,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 730767858700058624,
+            "conversation_id": 1455289639909138444,
+            "created_at": "2021-11-01 21:44:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455289639909138444,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1455289357066194945,
+            "created_at": "2021-11-01 21:43:15+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 126,
+                        "start": 118,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455289357066194945,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 31
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455288936058834950 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1455288936058834950,
+            "created_at": "2021-11-01 21:41:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2"
+                    },
+                    {
+                        "end": 128,
+                        "start": 108,
+                        "tag": "\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7"
+                    },
+                    {
+                        "end": 139,
+                        "start": 129,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 148,
+                        "start": 140,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/polaki\u2026",
+                        "end": 173,
+                        "expanded_url": "https://www.documentonews.gr/article/polakis-tora-sotiras-i-gkagka-gia-ta-monoklonika-kapote-psekasmenos-ego/#.YYBefY25uKY.twitter",
+                        "start": 150,
+                        "url": "https://t.co/UyuCZ0mgDU"
+                    }
+                ]
+            },
+            "id": 1455288936058834950,
+            "public_metrics": {
+                "like_count": 120,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 31
+            },
+            "text": "\u039f \u03b2\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u03a7\u03b1\u03bd\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391, \u03a0\u03b1\u03cd\u03bb\u03bf\u03c2 \u03a0\u03bf\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03bb\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1. #\u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 #\u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7_\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf  https://t.co/UyuCZ0mgDU"
+        },
+        {
+            "author_id": 817363295472680960,
+            "conversation_id": 1455264351544295428,
+            "created_at": "2021-11-01 20:03:53+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455264351544295428,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455241594605551617 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA)\u2026"
+        },
+        {
+            "author_id": 1207768901603528711,
+            "conversation_id": 1455256567763320837,
+            "created_at": "2021-11-01 19:32:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455256567763320837,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455241594605551617 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA)\u2026"
+        },
+        {
+            "author_id": 1423949024952999936,
+            "conversation_id": 1455248757189132288,
+            "created_at": "2021-11-01 19:01:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455248757189132288,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455241594605551617 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA)\u2026"
+        },
+        {
+            "author_id": 1306352019280728068,
+            "conversation_id": 1455248112101040137,
+            "created_at": "2021-11-01 18:59:21+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455248112101040137,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455241594605551617 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA)\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1455241594605551617,
+            "created_at": "2021-11-01 18:33:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 150,
+                        "id": "1293113010941296640",
+                        "start": 135,
+                        "username": "sputnikvaccine"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/h-rosi\u2026",
+                        "end": 175,
+                        "expanded_url": "https://www.documentonews.gr/article/h-rosia-epikaleitai-ereynes-gia-tin-ypsili-apotelesmatikotita-ton-sputnik-v-astra-zeneca-kai-sinopharm/#.YYAyRbrIZNs.twitter",
+                        "start": 152,
+                        "url": "https://t.co/1j7oBtZJZ9"
+                    }
+                ]
+            },
+            "id": 1455241594605551617,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "text": "\u03a4\u03bf \u03a1\u03c9\u03c3\u03b9\u03ba\u03cc \u03a4\u03b1\u03bc\u03b5\u03af\u03bf \u0386\u03bc\u03b5\u03c3\u03c9\u03bd \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd (RDIF) \u03b5\u03c0\u03b9\u03ba\u03b1\u03bb\u03ad\u03c3\u03c4\u03b7\u03ba\u03b5 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03bf\u03cd \u03c4\u03b7\u03c2 \u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03ae\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u0395\u03c4\u03b1\u03b9\u03c1\u03b5\u03af\u03b1\u03c2 (JAMA) \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf @sputnikvaccine \nhttps://t.co/1j7oBtZJZ9"
+        },
+        {
+            "author_id": 1320816230,
+            "conversation_id": 1454911724147167234,
+            "created_at": "2021-10-31 20:42:40+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 15,
+                        "start": 8,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 24,
+                        "start": 16,
+                        "tag": "AEKARIS"
+                    },
+                    {
+                        "end": 50,
+                        "start": 25,
+                        "tag": "\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1"
+                    },
+                    {
+                        "end": 62,
+                        "start": 51,
+                        "tag": "GiTisElias"
+                    },
+                    {
+                        "end": 76,
+                        "start": 63,
+                        "tag": "BigBrotherGR"
+                    },
+                    {
+                        "end": 85,
+                        "start": 77,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/astyno\u2026",
+                        "end": 133,
+                        "expanded_url": "https://www.documentonews.gr/article/astynomikoi-i-mpatsoi/#.YX79_17q8FE.twitter",
+                        "start": 110,
+                        "url": "https://t.co/lFg3QZyqjm"
+                    }
+                ]
+            },
+            "id": 1454911724147167234,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #DWTSgr #AEKARIS #\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1 #GiTisElias #BigBrotherGR #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf \n\u0391\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03af \u03ae \u03bc\u03c0\u03ac\u03c4\u03c3\u03bf\u03b9; https://t.co/lFg3QZyqjm"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1454182396803301382,
+            "created_at": "2021-10-29 20:24:35+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 33,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 88,
+                        "start": 80,
+                        "tag": "Covid19"
+                    },
+                    {
+                        "end": 139,
+                        "start": 135,
+                        "tag": "\u0397\u03a0\u0391"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1454182396803301382,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454174363146756109 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 #\u0397\u03a0\u0391\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1454174363146756109,
+            "created_at": "2021-10-29 19:52:40+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 14,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 69,
+                        "start": 61,
+                        "tag": "Covid19"
+                    },
+                    {
+                        "end": 120,
+                        "start": 116,
+                        "tag": "\u0397\u03a0\u0391"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "O \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2 \u039f\u03c1\u03b3\u03b1\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a6\u03b1\u03c1\u03bc\u03ac\u03ba\u03c9\u03bd \u03ba\u03b1\u03b9 \u03a4\u03c1\u03bf\u03c6\u03af\u03bc\u03c9\u03bd (FDA), \u03b7 \u03c1\u03c5\u03b8\u03bc\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03b1\u03c1\u03c7\u03ae \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03c9\u03bd \u0397\u03a0\u0391, \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b5 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ac\u03b4\u03b5\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b7\u03c2 \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03c4\u03c9\u03bd Pfizer/BioNTech \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19 \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd. \u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391. [\u2026]",
+                        "display_url": "documentonews.gr/article/fda-na\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.documentonews.gr/article/fda-nai-sti-xrisi-emvolioy-tis-pfizer-se-paidia-5-11-eton/#.YXxQ4YUkMvk.twitter",
+                        "images": [
+                            {
+                                "height": 667,
+                                "url": "https://pbs.twimg.com/news_img/1454174363511574531/kKilaO3E?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454174363511574531/kKilaO3E?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 121,
+                        "status": 200,
+                        "title": "FDA: \u00ab\u039d\u03b1\u03b9\u00bb \u03c3\u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 - 11 \u03b5\u03c4\u03ce\u03bd - Documento",
+                        "unwound_url": "https://www.documentonews.gr/article/fda-nai-sti-xrisi-emvolioy-tis-pfizer-se-paidia-5-11-eton/#.YXxQ4YUkMvk.twitter",
+                        "url": "https://t.co/CET4dmNYLt"
+                    }
+                ]
+            },
+            "id": 1454174363146756109,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 #\u0397\u03a0\u0391 https://t.co/CET4dmNYLt"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1454169720463167497,
+            "created_at": "2021-10-29 19:34:13+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 33,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 89,
+                        "start": 81,
+                        "tag": "Covid19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1454169720463167497,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454165342528364549 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2\u2026"
+        },
+        {
+            "author_id": 1024318488,
+            "conversation_id": 1454167814324031491,
+            "created_at": "2021-10-29 19:26:38+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 37,
+                        "start": 33,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 89,
+                        "start": 81,
+                        "tag": "Covid19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1454167814324031491,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454165342528364549 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1454165342528364549,
+            "created_at": "2021-10-29 19:16:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 18,
+                        "start": 14,
+                        "tag": "FDA"
+                    },
+                    {
+                        "end": 70,
+                        "start": 62,
+                        "tag": "Covid19"
+                    },
+                    {
+                        "end": 124,
+                        "start": 120,
+                        "tag": "\u0397\u03a0\u0391"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/o-fda-\u2026",
+                        "end": 148,
+                        "expanded_url": "https://www.documentonews.gr/article/o-fda-anamenetai-na-egkrinei-ti-xorigisi-toy-emvolioy-pfizer-gia-paidia-5-11-eton/#.YXxIjepvXjQ.twitter",
+                        "start": 125,
+                        "url": "https://t.co/a3wnuXbQIV"
+                    }
+                ]
+            },
+            "id": 1454165342528364549,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 #FDA \u03b8\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 #Covid19 \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 #\u0397\u03a0\u0391 https://t.co/a3wnuXbQIV"
+        },
+        {
+            "author_id": 172390271,
+            "conversation_id": 1454021594628636674,
+            "created_at": "2021-10-29 09:45:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1454021594628636674,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454020904460169217 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. #\u039a\u039f\u03a1\u039f\u2026"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1454021055287382017,
+            "created_at": "2021-10-29 09:43:28+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1454021055287382017,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454020904460169217 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. #\u039a\u039f\u03a1\u039f\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1454020904460169217,
+            "created_at": "2021-10-29 09:42:52+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 125,
+                        "start": 115,
+                        "tag": "\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3"
+                    },
+                    {
+                        "end": 138,
+                        "start": 126,
+                        "tag": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7"
+                    },
+                    {
+                        "end": 143,
+                        "start": 139,
+                        "tag": "\u039c\u0395\u0398"
+                    },
+                    {
+                        "end": 152,
+                        "start": 144,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 137 \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03bc\u03b5 Covid \u03c3\u03b5 \u039c\u0395\u0398, \u03c3\u03c4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03c4\u03b7\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u03c0\u03bf\u03c5 \u03c5\u03c0\u03ac\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03bc\u03bf\u03b4\u03b9\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c4\u03b7\u03c2 3\u03b7\u03c2 \u03ba\u03b1\u03b9 4\u03b7\u03c2 \u03a5\u03a0\u0395, \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03b1\u03c5\u03c4\u03ce\u03bd \u03bd\u03b1 \u03ba\u03c5\u03bc\u03b1\u03af\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc 95,2 \u03ad\u03c9\u03c2 96%. \u03a4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03c0\u03bb\u03ad\u03c2 \u03ba\u03bb\u03af\u03bd\u03b5\u03c2 Covid \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 773, \u03bc\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03c5\u03c8\u03b7\u03bb\u03cc [\u2026]",
+                        "display_url": "documentonews.gr/article/korono\u2026",
+                        "end": 177,
+                        "expanded_url": "https://www.documentonews.gr/article/koronoios-sto-kokkino-i-thessaloniki-137-astheneis-se-meth-xeperase-se-kroysmata-tin-attiki/#.YXvAGRu_6JU.twitter",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1454020904929927172/1pKc-UHk?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454020904929927172/1pKc-UHk?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 154,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a3\u03c4\u03bf \u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\u00bb \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - 137 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03c3\u03b5 \u039c\u0395\u0398 - \u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c3\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae - Documento",
+                        "unwound_url": "https://www.documentonews.gr/article/koronoios-sto-kokkino-i-thessaloniki-137-astheneis-se-meth-xeperase-se-kroysmata-tin-attiki/#.YXvAGRu_6JU.twitter",
+                        "url": "https://t.co/6dtyWV7rfI"
+                    }
+                ]
+            },
+            "id": 1454020904460169217,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 2
+            },
+            "text": "\u0399\u03b4\u03b9\u03b1\u03af\u03c4\u03b5\u03c1\u03b1 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03b7\u03c4\u03b9\u03ba\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bc\u03b5 \u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03bb\u03ad\u03bf\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03c3\u03b5 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. #\u039a\u039f\u03a1\u039f\u039d\u039f\u0399\u039f\u03a3 #\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03b9\u03ba\u03b7 #\u039c\u0395\u0398 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf  https://t.co/6dtyWV7rfI"
+        },
+        {
+            "author_id": 1306352019280728068,
+            "conversation_id": 1453448504555225090,
+            "created_at": "2021-10-27 19:48:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453448504555225090,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1453395023333150726,
+            "created_at": "2021-10-27 16:15:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453395023333150726,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 225982309,
+            "conversation_id": 1453376917164412928,
+            "created_at": "2021-10-27 15:03:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453376917164412928,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 1051040771237978112,
+            "conversation_id": 1453373234871681029,
+            "created_at": "2021-10-27 14:49:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453373234871681029,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 2677180819,
+            "conversation_id": 1453372698374164487,
+            "created_at": "2021-10-27 14:47:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453372698374164487,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 77716781,
+            "conversation_id": 1453372426138570758,
+            "created_at": "2021-10-27 14:46:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 102,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 123,
+                        "start": 113,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 132,
+                        "start": 124,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 137,
+                        "start": 133,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453372426138570758,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453372163931656208 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 h\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1453372163931656208,
+            "created_at": "2021-10-27 14:45:00+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 93,
+                        "start": 83,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 104,
+                        "start": 94,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 113,
+                        "start": 105,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 118,
+                        "start": 114,
+                        "tag": "\u03bc\u03b5\u03b8"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/sto-el\u2026",
+                        "end": 142,
+                        "expanded_url": "https://www.documentonews.gr/article/sto-eleos-pleon-tis-pandimias-63-thanatoi-3-651-kroysmata-387-diasolinomenoi/#.YXllqKInyvs.twitter",
+                        "start": 119,
+                        "url": "https://t.co/osfsW9gtnE"
+                    }
+                ]
+            },
+            "id": 1453372163931656208,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "\u039d\u03ad\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b1 \u03c3\u03c4\u03bf\u03b9\u03c7\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5. #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03bc\u03b5\u03b8 https://t.co/osfsW9gtnE"
+        }
+    ]
+}

@@ -1,0 +1,278 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 165765064,
+                "conversation_id": 1454191117247913988,
+                "created_at": "2021-10-29 20:59:14+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03cc\u03c4\u03b9 \u03b7 \u03bc\u03c5\u03bf\u03ba\u03b1\u03c1\u03b4\u03af\u03c4\u03b9\u03b4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b7 \u03c0\u03b1\u03c1\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd Covid-19- \u03b9\u03b4\u03af\u03c9\u03c2 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03bd\u03b5\u03cc\u03c4\u03b5\u03c1\u03c9\u03bd \u03b1\u03bd\u03b4\u03c1\u03ce\u03bd, \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b1\u03bd\u03b4\u03c1\u03ce\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd",
+                            "display_url": "attikanea.info/%CE%97%CE%BD%C\u2026",
+                            "end": 179,
+                            "expanded_url": "https://attikanea.info/%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF-%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF-%CE%9F%CE%B9-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9-%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CF%8D-%CF%84%CF%89%CE%BD-%CE%B1%CF%81%CF%81%CE%AD%CE%BD%CF%89%CE%BD-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CF%8E%CE%BD-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-83-%CE%A5%CF%88%CE%B7%CE%BB%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%B9-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF%CE%BD-%CE%9C%CE%AD%CF%83%CE%BF-%CE%8C%CF%81%CE%BF-%CF%84%CF%89%CE%BD-5-%CE%B5%CF%84%CF%8E%CE%BD-%CE%B1%CF%80%CF%8C-%CF%84%CF%8C%CF%84%CE%B5-%CF%80%CE%BF%CF%85-%CF%84%CE%BF%CF%85%CF%82-%CF%87%CE%BF%CF%81%CE%B7%CE%B3%CE%AE%CE%B8%CE%B7%CE%BA%CE%B5-%CF%84%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-19/",
+                            "images": [
+                                {
+                                    "height": 432,
+                                    "url": "https://pbs.twimg.com/news_img/1454191119449927681/M4Lm503H?format=png&name=orig",
+                                    "width": 768
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454191119449927681/M4Lm503H?format=png&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 156,
+                            "status": 200,
+                            "title": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf : \u039f\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c1\u03c1\u03ad\u03bd\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 83% \u03a5\u03c8\u03b7\u03bb\u03cc\u03c4",
+                            "unwound_url": "https://attikanea.info/%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF-%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF-%CE%9F%CE%B9-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9-%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CF%8D-%CF%84%CF%89%CE%BD-%CE%B1%CF%81%CF%81%CE%AD%CE%BD%CF%89%CE%BD-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CF%8E%CE%BD-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-83-%CE%A5%CF%88%CE%B7%CE%BB%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%B9-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF%CE%BD-%CE%9C%CE%AD%CF%83%CE%BF-%CE%8C%CF%81%CE%BF-%CF%84%CF%89%CE%BD-5-%CE%B5%CF%84%CF%8E%CE%BD-%CE%B1%CF%80%CF%8C-%CF%84%CF%8C%CF%84%CE%B5-%CF%80%CE%BF%CF%85-%CF%84%CE%BF%CF%85%CF%82-%CF%87%CE%BF%CF%81%CE%B7%CE%B3%CE%AE%CE%B8%CE%B7%CE%BA%CE%B5-%CF%84%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-19/",
+                            "url": "https://t.co/V192o7wudn"
+                        }
+                    ]
+                },
+                "id": 1454191117247913988,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf : \u039f\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c1\u03c1\u03ad\u03bd\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 83% \u03a5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u039c\u03ad\u03c3\u03bf \u038c\u03c1\u03bf \u03c4\u03c9\u03bd 5 \u03b5\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03cc\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Covid-19. https://t.co/V192o7wudn"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2016-12-29 08:15:38+00:00",
+                "description": "",
+                "id": 814384366000467969,
+                "name": "Chrysa\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 598,
+                    "following_count": 897,
+                    "listed_count": 0,
+                    "tweet_count": 25050
+                },
+                "username": "chrysoula73",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-12 13:46:30+00:00",
+                "description": "",
+                "id": 165765064,
+                "name": "this time from me",
+                "public_metrics": {
+                    "followers_count": 2751,
+                    "following_count": 3861,
+                    "listed_count": 12,
+                    "tweet_count": 41778
+                },
+                "username": "thistimefromme",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-20 13:22:22+00:00",
+                "description": "",
+                "id": 1450814539952447495,
+                "name": "dimitris samiotis",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 9,
+                    "listed_count": 0,
+                    "tweet_count": 229
+                },
+                "username": "dimitrissamiot2",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 814384366000467969,
+            "conversation_id": 1454198500674125824,
+            "created_at": "2021-10-29 21:28:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "165765064",
+                        "start": 3,
+                        "username": "thistimefromme"
+                    }
+                ]
+            },
+            "id": 1454198500674125824,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454191117247913988 type=retweeted"
+            ],
+            "text": "RT @thistimefromme: \u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf : \u039f\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c1\u03c1\u03ad\u03bd\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 83% \u03a5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u039c\u03ad\u03c3\u03bf \u038c\u03c1\u03bf \u03c4\u03c9\u03bd 5 \u03b5\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03cc\u03c4\u03b5 \u03c0\u03bf\u03c5\u2026"
+        },
+        {
+            "author_id": 165765064,
+            "conversation_id": 1454192670654480386,
+            "created_at": "2021-10-29 21:05:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03bc\u03b5\u03c1\u03b9\u03ba\u03b1\u03bd\u03cc\u03c2, \u03c0\u03b1\u03b8\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c0\u03bf\u03bb\u03bb\u03ac \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1 \u03c0\u03b5\u03c1\u03b9\u03ad\u03b3\u03c1\u03b1\u03c8\u03b5 \u03bc\u03b9\u03b1 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03b5 \u03bf\u03c1\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03c4\u03cd\u03c0\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c5 (\u03c0.\u03c7. \u03ba\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bd\u03b4\u03bf\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5, \u03c4\u03b7\u03c2 \u03bc\u03ae\u03c4\u03c1\u03b1\u03c2) \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ad\u03bd\u03b1\u03c1\u03be\u03b7 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03b6\u03b9\u03ba\u03ae\u03c2",
+                        "display_url": "attikanea.info/%CE%9F-%CE%9A%\u2026",
+                        "end": 66,
+                        "expanded_url": "https://attikanea.info/%CE%9F-%CE%9A%CE%B1%CF%81%CE%BA%CE%AF%CE%BD%CE%BF%CF%82-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%B1-%CE%BA%CE%B1%CF%84%CE%AC-%CF%84%CE%BF%CF%85-covid/",
+                        "images": [
+                            {
+                                "height": 480,
+                                "url": "https://pbs.twimg.com/news_img/1454192671191453698/UCsJyxMr?format=png&name=orig",
+                                "width": 766
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454192671191453698/UCsJyxMr?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 43,
+                        "status": 200,
+                        "title": "\u039f \u039a\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u00ab\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1\u00bb \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 Covid - \u0391\u03a4\u03a4\u0399\u039a\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://attikanea.info/%CE%9F-%CE%9A%CE%B1%CF%81%CE%BA%CE%AF%CE%BD%CE%BF%CF%82-%CE%BA%CE%B1%CE%B9-%CF%84%CE%B1-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%B1-%CE%BA%CE%B1%CF%84%CE%AC-%CF%84%CE%BF%CF%85-covid/",
+                        "url": "https://t.co/i272NyIRMw"
+                    }
+                ]
+            },
+            "id": 1454192670654480386,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u039a\u03b1\u03c1\u03ba\u03af\u03bd\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u00ab\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1\u00bb \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 Covid https://t.co/i272NyIRMw"
+        },
+        {
+            "author_id": 165765064,
+            "conversation_id": 1454191117247913988,
+            "created_at": "2021-10-29 20:59:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03bf \u03b3\u03b5\u03b3\u03bf\u03bd\u03cc\u03c2 \u03cc\u03c4\u03b9 \u03b7 \u03bc\u03c5\u03bf\u03ba\u03b1\u03c1\u03b4\u03af\u03c4\u03b9\u03b4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b7 \u03c0\u03b1\u03c1\u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd Covid-19- \u03b9\u03b4\u03af\u03c9\u03c2 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03bd\u03b5\u03cc\u03c4\u03b5\u03c1\u03c9\u03bd \u03b1\u03bd\u03b4\u03c1\u03ce\u03bd, \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd \u03c4\u03c9\u03bd \u03b1\u03bd\u03b4\u03c1\u03ce\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd",
+                        "display_url": "attikanea.info/%CE%97%CE%BD%C\u2026",
+                        "end": 179,
+                        "expanded_url": "https://attikanea.info/%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF-%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF-%CE%9F%CE%B9-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9-%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CF%8D-%CF%84%CF%89%CE%BD-%CE%B1%CF%81%CF%81%CE%AD%CE%BD%CF%89%CE%BD-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CF%8E%CE%BD-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-83-%CE%A5%CF%88%CE%B7%CE%BB%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%B9-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF%CE%BD-%CE%9C%CE%AD%CF%83%CE%BF-%CE%8C%CF%81%CE%BF-%CF%84%CF%89%CE%BD-5-%CE%B5%CF%84%CF%8E%CE%BD-%CE%B1%CF%80%CF%8C-%CF%84%CF%8C%CF%84%CE%B5-%CF%80%CE%BF%CF%85-%CF%84%CE%BF%CF%85%CF%82-%CF%87%CE%BF%CF%81%CE%B7%CE%B3%CE%AE%CE%B8%CE%B7%CE%BA%CE%B5-%CF%84%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-19/",
+                        "images": [
+                            {
+                                "height": 432,
+                                "url": "https://pbs.twimg.com/news_img/1454191119449927681/M4Lm503H?format=png&name=orig",
+                                "width": 768
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454191119449927681/M4Lm503H?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 156,
+                        "status": 200,
+                        "title": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf : \u039f\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c1\u03c1\u03ad\u03bd\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 83% \u03a5\u03c8\u03b7\u03bb\u03cc\u03c4",
+                        "unwound_url": "https://attikanea.info/%CE%97%CE%BD%CF%89%CE%BC%CE%AD%CE%BD%CE%BF-%CE%92%CE%B1%CF%83%CE%AF%CE%BB%CE%B5%CE%B9%CE%BF-%CE%9F%CE%B9-%CE%B8%CE%AC%CE%BD%CE%B1%CF%84%CE%BF%CE%B9-%CE%BC%CE%B5%CF%84%CE%B1%CE%BE%CF%8D-%CF%84%CF%89%CE%BD-%CE%B1%CF%81%CF%81%CE%AD%CE%BD%CF%89%CE%BD-%CF%80%CE%B1%CE%B9%CE%B4%CE%B9%CF%8E%CE%BD-%CE%B5%CE%AF%CE%BD%CE%B1%CE%B9-83-%CE%A5%CF%88%CE%B7%CE%BB%CF%8C%CF%84%CE%B5%CF%81%CE%BF%CE%B9-%CE%B1%CF%80%CF%8C-%CF%84%CE%BF%CE%BD-%CE%9C%CE%AD%CF%83%CE%BF-%CE%8C%CF%81%CE%BF-%CF%84%CF%89%CE%BD-5-%CE%B5%CF%84%CF%8E%CE%BD-%CE%B1%CF%80%CF%8C-%CF%84%CF%8C%CF%84%CE%B5-%CF%80%CE%BF%CF%85-%CF%84%CE%BF%CF%85%CF%82-%CF%87%CE%BF%CF%81%CE%B7%CE%B3%CE%AE%CE%B8%CE%B7%CE%BA%CE%B5-%CF%84%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-19/",
+                        "url": "https://t.co/V192o7wudn"
+                    }
+                ]
+            },
+            "id": 1454191117247913988,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0397\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf \u0392\u03b1\u03c3\u03af\u03bb\u03b5\u03b9\u03bf : \u039f\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03bc\u03b5\u03c4\u03b1\u03be\u03cd \u03c4\u03c9\u03bd \u03b1\u03c1\u03c1\u03ad\u03bd\u03c9\u03bd \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 83% \u03a5\u03c8\u03b7\u03bb\u03cc\u03c4\u03b5\u03c1\u03bf\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u039c\u03ad\u03c3\u03bf \u038c\u03c1\u03bf \u03c4\u03c9\u03bd 5 \u03b5\u03c4\u03ce\u03bd \u03b1\u03c0\u03cc \u03c4\u03cc\u03c4\u03b5 \u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Covid-19. https://t.co/V192o7wudn"
+        },
+        {
+            "author_id": 1450814539952447495,
+            "conversation_id": 1453860382423097346,
+            "created_at": "2021-10-28 23:05:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03c5\u03c4\u03bf\u03af \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c9\u03b8\u03bf\u03cd\u03bd \u03c4\u03b7\u03bd \u03b1\u03c0\u03ac\u03c4\u03b7 COVID, \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae, \u03c3\u03ba\u03bf\u03bd\u03c4\u03ac\u03c6\u03c4\u03bf\u03c5\u03bd \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf\u03bd \u03b5\u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03b9\u03c3\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03c6\u03ac\u03c3\u03b5\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b1\u03c8\u03b7\u03c6\u03bf\u03cd\u03bd \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae. \u039f \u03af\u03b4\u03b9\u03bf\u03c2 \u03bf Fauci \u03ad\u03c7\u03b5\u03b9 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9 \u03b3\u03bd\u03ce\u03bc\u03b7",
+                        "display_url": "attikanea.info/%CE%97%CE%A0%C\u2026",
+                        "end": 119,
+                        "expanded_url": "https://attikanea.info/%CE%97%CE%A0%CE%91-%CE%97-e%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7-a%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%AD%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CF%8C%CF%84%CE%B9-%CF%84%CE%BF-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-%CF%83%CE%B1%CF%82-%CE%B4%CE%AF%CE%BD%CE%B5%CE%B9-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BD%CE%BF%CF%83%CE%AF%CE%B1-covid/",
+                        "images": [
+                            {
+                                "height": 446,
+                                "url": "https://pbs.twimg.com/news_img/1453824459819921415/fhzBdTHA?format=png&name=orig",
+                                "width": 798
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453824459819921415/fhzBdTHA?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 96,
+                        "status": 200,
+                        "title": "\u0397\u03a0\u0391 : \u0397 E\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 A\u03c6\u03ae\u03b3\u03b7\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03c8\u03b5\u03cd\u03c4\u03b9\u03ba\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf COVID \u03c3\u03b1\u03c2 \u03b4\u03af\u03bd\u03b5\u03b9",
+                        "unwound_url": "https://attikanea.info/%CE%97%CE%A0%CE%91-%CE%97-e%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7-a%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%AD%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CF%8C%CF%84%CE%B9-%CF%84%CE%BF-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-%CF%83%CE%B1%CF%82-%CE%B4%CE%AF%CE%BD%CE%B5%CE%B9-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BD%CE%BF%CF%83%CE%AF%CE%B1-covid/",
+                        "url": "https://t.co/JagFuH11B3"
+                    }
+                ]
+            },
+            "id": 1453860382423097346,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391 : \u0397 E\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 A\u03c6\u03ae\u03b3\u03b7\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03c8\u03b5\u03cd\u03c4\u03b9\u03ba\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf COVID \u03c3\u03b1\u03c2 \u03b4\u03af\u03bd\u03b5\u03b9 \u03c8\u03b5\u03cd\u03c4\u03b9\u03ba\u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 COVID https://t.co/JagFuH11B3"
+        },
+        {
+            "author_id": 165765064,
+            "conversation_id": 1453824459266306055,
+            "created_at": "2021-10-28 20:42:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03c5\u03c4\u03bf\u03af \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c9\u03b8\u03bf\u03cd\u03bd \u03c4\u03b7\u03bd \u03b1\u03c0\u03ac\u03c4\u03b7 COVID, \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae, \u03c3\u03ba\u03bf\u03bd\u03c4\u03ac\u03c6\u03c4\u03bf\u03c5\u03bd \u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03bf\u03bd \u03b5\u03b1\u03c5\u03c4\u03cc \u03c4\u03bf\u03c5\u03c2 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03c0\u03bb\u03b7\u03b8\u03ce\u03c1\u03b1 \u03b9\u03c3\u03c7\u03c5\u03c1\u03b9\u03c3\u03bc\u03ce\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03c6\u03ac\u03c3\u03b5\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b1\u03c8\u03b7\u03c6\u03bf\u03cd\u03bd \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae. \u039f \u03af\u03b4\u03b9\u03bf\u03c2 \u03bf Fauci \u03ad\u03c7\u03b5\u03b9 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9 \u03b3\u03bd\u03ce\u03bc\u03b7",
+                        "display_url": "attikanea.info/%CE%97%CE%A0%C\u2026",
+                        "end": 275,
+                        "expanded_url": "https://attikanea.info/%CE%97%CE%A0%CE%91-%CE%97-e%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7-a%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%AD%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CF%8C%CF%84%CE%B9-%CF%84%CE%BF-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-%CF%83%CE%B1%CF%82-%CE%B4%CE%AF%CE%BD%CE%B5%CE%B9-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BD%CE%BF%CF%83%CE%AF%CE%B1-covid/",
+                        "images": [
+                            {
+                                "height": 446,
+                                "url": "https://pbs.twimg.com/news_img/1453824459819921415/fhzBdTHA?format=png&name=orig",
+                                "width": 798
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453824459819921415/fhzBdTHA?format=png&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 252,
+                        "status": 200,
+                        "title": "\u0397\u03a0\u0391 : \u0397 E\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 A\u03c6\u03ae\u03b3\u03b7\u03c3\u03b7 \u03a0\u03b1\u03c1\u03b1\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03cc\u03c4\u03b9 \u03c4\u03bf \u03c8\u03b5\u03cd\u03c4\u03b9\u03ba\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf COVID \u03c3\u03b1\u03c2 \u03b4\u03af\u03bd\u03b5\u03b9",
+                        "unwound_url": "https://attikanea.info/%CE%97%CE%A0%CE%91-%CE%97-e%CF%80%CE%AF%CF%83%CE%B7%CE%BC%CE%B7-a%CF%86%CE%AE%CE%B3%CE%B7%CF%83%CE%B7-%CE%A0%CE%B1%CF%81%CE%B1%CE%B4%CE%AD%CF%87%CE%B5%CF%84%CE%B1%CE%B9-%CF%8C%CF%84%CE%B9-%CF%84%CE%BF-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%BF-%CE%B5%CE%BC%CE%B2%CF%8C%CE%BB%CE%B9%CE%BF-covid-%CF%83%CE%B1%CF%82-%CE%B4%CE%AF%CE%BD%CE%B5%CE%B9-%CF%88%CE%B5%CF%8D%CF%84%CE%B9%CE%BA%CE%B7-%CE%B1%CE%BD%CE%BF%CF%83%CE%AF%CE%B1-covid/",
+                        "url": "https://t.co/FwtkTGwFCw"
+                    }
+                ]
+            },
+            "id": 1453824459266306055,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b1\u03c4\u03b9\u03c3\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03b7\u03b3\u03ad\u03c2, \u03b7 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03af\u03c0\u03b7 \u03ad\u03c7\u03b5\u03b9 \u201c\u03b5\u03be\u03b1\u03c6\u03b1\u03bd\u03b9\u03c3\u03c4\u03b5\u03af\u201d \u03c4\u03bf 2020-2021 \u03c3\u03b5 \u03c0\u03bf\u03bb\u03bb\u03ac \u03ad\u03b8\u03bd\u03b7. \u03a0\u03c1\u03bf\u03c6\u03b1\u03bd\u03ce\u03c2 \u03b4\u03b5\u03bd \u03b5\u03be\u03b1\u03c6\u03b1\u03bd\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac- \u03bf\u03b9 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03af \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c0\u03b7\u03bb\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7 \u03a3\u03ad\u03c7\u03c4\u03b1 \u03c4\u03bf\u03c5 COVID \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03c5\u03be\u03ae\u03c3\u03bf\u03c5\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03c4\u03bf\u03c5 COVID.\nhttps://t.co/FwtkTGwFCw"
+        }
+    ]
+}

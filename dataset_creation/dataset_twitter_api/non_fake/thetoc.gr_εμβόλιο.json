@@ -1,0 +1,436 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1455784659342741509,
+                "created_at": "2021-11-03 06:31:24+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae, \u03bf\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b7\u03bb\u03b1\u03c3\u03bc\u03cc \u03c0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03b5\u03bf\u03b3\u03bd\u03ac \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1.",
+                            "display_url": "thetoc.gr/ygeia/article/\u2026",
+                            "end": 185,
+                            "expanded_url": "https://www.thetoc.gr/ygeia/article/oi-egkues-den-diatrexoun-kanenan-kinduno-apo-to-embolio---kathigitis-gunaikologias-exigei/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920408",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1455784663067287555/doT8jH38?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455784663067287555/doT8jH38?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 162,
+                            "status": 200,
+                            "title": "\u039f\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0393\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03b5\u03be\u03b7\u03b3\u03b5\u03af",
+                            "unwound_url": "https://www.thetoc.gr/ygeia/article/oi-egkues-den-diatrexoun-kanenan-kinduno-apo-to-embolio---kathigitis-gunaikologias-exigei/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920408",
+                            "url": "https://t.co/btZ3z2LIYm"
+                        }
+                    ]
+                },
+                "id": 1455784659342741509,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae, \u03bf\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b7\u03bb\u03b1\u03c3\u03bc\u03cc \u03c0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03b5\u03bf\u03b3\u03bd\u03ac \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1. https://t.co/btZ3z2LIYm"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1455617535399927811,
+                "created_at": "2021-11-02 19:27:19+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc.",
+                            "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                            "end": 123,
+                            "expanded_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 100,
+                            "status": 200,
+                            "title": "\"\u0397 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\": \u039a\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b1 \u03c3\u03bf\u03ba \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 37\u03c7\u03c1\u03bf\u03bd\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5",
+                            "unwound_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                            "url": "https://t.co/L5qcnzWrVz"
+                        }
+                    ]
+                },
+                "id": 1455617535399927811,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc. https://t.co/L5qcnzWrVz"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1455290084031410177,
+                "created_at": "2021-11-01 21:46:08+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039d\u03b5\u03ba\u03c1\u03ad\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc \u03b4\u03cd\u03bf \u03bc\u03bf\u03bd\u03b1\u03c7\u03ad\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1 - \u03a0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03bc\u03ae\u03bd\u03b1 \u03ba\u03b1\u03c4\u03ad\u03bb\u03b7\u03be\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03cc \u03ba\u03b1\u03b9 \u03b7 \u0397\u03b3\u03bf\u03c5\u03bc\u03ad\u03bd\u03b7 \u03c4\u03b7\u03c2 \u039c\u03bf\u03bd\u03ae\u03c2",
+                            "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                            "end": 134,
+                            "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-pethanan-duo-monaxes-ierou-gunaikeiou-isuxastiriou-o-timios-stauros-mapsou-korinthias/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635802900",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1455290090012426241/zlJJ929Z?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455290090012426241/zlJJ929Z?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 111,
+                            "status": 200,
+                            "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03ad\u03b8\u03b1\u03bd\u03b1\u03bd \u03b4\u03cd\u03bf \u03bc\u03bf\u03bd\u03b1\u03c7\u03ad\u03c2 \u0399\u03b5\u03c1\u03bf\u03cd \u0393\u03c5\u03bd\u03b1\u03b9\u03ba\u03b5\u03af\u03bf\u03c5 \u0397\u03c3\u03c5\u03c7\u03b1\u03c3\u03c4\u03b7\u03c1\u03af\u03bf\u03c5 \"\u039f \u03a4\u03af\u03bc\u03b9\u03bf\u03c2 \u03a3\u03c4\u03b1\u03c5\u03c1\u03cc\u03c2\" \u039c\u03b1\u03c8\u03bf\u03cd \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1\u03c2",
+                            "unwound_url": "https://www.thetoc.gr/koinwnia/article/koronoios-pethanan-duo-monaxes-ierou-gunaikeiou-isuxastiriou-o-timios-stauros-mapsou-korinthias/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635802900",
+                            "url": "https://t.co/RllRJp0P28"
+                        }
+                    ]
+                },
+                "id": 1455290084031410177,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039d\u03b5\u03ba\u03c1\u03ad\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc \u03b4\u03cd\u03bf \u03bc\u03bf\u03bd\u03b1\u03c7\u03ad\u03c2 \u03c3\u03c4\u03b7\u03bd \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03b1 - \u03a0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03bc\u03ae\u03bd\u03b1 \u03ba\u03b1\u03c4\u03ad\u03bb\u03b7\u03be\u03b5 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b9\u03cc \u03ba\u03b1\u03b9 \u03b7 \u0397\u03b3\u03bf\u03c5\u03bc\u03ad\u03bd\u03b7 \u03c4\u03b7\u03c2 \u039c\u03bf\u03bd\u03ae\u03c2 https://t.co/RllRJp0P28"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-04-10 08:31:07+00:00",
+                "description": "",
+                "id": 2436715856,
+                "name": "Kostas Perantakos",
+                "public_metrics": {
+                    "followers_count": 636,
+                    "following_count": 1034,
+                    "listed_count": 0,
+                    "tweet_count": 9796
+                },
+                "username": "kperantakos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2019-12-14 16:11:51+00:00",
+                "description": "",
+                "id": 1205883024539303936,
+                "name": "Palia Karavana",
+                "public_metrics": {
+                    "followers_count": 524,
+                    "following_count": 126,
+                    "listed_count": 2,
+                    "tweet_count": 79900
+                },
+                "username": "paliakaravana59",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2436715856,
+            "conversation_id": 1455785040445591552,
+            "created_at": "2021-11-03 06:32:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1455785040445591552,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455784659342741509 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae, \u03bf\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b7\u03bb\u03b1\u03c3\u03bc\u03cc \u03c0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u2026"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455784659342741509,
+            "created_at": "2021-11-03 06:31:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae, \u03bf\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b7\u03bb\u03b1\u03c3\u03bc\u03cc \u03c0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03b5\u03bf\u03b3\u03bd\u03ac \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1.",
+                        "display_url": "thetoc.gr/ygeia/article/\u2026",
+                        "end": 185,
+                        "expanded_url": "https://www.thetoc.gr/ygeia/article/oi-egkues-den-diatrexoun-kanenan-kinduno-apo-to-embolio---kathigitis-gunaikologias-exigei/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920408",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455784663067287555/doT8jH38?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455784663067287555/doT8jH38?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 162,
+                        "status": 200,
+                        "title": "\u039f\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u039a\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0393\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03b5\u03be\u03b7\u03b3\u03b5\u03af",
+                        "unwound_url": "https://www.thetoc.gr/ygeia/article/oi-egkues-den-diatrexoun-kanenan-kinduno-apo-to-embolio---kathigitis-gunaikologias-exigei/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920408",
+                        "url": "https://t.co/btZ3z2LIYm"
+                    }
+                ]
+            },
+            "id": 1455784659342741509,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae, \u03bf\u03b9 \u03ad\u03b3\u03ba\u03c5\u03b5\u03c2 \u03b4\u03b5\u03bd \u03b4\u03b9\u03b1\u03c4\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf, \u03b5\u03bd\u03ce \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b7\u03bb\u03b1\u03c3\u03bc\u03cc \u03c0\u03b1\u03af\u03c1\u03bd\u03bf\u03c5\u03bd \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03bd\u03b5\u03bf\u03b3\u03bd\u03ac \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03b7 \u03bc\u03b7\u03c4\u03ad\u03c1\u03b1. https://t.co/btZ3z2LIYm"
+        },
+        {
+            "author_id": 1205883024539303936,
+            "conversation_id": 1455626176584638476,
+            "created_at": "2021-11-02 20:01:39+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc.",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 115,
+                        "status": 200,
+                        "title": "\"\u0397 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\": \u039a\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b1 \u03c3\u03bf\u03ba \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 37\u03c7\u03c1\u03bf\u03bd\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                        "url": "https://t.co/L5qcnzWrVz"
+                    }
+                ]
+            },
+            "id": 1455626176584638476,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455617535399927811 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc. https://t.co/L5qcnzWrVz"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455617535399927811,
+            "created_at": "2021-11-02 19:27:19+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc.",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455617548993585159/CyA0tXTL?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 100,
+                        "status": 200,
+                        "title": "\"\u0397 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\": \u039a\u03b1\u03c4\u03b1\u03b3\u03b3\u03b5\u03bb\u03af\u03b1 \u03c3\u03bf\u03ba \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 37\u03c7\u03c1\u03bf\u03bd\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/i-gunaikologos-tis-elege-na-min-emboliastei-kataggelia-sok-apo-tous-suggeneis-tis-egkuou-pou-pethane/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635880770",
+                        "url": "https://t.co/L5qcnzWrVz"
+                    }
+                ]
+            },
+            "id": 1455617535399927811,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039f\u03b9 \u03c3\u03c5\u03b3\u03b3\u03b5\u03bd\u03b5\u03af\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b3\u03c5\u03bd\u03b1\u03b9\u03ba\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03ad\u03bb\u03b5\u03b3\u03b5 \u03c0\u03c9\u03c2 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc. https://t.co/L5qcnzWrVz"
+        },
+        {
+            "author_id": 1205883024539303936,
+            "conversation_id": 1455290084031410177,
+            "created_at": "2021-11-01 22:12:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "2200853882",
+                        "start": 0,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1455296820788224006,
+            "in_reply_to_user_id": 2200853882,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455290084031410177 type=replied_to"
+            ],
+            "text": "@TheTOC_gr \u039d\u03b1\u03b9  \u03b1\u03bb\u03bb\u03ac \u03c0\u03ad\u03b8\u03b1\u03bd\u03b1\u03bd \u03b1\u03bc\u03cc\u03bb\u03c5\u03bd\u03c4\u03b5\u03c2 \u03b1\u03c0 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba \u03b8\u03b1 \u03c0\u03ac\u03bd\u03b5 \u03c3\u03c4\u03bf\u03bd \u03a0\u03b1\u03c1\u03ac\u03b4\u03b5\u03b9\u03c3\u03bf \u03cc\u03c0\u03c9\u03c2 \u03ba \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03ac\u03bb\u03bb\u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454850900892307461,
+            "created_at": "2021-10-31 16:40:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "''\u0391\u03bd \u03ad\u03c1\u03b8\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ae \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c4\u03bf \u03ba\u03ac\u03bd\u03c9; \u039e\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c4\u03b9 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac\u03c9 \u03b5\u03b3\u03ce; \u03a1\u03c9\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b3\u03b9\u03b1\u03c4\u03c1\u03cc \u03c3\u03b1\u03c2'', \u03b5\u03af\u03c0\u03b5 \u03bf \u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 160,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/mitropolitis-xanthis-akouste-tous-giatrous---uparxoun-iereis-pou-piran-anthropous-sto-laimo-tous/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635697479",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454850909910016002/QUYoJ5dN?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454850909910016002/QUYoJ5dN?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 137,
+                        "status": 200,
+                        "title": "\u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 \u039e\u03ac\u03bd\u03b8\u03b7\u03c2: \u0391\u03ba\u03bf\u03cd\u03c3\u03c4\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03cd\u03c2 - \u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03b9\u03b5\u03c1\u03b5\u03af\u03c2 \u03c0\u03bf\u03c5 \u03c0\u03ae\u03c1\u03b1\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03c5\u03c2 \u03c3\u03c4\u03bf \u03bb\u03b1\u03b9\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/mitropolitis-xanthis-akouste-tous-giatrous---uparxoun-iereis-pou-piran-anthropous-sto-laimo-tous/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635697479",
+                        "url": "https://t.co/h8gzxMR29U"
+                    }
+                ]
+            },
+            "id": 1454850900892307461,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "''\u0391\u03bd \u03ad\u03c1\u03b8\u03b5\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03bf\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03bf\u03c5 \u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03c9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ae \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c4\u03bf \u03ba\u03ac\u03bd\u03c9; \u039e\u03ad\u03c1\u03b5\u03c4\u03b5 \u03c4\u03b9 \u03b1\u03c0\u03b1\u03bd\u03c4\u03ac\u03c9 \u03b5\u03b3\u03ce; \u03a1\u03c9\u03c4\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf\u03bd \u03b3\u03b9\u03b1\u03c4\u03c1\u03cc \u03c3\u03b1\u03c2'', \u03b5\u03af\u03c0\u03b5 \u03bf \u039c\u03b7\u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03af\u03c4\u03b7\u03c2 https://t.co/h8gzxMR29U"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454198492507910151,
+            "created_at": "2021-10-29 21:28:32+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391",
+                        "display_url": "thetoc.gr/diethni/articl\u2026",
+                        "end": 143,
+                        "expanded_url": "https://www.thetoc.gr/diethni/article/koronoios-o-fda-enekrine-ti-xrisi-tou-emboliou-tis-pfizer-se-paidia-5-11-eton/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635541784",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454198497188659210/pkoEfhid?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454198497188659210/pkoEfhid?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 120,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03b7 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 Pfizer \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd",
+                        "unwound_url": "https://www.thetoc.gr/diethni/article/koronoios-o-fda-enekrine-ti-xrisi-tou-emboliou-tis-pfizer-se-paidia-5-11-eton/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635541784",
+                        "url": "https://t.co/R3kxsLOC3A"
+                    }
+                ]
+            },
+            "id": 1454198492507910151,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 FDA \u03ba\u03b1\u03b8\u03b9\u03c3\u03c4\u03ac \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b1\u03c5\u03c4\u03cc \u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c0\u03bf\u03c5 \u03b5\u03b3\u03ba\u03c1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c3\u03b5 \u03bc\u03b9\u03ba\u03c1\u03ac \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 https://t.co/R3kxsLOC3A"
+        }
+    ]
+}

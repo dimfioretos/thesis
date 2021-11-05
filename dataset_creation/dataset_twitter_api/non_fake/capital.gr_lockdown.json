@@ -1,0 +1,1086 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 3037255030,
+                "conversation_id": 1455479353471606785,
+                "created_at": "2021-11-02 10:18:14+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/politiki/35922\u2026",
+                            "end": 233,
+                            "expanded_url": "https://www.capital.gr/politiki/3592281/suriza-katastrofi-neo-lockdown-draseis-gia-anemboliastous-entatikopoiisi-elegxon",
+                            "start": 210,
+                            "url": "https://t.co/Eqr0HOypSY"
+                        }
+                    ]
+                },
+                "id": 1455479353471606785,
+                "public_metrics": {
+                    "like_count": 37,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 6
+                },
+                "text": "\u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u03b5\u03af\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2.\u0393\u03b9\u03b1\u03bd\u03bd\u03b7\u03c2 \u03ae \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03b7\u03c2;\u0388\u03c7\u03b5\u03b9 \u03b5\u03bc\u03bc\u03bf\u03bd\u03ae \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03b3\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03cc\u03c0\u03c9\u03c2 \u03cc\u03c0\u03c9\u03c2. https://t.co/Eqr0HOypSY"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455441919279079429,
+                "created_at": "2021-11-02 07:49:29+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/story/3592281",
+                            "end": 108,
+                            "expanded_url": "http://www.capital.gr/story/3592281",
+                            "start": 85,
+                            "url": "https://t.co/9tQIuN3QRT"
+                        }
+                    ]
+                },
+                "id": 1455441919279079429,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u039a\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03bd\u03ad\u03bf lockdown- \u0394\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 - \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd https://t.co/9tQIuN3QRT"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455531365995266048,
+                "created_at": "2021-11-02 13:44:54+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0398\u03c9\u03c1\u03b1\u03ba\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u0395\u03a3\u03a5.",
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 83,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 60,
+                            "status": 200,
+                            "title": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown",
+                            "unwound_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                            "url": "https://t.co/o5NEJGvUEd"
+                        }
+                    ]
+                },
+                "id": 1455531365995266048,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown https://t.co/o5NEJGvUEd"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455523329029414915,
+                "created_at": "2021-11-02 13:12:58+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 126,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3592365/g-oikonomou-den-tha-pame-se-lockdown-oute-se-perioristika-metra-pou-th-aforoun-tous-emboliasmenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635857833",
+                            "start": 103,
+                            "url": "https://t.co/UyYkJ2ovUl"
+                        }
+                    ]
+                },
+                "id": 1455523329029414915,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 4
+                },
+                "text": "\u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: '\u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2' https://t.co/UyYkJ2ovUl"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455218748223275010,
+                "created_at": "2021-11-01 17:02:40+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b9\u03c2 \u03c0\u03b1\u03bb\u03b9\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03cc\u03be\u03b5\u03c2 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9 \u03be\u03b1\u03bd\u03ac \u03b1\u03c0\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03b1\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03cd\u03b4\u03bd\u03b5\u03cb \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b7 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 20 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd \u03ac\u03bd\u03bf\u03b9\u03be\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c4\u03b1 \u03c3\u03cd\u03bd\u03bf\u03c1\u03ac \u03c4\u03b7\u03c2.",
+                            "display_url": "capital.gr/diethni/359215\u2026",
+                            "end": 70,
+                            "expanded_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 47,
+                            "status": 200,
+                            "title": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown",
+                            "unwound_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                            "url": "https://t.co/9kWrKMwN09"
+                        }
+                    ]
+                },
+                "id": 1455218748223275010,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown https://t.co/9kWrKMwN09"
+            },
+            {
+                "author_id": 1333435264878997504,
+                "conversation_id": 1455153050474135553,
+                "created_at": "2021-11-01 12:41:37+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "capital.gr/diethni/359094\u2026",
+                            "end": 238,
+                            "expanded_url": "https://www.capital.gr/diethni/3590947/kina-lockdown-epiblithike-se-poli-4-ekat-katoikon-logo-tis-emfanisis-krousmaton",
+                            "start": 215,
+                            "url": "https://t.co/52nl5Nv5ZL"
+                        }
+                    ]
+                },
+                "id": 1455153050474135553,
+                "public_metrics": {
+                    "like_count": 12,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u039a\u03af\u03bd\u03b1: Lockdown \u03b5\u03c0\u03b9\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c0\u03cc\u03bb\u03b7 4 \u03b5\u03ba\u03b1\u03c4. \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd. \u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd\u03bc\u03c0\u03b1, \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03ba\u03b9 \u03cc\u03bb\u03bf \u03c4\u03bf \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03bc\u03ac\u03bd\u03b9..\u0395\u03a0\u0399\u0394\u039f\u039a\u0399\u039c\u0391\u0396\u0395\u03a4\u0395 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ad\u03c2 \u039a\u03af\u03bd\u03b1\u03c2; \u0389 \u03c0\u03c1\u03bf\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b5 \u039a\u03b9\u03bd\u03ad\u03b6\u03bf\u03c5\u03c2 \u03bd\u03b1 \u03b2\u03b3\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03c1\u03cc\u03bc\u03bf\u03c5\u03c2;;;\u0393\u03b9\u03b1 \u03c0\u03b5\u03af\u03c4\u03b5!! https://t.co/52nl5Nv5ZL"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-12-23 12:49:16+00:00",
+                "description": "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7",
+                "id": 98872288,
+                "name": "capital.gr",
+                "public_metrics": {
+                    "followers_count": 77428,
+                    "following_count": 0,
+                    "listed_count": 764,
+                    "tweet_count": 213259
+                },
+                "username": "capitalgr",
+                "verified": false
+            },
+            {
+                "created_at": "2017-06-04 22:45:36+00:00",
+                "description": "",
+                "id": 871498196417036288,
+                "name": "Simon Templar",
+                "public_metrics": {
+                    "followers_count": 540,
+                    "following_count": 287,
+                    "listed_count": 3,
+                    "tweet_count": 53296
+                },
+                "username": "churchwarden851",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-14 17:22:12+00:00",
+                "description": "\u0395\u03bd \u03bf\u03af\u03b4\u03b1 \u03cc\u03c4\u03b9 \u03bf\u03c5\u03b4\u03ad\u03bd \u03bf\u03af\u03b4\u03b1!",
+                "id": 3037255030,
+                "name": "\u0393\u03b9\u03b1 \u03c4\u03bf \u0394\u03b1\u03c6\u03bd\u03af!",
+                "public_metrics": {
+                    "followers_count": 4820,
+                    "following_count": 5296,
+                    "listed_count": 15,
+                    "tweet_count": 76620
+                },
+                "username": "giannMak",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-10 16:24:43+00:00",
+                "description": "engineering technology https://t.co/HPskEmZiHa",
+                "id": 3028384000,
+                "name": "gkolfo.potsi\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 242,
+                    "following_count": 305,
+                    "listed_count": 0,
+                    "tweet_count": 23726
+                },
+                "username": "gkolfipotsi4",
+                "verified": false
+            },
+            {
+                "created_at": "2015-11-24 09:49:19+00:00",
+                "description": "",
+                "id": 4263832996,
+                "name": "Akatalogistos",
+                "public_metrics": {
+                    "followers_count": 744,
+                    "following_count": 645,
+                    "listed_count": 9,
+                    "tweet_count": 211865
+                },
+                "username": "Akatalogistos",
+                "verified": false
+            },
+            {
+                "created_at": "2015-11-10 06:26:32+00:00",
+                "description": "\u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c0\u03b1\u03c1\u03b5\u03bc\u03b2\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03c7\u03c9\u03c1\u03af\u03c2 \u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c3\u03b5\u03b9\u03c2. \u0391\u03c0\u03cc \u03c4\u03b7\u03bd \u03a3\u03bf\u03c3\u03b9\u03b1\u03bb\u03b4\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1, \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u039a\u03ad\u03bd\u03c4\u03c1\u03bf\u03c5, \u03c9\u03c2 \u03c4\u03b7\u03bd \u0394\u03b5\u03be\u03b9\u03ac.",
+                "id": 4187436194,
+                "name": "\u039a\u03b5\u03bd\u03c4\u03c1\u03bf\u03b4\u03b5\u03be\u03b9\u03ac 1821",
+                "public_metrics": {
+                    "followers_count": 3554,
+                    "following_count": 3508,
+                    "listed_count": 19,
+                    "tweet_count": 142743
+                },
+                "username": "kentrodexia",
+                "verified": false
+            },
+            {
+                "created_at": "2021-05-28 20:49:21+00:00",
+                "description": "",
+                "id": 1398379908242587651,
+                "name": "\u03a7\u03a1\u0399\u03a3\u03a4\u0399\u039d\u0391 \u03a1\u039f\u03a5\u03a3\u0397",
+                "public_metrics": {
+                    "followers_count": 202,
+                    "following_count": 353,
+                    "listed_count": 0,
+                    "tweet_count": 5153
+                },
+                "username": "eFLhfLOhdqh0tMy",
+                "verified": false
+            },
+            {
+                "created_at": "2014-02-17 22:30:27+00:00",
+                "description": "",
+                "id": 2349489651,
+                "name": "chrysib11",
+                "public_metrics": {
+                    "followers_count": 2866,
+                    "following_count": 3524,
+                    "listed_count": 23,
+                    "tweet_count": 322732
+                },
+                "username": "xbilli11",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-08 20:41:01+00:00",
+                "description": "\u0396\u03bf\u03cd\u03bc\u03b5 \u03c3\u03b5 \u03b5\u03c0\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03b7 \"\u03ba\u03bf\u03b9\u03bd\u03ae \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae\" \u03c0\u03bb\u03ad\u03bf\u03bd \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03c5\u03c0\u03b5\u03c1-\u03b4\u03cd\u03bd\u03b1\u03bc\u03b7.\nAnti-SJW, Replaces idiots w/scripts. Karma's BFF.",
+                "id": 1369025316061143040,
+                "name": "MrHouse",
+                "public_metrics": {
+                    "followers_count": 151,
+                    "following_count": 152,
+                    "listed_count": 0,
+                    "tweet_count": 7261
+                },
+                "username": "KatZfgss1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-06-10 10:13:42+00:00",
+                "description": "",
+                "id": 2558693828,
+                "name": "Maryflower",
+                "public_metrics": {
+                    "followers_count": 639,
+                    "following_count": 527,
+                    "listed_count": 1,
+                    "tweet_count": 40661
+                },
+                "username": "mpantazo",
+                "verified": false
+            },
+            {
+                "created_at": "2014-11-15 08:46:08+00:00",
+                "description": "\u039f \u039c\u03af\u03bb\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c4\u03c9\u03bd \u03b2\u03bb\u03b1\u03bc\u03bc\u03ad\u03bd\u03c9\u03bd",
+                "id": 2877716001,
+                "name": "Miltiadis Benakis",
+                "public_metrics": {
+                    "followers_count": 2529,
+                    "following_count": 2229,
+                    "listed_count": 21,
+                    "tweet_count": 45719
+                },
+                "username": "BenakisM",
+                "verified": false
+            },
+            {
+                "created_at": "2018-07-05 17:26:09+00:00",
+                "description": "\u03c4\u03b7\u03c2 (\u03a6\u03c9)\u03a4\u03bf\u03cd\u03bb\u03b1\u03c2 \u03a0\u03bf\u03c1\u03c4\u03bf\u03ba\u03ac\u03bb\u03bf\u03c2 & \u03c4\u03bf\u03c5 \u0399\u03b1\u03bd \u039c\u03b9\u03bb\u03b5\u03c1.\n\u0395\u03b3\u03b3\u03bf\u03bd\u03ae \u03c4\u03bf\u03c5 \u0393\u03ba\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03c2 \u039c\u03b1\u03c1\u03af\u03b1\u03c2. \n\ud83d\udc49 \u0399ntelligence is limited while stupidity is invincible",
+                "id": 1014923399074926592,
+                "name": "Paris Miller \ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 1058,
+                    "following_count": 1058,
+                    "listed_count": 0,
+                    "tweet_count": 32048
+                },
+                "username": "deite_se_ligo",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-30 15:40:38+00:00",
+                "description": "",
+                "id": 1333435264878997504,
+                "name": "\u039c\u0391\u03a1\u0399\u0391 \u039a\u0391\u0396\u039f\u039b\u0395\u0391",
+                "public_metrics": {
+                    "followers_count": 7262,
+                    "following_count": 7166,
+                    "listed_count": 11,
+                    "tweet_count": 81649
+                },
+                "username": "vythos70",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-11 10:49:24+00:00",
+                "description": "",
+                "id": 1369963517978279937,
+                "name": "Dimitris\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 112,
+                    "following_count": 149,
+                    "listed_count": 0,
+                    "tweet_count": 3634
+                },
+                "username": "Dimitri42730974",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455610254264258565,
+            "created_at": "2021-11-02 18:58:23+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u03cc\u03c4\u03b9 \u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03b7\u03bd \u03b1\u03ba\u03c1\u03af\u03b2\u03b5\u03b9\u03b1 \u03b5\u03af\u03c0\u03b5 \u03cc\u03c4\u03b9 \"\u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03c0\u03c1\u03cc\u03b2\u03bb\u03b7\u03bc\u03b1 \u03c0\u03bb\u03b7\u03b8\u03c9\u03c1\u03b9\u03c3\u03bc\u03bf\u03cd\", \u03b5\u03bd\u03ce \u03b1\u03bd\u03ad\u03c6\u03b5\u03c1\u03b5 \u03cc\u03c4\u03b9 \"\u03c3\u03c4\u03bf \u03ba\u03b1\u03bb\u03ac\u03b8\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03bf\u03b9\u03ba\u03bf\u03ba\u03c5\u03c1\u03ac\u03c2 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b7 \u03b1\u03c0\u03ce\u03bb\u03b5\u03b9\u03b1 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03bf 2019 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b7\u03b4\u03ad\u03bd\".",
+                        "display_url": "capital.gr/politiki/35923\u2026",
+                        "end": 112,
+                        "expanded_url": "https://www.capital.gr/politiki/3592377/ad-georgiadis-oxi-se-neo-lockdown-kai-stin-protasi-tsipra-gia-epitropi-koinis-apodoxis?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635857833",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455610259096154118/65LDuDDc?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455610259096154118/65LDuDDc?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 89,
+                        "status": 200,
+                        "title": "\u0391\u03b4. \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u038c\u03c7\u03b9 \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2",
+                        "unwound_url": "https://www.capital.gr/politiki/3592377/ad-georgiadis-oxi-se-neo-lockdown-kai-stin-protasi-tsipra-gia-epitropi-koinis-apodoxis?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635857833",
+                        "url": "https://t.co/6Ko0ufodt3"
+                    }
+                ]
+            },
+            "id": 1455610254264258565,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03b4. \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2: \u038c\u03c7\u03b9 \u03c3\u03b5 \u03bd\u03ad\u03bf lockdown \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03b7 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 https://t.co/6Ko0ufodt3"
+        },
+        {
+            "author_id": 871498196417036288,
+            "conversation_id": 1455571574900371463,
+            "created_at": "2021-11-02 16:24:41+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455571574900371463,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455540862738440198,
+            "created_at": "2021-11-02 14:22:38+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592281",
+                        "end": 123,
+                        "expanded_url": "http://www.capital.gr/story/3592281",
+                        "start": 100,
+                        "url": "https://t.co/9tQIuN3QRT"
+                    }
+                ]
+            },
+            "id": 1455540862738440198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455441919279079429 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u03a3\u03a5\u03a1\u0399\u0396\u0391: \u039a\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03bd\u03ad\u03bf lockdown- \u0394\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 - \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd https://t.co/9tQIuN3QRT"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455537803299807237,
+            "created_at": "2021-11-02 14:10:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0398\u03c9\u03c1\u03b1\u03ba\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u0395\u03a3\u03a5.",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 75,
+                        "status": 200,
+                        "title": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "url": "https://t.co/o5NEJGvUEd"
+                    }
+                ]
+            },
+            "id": 1455537803299807237,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455531365995266048 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown https://t.co/o5NEJGvUEd"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455537782043160583,
+            "created_at": "2021-11-02 14:10:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1455537782043160583,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455523329029414915 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: '\u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2' https://t.co/UyYkJ2ov\u2026"
+        },
+        {
+            "author_id": 3028384000,
+            "conversation_id": 1455532691173122049,
+            "created_at": "2021-11-02 13:50:10+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0398\u03c9\u03c1\u03b1\u03ba\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u0395\u03a3\u03a5.",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 98,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 75,
+                        "status": 200,
+                        "title": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "url": "https://t.co/o5NEJGvUEd"
+                    }
+                ]
+            },
+            "id": 1455532691173122049,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455531365995266048 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown https://t.co/o5NEJGvUEd"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455531365995266048,
+            "created_at": "2021-11-02 13:44:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0398\u03c9\u03c1\u03b1\u03ba\u03b9\u03c3\u03bc\u03ad\u03bd\u03bf \u03ba\u03b1\u03b9 \u03c0\u03c1\u03bf\u03b5\u03c4\u03bf\u03b9\u03bc\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf \u03c4\u03bf \u0395\u03a3\u03a5.",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455531377672196099/eCrpKWpu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 60,
+                        "status": 200,
+                        "title": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3592307/th-pleuris-apekleise-katigorimatika-to-endexomeno-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635844684",
+                        "url": "https://t.co/o5NEJGvUEd"
+                    }
+                ]
+            },
+            "id": 1455531365995266048,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0398. \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown https://t.co/o5NEJGvUEd"
+        },
+        {
+            "author_id": 4263832996,
+            "conversation_id": 1455527167236972551,
+            "created_at": "2021-11-02 13:28:13+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1455527167236972551,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455523329029414915 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: '\u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2' https://t.co/UyYkJ2ov\u2026"
+        },
+        {
+            "author_id": 4187436194,
+            "conversation_id": 1455524455644467202,
+            "created_at": "2021-11-02 13:17:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1455524455644467202,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455523329029414915 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: '\u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2' https://t.co/UyYkJ2ov\u2026"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455523329029414915,
+            "created_at": "2021-11-02 13:12:58+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592365/g-oikonomou-den-tha-pame-se-lockdown-oute-se-perioristika-metra-pou-th-aforoun-tous-emboliasmenous?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635857833",
+                        "start": 103,
+                        "url": "https://t.co/UyYkJ2ovUl"
+                    }
+                ]
+            },
+            "id": 1455523329029414915,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 4
+            },
+            "text": "\u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: '\u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2' https://t.co/UyYkJ2ovUl"
+        },
+        {
+            "author_id": 1398379908242587651,
+            "conversation_id": 1455515353518379018,
+            "created_at": "2021-11-02 12:41:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455515353518379018,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 2349489651,
+            "conversation_id": 1455487543273742341,
+            "created_at": "2021-11-02 10:50:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455487543273742341,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 1369025316061143040,
+            "conversation_id": 1455482801969582081,
+            "created_at": "2021-11-02 10:31:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455482801969582081,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 2558693828,
+            "conversation_id": 1455480100800114699,
+            "created_at": "2021-11-02 10:21:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455480100800114699,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 2877716001,
+            "conversation_id": 1455479486703616002,
+            "created_at": "2021-11-02 10:18:45+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "3037255030",
+                        "start": 3,
+                        "username": "giannMak"
+                    }
+                ]
+            },
+            "id": 1455479486703616002,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455479353471606785 type=retweeted"
+            ],
+            "text": "RT @giannMak: \u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u2026"
+        },
+        {
+            "author_id": 3037255030,
+            "conversation_id": 1455479353471606785,
+            "created_at": "2021-11-02 10:18:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/politiki/35922\u2026",
+                        "end": 233,
+                        "expanded_url": "https://www.capital.gr/politiki/3592281/suriza-katastrofi-neo-lockdown-draseis-gia-anemboliastous-entatikopoiisi-elegxon",
+                        "start": 210,
+                        "url": "https://t.co/Eqr0HOypSY"
+                    }
+                ]
+            },
+            "id": 1455479353471606785,
+            "public_metrics": {
+                "like_count": 37,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 6
+            },
+            "text": "\u0391\u03c5\u03c4\u03cc \u03c0\u03b9\u03b1 \u03be\u03b5\u03c0\u03b5\u03c1\u03bd\u03ac\u03b5\u03b9 \u03c4\u03b7 \u03bb\u03bf\u03b3\u03b9\u03ba\u03ae.\u0394\u03b5\u03bd \u03b1\u03c0\u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bb\u03ad\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03b1\u03bb\u03bb\u03ac \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b4\u03ce\u03c3\u03b5\u03b9 \u03c4\u03b7 \u03bc\u03af\u03bd\u03b9\u03bc\u03bf\u03c5\u03bc \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7 \u03b8\u03ad\u03bb\u03b5\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03bb\u03ad\u03be\u03b5\u03b9 \u03b5\u03ba\u03b5\u03af\u03bd\u03bf\u03c2 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2.\u0393\u03b9\u03b1\u03bd\u03bd\u03b7\u03c2 \u03ae \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03b7\u03c2;\u0388\u03c7\u03b5\u03b9 \u03b5\u03bc\u03bc\u03bf\u03bd\u03ae \u03bc\u03b5 \u03c4\u03b7 \u03c3\u03c5\u03b3\u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03cc\u03c0\u03c9\u03c2 \u03cc\u03c0\u03c9\u03c2. https://t.co/Eqr0HOypSY"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455441919279079429,
+            "created_at": "2021-11-02 07:49:29+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/story/3592281",
+                        "end": 108,
+                        "expanded_url": "http://www.capital.gr/story/3592281",
+                        "start": 85,
+                        "url": "https://t.co/9tQIuN3QRT"
+                    }
+                ]
+            },
+            "id": 1455441919279079429,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03a5\u03a1\u0399\u0396\u0391: \u039a\u03b1\u03c4\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03bd\u03ad\u03bf lockdown- \u0394\u03c1\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 - \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd https://t.co/9tQIuN3QRT"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455219246213050368,
+            "created_at": "2021-11-01 17:04:39+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b9\u03c2 \u03c0\u03b1\u03bb\u03b9\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03cc\u03be\u03b5\u03c2 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9 \u03be\u03b1\u03bd\u03ac \u03b1\u03c0\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03b1\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03cd\u03b4\u03bd\u03b5\u03cb \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b7 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 20 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd \u03ac\u03bd\u03bf\u03b9\u03be\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c4\u03b1 \u03c3\u03cd\u03bd\u03bf\u03c1\u03ac \u03c4\u03b7\u03c2.",
+                        "display_url": "capital.gr/diethni/359215\u2026",
+                        "end": 85,
+                        "expanded_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 62,
+                        "status": 200,
+                        "title": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown",
+                        "unwound_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                        "url": "https://t.co/9kWrKMwN09"
+                    }
+                ]
+            },
+            "id": 1455219246213050368,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455218748223275010 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown https://t.co/9kWrKMwN09"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455218748223275010,
+            "created_at": "2021-11-01 17:02:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b9\u03c2 \u03c0\u03b1\u03bb\u03b9\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b4\u03cc\u03be\u03b5\u03c2 \u03b3\u03bd\u03c9\u03c1\u03af\u03b6\u03b5\u03b9 \u03be\u03b1\u03bd\u03ac \u03b1\u03c0\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bf \u03b4\u03b9\u03b5\u03b8\u03bd\u03ae\u03c2 \u03b1\u03b5\u03c1\u03bf\u03bb\u03b9\u03bc\u03ad\u03bd\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03a3\u03cd\u03b4\u03bd\u03b5\u03cb \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b7 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc 20 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd \u03ac\u03bd\u03bf\u03b9\u03be\u03b5 \u03c0\u03ac\u03bb\u03b9 \u03c4\u03b1 \u03c3\u03cd\u03bd\u03bf\u03c1\u03ac \u03c4\u03b7\u03c2.",
+                        "display_url": "capital.gr/diethni/359215\u2026",
+                        "end": 70,
+                        "expanded_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455218752761520128/sBqX17Px?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 47,
+                        "status": 200,
+                        "title": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown",
+                        "unwound_url": "https://www.capital.gr/diethni/3592159/anoixto-to-sidnei-meta-apo-600-imeres-lockdown?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635782539",
+                        "url": "https://t.co/9kWrKMwN09"
+                    }
+                ]
+            },
+            "id": 1455218748223275010,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03a3\u03ca\u03b4\u03bd\u03b5\u03ca \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc 600 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 lockdown https://t.co/9kWrKMwN09"
+        },
+        {
+            "author_id": 1014923399074926592,
+            "conversation_id": 1455158965671768076,
+            "created_at": "2021-11-01 13:05:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1333435264878997504",
+                        "start": 3,
+                        "username": "vythos70"
+                    }
+                ]
+            },
+            "id": 1455158965671768076,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455153050474135553 type=retweeted"
+            ],
+            "text": "RT @vythos70: \u039a\u03af\u03bd\u03b1: Lockdown \u03b5\u03c0\u03b9\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c0\u03cc\u03bb\u03b7 4 \u03b5\u03ba\u03b1\u03c4. \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd. \u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd\u03bc\u03c0\u03b1, \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03ba\u03b9 \u03cc\u03bb\u03bf \u03c4\u03bf \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03bc\u03ac\u03bd\u03b9..\u2026"
+        },
+        {
+            "author_id": 1369963517978279937,
+            "conversation_id": 1455154963194290181,
+            "created_at": "2021-11-01 12:49:13+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1333435264878997504",
+                        "start": 3,
+                        "username": "vythos70"
+                    }
+                ]
+            },
+            "id": 1455154963194290181,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455153050474135553 type=retweeted"
+            ],
+            "text": "RT @vythos70: \u039a\u03af\u03bd\u03b1: Lockdown \u03b5\u03c0\u03b9\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c0\u03cc\u03bb\u03b7 4 \u03b5\u03ba\u03b1\u03c4. \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd. \u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd\u03bc\u03c0\u03b1, \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03ba\u03b9 \u03cc\u03bb\u03bf \u03c4\u03bf \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03bc\u03ac\u03bd\u03b9..\u2026"
+        },
+        {
+            "author_id": 1333435264878997504,
+            "conversation_id": 1455153050474135553,
+            "created_at": "2021-11-01 12:41:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "capital.gr/diethni/359094\u2026",
+                        "end": 238,
+                        "expanded_url": "https://www.capital.gr/diethni/3590947/kina-lockdown-epiblithike-se-poli-4-ekat-katoikon-logo-tis-emfanisis-krousmaton",
+                        "start": 215,
+                        "url": "https://t.co/52nl5Nv5ZL"
+                    }
+                ]
+            },
+            "id": 1455153050474135553,
+            "public_metrics": {
+                "like_count": 12,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u039a\u03af\u03bd\u03b1: Lockdown \u03b5\u03c0\u03b9\u03b2\u03bb\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03b5 \u03c0\u03cc\u03bb\u03b7 4 \u03b5\u03ba\u03b1\u03c4. \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03c9\u03bd \u03bb\u03cc\u03b3\u03c9 \u03c4\u03b7\u03c2 \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7\u03c2 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd. \u039a\u03bf\u03c5\u03c4\u03c3\u03bf\u03cd\u03bc\u03c0\u03b1, \u03a4\u03c3\u03af\u03c0\u03c1\u03b1 \u03ba\u03b9 \u03cc\u03bb\u03bf \u03c4\u03bf \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03bc\u03ac\u03bd\u03b9..\u0395\u03a0\u0399\u0394\u039f\u039a\u0399\u039c\u0391\u0396\u0395\u03a4\u0395 \u03c0\u03c1\u03b1\u03ba\u03c4\u03b9\u03ba\u03ad\u03c2 \u039a\u03af\u03bd\u03b1\u03c2; \u0389 \u03c0\u03c1\u03bf\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b5 \u039a\u03b9\u03bd\u03ad\u03b6\u03bf\u03c5\u03c2 \u03bd\u03b1 \u03b2\u03b3\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03c1\u03cc\u03bc\u03bf\u03c5\u03c2;;;\u0393\u03b9\u03b1 \u03c0\u03b5\u03af\u03c4\u03b5!! https://t.co/52nl5Nv5ZL"
+        }
+    ]
+}

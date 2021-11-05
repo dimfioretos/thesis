@@ -1,0 +1,2027 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 521308614,
+                "conversation_id": 1455562119764606977,
+                "created_at": "2021-11-02 15:47:07+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBlyKS",
+                            "end": 276,
+                            "expanded_url": "http://dlvr.it/SBlyKS",
+                            "start": 253,
+                            "url": "https://t.co/YNPI5U4ONY"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/BFkKbgCaWj",
+                            "end": 300,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1455562119764606977/photo/1",
+                            "start": 277,
+                            "url": "https://t.co/BFkKbgCaWj"
+                        }
+                    ]
+                },
+                "id": 1455562119764606977,
+                "public_metrics": {
+                    "like_count": 30,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 4
+                },
+                "text": "6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u0399 \u0397 \u039a\u03a5\u0392\u0395\u03a1\u039d\u0397\u03a3\u0397 \u03a4\u03a9\u039d \u0395\u03a0\u0399\u039a\u0399\u039d\u0394\u03a5\u039d\u03a9\u039d \u039a\u0395\u03a1\u0394\u039f\u03a3\u039a\u039f\u03a0\u03a9\u039d \u03a0\u039f\u03a5 \u039d\u03a4\u0399\u039b\u0391\u03a1\u039f\u03a5\u039d \u039a\u0391\u0399 \u039a\u039f\u039d\u039f\u039c\u0391\u039d\u0395 \u0391\u03a0\u039f \u03a4\u0399\u03a3 \u039c\u0399\u0396\u0395\u03a3 \u03a4\u03a9\u039d \u0395\u039c\u0392\u039f\u039b\u0399\u03a9\u039d \u039a\u0399 \u039f \u039b\u0391\u039f\u03a3 \u03a0\u0395\u0398\u0391\u0399\u039d\u0395\u0399. \u039c\u0391\u03a3 \u03a0\u0397\u03a1\u0391\u039d \u03a3\u03a4\u039f\u2026 https://t.co/YNPI5U4ONY https://t.co/BFkKbgCaWj"
+            },
+            {
+                "author_id": 521308614,
+                "conversation_id": 1455199970089267202,
+                "created_at": "2021-11-01 15:48:03+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBhVR1",
+                            "end": 189,
+                            "expanded_url": "http://dlvr.it/SBhVR1",
+                            "start": 166,
+                            "url": "https://t.co/vXxrYsRTPQ"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/Nk64kLVLU9",
+                            "end": 213,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1455199970089267202/photo/1",
+                            "start": 190,
+                            "url": "https://t.co/Nk64kLVLU9"
+                        }
+                    ]
+                },
+                "id": 1455199970089267202,
+                "public_metrics": {
+                    "like_count": 48,
+                    "quote_count": 0,
+                    "reply_count": 6,
+                    "retweet_count": 9
+                },
+                "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f \u201c\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f\u201d https://t.co/vXxrYsRTPQ https://t.co/Nk64kLVLU9"
+            },
+            {
+                "author_id": 1355639172971819013,
+                "conversation_id": 1455573683272101888,
+                "created_at": "2021-11-02 16:33:04+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 181,
+                            "start": 171,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 167,
+                            "id": "3299840896",
+                            "start": 158,
+                            "username": "makeleio"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                            "end": 152,
+                            "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%8c%cf%84%ce%b1%ce%bd-%ce%bf-%ce%b1%cf%85%ce%bb%ce%b9%ce%ba%cf%8c%cf%82-%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b1%ce%ba%cf%8c%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82-%ce%ad%cf%88%ce%b1%cf%87/",
+                            "start": 129,
+                            "url": "https://t.co/Wj4KcZZsC5"
+                        }
+                    ]
+                },
+                "id": 1455573683272101888,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0391\u03c5\u03c4\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \"\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2\" \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03b6\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ac\u03c0\u03bf\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03bc\u03b1\u03c2. \u0391\u03bd \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b2\u03cd\u03c3\u03bc\u03b1 \u03c4\u03cc\u03c4\u03b5 \u03c4\u03af \u03b5\u03af\u03bd\u03b1\u03b9; https://t.co/Wj4KcZZsC5 \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+            },
+            {
+                "author_id": 521308614,
+                "conversation_id": 1455513324355870720,
+                "created_at": "2021-11-02 12:33:13+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBlK53",
+                            "end": 112,
+                            "expanded_url": "http://dlvr.it/SBlK53",
+                            "start": 89,
+                            "url": "https://t.co/AMeLnUVmON"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/BEP58nb6Co",
+                            "end": 136,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1455513324355870720/photo/1",
+                            "start": 113,
+                            "url": "https://t.co/BEP58nb6Co"
+                        }
+                    ]
+                },
+                "id": 1455513324355870720,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "text": "\u03a4\u03a1\u0395\u03a7\u039f\u03a5\u039d \u039a\u0391\u0399 \u0394\u0395\u039d \u03a6\u03a4\u0391\u039d\u039f\u03a5\u039d \u03a4\u03a9\u03a1\u0391! \u03a0\u0391\u039d\u03a9 \u0391\u03a0\u039f 6.000 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u0391\u039d\u0391\u039c\u0395\u039d\u0395\u03a4\u0391\u0399 \u039d\u0391 \u0391\u039d\u0391\u039a\u039f\u0399\u039d\u03a9\u0398\u039f\u03a5\u039d \u03a3\u0397\u039c\u0395\u03a1\u0391 https://t.co/AMeLnUVmON https://t.co/BEP58nb6Co"
+            },
+            {
+                "author_id": 4407357863,
+                "conversation_id": 1455225619852189696,
+                "created_at": "2021-11-01 17:29:59+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 234,
+                            "id": "3299840896",
+                            "start": 225,
+                            "username": "makeleio"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                            "end": 219,
+                            "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                            "start": 196,
+                            "url": "https://t.co/dFKU2RN0fK"
+                        }
+                    ]
+                },
+                "id": 1455225619852189696,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/dFKU2RN0fK \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+            },
+            {
+                "author_id": 521308614,
+                "conversation_id": 1455183358451863552,
+                "created_at": "2021-11-01 14:42:03+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBhJRr",
+                            "end": 103,
+                            "expanded_url": "http://dlvr.it/SBhJRr",
+                            "start": 80,
+                            "url": "https://t.co/IWnLebdg27"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/l4kntWyusj",
+                            "end": 127,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1455183358451863552/photo/1",
+                            "start": 104,
+                            "url": "https://t.co/l4kntWyusj"
+                        }
+                    ]
+                },
+                "id": 1455183358451863552,
+                "public_metrics": {
+                    "like_count": 9,
+                    "quote_count": 1,
+                    "reply_count": 2,
+                    "retweet_count": 1
+                },
+                "text": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03c3\u03ce\u03c3\u03b5 \u03bc\u03b1\u03c2! \u03a0\u0391\u039c\u0395 \u0393\u0399\u0391 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u03a0\u0391\u039d\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u039f \u039c\u0391\u039e\u0399\u039c\u039f\u03a5! https://t.co/IWnLebdg27 https://t.co/l4kntWyusj"
+            },
+            {
+                "author_id": 521308614,
+                "conversation_id": 1453734454149533708,
+                "created_at": "2021-10-28 14:44:37+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dlvr.it/SBSmhx",
+                            "end": 125,
+                            "expanded_url": "http://dlvr.it/SBSmhx",
+                            "start": 102,
+                            "url": "https://t.co/NvUSSgCrEm"
+                        }
+                    ]
+                },
+                "id": 1453734454149533708,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u2013 \u0397 \u03c4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03ba\u03b1\u03bb\u03ac \u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u2013 2984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/NvUSSgCrEm"
+            },
+            {
+                "author_id": 521308614,
+                "conversation_id": 1453331163162963975,
+                "created_at": "2021-10-27 12:02:05+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0397 \u039d\u03c4\u03cc\u03c1\u03b1 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u03ad\u03c6\u03c4\u03b1\u03c3\u03b5 \u03c3\u03c4\u03b7 \u039c\u03b7\u03c4\u03c1\u03cc\u03c0\u03bf\u03bb\u03b7 \u03c3\u03c5\u03bd\u03bf\u03b4\u03b5\u03c5\u03cc\u03bc\u03b5\u03bd\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b3\u03b9\u03cc \u03c4\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03ae\u03bc\u03b1\u03c1\u03c7\u03bf \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u039a\u03ce\u03c3\u03c4\u03b1 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7. \u0397 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b1 \u03c4\u03b7\u03c2 \u03b4\u03b5\u03bd \u03ae\u03c4\u03b1\u03bd \u03b1\u03c5\u03c4\u03ae \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c3\u03c5\u03bd\u03b7\u03b8\u03af\u03c3\u03b5\u03b9, \u03b1\u03c6\u03bf\u03cd \u03b7 \u039d\u03c4\u03cc\u03c1\u03b1 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03bc\u03b5 \u03bc\u03c0\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd\u03b9 \u03ba\u03b1\u03b9 \u03b1\u03c1\u03ba\u03b5\u03c4\u03ae \u03b4\u03c5\u03c3\u03ba\u03bf\u03bb\u03af\u03b1 \u03c3\u03c4\u03bf \u03bd\u03b1 \u03c0\u03b5\u03c1\u03c0\u03b1\u03c4\u03ae\u03c3\u03b5\u03b9.",
+                            "display_url": "dlvr.it/SBNqCX",
+                            "end": 111,
+                            "expanded_url": "http://dlvr.it/SBNqCX",
+                            "images": [
+                                {
+                                    "height": 500,
+                                    "url": "https://pbs.twimg.com/news_img/1453331174386913290/Ey4_o2e1?format=jpg&name=orig",
+                                    "width": 900
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453331174386913290/Ey4_o2e1?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 88,
+                            "status": 200,
+                            "title": "\u03a5\u03c0\u03bf\u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03b7 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03bc\u03c0\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd\u03b9 \u03b7 \u039d\u03c4\u03cc\u03c1\u03b1 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b7\u03b4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0393\u03b5\u03bd\u03bd\u03b7\u03bc\u03b1\u03c4\u03ac (\u0395\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2)",
+                            "unwound_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a5%cf%80%ce%bf%ce%b2%ce%b1%cf%83%cf%84%ce%b1%ce%b6%cf%8c%ce%bc%ce%b5%ce%bd%ce%b7-%ce%ba%ce%b1%ce%b9-%ce%bc%ce%b5-%ce%bc%cf%80%ce%b1%cf%83%cf%84%ce%bf%cf%8d%ce%bd%ce%b9-%ce%b7-%ce%9d%cf%84%cf%8c/?utm_source=dlvr.it&utm_medium=twitter",
+                            "url": "https://t.co/Nh8xpPbQk7"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/yVNgM1J3k9",
+                            "end": 135,
+                            "expanded_url": "https://twitter.com/Makeleio_gr/status/1453331163162963975/photo/1",
+                            "start": 112,
+                            "url": "https://t.co/yVNgM1J3k9"
+                        }
+                    ]
+                },
+                "id": 1453331163162963975,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 4,
+                    "retweet_count": 3
+                },
+                "text": "\u03a5\u03c0\u03bf\u03b2\u03b1\u03c3\u03c4\u03b1\u03b6\u03cc\u03bc\u03b5\u03bd\u03b7 \u03ba\u03b1\u03b9 \u03bc\u03b5 \u03bc\u03c0\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd\u03b9 \u03b7 \u039d\u03c4\u03cc\u03c1\u03b1 \u039c\u03c0\u03b1\u03ba\u03bf\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b7\u03b4\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0393\u03b5\u03bd\u03bd\u03b7\u03bc\u03b1\u03c4\u03ac (\u0395\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2) https://t.co/Nh8xpPbQk7 https://t.co/yVNgM1J3k9"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-01-06 22:22:10+00:00",
+                "description": "",
+                "id": 1346945130415214594,
+                "name": "Egregium",
+                "public_metrics": {
+                    "followers_count": 69,
+                    "following_count": 183,
+                    "listed_count": 0,
+                    "tweet_count": 1408
+                },
+                "username": "Egregium2",
+                "verified": false
+            },
+            {
+                "created_at": "2012-03-11 13:11:40+00:00",
+                "description": "\u039c\u03b1\u03ba\u03b5\u03bb\u03b5\u03b9\u03cc | \u03a4\u03bf Site \u03c4\u03c9\u03bd \u039c\u03b5\u03b3\u03ac\u03bb\u03c9\u03bd \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03c9\u03bd",
+                "id": 521308614,
+                "name": "Makeleio.gr",
+                "public_metrics": {
+                    "followers_count": 18037,
+                    "following_count": 2894,
+                    "listed_count": 108,
+                    "tweet_count": 359228
+                },
+                "username": "Makeleio_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-19 06:22:57+00:00",
+                "description": "\u03a4\u03b9 \u03ba\u03bf\u03b9\u03c4\u03ac\u03c2 \u03c1\u03b5 \u03bc\u03c0\u03b1\u03b3\u03bb\u03b1\u03bc\u03ac",
+                "id": 557475493,
+                "name": "katharma81",
+                "public_metrics": {
+                    "followers_count": 140,
+                    "following_count": 408,
+                    "listed_count": 2,
+                    "tweet_count": 5405
+                },
+                "username": "katharma81",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-17 20:17:04+00:00",
+                "description": "",
+                "id": 2983085758,
+                "name": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2=\u0391\u03c0\u03ac\u03c4\u03b7;",
+                "public_metrics": {
+                    "followers_count": 89,
+                    "following_count": 160,
+                    "listed_count": 0,
+                    "tweet_count": 2111
+                },
+                "username": "timonas5",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-31 12:07:17+00:00",
+                "description": "mammy",
+                "id": 1267064878373703680,
+                "name": "Galia Kirashka \ud83c\udde7\ud83c\uddec",
+                "public_metrics": {
+                    "followers_count": 210,
+                    "following_count": 246,
+                    "listed_count": 0,
+                    "tweet_count": 2096
+                },
+                "username": "GKirashka",
+                "verified": false
+            },
+            {
+                "created_at": "2020-07-24 22:43:48+00:00",
+                "description": "",
+                "id": 1286794160834523136,
+                "name": "\u0395\u03c5\u03ac\u03b3\u03b3\u03b5\u03bb\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 77,
+                    "following_count": 106,
+                    "listed_count": 0,
+                    "tweet_count": 232
+                },
+                "username": "v5jV4tnrN9o4mMV",
+                "verified": false
+            },
+            {
+                "created_at": "2021-06-09 22:35:00+00:00",
+                "description": "",
+                "id": 1402756016392003584,
+                "name": "Yiannis Mpillis",
+                "public_metrics": {
+                    "followers_count": 160,
+                    "following_count": 65,
+                    "listed_count": 0,
+                    "tweet_count": 8041
+                },
+                "username": "MpillisYiannis",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-04 18:55:10+00:00",
+                "description": "",
+                "id": 1445100139622899715,
+                "name": "\u0388\u03bb\u03bb\u03b5\u03bd",
+                "public_metrics": {
+                    "followers_count": 15,
+                    "following_count": 40,
+                    "listed_count": 0,
+                    "tweet_count": 109
+                },
+                "username": "ellen_lemd",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-30 22:09:12+00:00",
+                "description": "",
+                "id": 1355639172971819013,
+                "name": "D. F.",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 11,
+                    "listed_count": 0,
+                    "tweet_count": 306
+                },
+                "username": "DF00340683",
+                "verified": false
+            },
+            {
+                "created_at": "2015-05-26 22:00:00+00:00",
+                "description": "",
+                "id": 3299840896,
+                "name": "Makel Aris",
+                "public_metrics": {
+                    "followers_count": 35,
+                    "following_count": 121,
+                    "listed_count": 0,
+                    "tweet_count": 12
+                },
+                "username": "makeleio",
+                "verified": false
+            },
+            {
+                "created_at": "2011-12-21 11:00:07+00:00",
+                "description": "Business Restructuring & Plans Utilization   Ships / Funds / Global Patents / Public Opinion Former velosOcean@gmail.com",
+                "id": 442691734,
+                "name": "\u039c\u0391\u03a3\u039a\u0391 \u03a4\u03a1\u039f\u039c\u039f\u03a5",
+                "public_metrics": {
+                    "followers_count": 1189,
+                    "following_count": 4941,
+                    "listed_count": 36,
+                    "tweet_count": 263003
+                },
+                "username": "BLUETROMOS",
+                "verified": false
+            },
+            {
+                "created_at": "2017-09-05 18:49:17+00:00",
+                "description": "\u03a0\u03bf\u03b4\u03cc\u03c3\u03c6\u03b1\u03b9\u03c1\u03bf \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03b7",
+                "id": 905140798467039232,
+                "name": "CostasPapaxenofontos",
+                "public_metrics": {
+                    "followers_count": 1151,
+                    "following_count": 1944,
+                    "listed_count": 0,
+                    "tweet_count": 53727
+                },
+                "username": "costaspapax",
+                "verified": false
+            },
+            {
+                "created_at": "2014-03-30 09:43:47+00:00",
+                "description": "\u0393\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1 \u0395\u039b\u039b\u0397\u039d\u0391\u03a3 \u039c\u0391\u039a\u0395\u0394\u039f\u039d\u0391\u03a3",
+                "id": 2446707094,
+                "name": "\u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b7\u03c2 \u03a0\u03b1\u03c1\u03af\u03b4\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 40,
+                    "following_count": 152,
+                    "listed_count": 0,
+                    "tweet_count": 991
+                },
+                "username": "ParidisDimis",
+                "verified": false
+            },
+            {
+                "created_at": "2010-03-25 10:19:42+00:00",
+                "description": "SALES ENERGY FRAMES\r\nGREEN DOORS AND WINDOWS LTD",
+                "id": 126280090,
+                "name": "Green Doors Windows",
+                "public_metrics": {
+                    "followers_count": 329,
+                    "following_count": 635,
+                    "listed_count": 3,
+                    "tweet_count": 7189
+                },
+                "username": "katapodisnet",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-20 14:08:24+00:00",
+                "description": "xrusaugitis!!!! kai aksiomatikos emporikou nautikou",
+                "id": 1443913831,
+                "name": "mpampis mentis",
+                "public_metrics": {
+                    "followers_count": 133,
+                    "following_count": 1339,
+                    "listed_count": 0,
+                    "tweet_count": 7603
+                },
+                "username": "MentisMpampis",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-13 11:00:14+00:00",
+                "description": "DJ \u03a4\u0397\u03a3 \u03a0\u0391\u039b\u0399\u0391\u03a3 \u03a3\u03a7\u039f\u039b\u0397\u03a3 \u0391\u03a0\u039f \u0392\u0399\u039d\u0399\u039b\u0399\u0391",
+                "id": 166116455,
+                "name": "DJ TONYS",
+                "public_metrics": {
+                    "followers_count": 60,
+                    "following_count": 377,
+                    "listed_count": 1,
+                    "tweet_count": 2740
+                },
+                "username": "DJTONYS",
+                "verified": false
+            },
+            {
+                "created_at": "2017-12-27 17:10:16+00:00",
+                "description": "",
+                "id": 946065705597882368,
+                "name": "\u03a4\u0391\u039a\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 665,
+                    "following_count": 516,
+                    "listed_count": 3,
+                    "tweet_count": 19469
+                },
+                "username": "Ml4C79iWwES4B1t",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-20 13:22:22+00:00",
+                "description": "",
+                "id": 1450814539952447495,
+                "name": "dimitris samiotis",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 9,
+                    "listed_count": 0,
+                    "tweet_count": 229
+                },
+                "username": "dimitrissamiot2",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-03 08:14:05+00:00",
+                "description": "\u03a7\u03b1\u03b2\u03b1\u03bb\u03ad\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 \u03ba\u03b1\u03bb\u03bf\u03c6\u03b1\u03b3\u03b1\u03c2",
+                "id": 1378259419285364736,
+                "name": "\u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u03c3\u03ba\u03ad\u03c4\u03bf\u03c2 \u039d\u03bf2",
+                "public_metrics": {
+                    "followers_count": 462,
+                    "following_count": 502,
+                    "listed_count": 1,
+                    "tweet_count": 40434
+                },
+                "username": "kyriakos03",
+                "verified": false
+            },
+            {
+                "created_at": "2015-12-07 18:14:12+00:00",
+                "description": "",
+                "id": 4407357863,
+                "name": "Zaffer Kan",
+                "public_metrics": {
+                    "followers_count": 1134,
+                    "following_count": 2254,
+                    "listed_count": 8,
+                    "tweet_count": 42821
+                },
+                "username": "zaffer_kan",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-05 11:36:28+00:00",
+                "description": "\u0395\u03b8\u03bd\u03b9\u03ba\u03b9\u03c3\u03c4\u03b7\u03c2 \u03b5\u03c9\u03c2 \u03c4\u03bf\u03bd \u03b8\u03b1\u03bd\u03b1\u03c4\u03bf",
+                "id": 1324314571356733441,
+                "name": "\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u0395\u0398\u039d\u0399\u039a\u0399\u03a3\u03a4\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 839,
+                    "following_count": 1169,
+                    "listed_count": 1,
+                    "tweet_count": 13714
+                },
+                "username": "MOnlujPuctUMlsB",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-29 21:52:07+00:00",
+                "description": "",
+                "id": 1344038311816552448,
+                "name": "fermelis antonis",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 10,
+                    "listed_count": 0,
+                    "tweet_count": 1056
+                },
+                "username": "AntonisFermelis",
+                "verified": false
+            },
+            {
+                "created_at": "2018-06-24 17:23:40+00:00",
+                "description": "\u0391\u03c0\u03cc\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03c2 \u03a0/\u039d",
+                "id": 1010936506427543555,
+                "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039a\u03b1\u03bd\u03b9\u03ce\u03c1\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 892,
+                    "following_count": 3205,
+                    "listed_count": 6,
+                    "tweet_count": 10581
+                },
+                "username": "kostaskanioros",
+                "verified": false
+            },
+            {
+                "created_at": "2013-04-21 16:56:14+00:00",
+                "description": "",
+                "id": 1370048533,
+                "name": "\u0391\u03b8\u03b7\u03bd\u03ac \u03a3\u03ba\u03b1\u03c1\u03b1\u03bc\u03b1\u03b3\u03ba\u03b1\u00b4",
+                "public_metrics": {
+                    "followers_count": 186,
+                    "following_count": 628,
+                    "listed_count": 0,
+                    "tweet_count": 29538
+                },
+                "username": "nanask5",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-06 17:45:58+00:00",
+                "description": "TQEnvironmentalTQ4400expert inevitable\u26d4TILT\u26d4fliper\ud83c\uddec\ud83c\uddf7fight for freedom of speech of the truthGas Detection Expert \u03c0\u03b1\u03c2 \u03bc\u03b7 \u0388\u03bb\u03bb\u03b7\u03bd \u03b2\u03ac\u03c1\u03b2\u03b1\u03c1\u03bf\u03c2 \u03b5\u03c3\u03c4\u03af",
+                "id": 406418342,
+                "name": "invisible war",
+                "public_metrics": {
+                    "followers_count": 1966,
+                    "following_count": 2228,
+                    "listed_count": 7,
+                    "tweet_count": 28207
+                },
+                "username": "Andromeda_A_iR",
+                "verified": false
+            },
+            {
+                "created_at": "2014-06-27 10:19:36+00:00",
+                "description": "",
+                "id": 2591170543,
+                "name": "stella G",
+                "public_metrics": {
+                    "followers_count": 223,
+                    "following_count": 410,
+                    "listed_count": 2,
+                    "tweet_count": 4489
+                },
+                "username": "SGalianou",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-02 12:21:27+00:00",
+                "description": "A journalist website announcing only real news around the world. \n\nCompletely independent and autonomous. \n\nhttps://t.co/zpysXHno8x",
+                "id": 1256559336123482112,
+                "name": "e-virusnews.com",
+                "public_metrics": {
+                    "followers_count": 8,
+                    "following_count": 54,
+                    "listed_count": 0,
+                    "tweet_count": 370
+                },
+                "username": "EVirusnews",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-21 12:19:34+00:00",
+                "description": "The official twitter account of zougla.gr!",
+                "id": 76015405,
+                "name": "zougla.gr",
+                "public_metrics": {
+                    "followers_count": 55182,
+                    "following_count": 1014,
+                    "listed_count": 413,
+                    "tweet_count": 347088
+                },
+                "username": "zougla_online",
+                "verified": false
+            },
+            {
+                "created_at": "2012-09-02 09:19:32+00:00",
+                "description": "\u0395\u03c1\u03b1\u03c3\u03b9\u03c4\u03ad\u03c7\u03bd\u03b7\u03c2 \u03c3\u03b5 \u03cc\u03bb\u03b1.\u03a0\u03b9\u03cc \u03b3\u03c1\u03ae\u03b3\u03bf\u03c1\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u0395\u039a\u0391\u0392!",
+                "id": 797882532,
+                "name": "M Triantafyllopoulos",
+                "public_metrics": {
+                    "followers_count": 28012,
+                    "following_count": 8126,
+                    "listed_count": 150,
+                    "tweet_count": 15742
+                },
+                "username": "Makis_Tr",
+                "verified": false
+            },
+            {
+                "created_at": "2020-05-21 20:38:24+00:00",
+                "description": "\u0391\u03c0\u03cc\u03c6\u03bf\u03b9\u03c4\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a3\u03c7\u03bf\u03bb\u03ae\u03c2 \u0391\u03be\u03ba\u03c9\u03bd \u03a3\u03c9\u03bc\u03b1\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1\u03c0\u03c4\u03c5\u03c7\u03b9\u03b1\u03ba\u03cc \u03c3\u03c4\u03bf\u03c5\u03c2 \u0397. \u03a5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ad\u03c2.",
+                "id": 1263569746286522369,
+                "name": "Giaggulas Vivas",
+                "public_metrics": {
+                    "followers_count": 307,
+                    "following_count": 348,
+                    "listed_count": 0,
+                    "tweet_count": 5568
+                },
+                "username": "giaggulas",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-22 11:40:17+00:00",
+                "description": "",
+                "id": 340250251,
+                "name": "david kiskoukis",
+                "public_metrics": {
+                    "followers_count": 200,
+                    "following_count": 433,
+                    "listed_count": 2,
+                    "tweet_count": 3902
+                },
+                "username": "davidkiskoukis",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1346945130415214594,
+            "conversation_id": 1455799083340374021,
+            "created_at": "2021-11-03 07:28:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455799083340374021,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455562119764606977 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: 6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u2026"
+        },
+        {
+            "author_id": 557475493,
+            "conversation_id": 1455719979530194944,
+            "created_at": "2021-11-03 02:14:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455719979530194944,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455562119764606977 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: 6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u2026"
+        },
+        {
+            "author_id": 2983085758,
+            "conversation_id": 1455646942114033674,
+            "created_at": "2021-11-02 21:24:10+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455646942114033674,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455562119764606977 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: 6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u2026"
+        },
+        {
+            "author_id": 1267064878373703680,
+            "conversation_id": 1455624005503889416,
+            "created_at": "2021-11-02 19:53:01+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455624005503889416,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 1286794160834523136,
+            "conversation_id": 1455616132509995021,
+            "created_at": "2021-11-02 19:21:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455616132509995021,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 1402756016392003584,
+            "conversation_id": 1455612481859198985,
+            "created_at": "2021-11-02 19:07:14+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455612481859198985,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455562119764606977 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: 6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u2026"
+        },
+        {
+            "author_id": 1445100139622899715,
+            "conversation_id": 1455579764857708549,
+            "created_at": "2021-11-02 16:57:13+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1355639172971819013",
+                        "start": 3,
+                        "username": "DF00340683"
+                    }
+                ]
+            },
+            "id": 1455579764857708549,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455573683272101888 type=retweeted"
+            ],
+            "text": "RT @DF00340683: \u0391\u03c5\u03c4\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \"\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2\" \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03b6\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ac\u03c0\u03bf\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03bc\u03b1\u03c2. \u0391\u03bd \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b2\u03cd\u03c3\u03bc\u03b1 \u03c4\u03cc\u03c4\u03b5 \u03c4\u03af \u03b5\u2026"
+        },
+        {
+            "author_id": 1355639172971819013,
+            "conversation_id": 1455573683272101888,
+            "created_at": "2021-11-02 16:33:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 181,
+                        "start": 171,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 167,
+                        "id": "3299840896",
+                        "start": 158,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%8c%cf%84%ce%b1%ce%bd-%ce%bf-%ce%b1%cf%85%ce%bb%ce%b9%ce%ba%cf%8c%cf%82-%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b1%ce%ba%cf%8c%cf%80%ce%bf%cf%85%ce%bb%ce%bf%cf%82-%ce%ad%cf%88%ce%b1%cf%87/",
+                        "start": 129,
+                        "url": "https://t.co/Wj4KcZZsC5"
+                    }
+                ]
+            },
+            "id": 1455573683272101888,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0391\u03c5\u03c4\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ad\u03bd\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \"\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2\" \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03b6\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ac\u03c0\u03bf\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b6\u03c9\u03ad\u03c2 \u03bc\u03b1\u03c2. \u0391\u03bd \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b2\u03cd\u03c3\u03bc\u03b1 \u03c4\u03cc\u03c4\u03b5 \u03c4\u03af \u03b5\u03af\u03bd\u03b1\u03b9; https://t.co/Wj4KcZZsC5 \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1455562119764606977,
+            "created_at": "2021-11-02 15:47:07+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03cc\u03c3\u03bf \u03ba\u03b1\u03b9\u03c1\u03cc \u03c4\u03b9 \u03ad\u03ba\u03b1\u03bd\u03b1\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c3\u03ce\u03c3\u03bf\u03c5\u03bd; \u0391\u03bd\u03c4\u03af \u03bd\u03b1 \u03c3\u03c9\u03b8\u03bf\u03cd\u03bc\u03b5 \u03c0\u03ac\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03bf\u03bd \u039a\u03b1\u03b9\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac. \u039c\u03b1\u03c2 \u03c0\u03ae\u03c1\u03b1\u03bd \u03c3\u03c4\u03bf\u03bd \u03bb\u03b1\u03b9\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf deal \u03bc\u03b5 \u03c4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1. \u03a3\u03b5 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03c0\u03bf\u03c5 \u03b5\u03be\u03ad\u03b4\u03c9\u03c3\u03b5 \u03bf \u0395\u039f\u0394\u03a5, \u03c4\u03bf \u03b1\u03c0\u03cc\u03b3\u03b5\u03c5\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03a4\u03c1\u03af\u03c4\u03b7\u03c2 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03b5\u03be\u03ae\u03c2: \u03a4\u03b1 \u03bd\u03ad\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2...",
+                        "display_url": "dlvr.it/SBlyKS",
+                        "end": 276,
+                        "expanded_url": "http://dlvr.it/SBlyKS",
+                        "images": [
+                            {
+                                "height": 750,
+                                "url": "https://pbs.twimg.com/news_img/1455562130246172674/jrjS16DC?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455562130246172674/jrjS16DC?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 253,
+                        "status": 200,
+                        "title": "6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u0399 \u0397 \u039a\u03a5\u0392\u0395\u03a1\u039d\u0397\u03a3\u0397 \u03a4\u03a9\u039d \u0395\u03a0\u0399\u039a\u0399\u039d\u0394\u03a5\u039d\u03a9\u039d \u039a\u0395\u03a1\u0394\u039f\u03a3\u039a\u039f\u03a0\u03a9\u039d \u03a0\u039f\u03a5 \u039d\u03a4\u0399\u039b\u0391\u03a1\u039f\u03a5\u039d \u039a\u0391\u0399 \u039a\u039f\u039d\u039f\u039c\u0391\u039d\u0395 \u0391\u03a0\u039f \u03a4\u0399\u03a3 \u039c\u0399\u0396\u0395\u03a3 \u03a4\u03a9\u039d \u0395\u039c\u0392\u039f\u039b\u0399\u03a9\u039d \u039a\u0399 \u039f \u039b\u0391\u039f\u03a3 \u03a0\u0395\u0398\u0391\u0399\u039d\u0395\u0399. \u039c\u0391\u03a3 \u03a0\u0397\u03a1\u0391\u039d \u03a3\u03a4\u039f \u039b\u0391\u0399\u039c\u039f \u03a4\u039f\u03a5\u03a3 \u03a4\u0391 \u03a4\u03a3\u039f\u03a5\u03a4\u03a3\u0395\u039a\u0399\u0391",
+                        "unwound_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9a%ce%91%ce%99-%ce%95%ce%93%ce%95%ce%9d%ce%95%ce%a4%ce%9f-%ce%9d%ce%95%ce%9f-%ce%a1%ce%95%ce%9a%ce%9f%ce%a1-%ce%9e%ce%91%ce%a6%ce%9d%ce%99%ce%9a%ce%91-%ce%a4%ce%91-%ce%9a%ce%a1%ce%9f%ce%a5%ce%a3/?utm_source=dlvr.it&utm_medium=twitter",
+                        "url": "https://t.co/YNPI5U4ONY"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BFkKbgCaWj",
+                        "end": 300,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1455562119764606977/photo/1",
+                        "start": 277,
+                        "url": "https://t.co/BFkKbgCaWj"
+                    }
+                ]
+            },
+            "id": 1455562119764606977,
+            "public_metrics": {
+                "like_count": 30,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 4
+            },
+            "text": "6.700 \u039a\u03a1\u0399\u039c\u0391\u03a4\u0391 \u03a4\u03a9\u039d \u0397\u039b\u0399\u0398\u0399\u03a9\u039d \u03a4\u0397\u03a3 \u0395\u03a0\u0399\u03a4\u03a1\u039f\u03a0\u0397\u03a3 \u03a4\u03a9\u039d \u03a3\u03a9\u03a4\u0397\u03a1\u03a9\u039d. \u039a\u039f\u039a\u039a\u0399\u039d\u0399\u03a3\u0395 \u0397 \u0395\u039b\u039b\u0391\u0394\u0391 \u039c\u0395 6.700 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391. \u03a3\u0395 \u0391\u039b\u039b\u0397 \u03a7\u03a9\u03a1\u0391 \u0398\u0391 \u0395\u0399\u03a7 \u0395\u03a0\u0391\u03a1\u0391\u0399\u03a4\u0397\u0398\u0395\u0399 \u0397 \u039a\u03a5\u0392\u0395\u03a1\u039d\u0397\u03a3\u0397 \u03a4\u03a9\u039d \u0395\u03a0\u0399\u039a\u0399\u039d\u0394\u03a5\u039d\u03a9\u039d \u039a\u0395\u03a1\u0394\u039f\u03a3\u039a\u039f\u03a0\u03a9\u039d \u03a0\u039f\u03a5 \u039d\u03a4\u0399\u039b\u0391\u03a1\u039f\u03a5\u039d \u039a\u0391\u0399 \u039a\u039f\u039d\u039f\u039c\u0391\u039d\u0395 \u0391\u03a0\u039f \u03a4\u0399\u03a3 \u039c\u0399\u0396\u0395\u03a3 \u03a4\u03a9\u039d \u0395\u039c\u0392\u039f\u039b\u0399\u03a9\u039d \u039a\u0399 \u039f \u039b\u0391\u039f\u03a3 \u03a0\u0395\u0398\u0391\u0399\u039d\u0395\u0399. \u039c\u0391\u03a3 \u03a0\u0397\u03a1\u0391\u039d \u03a3\u03a4\u039f\u2026 https://t.co/YNPI5U4ONY https://t.co/BFkKbgCaWj"
+        },
+        {
+            "author_id": 442691734,
+            "conversation_id": 1455525526622326793,
+            "created_at": "2021-11-02 13:21:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "Makeleio.gr",
+                        "end": 114,
+                        "expanded_url": "http://Makeleio.gr",
+                        "start": 91,
+                        "url": "https://t.co/CwOhlwSiJs"
+                    },
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%a4%ce%a1%ce%95%ce%a7%ce%9f%ce%a5%ce%9d-%ce%9a%ce%91%ce%99-%ce%94%ce%95%ce%9d-%ce%a6%ce%a4%ce%91%ce%9d%ce%9f%ce%a5%ce%9d-%ce%a4%ce%a9%ce%a1%ce%91-%ce%a0%ce%91%ce%9d%ce%a9-%ce%91%ce%a0%ce%9f-6-000/",
+                        "start": 115,
+                        "url": "https://t.co/06vgCayEME"
+                    }
+                ]
+            },
+            "id": 1455525526622326793,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03a1\u0395\u03a7\u039f\u03a5\u039d \u039a\u0391\u0399 \u0394\u0395\u039d \u03a6\u03a4\u0391\u039d\u039f\u03a5\u039d \u03a4\u03a9\u03a1\u0391! \u03a0\u0391\u039d\u03a9 \u0391\u03a0\u039f 6.000 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u0391\u039d\u0391\u039c\u0395\u039d\u0395\u03a4\u0391\u0399 \u039d\u0391 \u0391\u039d\u0391\u039a\u039f\u0399\u039d\u03a9\u0398\u039f\u03a5\u039d \u03a3\u0397\u039c\u0395\u03a1\u0391 \u2013 https://t.co/CwOhlwSiJs https://t.co/06vgCayEME"
+        },
+        {
+            "author_id": 905140798467039232,
+            "conversation_id": 1455513324355870720,
+            "created_at": "2021-11-02 12:58:59+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 73,
+                        "start": 69,
+                        "tag": "\u0395\u039a\u0397"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "521308614",
+                        "start": 0,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455519807537827842,
+            "in_reply_to_user_id": 521308614,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455513324355870720 type=replied_to"
+            ],
+            "text": "@Makeleio_gr \u0391\u03a6\u039f\u03a5 \"\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u0391\u03a4\u0395\" \u03a4\u039f\u03a3\u039f\u039d \u039a\u039f\u03a3\u039c\u039f \n\u0393\u0399\u0391\u03a4\u0399 \u03a4\u039f\u03a3\u0391 \"\u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391\";!#\u0395\u039a\u0397"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1455513324355870720,
+            "created_at": "2021-11-02 12:33:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBlK53",
+                        "end": 112,
+                        "expanded_url": "http://dlvr.it/SBlK53",
+                        "start": 89,
+                        "url": "https://t.co/AMeLnUVmON"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/BEP58nb6Co",
+                        "end": 136,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1455513324355870720/photo/1",
+                        "start": 113,
+                        "url": "https://t.co/BEP58nb6Co"
+                    }
+                ]
+            },
+            "id": 1455513324355870720,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03a1\u0395\u03a7\u039f\u03a5\u039d \u039a\u0391\u0399 \u0394\u0395\u039d \u03a6\u03a4\u0391\u039d\u039f\u03a5\u039d \u03a4\u03a9\u03a1\u0391! \u03a0\u0391\u039d\u03a9 \u0391\u03a0\u039f 6.000 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u0391\u039d\u0391\u039c\u0395\u039d\u0395\u03a4\u0391\u0399 \u039d\u0391 \u0391\u039d\u0391\u039a\u039f\u0399\u039d\u03a9\u0398\u039f\u03a5\u039d \u03a3\u0397\u039c\u0395\u03a1\u0391 https://t.co/AMeLnUVmON https://t.co/BEP58nb6Co"
+        },
+        {
+            "author_id": 2446707094,
+            "conversation_id": 1455491825008095234,
+            "created_at": "2021-11-02 11:07:47+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455491825008095234,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 126280090,
+            "conversation_id": 1455433893222440962,
+            "created_at": "2021-11-02 07:17:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455433893222440962,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 1443913831,
+            "conversation_id": 1455349081451253760,
+            "created_at": "2021-11-02 01:40:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 234,
+                        "id": "3299840896",
+                        "start": 225,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/wprCNoq0Qv"
+                    }
+                ]
+            },
+            "id": 1455349081451253760,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/wprCNoq0Qv \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 166116455,
+            "conversation_id": 1455262117112819721,
+            "created_at": "2021-11-01 19:55:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 234,
+                        "id": "3299840896",
+                        "start": 225,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/evdlrgB7cX"
+                    }
+                ]
+            },
+            "id": 1455262117112819721,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/evdlrgB7cX \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 946065705597882368,
+            "conversation_id": 1455258290758328322,
+            "created_at": "2021-11-01 19:39:48+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 234,
+                        "id": "3299840896",
+                        "start": 225,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/7fJkxy6g8k"
+                    }
+                ]
+            },
+            "id": 1455258290758328322,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/7fJkxy6g8k \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 1450814539952447495,
+            "conversation_id": 1455233626304569346,
+            "created_at": "2021-11-01 18:01:48+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 117,
+                        "id": "3299840896",
+                        "start": 108,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%89%cf%84%ce%ae%cf%81%ce%b7-%ce%a3%cf%89%cf%84%ce%ae%cf%81%ce%b7-%cf%83%cf%8e%cf%83%ce%b5-%ce%bc%ce%b1%cf%82-%ce%a0%ce%91%ce%9c%ce%95-%ce%93%ce%99%ce%91-5-000-%ce%ba%cf%81%ce%bf%cf%8d/",
+                        "start": 80,
+                        "url": "https://t.co/760QqCmer8"
+                    }
+                ]
+            },
+            "id": 1455233626304569346,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03c3\u03ce\u03c3\u03b5 \u03bc\u03b1\u03c2! \u03a0\u0391\u039c\u0395 \u0393\u0399\u0391 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u03a0\u0391\u039d\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u039f \u039c\u0391\u039e\u0399\u039c\u039f\u03a5! https://t.co/760QqCmer8 via @Makeleio.gr"
+        },
+        {
+            "author_id": 1450814539952447495,
+            "conversation_id": 1455230027231027205,
+            "created_at": "2021-11-01 17:47:30+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 233,
+                        "id": "3299840896",
+                        "start": 224,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/nwNFBKx8iA"
+                    }
+                ]
+            },
+            "id": 1455230027231027205,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/nwNFBKx8iA via @Makeleio.gr"
+        },
+        {
+            "author_id": 1378259419285364736,
+            "conversation_id": 1455228066721116160,
+            "created_at": "2021-11-01 17:39:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "4407357863",
+                        "start": 3,
+                        "username": "zaffer_kan"
+                    }
+                ]
+            },
+            "id": 1455228066721116160,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455225619852189696 type=retweeted"
+            ],
+            "text": "RT @zaffer_kan: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.\u2026"
+        },
+        {
+            "author_id": 4407357863,
+            "conversation_id": 1455225619852189696,
+            "created_at": "2021-11-01 17:29:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 234,
+                        "id": "3299840896",
+                        "start": 225,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/dFKU2RN0fK"
+                    }
+                ]
+            },
+            "id": 1455225619852189696,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/dFKU2RN0fK \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 1324314571356733441,
+            "conversation_id": 1455222087644323843,
+            "created_at": "2021-11-01 17:15:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 234,
+                        "id": "3299840896",
+                        "start": 225,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/f70WD5rjcI"
+                    }
+                ]
+            },
+            "id": 1455222087644323843,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/f70WD5rjcI \u03bc\u03ad\u03c3\u03c9 @Makeleio.gr"
+        },
+        {
+            "author_id": 442691734,
+            "conversation_id": 1455207309823651840,
+            "created_at": "2021-11-01 16:17:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "Makeleio.gr",
+                        "end": 191,
+                        "expanded_url": "http://Makeleio.gr",
+                        "start": 168,
+                        "url": "https://t.co/CwOhlwSiJs"
+                    },
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 215,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 192,
+                        "url": "https://t.co/IrbHV8JwbF"
+                    }
+                ]
+            },
+            "id": 1455207309823651840,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f \u201c\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f\u201d \u2013 https://t.co/CwOhlwSiJs https://t.co/IrbHV8JwbF"
+        },
+        {
+            "author_id": 1344038311816552448,
+            "conversation_id": 1455205813992177665,
+            "created_at": "2021-11-01 16:11:17+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 117,
+                        "id": "3299840896",
+                        "start": 108,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%cf%80%c\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a3%cf%89%cf%84%ce%ae%cf%81%ce%b7-%ce%a3%cf%89%cf%84%ce%ae%cf%81%ce%b7-%cf%83%cf%8e%cf%83%ce%b5-%ce%bc%ce%b1%cf%82-%ce%a0%ce%91%ce%9c%ce%95-%ce%93%ce%99%ce%91-5-000-%ce%ba%cf%81%ce%bf%cf%8d/",
+                        "start": 80,
+                        "url": "https://t.co/SR2j3AuM4M"
+                    }
+                ]
+            },
+            "id": 1455205813992177665,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03c3\u03ce\u03c3\u03b5 \u03bc\u03b1\u03c2! \u03a0\u0391\u039c\u0395 \u0393\u0399\u0391 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u03a0\u0391\u039d\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u039f \u039c\u0391\u039e\u0399\u039c\u039f\u03a5! https://t.co/SR2j3AuM4M via @Makeleio.gr"
+        },
+        {
+            "author_id": 1344038311816552448,
+            "conversation_id": 1455204774798938112,
+            "created_at": "2021-11-01 16:07:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 233,
+                        "id": "3299840896",
+                        "start": 224,
+                        "username": "makeleio"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "makeleio.gr/%ce%b5%ce%be%c\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.makeleio.gr/%ce%b5%ce%be%cf%89%cf%86%cf%85%ce%bb%ce%bb%ce%bf/%ce%9f%ce%99-%ce%91%ce%a1%ce%99%ce%98%ce%9c%ce%9f%ce%99-%ce%95%ce%9a%ce%a4%ce%9f%ce%9e%ce%95%ce%a5%ce%a4%ce%97%ce%9a%ce%91%ce%9d-%ce%9c%ce%95%ce%a4%ce%91-%ce%a4%ce%97-%ce%a3%ce%a5%ce%a3%ce%9a%ce%95/",
+                        "start": 196,
+                        "url": "https://t.co/CsnMOY3Y3G"
+                    }
+                ]
+            },
+            "id": 1455204774798938112,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f &amp;#8211; \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f &amp;#8220;\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f&amp;#8221; https://t.co/CsnMOY3Y3G via @Makeleio.gr"
+        },
+        {
+            "author_id": 1010936506427543555,
+            "conversation_id": 1455202758760484871,
+            "created_at": "2021-11-01 15:59:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455202758760484871,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 1370048533,
+            "conversation_id": 1455200606734401540,
+            "created_at": "2021-11-01 15:50:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455200606734401540,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 406418342,
+            "conversation_id": 1455200499888791555,
+            "created_at": "2021-11-01 15:50:10+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1455200499888791555,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 9
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455199970089267202 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u2026"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1455199970089267202,
+            "created_at": "2021-11-01 15:48:03+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBhVR1",
+                        "end": 189,
+                        "expanded_url": "http://dlvr.it/SBhVR1",
+                        "start": 166,
+                        "url": "https://t.co/vXxrYsRTPQ"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/Nk64kLVLU9",
+                        "end": 213,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1455199970089267202/photo/1",
+                        "start": 190,
+                        "url": "https://t.co/Nk64kLVLU9"
+                    }
+                ]
+            },
+            "id": 1455199970089267202,
+            "public_metrics": {
+                "like_count": 48,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 9
+            },
+            "text": "\u039e\u0395\u03a5\u03a4\u0399\u039b\u0395\u03a3- \u0391\u039c\u039f\u039b\u0397\u03a3\u0391\u039d \u03a4\u039f\u03a5\u03a3 \u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u0395\u039d\u039f\u03a5\u03a3 \u039a\u0391\u0399 \u039c\u0391\u03a3 \u0393\u0395\u039c\u0399\u03a3\u0391\u039d \u03a7\u03a4\u0399\u039a\u0399\u039f \u2013 \u039f\u0399 \u0391\u03a1\u0399\u0398\u039c\u039f\u0399 \u0395\u039a\u03a4\u039f\u039e\u0395\u03a5\u03a4\u0397\u039a\u0391\u039d! \u03a4\u0391 \u039a\u03a1\u039f\u03a5\u03a3\u039c\u0391\u03a4\u0391 \u039e\u0395\u03a0\u0395\u03a1\u0391\u03a3\u0391\u039d \u03a4\u0391 5.000 \u039f\u0394\u0397\u0393\u03a9\u039d\u03a4\u0391\u03a3 \u03a4\u0397 \u03a7\u03a9\u03a1\u0391 \u039f\u039b\u039f\u03a4\u0391\u03a7\u03a9\u03a3 \u03a3\u0395 \u039d\u0395\u039f \u201c\u039a\u039b\u0395\u0399\u03a3\u0399\u039c\u039f\u201d https://t.co/vXxrYsRTPQ https://t.co/Nk64kLVLU9"
+        },
+        {
+            "author_id": 2591170543,
+            "conversation_id": 1455184995337785345,
+            "created_at": "2021-11-01 14:48:33+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBhJRr",
+                        "end": 120,
+                        "expanded_url": "http://dlvr.it/SBhJRr",
+                        "start": 97,
+                        "url": "https://t.co/IWnLebdg27"
+                    }
+                ]
+            },
+            "id": 1455184995337785345,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455183358451863552 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03c3\u03ce\u03c3\u03b5 \u03bc\u03b1\u03c2! \u03a0\u0391\u039c\u0395 \u0393\u0399\u0391 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u03a0\u0391\u039d\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u039f \u039c\u0391\u039e\u0399\u039c\u039f\u03a5! https://t.co/IWnLebdg27 https://t.co/l4knt\u2026"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1455183358451863552,
+            "created_at": "2021-11-01 14:42:03+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBhJRr",
+                        "end": 103,
+                        "expanded_url": "http://dlvr.it/SBhJRr",
+                        "start": 80,
+                        "url": "https://t.co/IWnLebdg27"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/l4kntWyusj",
+                        "end": 127,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1455183358451863552/photo/1",
+                        "start": 104,
+                        "url": "https://t.co/l4kntWyusj"
+                    }
+                ]
+            },
+            "id": 1455183358451863552,
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 1
+            },
+            "text": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03a3\u03c9\u03c4\u03ae\u03c1\u03b7, \u03c3\u03ce\u03c3\u03b5 \u03bc\u03b1\u03c2! \u03a0\u0391\u039c\u0395 \u0393\u0399\u0391 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1. \u03a0\u0391\u039d\u0399\u039a\u039f\u03a3 \u03a3\u03a4\u039f \u039c\u0391\u039e\u0399\u039c\u039f\u03a5! https://t.co/IWnLebdg27 https://t.co/l4kntWyusj"
+        },
+        {
+            "author_id": 1256559336123482112,
+            "conversation_id": 1454960769565696000,
+            "created_at": "2021-10-31 23:57:33+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 182,
+                        "start": 167,
+                        "tag": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 208,
+                        "start": 183,
+                        "tag": "\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1"
+                    },
+                    {
+                        "end": 220,
+                        "start": 210,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 228,
+                        "start": 221,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 239,
+                        "start": 229,
+                        "tag": "\u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1"
+                    },
+                    {
+                        "end": 250,
+                        "start": 240,
+                        "tag": "documento"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 263,
+                        "id": "521308614",
+                        "start": 251,
+                        "username": "Makeleio_gr"
+                    },
+                    {
+                        "end": 279,
+                        "id": "76015405",
+                        "start": 265,
+                        "username": "zougla_online"
+                    },
+                    {
+                        "end": 290,
+                        "id": "797882532",
+                        "start": 281,
+                        "username": "Makis_Tr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "bit.ly/3Cx7AsR",
+                        "end": 166,
+                        "expanded_url": "http://bit.ly/3Cx7AsR",
+                        "start": 143,
+                        "url": "https://t.co/g2mXwTOs0r"
+                    }
+                ]
+            },
+            "id": 1454960769565696000,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ".. \"\u0398\u03b1 \u03bc\u03bf\u03c5 \u03ba\u03bb\u03ac\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b1 @@\".. \u03b5\u03af\u03c0\u03b5 \u03bf &lt;&lt;\u03b3\u03bd\u03c9\u03c3\u03c4\u03cc\u03c2&gt;&gt; .. \u03c3\u03c4\u03b7\u03bd \u03ba\u03cc\u03c1\u03b7 \u03c4\u03bf\u03c5 \u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b9\u03ac\u03c1\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1 \u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03bf \u03c5\u03c0\u03bf\u03c4\u03b9\u03b8\u03ad\u03bc\u03b5\u03bd\u03bf\u03c2 \u03be\u03c5\u03bb\u03bf\u03b4\u03b1\u03c1\u03bc\u03cc\u03c2..!!! https://t.co/g2mXwTOs0r #\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 #\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1  #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1 #documento @Makeleio_gr\n @zougla_online\n @Makis_Tr"
+        },
+        {
+            "author_id": 1256559336123482112,
+            "conversation_id": 1454959438666911752,
+            "created_at": "2021-10-31 23:52:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 119,
+                        "start": 104,
+                        "tag": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 145,
+                        "start": 120,
+                        "tag": "\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1"
+                    },
+                    {
+                        "end": 157,
+                        "start": 147,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 165,
+                        "start": 158,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 176,
+                        "start": 166,
+                        "tag": "\u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1"
+                    },
+                    {
+                        "end": 187,
+                        "start": 177,
+                        "tag": "documento"
+                    },
+                    {
+                        "end": 241,
+                        "start": 227,
+                        "tag": "\u03a7\u03b1\u03c4\u03b6\u03b7\u03bd\u03b9\u03ba\u03bf\u03bb\u03b1\u03bf\u03c5"
+                    },
+                    {
+                        "end": 248,
+                        "start": 242,
+                        "tag": "\u03a4\u03bf\u03c5\u03bd\u03b7"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 200,
+                        "id": "521308614",
+                        "start": 188,
+                        "username": "Makeleio_gr"
+                    },
+                    {
+                        "end": 215,
+                        "id": "76015405",
+                        "start": 201,
+                        "username": "zougla_online"
+                    },
+                    {
+                        "end": 225,
+                        "id": "797882532",
+                        "start": 216,
+                        "username": "Makis_Tr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03b9\u03ac\u03c6\u03bf\u03c1\u03b1 \u03b5\u03b9\u03b4\u03b7\u03c3\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03ac \u03bc\u03ad\u03c3\u03b1 \u03b1\u03bd\u03b1\u03c0\u03b1\u03c1\u03ac\u03b3\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b5\u03af\u03b4\u03b7\u03c3\u03b7 \u03c0\u03ad\u03c1\u03b9 \u03be\u03c5\u03bb\u03bf\u03b4\u03b1\u03c1\u03bc\u03bf\u03cd \u03c4\u03bf\u03c5 \u03b9\u03b1\u03c4\u03c1\u03bf\u03cd \u03c0\u03bd\u03b5\u03c5\u03bc\u03bf\u03bd\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03b5\u03c2 \u03bc\u03b7\u03bd\u03cd\u03c3\u03b5\u03b9\u03c2 \u03c0\u03bf\u03c5 \u03ad\u03b3\u03b9\u03bd\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1. \u0397 \u03b9\u03c3\u03c4\u03bf\u03c1\u03af\u03b1 \u03cc\u03c0\u03c9\u03c2 \u03bb\u03ad\u03bd\u03b5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c9\u03c2 \u03b5\u03be\u03ae\u03c2 : https://www.youtube.com/watch?v=Ew6ZrAU7rwo \u03a4\u03bf\u2026",
+                        "display_url": "bit.ly/3Cx7AsR",
+                        "end": 103,
+                        "expanded_url": "https://bit.ly/3Cx7AsR",
+                        "images": [
+                            {
+                                "height": 691,
+                                "url": "https://pbs.twimg.com/news_img/1454956593167147011/qxrNUa-i?format=jpg&name=orig",
+                                "width": 1013
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454956593167147011/qxrNUa-i?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 80,
+                        "status": 200,
+                        "title": "Fake news \u03c4\u03b1 \u03c0\u03b5\u03c1\u03af \u03be\u03c5\u03bb\u03bf\u03b4\u03b1\u03c1\u03bc\u03bf\u03cd \u03c4\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c5 - Virus News",
+                        "unwound_url": "https://e-virusnews.com/gr-news/fake-news-ta-peri-xylodarmoy-toy-vasilakopoyloy/",
+                        "url": "https://t.co/THuRQ5KSQz"
+                    }
+                ]
+            },
+            "id": 1454959438666911752,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\"Fake news\" \u03c4\u03b1 \u03c0\u03b5\u03c1\u03af &lt;&lt;\u03be\u03c5\u03bb\u03bf\u03b4\u03b1\u03c1\u03bc\u03bf\u03cd&gt;&gt; (\u03b3\u03ba\u03bf\u03c5\u03c7 \u03b3\u03ba\u03bf\u03c5\u03c7) \u03c4\u03bf\u03c5 \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c5 https://t.co/THuRQ5KSQz #\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 #\u039c\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u0396\u03b9\u03c9\u03b3\u03b1  #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1 #documento @Makeleio_gr @zougla_online @Makis_Tr  #\u03a7\u03b1\u03c4\u03b6\u03b7\u03bd\u03b9\u03ba\u03bf\u03bb\u03b1\u03bf\u03c5 #\u03a4\u03bf\u03c5\u03bd\u03b7"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1454835698041716748,
+            "created_at": "2021-10-31 15:40:34+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBdXm8",
+                        "end": 88,
+                        "expanded_url": "http://dlvr.it/SBdXm8",
+                        "start": 65,
+                        "url": "https://t.co/bZ4DPEHbSW"
+                    }
+                ]
+            },
+            "id": 1454835698041716748,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03ba\u03b1\u03b9 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/bZ4DPEHbSW"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1454098479165296651,
+            "created_at": "2021-10-29 14:51:07+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBXJDj",
+                        "end": 86,
+                        "expanded_url": "http://dlvr.it/SBXJDj",
+                        "start": 63,
+                        "url": "https://t.co/obbdn0Er8X"
+                    }
+                ]
+            },
+            "id": 1454098479165296651,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 55 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 392 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/obbdn0Er8X"
+        },
+        {
+            "author_id": 1263569746286522369,
+            "conversation_id": 1453837895983411204,
+            "created_at": "2021-10-28 21:35:40+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "521308614",
+                        "start": 3,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1453837895983411204,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453734454149533708 type=retweeted"
+            ],
+            "text": "RT @Makeleio_gr: \u03a0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u2013 \u0397 \u03c4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03ba\u03b1\u03bb\u03ac \u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u2013 2984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/NvUSSgC\u2026"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1453734454149533708,
+            "created_at": "2021-10-28 14:44:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b1\u00a0\u03bd\u03ad\u03b1 \u03b5\u03c1\u03b3\u03b1\u03c3\u03c4\u03b7\u03c1\u03b9\u03b1\u03ba\u03ac \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\u00a0\u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03bf\u03c5 \u03c0\u03bf\u03c5 \u03ba\u03b1\u03c4\u03b1\u03b3\u03c1\u03ac\u03c6\u03b7\u03ba\u03b1\u03bd \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 24 \u03ce\u03c1\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9\u00a02.984, \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd\u00a016\u00a0\u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03ba\u03b1\u03c4\u03cc\u03c0\u03b9\u03bd \u03b5\u03bb\u03ad\u03b3\u03c7\u03c9\u03bd \u03c3\u03c4\u03b9\u03c2 \u03c0\u03cd\u03bb\u03b5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03c4\u03b7\u03c2 \u03c7\u03ce\u03c1\u03b1\u03c2. \u039f\u00a0\u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2\u00a0\u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5\u00a0731.167\u00a0(\u03b7\u03bc\u03b5\u03c1\u03ae\u03c3\u03b9\u03b1 \u03bc\u03b5\u03c4\u03b1\u03b2\u03bf\u03bb\u03ae +0.4%), \u03b5\u03ba \u03c4\u03c9\u03bd \u03bf\u03c0\u03bf\u03af\u03c9\u03bd\u00a050.8% \u03ac\u03bd\u03b4\u03c1\u03b5\u03c2. \u039c\u03b5 \u03b2\u03ac\u03c3\u03b7 \u03c4\u03b1 \u03b5\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03c9\u03bc\u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03c9\u03bd \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03c9\u03bd 7 \u03b7\u03bc\u03b5\u03c1\u03ce\u03bd, 156\u00a0\u03b8\u03b5\u03c9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b1\u03be\u03af\u03b4\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03be\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03cc \u03ba\u03b1\u03b9 2.733 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b1 \u03bc\u03b5 \u03ae\u03b4\u03b7...",
+                        "display_url": "dlvr.it/SBSmhx",
+                        "end": 125,
+                        "expanded_url": "http://dlvr.it/SBSmhx",
+                        "images": [
+                            {
+                                "height": 289,
+                                "url": "https://pbs.twimg.com/news_img/1453734462827548685/h0AIUyZS?format=jpg&name=orig",
+                                "width": 512
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453734462827548685/h0AIUyZS?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 102,
+                        "status": 200,
+                        "title": "\u03a0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u2013 \u0397 \u03c4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03ba\u03b1\u03bb\u03ac \u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u2013 2984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9",
+                        "unwound_url": "https://www.makeleio.gr/%ce%b5%cf%80%ce%b9%ce%ba%ce%b1%ce%b9%cf%81%ce%bf%cf%84%ce%b7%cf%84%ce%b1/%ce%a0%ce%b1%cf%81%ce%b1%ce%bc%cf%85%ce%b8%ce%b9%ce%ac%ce%b6%ce%bf%cf%85%ce%bd-%ce%b3%ce%b9%ce%b1-%ce%bc%ce%b9%ce%b1-%ce%b1%ce%ba%cf%8c%ce%bc%ce%b1-%cf%84%ce%bf%ce%bd-%ce%ba%cf%8c%cf%83%ce%bc%ce%bf/?utm_source=dlvr.it&utm_medium=twitter",
+                        "url": "https://t.co/NvUSSgCrEm"
+                    }
+                ]
+            },
+            "id": 1453734454149533708,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a0\u03b1\u03c1\u03b1\u03bc\u03c5\u03b8\u03b9\u03ac\u03b6\u03bf\u03c5\u03bd \u03b3\u03b9\u03b1 \u03bc\u03b9\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u2013 \u0397 \u03c4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1 \u03ba\u03b1\u03bb\u03ac \u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u2013 2984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/NvUSSgCrEm"
+        },
+        {
+            "author_id": 340250251,
+            "conversation_id": 1453331163162963975,
+            "created_at": "2021-10-28 09:54:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "521308614",
+                        "start": 0,
+                        "username": "Makeleio_gr"
+                    }
+                ]
+            },
+            "id": 1453661545280462850,
+            "in_reply_to_user_id": 521308614,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453331163162963975 type=replied_to"
+            ],
+            "text": "@Makeleio_gr \u039a \u03c3\u03b5 15 \u03bc\u03ad\u03c1\u03b5\u03c2 \u03b8\u03b1 \u03b4\u03bf\u03cd\u03bc\u03b5 \u03b8\u03b1 \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba \u03b8\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03ba\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf \u03c0\u03ac\u03bb\u03b9 \u03ba \u03b1\u03c2 \u03bb\u03ad\u03b5\u03b9 \u03bf \u03bc\u03c0\u03bf\u03c5\u03bc\u03c0\u03bf\u03c5\u03ba\u03bf\u03c2 \u03bf \u03c4\u03b7\u03bb\u03b5\u03b2\u03cc\u03b1\u03c2 \u03c0\u03c9\u03c2 \u03b4\u03bd \u03b1\u03ba\u03bf\u03cd\u03bd\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03cd\u03c2\u2026\u03b1\u03b4\u03c9\u03bd\u03b7 \u03c3 \u03c3\u03c4\u03ad\u03bb\u03bd\u03c9 \u03c4\u03b7\u03bd \u03ba\u03b1\u03ba\u03b9\u03ac \u03bc \u03b1\u03c0\u03cc \u03a6\u03c1\u03b1\u03bd\u03ba\u03c6\u03bf\u03cd\u03c1\u03c4\u03b7"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1453583581775687690,
+            "created_at": "2021-10-28 04:45:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBRDG9",
+                        "end": 107,
+                        "expanded_url": "http://dlvr.it/SBRDG9",
+                        "start": 84,
+                        "url": "https://t.co/PNrX5IDs0h"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/lyNPYQNnXE",
+                        "end": 131,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1453583581775687690/photo/1",
+                        "start": 108,
+                        "url": "https://t.co/lyNPYQNnXE"
+                    }
+                ]
+            },
+            "id": 1453583581775687690,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 \u00ab\u03c3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9\u00bb \u03c4\u03b7\u03bd \u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1: 27.000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 210 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03b5 \u03ad\u03bd\u03b1 24\u03c9\u03c1\u03bf https://t.co/PNrX5IDs0h https://t.co/lyNPYQNnXE"
+        },
+        {
+            "author_id": 521308614,
+            "conversation_id": 1453376721831415813,
+            "created_at": "2021-10-27 15:03:07+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dlvr.it/SBPPd4",
+                        "end": 86,
+                        "expanded_url": "http://dlvr.it/SBPPd4",
+                        "start": 63,
+                        "url": "https://t.co/K2bnqaQYt8"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/YQOHuTMZ1K",
+                        "end": 110,
+                        "expanded_url": "https://twitter.com/Makeleio_gr/status/1453376721831415813/photo/1",
+                        "start": 87,
+                        "url": "https://t.co/YQOHuTMZ1K"
+                    }
+                ]
+            },
+            "id": 1453376721831415813,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/K2bnqaQYt8 https://t.co/YQOHuTMZ1K"
+        }
+    ]
+}

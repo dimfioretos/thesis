@@ -1,0 +1,74 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2011-10-05 22:17:39+00:00",
+                "description": "",
+                "id": 385666436,
+                "name": "\u0393\u03b9\u03bf\u03cd\u03bd\u03b9 \u039c\u03c0\u03c1\u03ac\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 262,
+                    "following_count": 514,
+                    "listed_count": 5,
+                    "tweet_count": 4957
+                },
+                "username": "popokatifrydia",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 385666436,
+            "conversation_id": 1453557027100364804,
+            "created_at": "2021-10-28 02:59:35+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 83,
+                        "tag": "\u0391\u03a1\u0394"
+                    },
+                    {
+                        "end": 107,
+                        "start": 88,
+                        "tag": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03b5\u03c3\u03b1\u03b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b9 \u03c3\u03c5\u03bd\u03ad\u03b2\u03b7;",
+                        "display_url": "athensmagazine.gr/article/gossip\u2026",
+                        "end": 133,
+                        "expanded_url": "https://www.athensmagazine.gr/article/gossip/535406-dystyxws-epibebaiwthhke-h-tragikh-eidhsh-gia-thn-dhmhtra-lianh-papandreoy",
+                        "images": [
+                            {
+                                "height": 400,
+                                "url": "https://pbs.twimg.com/news_img/1453557027352064003/WtNLniDP?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453557027352064003/WtNLniDP?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 110,
+                        "status": 200,
+                        "title": "\u0394\u03c5\u03c3\u03c4\u03c5\u03c7\u03ce\u03c2: \u0395\u03c0\u03b9\u03b2\u03b5\u03b2\u03b1\u03b9\u03ce\u03b8\u03b7\u03ba\u03b5 \u03b7 \u03c4\u03c1\u03b1\u03b3\u03b9\u03ba\u03ae \u03b5\u03af\u03b4\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u0394\u03ae\u03bc\u03b7\u03c4\u03c1\u03b1 \u039b\u03b9\u03ac\u03bd\u03b7 \u03a0\u03b1\u03c0\u03b1\u03bd\u03b4\u03c1\u03ad\u03bf\u03c5!",
+                        "unwound_url": "https://www.athensmagazine.gr/article/gossip/535406-dystyxws-epibebaiwthhke-h-tragikh-eidhsh-gia-thn-dhmhtra-lianh-papandreoy",
+                        "url": "https://t.co/RdpwwEui94"
+                    }
+                ]
+            },
+            "id": 1453557027100364804,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "- \u039a\u03b1\u03bb\u03b7\u03bc\u03ad\u03c1\u03b1\n- \u039a\u03b1\u03bb\u03b7\u03bc\u03ad\u03c1\u03b1\n- \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03bf \u03ad\u03c7\u03b5\u03b9\u03c2 \u03ba\u03ac\u03bd\u03b5\u03b9;\n- \ud83e\udd2c\n\n\u0386\u03be\u03b9\u03bf\u03c2 \u03bf \u03bc\u03b9\u03c3\u03b8\u03cc\u03c2 \u03c3\u03b1\u03c2 \u03ba\u03bf\u03c0\u03ad\u03bb\u03b9\u03b1\n#\u0391\u03a1\u0394 #\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03b5\u03c3\u03b1\u03b9 \n\nhttps://t.co/RdpwwEui94"
+        }
+    ]
+}

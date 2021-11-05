@@ -1,0 +1,246 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 3366439607,
+                "conversation_id": 1455409746710724608,
+                "created_at": "2021-11-02 05:41:38+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 51,
+                            "start": 40,
+                            "tag": "DAVID_ICKE"
+                        },
+                        {
+                            "end": 101,
+                            "start": 91,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf",
+                            "display_url": "greeknewsondemand.com/2021/11/02/%ce\u2026",
+                            "end": 135,
+                            "expanded_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                            "images": [
+                                {
+                                    "height": 261,
+                                    "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=orig",
+                                    "width": 500
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 112,
+                            "status": 200,
+                            "title": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)",
+                            "unwound_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                            "url": "https://t.co/YHA7I0Qa9v"
+                        }
+                    ]
+                },
+                "id": 1455409746710724608,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd #DAVID_ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)\n\nhttps://t.co/YHA7I0Qa9v"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-09-25 18:03:17+00:00",
+                "description": "",
+                "id": 1309553981379801089,
+                "name": "elenaki orfanidou",
+                "public_metrics": {
+                    "followers_count": 80,
+                    "following_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 27391
+                },
+                "username": "elenakiorfanid1",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-08 19:25:40+00:00",
+                "description": "Greek News Service Bringing you the latest news on Greece.",
+                "id": 3366439607,
+                "name": "Greek News on Demand",
+                "public_metrics": {
+                    "followers_count": 380,
+                    "following_count": 104,
+                    "listed_count": 6,
+                    "tweet_count": 298322
+                },
+                "username": "GreekNewsGuy",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-21 16:43:08+00:00",
+                "description": "Greek-American journalist, Greek Translator for the DOJ, Apple and Hollywood/Author/Greek political pundit on Greek TV. See my site: https://t.co/u58toX0cwh",
+                "id": 25694578,
+                "name": "john kountouris",
+                "public_metrics": {
+                    "followers_count": 658,
+                    "following_count": 292,
+                    "listed_count": 11,
+                    "tweet_count": 26960
+                },
+                "username": "johndk7",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1309553981379801089,
+            "conversation_id": 1455467387579424768,
+            "created_at": "2021-11-02 09:30:41+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 69,
+                        "start": 58,
+                        "tag": "DAVID_ICKE"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3366439607",
+                        "start": 3,
+                        "username": "GreekNewsGuy"
+                    }
+                ]
+            },
+            "id": 1455467387579424768,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455409746710724608 type=retweeted"
+            ],
+            "text": "RT @GreekNewsGuy: \u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd #DAVID_ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)\n\nhttps://t\u2026"
+        },
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1455409746710724608,
+            "created_at": "2021-11-02 05:41:38+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 40,
+                        "tag": "DAVID_ICKE"
+                    },
+                    {
+                        "end": 101,
+                        "start": 91,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf",
+                        "display_url": "greeknewsondemand.com/2021/11/02/%ce\u2026",
+                        "end": 135,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "images": [
+                            {
+                                "height": 261,
+                                "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=orig",
+                                "width": 500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 112,
+                        "status": 200,
+                        "title": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)",
+                        "unwound_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "url": "https://t.co/YHA7I0Qa9v"
+                    }
+                ]
+            },
+            "id": 1455409746710724608,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd #DAVID_ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)\n\nhttps://t.co/YHA7I0Qa9v"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1455409540116017154,
+            "created_at": "2021-11-02 05:40:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 40,
+                        "tag": "DAVID_ICKE"
+                    },
+                    {
+                        "end": 101,
+                        "start": 91,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf",
+                        "display_url": "greeknewsondemand.com/2021/11/02/%ce\u2026",
+                        "end": 135,
+                        "expanded_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "images": [
+                            {
+                                "height": 261,
+                                "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=orig",
+                                "width": 500
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455409540359352323/x1_a-dhQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 112,
+                        "status": 200,
+                        "title": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd DAVID ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)",
+                        "unwound_url": "http://greeknewsondemand.com/2021/11/02/%ce%bc%ce%b5%ce%b3%ce%ac%ce%bb%ce%b5%cf%82-%ce%b1%cf%80%ce%bf%ce%ba%ce%b1%ce%bb%cf%8d%cf%88%ce%b5%ce%b9%cf%82-%ce%ae-%ce%ba%ce%ac%cf%84%ce%b9-%ce%ac%ce%bb%ce%bb%ce%bf-%ce%b1%cf%80%cf%8c-%cf%84%ce%bf/",
+                        "url": "https://t.co/xCt31lYnGj"
+                    }
+                ]
+            },
+            "id": 1455409540116017154,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c8\u03b5\u03b9\u03c2 \u03ae \u03ba\u03ac\u03c4\u03b9 \u03ac\u03bb\u03bb\u03bf \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd #DAVID_ICKE; \u201c\u0394\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1\u03c2 \u03c0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c2 \u03b9\u03cc\u03c2 \u03ae #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2\u201d(\u0392\u0399\u039d\u03a4\u0395\u039f)\n\nhttps://t.co/xCt31lYnGj"
+        }
+    ]
+}

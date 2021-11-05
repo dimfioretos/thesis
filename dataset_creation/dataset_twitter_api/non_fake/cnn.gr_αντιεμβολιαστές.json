@@ -1,0 +1,79 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2019-01-25 15:37:16+00:00",
+                "description": "",
+                "id": 1088823123972186112,
+                "name": "Sofia Tzani",
+                "public_metrics": {
+                    "followers_count": 110,
+                    "following_count": 178,
+                    "listed_count": 2,
+                    "tweet_count": 134074
+                },
+                "username": "sofia_tzani",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1088823123972186112,
+            "conversation_id": 1455793633442021392,
+            "created_at": "2021-11-03 07:07:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 185,
+                        "start": 178,
+                        "tag": "\u03bb\u03b1\u03c1\u03b9\u03c3\u03b1"
+                    },
+                    {
+                        "end": 200,
+                        "start": 186,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 217,
+                        "start": 201,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03b1 \u03cc\u03c1\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b1\u03bd\u03c4\u03bf\u03c7\u03ce\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03af \u03c0\u03bf\u03c5 \u03ba\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03af\u03c3\u03bf\u03c5\u03bd \u03ad\u03bd\u03b1 \u03b1\u03ba\u03cc\u03bc\u03b7 \u03ba\u03cd\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03ae \u03ad\u03be\u03b1\u03c1\u03c3\u03b7 \u03bd\u03b1...",
+                        "display_url": "cnn.gr/ellada/story/2\u2026",
+                        "end": 177,
+                        "expanded_url": "https://www.cnn.gr/ellada/story/287770/larisa-katerreyse-on-camera-apo-tin-koposi-o-ypeythynos-klinikis-koronoioy-toy-genikoy-nosokomeioy",
+                        "images": [
+                            {
+                                "height": 726,
+                                "url": "https://pbs.twimg.com/news_img/1455539124820193294/E6xByE2U?format=jpg&name=orig",
+                                "width": 1290
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455539124820193294/E6xByE2U?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 154,
+                        "status": 200,
+                        "title": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 on camera \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \u03bf \u03c5\u03c0\u03b5\u03cd\u03b8\u03c5\u03bd\u03bf\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5",
+                        "unwound_url": "https://www.cnn.gr/ellada/story/287770/larisa-katerreyse-on-camera-apo-tin-koposi-o-ypeythynos-klinikis-koronoioy-toy-genikoy-nosokomeioy",
+                        "url": "https://t.co/6uNwlu2VI9"
+                    }
+                ]
+            },
+            "id": 1455793633442021392,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u038c\u03c4\u03b9 \u03b3\u03b5\u03bb\u03ac\u03bd\u03b5 \u03c7\u03b1\u03af\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03c5\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba \u03c3 \u03ac\u03bb\u03bb\u03bf\u03c5\u03c2 \u03ba \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1... \u039d\u03c4\u03c1\u03ad\u03c0\u03b5\u03c3\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03c0\u03bd\u03ad\u03b5\u03b9\u03c2 \u03af\u03b4\u03b9\u03bf \u03b1\u03ad\u03c1\u03b1 \u03bc\u03b1\u03b6\u03af \u03c4\u03bf\u03c5\u03c2... 16000+ \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03b4\u03b7\u03bb\u03b1\u03b4\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03c8\u03ad\u03bc\u03b1; \u0395\u03af\u03c3\u03c4\u03b5 \u03ac\u03c1\u03c1\u03c9\u03c3\u03c4\u03bf\u03b9... https://t.co/6uNwlu2VI9 #\u03bb\u03b1\u03c1\u03b9\u03c3\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+        }
+    ]
+}

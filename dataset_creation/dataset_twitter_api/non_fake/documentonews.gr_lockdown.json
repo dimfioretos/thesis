@@ -1,0 +1,738 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1455615407797280768,
+                "created_at": "2021-11-02 19:18:51+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 96,
+                            "start": 86,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/kampan\u2026",
+                            "end": 120,
+                            "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/?utm_medium=Social&utm_source=Twitter#Echobox=1635844181",
+                            "start": 97,
+                            "url": "https://t.co/DFTxsdN2du"
+                        }
+                    ]
+                },
+                "id": 1455615407797280768,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\"\u0397 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b4\u03cd\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\" \u2935\ufe0f   \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/DFTxsdN2du"
+            },
+            {
+                "author_id": 1232279819708227584,
+                "conversation_id": 1455528548559622148,
+                "created_at": "2021-11-02 13:33:43+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae \u03c3\u03c7\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c1\u03b2\u03cc\u03bd\u03b7\u03c2, \u0393\u03c1\u03b7\u03b3\u03cc\u03c1\u03b7\u03c2 \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1\u03c2. \u039c\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03c9\u03b9\u03bd\u03ae \u03b5\u03ba\u03c0\u03bf\u03bc\u03c0\u03ae \u03c4\u03bf\u03c5 MEGA \u03b5\u03af\u03c0\u03b5 \u03c0\u03c9\u03c2 \u00ab\u03ae\u03c4\u03b1\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03bf \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u00bb \u03ba\u03b1\u03b9 \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u00ab\u03b4\u03b5\u03bd \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03b9\u03c3\u03c4\u03b5\u03af\u00bb, \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf \u03bd\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd [\u2026]",
+                            "display_url": "documentonews.gr/article/kampan\u2026",
+                            "end": 155,
+                            "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYE-If--qYo.twitter",
+                            "images": [
+                                {
+                                    "height": 800,
+                                    "url": "https://pbs.twimg.com/news_img/1455449000446992387/hBPfLBmq?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455449000446992387/hBPfLBmq?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 132,
+                            "status": 200,
+                            "title": "\u00ab\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9\u00bb \u03b1\u03c0\u03cc \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7: Lockdown \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 - \u039f\u03b4\u03b5\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - Documento",
+                            "unwound_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYE-If--qYo.twitter",
+                            "url": "https://t.co/VXbBwDk46K"
+                        }
+                    ]
+                },
+                "id": 1455528548559622148,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u00ab\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9\u00bb \u03b1\u03c0\u03cc \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7: Lockdown \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 - \u039f\u03b4\u03b5\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - Documento: https://t.co/VXbBwDk46K"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1455448999943606272,
+                "created_at": "2021-11-02 08:17:37+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 170,
+                            "start": 162,
+                            "tag": "COVID19"
+                        },
+                        {
+                            "end": 180,
+                            "start": 171,
+                            "tag": "Covid_19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "documentonews.gr/article/kampan\u2026",
+                            "end": 205,
+                            "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYD0CGWw7JU.twitter",
+                            "start": 182,
+                            "url": "https://t.co/z4sSwXG4Ej"
+                        }
+                    ]
+                },
+                "id": 1455448999943606272,
+                "public_metrics": {
+                    "like_count": 7,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 3
+                },
+                "text": "\u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae \u03c3\u03c7\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c1\u03b2\u03cc\u03bd\u03b7\u03c2, \u0393\u03c1\u03b7\u03b3\u03cc\u03c1\u03b7\u03c2 \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1\u03c2 #COVID19 #Covid_19  https://t.co/z4sSwXG4Ej"
+            },
+            {
+                "author_id": 795738344906952705,
+                "conversation_id": 1453680719100796939,
+                "created_at": "2021-10-28 11:11:06+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 88,
+                            "start": 83,
+                            "tag": "\u039a\u03b9\u03bd\u03b1"
+                        },
+                        {
+                            "end": 99,
+                            "start": 89,
+                            "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 109,
+                            "start": 100,
+                            "tag": "lockdown"
+                        },
+                        {
+                            "end": 120,
+                            "start": 110,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u039c\u03b9\u03b1 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u039a\u03af\u03bd\u03b1\u03c2 \u03b5\u03c0\u03ad\u03b2\u03b1\u03bb\u03b5 \u03ba\u03b1\u03c1\u03b1\u03bd\u03c4\u03af\u03bd\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b5\u03bd\u03cc\u03c2 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 Covid-19, \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03bd\u03b1 \u03c6\u03bf\u03b2\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2, \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc 100 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03bf\u03cd\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5. \u03a3\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 6 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u039a\u03b9\u03bd\u03ad\u03b6\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7 \u03b5\u03c0\u03b9\u03b2\u03bb\u03b7\u03b8\u03b5\u03af \u03bc\u03ad\u03c4\u03c1\u03b1 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd, \u03b4\u03cd\u03bf \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03bc\u03b9\u03b1 \u03b1\u03bd\u03ac\u03bb\u03bf\u03b3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c0\u03bf\u03c5 [\u2026]",
+                            "display_url": "documentonews.gr/article/kina-k\u2026",
+                            "end": 145,
+                            "expanded_url": "https://www.documentonews.gr/article/kina-koronoios-kai-triti-poli-se-lockdown-meta-apo-ena-kroysma/#.YXqErJFMx2c.twitter",
+                            "images": [
+                                {
+                                    "height": 683,
+                                    "url": "https://pbs.twimg.com/news_img/1453680719503503362/z0n4QiH0?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453680719503503362/z0n4QiH0?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 122,
+                            "status": 200,
+                            "title": "\u039a\u03af\u03bd\u03b1-\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039a\u03b1\u03b9 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c3\u03b5 lockdown \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1! - Documento",
+                            "unwound_url": "https://www.documentonews.gr/article/kina-koronoios-kai-triti-poli-se-lockdown-meta-apo-ena-kroysma/#.YXqErJFMx2c.twitter",
+                            "url": "https://t.co/sqDQaEa2UQ"
+                        }
+                    ]
+                },
+                "id": 1453680719100796939,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039b\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc 100 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03bf\u03cd\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5. #\u039a\u03b9\u03bd\u03b1 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/sqDQaEa2UQ"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-10-25 22:13:36+00:00",
+                "description": "\u0397\u03b3\u03ad\u03c4\u03b7\u03c2 \u0391\u039b\u0395\u039e\u0397\u03a3 \u03a4\u03a3\u0399\u03a0\u03a1\u0391\u03a3\n\u03a4\u03b1 \u03b4\u03b9\u03ba\u03b1\u03b9\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b4\u03b9\u03b5\u03b8\u03bd\u03b5\u03af\u03c2 \u03c3\u03c5\u03bd\u03b8\u03ae\u03ba\u03b5\u03c2//\n\u039c\u03bf\u03c5 \u03b1\u03c1\u03ad\u03c3\u03b5\u03b9 \u03b7 \u03b5\u03b9\u03c1\u03c9\u03bd\u03b5\u03af\u03b1!\u03a4\u03b7\u03bd \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ce \u03c3\u03b5 \u03ba\u03ac\u03b8\u03b5 \u03b5\u03c5\u03ba\u03b1\u03b9\u03c1\u03af\u03b1!\u038a\u03c3\u03c9\u03c2 \u03b4\u03af\u03c7\u03c9\u03c2 \u03cc\u03c1\u03b9\u03b1..",
+                "id": 207714223,
+                "name": "\u03a3\u03c9\u03c4\u03ae\u03c1\u03b7\u03c2 \u03a0\u03ad\u03c4\u03c1\u03bf\u03c5\u03bb\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 1820,
+                    "following_count": 1494,
+                    "listed_count": 8,
+                    "tweet_count": 109235
+                },
+                "username": "jvoti198",
+                "verified": false
+            },
+            {
+                "created_at": "2016-11-07 21:23:00+00:00",
+                "description": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf newsletter: https://t.co/RFO2G7JWxA \ud83d\udcbb\ud83d\udcf1\ud83d\udddehello@documentonews.gr \ud83d\udce9",
+                "id": 795738344906952705,
+                "name": "Documento\ud83d\udcf0",
+                "public_metrics": {
+                    "followers_count": 41905,
+                    "following_count": 264,
+                    "listed_count": 218,
+                    "tweet_count": 99589
+                },
+                "username": "documentonews",
+                "verified": false
+            },
+            {
+                "created_at": "2019-08-20 10:56:35+00:00",
+                "description": "",
+                "id": 1163766669778571265,
+                "name": "\u0391\u03bd\u03bd\u03b1\u039c",
+                "public_metrics": {
+                    "followers_count": 708,
+                    "following_count": 799,
+                    "listed_count": 4,
+                    "tweet_count": 159750
+                },
+                "username": "xTJdm35G2F6rTZl",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-04 10:07:47+00:00",
+                "description": ".",
+                "id": 1312695823130648576,
+                "name": "Cat",
+                "public_metrics": {
+                    "followers_count": 24,
+                    "following_count": 0,
+                    "listed_count": 0,
+                    "tweet_count": 1143
+                },
+                "username": "Cat62013690",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-05 19:41:05+00:00",
+                "description": "\u03a7\u03c9\u03c1\u03af\u03c2 \u03bf\u03c5\u03c4\u03bf\u03c0\u03af\u03b1 \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03b7\u03b4\u03bf\u03bd\u03ae, \u03c7\u03c9\u03c1\u03af\u03c2 \u03b7\u03b4\u03bf\u03bd\u03ae \u03b4\u03b5\u03bd \u03c5\u03c0\u03ac\u03c1\u03c7\u03b5\u03b9 \u03b9\u03c3\u03c7\u03cd\u03c2  \u038c\u03bb\u03b5\u03c2 \u03bf\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ad\u03c2 \u03bc\u03b1\u03c2 \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7\u03bd \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03b9\u03ba\u03ae \u03bc\u03b1\u03c2 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7.",
+                "id": 2463118972,
+                "name": "\u039c\u03b5_\u0391\u03b9\u03c4\u03af\u03b5\u03c2",
+                "public_metrics": {
+                    "followers_count": 378,
+                    "following_count": 787,
+                    "listed_count": 0,
+                    "tweet_count": 25655
+                },
+                "username": "6_Cats_House_",
+                "verified": false
+            },
+            {
+                "created_at": "2020-02-25 12:23:06+00:00",
+                "description": "\u039f\u0399 \u0391\u03a0\u0391\u03a4\u0395\u03a9\u039d\u0395\u03a3 \u0395\u038a\u039d\u0391\u0399 \u0391\u039d\u039f\u0397\u03a4\u039f\u0399. \u03a0\u0386\u039d\u03a4\u0391 \u039f\u0399 \u039a\u0391\u039b\u039f\u038a \u039d\u0399\u039a\u039f\u03a5\u039d - \u03a7\u039f\u03a3\u0395 \u039c\u0391\u03a1\u03a4\u0399\n\u03a3\u03a5\u03a1\u0399\u0396\u0391, \u0391\u039b\u0395\u039e\u0397\u03a3 \u03a4\u03a3\u038a\u03a0\u03a1\u0391 \u0397\u0393\u0388\u03a4\u0397\u03a3 \u0393\u0399\u0391 \u03a0\u0386\u039d\u03a4\u0391!!! \ud83d\udc97 \ud83d\udc97 \ud83d\udc97 \n\u039c\u03b9\u03ba\u03c1\u03cc\u03c2 \u0389\u03c1\u03c9\u03b1\u03c2 \u03a0\u03b1\u03b9\u03b4\u03af \u03a6\u03ac\u03bd\u03c4\u03b1\u03c3\u03bc\u03b1 \ud83c\uddec\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\u2618\ufe0f\ud83c\udf40 \ud83d\udc2c",
+                "id": 1232279819708227584,
+                "name": "\ud83c\uddf5\ud83c\uddf8\u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c2 \u0398\u03b1\u03bb\u03ac\u03c3\u03c3\u03b7\u03c2\ud83c\uddf5\ud83c\uddf8Prince Merlin\ud83d\ude18Snow White",
+                "public_metrics": {
+                    "followers_count": 2986,
+                    "following_count": 5005,
+                    "listed_count": 5,
+                    "tweet_count": 362907
+                },
+                "username": "PhoenixMerlin1",
+                "verified": false
+            },
+            {
+                "created_at": "2017-01-31 17:27:15+00:00",
+                "description": "",
+                "id": 826481985539407877,
+                "name": "Eleni Filippidou",
+                "public_metrics": {
+                    "followers_count": 183,
+                    "following_count": 34,
+                    "listed_count": 2,
+                    "tweet_count": 27718
+                },
+                "username": "FilippidouEleni",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-27 00:42:45+00:00",
+                "description": "Science, politics, democracy, equality, aviation, Greece\n[Refugees Welcome]",
+                "id": 1460958716,
+                "name": "\u039aapoios \u0391llos \ud83c\udf10",
+                "public_metrics": {
+                    "followers_count": 5298,
+                    "following_count": 5375,
+                    "listed_count": 115,
+                    "tweet_count": 217888
+                },
+                "username": "Kapoiosmpla",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 207714223,
+            "conversation_id": 1455626606026821640,
+            "created_at": "2021-11-02 20:03:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 105,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/?utm_medium=Social&utm_source=Twitter#Echobox=1635844181",
+                        "start": 116,
+                        "url": "https://t.co/DFTxsdN2du"
+                    }
+                ]
+            },
+            "id": 1455626606026821640,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455615407797280768 type=retweeted"
+            ],
+            "text": "RT @documentonews: \"\u0397 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b4\u03cd\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\" \u2935\ufe0f   \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/DFTxsdN2du"
+        },
+        {
+            "author_id": 1163766669778571265,
+            "conversation_id": 1455623595275735043,
+            "created_at": "2021-11-02 19:51:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 105,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/?utm_medium=Social&utm_source=Twitter#Echobox=1635844181",
+                        "start": 116,
+                        "url": "https://t.co/DFTxsdN2du"
+                    }
+                ]
+            },
+            "id": 1455623595275735043,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455615407797280768 type=retweeted"
+            ],
+            "text": "RT @documentonews: \"\u0397 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b4\u03cd\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\" \u2935\ufe0f   \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/DFTxsdN2du"
+        },
+        {
+            "author_id": 1312695823130648576,
+            "conversation_id": 1455615903106748420,
+            "created_at": "2021-11-02 19:20:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 105,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/?utm_medium=Social&utm_source=Twitter#Echobox=1635844181",
+                        "start": 116,
+                        "url": "https://t.co/DFTxsdN2du"
+                    }
+                ]
+            },
+            "id": 1455615903106748420,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455615407797280768 type=retweeted"
+            ],
+            "text": "RT @documentonews: \"\u0397 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b4\u03cd\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\" \u2935\ufe0f   \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/DFTxsdN2du"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1455615407797280768,
+            "created_at": "2021-11-02 19:18:51+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 96,
+                        "start": 86,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 120,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/?utm_medium=Social&utm_source=Twitter#Echobox=1635844181",
+                        "start": 97,
+                        "url": "https://t.co/DFTxsdN2du"
+                    }
+                ]
+            },
+            "id": 1455615407797280768,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\"\u0397 \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b4\u03b5\u03af\u03c7\u03bd\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03b4\u03cd\u03bf \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\" \u2935\ufe0f   \n\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/DFTxsdN2du"
+        },
+        {
+            "author_id": 2463118972,
+            "conversation_id": 1455530680025223170,
+            "created_at": "2021-11-02 13:42:11+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1232279819708227584",
+                        "start": 3,
+                        "username": "PhoenixMerlin1"
+                    }
+                ]
+            },
+            "id": 1455530680025223170,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455528548559622148 type=retweeted"
+            ],
+            "text": "RT @PhoenixMerlin1: \u00ab\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9\u00bb \u03b1\u03c0\u03cc \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7: Lockdown \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 - \u039f\u03b4\u03b5\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1\u2026"
+        },
+        {
+            "author_id": 1232279819708227584,
+            "conversation_id": 1455528548559622148,
+            "created_at": "2021-11-02 13:33:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae \u03c3\u03c7\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c1\u03b2\u03cc\u03bd\u03b7\u03c2, \u0393\u03c1\u03b7\u03b3\u03cc\u03c1\u03b7\u03c2 \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1\u03c2. \u039c\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03c9\u03b9\u03bd\u03ae \u03b5\u03ba\u03c0\u03bf\u03bc\u03c0\u03ae \u03c4\u03bf\u03c5 MEGA \u03b5\u03af\u03c0\u03b5 \u03c0\u03c9\u03c2 \u00ab\u03ae\u03c4\u03b1\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03bf \u03cc\u03c4\u03b9 \u03b8\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c3\u03b5 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7\u00bb \u03ba\u03b1\u03b9 \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u00ab\u03b4\u03b5\u03bd \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03c9\u03c0\u03b9\u03c3\u03c4\u03b5\u03af\u00bb, \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c4\u03bf \u03bd\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03c4\u03b7\u03bd [\u2026]",
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 155,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYE-If--qYo.twitter",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455449000446992387/hBPfLBmq?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455449000446992387/hBPfLBmq?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 132,
+                        "status": 200,
+                        "title": "\u00ab\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9\u00bb \u03b1\u03c0\u03cc \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7: Lockdown \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 - \u039f\u03b4\u03b5\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - Documento",
+                        "unwound_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYE-If--qYo.twitter",
+                        "url": "https://t.co/VXbBwDk46K"
+                    }
+                ]
+            },
+            "id": 1455528548559622148,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u00ab\u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9\u00bb \u03b1\u03c0\u03cc \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1 - \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7: Lockdown \u03ba\u03b1\u03b9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 - \u039f\u03b4\u03b5\u03cd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03c1\u03bf\u03c2 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b7\u03bc\u03ad\u03c1\u03b1 - Documento: https://t.co/VXbBwDk46K"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1455480250532499461,
+            "created_at": "2021-11-02 10:21:47+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455480250532499461,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455448999943606272 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u2026"
+        },
+        {
+            "author_id": 826481985539407877,
+            "conversation_id": 1455450462086385664,
+            "created_at": "2021-11-02 08:23:25+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455450462086385664,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455448999943606272 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u2026"
+        },
+        {
+            "author_id": 1460958716,
+            "conversation_id": 1455450124310749190,
+            "created_at": "2021-11-02 08:22:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1455450124310749190,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455448999943606272 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1455448999943606272,
+            "created_at": "2021-11-02 08:17:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 170,
+                        "start": 162,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 180,
+                        "start": 171,
+                        "tag": "Covid_19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "documentonews.gr/article/kampan\u2026",
+                        "end": 205,
+                        "expanded_url": "https://www.documentonews.gr/article/kampanaki-apo-gerotziafa-thomaidi-lockdown-kai-ypoxreotikos-emvoliasmos-odeyoyme-pros-10-000-kroysmata-tin-imera/#.YYD0CGWw7JU.twitter",
+                        "start": 182,
+                        "url": "https://t.co/z4sSwXG4Ej"
+                    }
+                ]
+            },
+            "id": 1455448999943606272,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "\u03a4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03bd\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03bd\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03b1\u03c0\u03bf\u03c6\u03b5\u03c5\u03c7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03c7\u03b5\u03b9\u03c1\u03cc\u03c4\u03b5\u03c1\u03b1, \u03b5\u03c0\u03b9\u03c3\u03ae\u03bc\u03b1\u03bd\u03b5 \u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae\u03c2 \u0391\u03b9\u03bc\u03b1\u03c4\u03bf\u03bb\u03bf\u03b3\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae \u03c3\u03c7\u03bf\u03bb\u03ae \u03c4\u03b7\u03c2 \u03a3\u03bf\u03c1\u03b2\u03cc\u03bd\u03b7\u03c2, \u0393\u03c1\u03b7\u03b3\u03cc\u03c1\u03b7\u03c2 \u0393\u03b5\u03c1\u03bf\u03c4\u03b6\u03b9\u03ac\u03c6\u03b1\u03c2 #COVID19 #Covid_19  https://t.co/z4sSwXG4Ej"
+        },
+        {
+            "author_id": 207714223,
+            "conversation_id": 1453710294753161219,
+            "created_at": "2021-10-28 13:08:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 102,
+                        "tag": "\u039a\u03b9\u03bd\u03b1"
+                    },
+                    {
+                        "end": 118,
+                        "start": 108,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 128,
+                        "start": 119,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 139,
+                        "start": 129,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "795738344906952705",
+                        "start": 3,
+                        "username": "documentonews"
+                    }
+                ]
+            },
+            "id": 1453710294753161219,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453680719100796939 type=retweeted"
+            ],
+            "text": "RT @documentonews: \u039b\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc 100 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03bf\u03cd\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5. #\u039a\u03b9\u03bd\u03b1 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1\u2026"
+        },
+        {
+            "author_id": 795738344906952705,
+            "conversation_id": 1453680719100796939,
+            "created_at": "2021-10-28 11:11:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 83,
+                        "tag": "\u039a\u03b9\u03bd\u03b1"
+                    },
+                    {
+                        "end": 99,
+                        "start": 89,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 109,
+                        "start": 100,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 120,
+                        "start": 110,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03b9\u03b1 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u039a\u03af\u03bd\u03b1\u03c2 \u03b5\u03c0\u03ad\u03b2\u03b1\u03bb\u03b5 \u03ba\u03b1\u03c1\u03b1\u03bd\u03c4\u03af\u03bd\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03c4\u03bf\u03af\u03ba\u03bf\u03c5\u03c2 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03b7\u03bd \u03b5\u03bc\u03c6\u03ac\u03bd\u03b9\u03c3\u03b7 \u03b5\u03bd\u03cc\u03c2 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 Covid-19, \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03bd\u03b1 \u03c6\u03bf\u03b2\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2, \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc 100 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03bf\u03cd\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5. \u03a3\u03b5 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 6 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u039a\u03b9\u03bd\u03ad\u03b6\u03bf\u03c5\u03c2 \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7 \u03b5\u03c0\u03b9\u03b2\u03bb\u03b7\u03b8\u03b5\u03af \u03bc\u03ad\u03c4\u03c1\u03b1 \u03bb\u03bf\u03ba\u03bd\u03c4\u03ac\u03bf\u03c5\u03bd, \u03b4\u03cd\u03bf \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03ad\u03c0\u03b5\u03b9\u03c4\u03b1 \u03b1\u03c0\u03cc \u03bc\u03b9\u03b1 \u03b1\u03bd\u03ac\u03bb\u03bf\u03b3\u03b7 \u03b1\u03c0\u03cc\u03c6\u03b1\u03c3\u03b7 \u03c0\u03bf\u03c5 [\u2026]",
+                        "display_url": "documentonews.gr/article/kina-k\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.documentonews.gr/article/kina-koronoios-kai-triti-poli-se-lockdown-meta-apo-ena-kroysma/#.YXqErJFMx2c.twitter",
+                        "images": [
+                            {
+                                "height": 683,
+                                "url": "https://pbs.twimg.com/news_img/1453680719503503362/z0n4QiH0?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453680719503503362/z0n4QiH0?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 122,
+                        "status": 200,
+                        "title": "\u039a\u03af\u03bd\u03b1-\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039a\u03b1\u03b9 \u03c4\u03c1\u03af\u03c4\u03b7 \u03c0\u03cc\u03bb\u03b7 \u03c3\u03b5 lockdown \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03ad\u03bd\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1! - Documento",
+                        "unwound_url": "https://www.documentonews.gr/article/kina-koronoios-kai-triti-poli-se-lockdown-meta-apo-ena-kroysma/#.YXqErJFMx2c.twitter",
+                        "url": "https://t.co/sqDQaEa2UQ"
+                    }
+                ]
+            },
+            "id": 1453680719100796939,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039b\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b1\u03c0\u03cc 100 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2 \u03c0\u03c1\u03b9\u03bd \u03b1\u03c0\u03cc \u03c4\u03bf\u03c5\u03c2 \u03a7\u03b5\u03b9\u03bc\u03b5\u03c1\u03b9\u03bd\u03bf\u03cd\u03c2 \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03bf\u03cd\u03c2 \u0391\u03b3\u03ce\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03ba\u03af\u03bd\u03bf\u03c5. #\u039a\u03b9\u03bd\u03b1 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/sqDQaEa2UQ"
+        }
+    ]
+}

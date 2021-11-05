@@ -1,0 +1,553 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 17389650,
+                "conversation_id": 1455445079561224196,
+                "created_at": "2021-11-02 08:02:02+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 99,
+                            "start": 93,
+                            "tag": "\u03a5\u03b3\u03b5\u03af\u03b1"
+                        },
+                        {
+                            "end": 109,
+                            "start": 100,
+                            "tag": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2"
+                        },
+                        {
+                            "end": 120,
+                            "start": 110,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 130,
+                            "start": 121,
+                            "tag": "lockdown"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "skai.gr/news/health/th\u2026",
+                            "end": 154,
+                            "expanded_url": "https://www.skai.gr/news/health/thomaidis-mporei-na-ftasoume-kai-ta-10000-krousmata?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                            "start": 131,
+                            "url": "https://t.co/bJt5jIZMDC"
+                        }
+                    ]
+                },
+                "id": 1455445079561224196,
+                "public_metrics": {
+                    "like_count": 7,
+                    "quote_count": 3,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown   #\u03a5\u03b3\u03b5\u03af\u03b1 #\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #lockdown https://t.co/bJt5jIZMDC"
+            },
+            {
+                "author_id": 17389650,
+                "conversation_id": 1455459675982471170,
+                "created_at": "2021-11-02 09:00:02+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 88,
+                            "start": 81,
+                            "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                        },
+                        {
+                            "end": 97,
+                            "start": 89,
+                            "tag": "\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2"
+                        },
+                        {
+                            "end": 108,
+                            "start": 98,
+                            "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                        },
+                        {
+                            "end": 118,
+                            "start": 109,
+                            "tag": "lockdown"
+                        },
+                        {
+                            "end": 123,
+                            "start": 119,
+                            "tag": "\u0395\u03a3\u03a5"
+                        },
+                        {
+                            "end": 138,
+                            "start": 124,
+                            "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "skai.gr/news/greece/pl\u2026",
+                            "end": 162,
+                            "expanded_url": "https://www.skai.gr/news/greece/pleyris-amesa-tha-arxisoun-na-apozimionontai-oi-therapeies-asthenon-me-long-covid?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                            "start": 139,
+                            "url": "https://t.co/q0twKR1BNL"
+                        }
+                    ]
+                },
+                "id": 1455459675982471170,
+                "public_metrics": {
+                    "like_count": 10,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0386\u03bc\u03b5\u03c3\u03b1 \u03b8\u03b1 \u03b1\u03c1\u03c7\u03af\u03c3\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03b6\u03b7\u03bc\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 long Covid  #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 #\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u0395\u03a3\u03a5 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 https://t.co/q0twKR1BNL"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2008-11-14 16:00:30+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf skai.gr",
+                "id": 17389650,
+                "name": "SKAI.gr",
+                "public_metrics": {
+                    "followers_count": 653454,
+                    "following_count": 54,
+                    "listed_count": 2473,
+                    "tweet_count": 360708
+                },
+                "username": "skaigr",
+                "verified": true
+            },
+            {
+                "created_at": "2021-10-10 10:47:03+00:00",
+                "description": "",
+                "id": 1447151521548935169,
+                "name": "Jimitris Kiriakopoulos",
+                "public_metrics": {
+                    "followers_count": 317,
+                    "following_count": 808,
+                    "listed_count": 0,
+                    "tweet_count": 2198
+                },
+                "username": "JimitrisK",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-28 09:14:32+00:00",
+                "description": "37 years old Work Provisions and Warehouse Administrator And Guard of the Night's watch",
+                "id": 208980634,
+                "name": "Michael Bertakis",
+                "public_metrics": {
+                    "followers_count": 256,
+                    "following_count": 1437,
+                    "listed_count": 13,
+                    "tweet_count": 166247
+                },
+                "username": "MICHAELBERTAKIS",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-15 07:47:19+00:00",
+                "description": "\ud83c\uddee\ud83c\uddf9 Live streaming, Video, Blog and Video Blog, Book, Magazine, Document, Music,  Photo album and more.\nWith the Partner Program, you earn 60% on each sub....",
+                "id": 1448918343747096595,
+                "name": "HiPeople",
+                "public_metrics": {
+                    "followers_count": 186,
+                    "following_count": 760,
+                    "listed_count": 1,
+                    "tweet_count": 26181
+                },
+                "username": "HiPeople_21",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-24 21:36:02+00:00",
+                "description": "",
+                "id": 397573224,
+                "name": "i4o.1976",
+                "public_metrics": {
+                    "followers_count": 8,
+                    "following_count": 121,
+                    "listed_count": 0,
+                    "tweet_count": 769
+                },
+                "username": "i4o1976",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 17389650,
+            "conversation_id": 1455766697516929026,
+            "created_at": "2021-11-03 05:20:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 81,
+                        "start": 74,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 92,
+                        "start": 82,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 99,
+                        "start": 93,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 114,
+                        "start": 100,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 124,
+                        "start": 115,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u038c\u03c3\u03bf\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03c4\u03b7\u03bd \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5, \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b5\u03af\u03c0\u03b5 \u03c0\u03c9\u03c2 \u03b8\u03b1 \u03b4\u03bf\u03b8\u03bf\u03cd\u03bd \u03ba\u03af\u03bd\u03b7\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03cd\u03c2 \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c2, \u03b5\u03c6\u03cc\u03c3\u03bf\u03bd \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03b5\u03af, \u03ba\u03b1\u03b9 \u03b1\u03bd \u03b1\u03c5\u03c4\u03cc \u03b4\u03b5 \u03c3\u03c5\u03bc\u03b2\u03b5\u03af, \u03b8\u03b1 \u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03b5\u03cd\u03b8\u03c5\u03bd\u03c3\u03b7.",
+                        "display_url": "skai.gr/news/greece/lo\u2026",
+                        "end": 148,
+                        "expanded_url": "https://www.skai.gr/news/greece/lockdown-gia-anemvoliastous-koronoios-pantou-me-rapid-test-ta-metra?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "images": [
+                            {
+                                "height": 548,
+                                "url": "https://pbs.twimg.com/news_img/1455766704219463680/_U_7BU37?format=jpg&name=orig",
+                                "width": 972
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455766704219463680/_U_7BU37?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 125,
+                        "status": 200,
+                        "title": "\u00abLockdown\u00bb \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u03a0\u03b1\u03bd\u03c4\u03bf\u03cd \u03bc\u03b5 rapid test- \u038c\u03bb\u03b1 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1",
+                        "unwound_url": "https://www.skai.gr/news/greece/lockdown-gia-anemvoliastous-koronoios-pantou-me-rapid-test-ta-metra?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "url": "https://t.co/2qL1dtIEqp"
+                    }
+                ]
+            },
+            "id": 1455766697516929026,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00abLockdown\u00bb \u03bc\u03cc\u03bd\u03bf \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u03a0\u03b1\u03bd\u03c4\u03bf\u03cd \u03bc\u03b5 rapid test- \u038c\u03bb\u03b1 \u03c4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1    #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 #lockdown https://t.co/2qL1dtIEqp"
+        },
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1455570162187489283,
+            "created_at": "2021-11-02 16:19:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 105,
+                        "tag": "\u03a5\u03b3\u03b5\u03af\u03b1"
+                    },
+                    {
+                        "end": 121,
+                        "start": 112,
+                        "tag": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2"
+                    },
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "17389650",
+                        "start": 3,
+                        "username": "skaigr"
+                    }
+                ]
+            },
+            "id": 1455570162187489283,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455445079561224196 type=retweeted"
+            ],
+            "text": "RT @skaigr: \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown   #\u03a5\u03b3\u03b5\u03af\u03b1 #\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #lockd\u2026"
+        },
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1455570114754007042,
+            "created_at": "2021-11-02 16:18:53+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 93,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 109,
+                        "start": 101,
+                        "tag": "\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2"
+                    },
+                    {
+                        "end": 120,
+                        "start": 110,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 130,
+                        "start": 121,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 135,
+                        "start": 131,
+                        "tag": "\u0395\u03a3\u03a5"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "17389650",
+                        "start": 3,
+                        "username": "skaigr"
+                    }
+                ]
+            },
+            "id": 1455570114754007042,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455459675982471170 type=retweeted"
+            ],
+            "text": "RT @skaigr: \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0386\u03bc\u03b5\u03c3\u03b1 \u03b8\u03b1 \u03b1\u03c1\u03c7\u03af\u03c3\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03b6\u03b7\u03bc\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 long Covid  #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 #\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u0395\u03a3\u03a5 #\u03b1\u03bd\u2026"
+        },
+        {
+            "author_id": 208980634,
+            "conversation_id": 1455518885260763147,
+            "created_at": "2021-11-02 12:55:19+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/health/th\u2026",
+                        "end": 121,
+                        "expanded_url": "https://www.skai.gr/news/health/thomaidis-mporei-na-ftasoume-kai-ta-10000-krousmata#.YYE1NEBGj0E.twitter",
+                        "start": 98,
+                        "url": "https://t.co/j9Aq07DoJU"
+                    }
+                ]
+            },
+            "id": 1455518885260763147,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown | \u03a3\u039a\u0391\u03aa https://t.co/j9Aq07DoJU"
+        },
+        {
+            "author_id": 1448918343747096595,
+            "conversation_id": 1455475244295065601,
+            "created_at": "2021-11-02 10:01:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "Skai.gr",
+                        "end": 116,
+                        "expanded_url": "http://Skai.gr",
+                        "start": 93,
+                        "url": "https://t.co/Fz9q935vJB"
+                    },
+                    {
+                        "display_url": "news.hipeople.biz/SBkrbD",
+                        "end": 140,
+                        "expanded_url": "http://news.hipeople.biz/SBkrbD",
+                        "start": 117,
+                        "unwound_url": "https://www.hipeople.biz/home/SBkrbD",
+                        "url": "https://t.co/onpyzcry1e"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/IxcrxPXCis",
+                        "end": 181,
+                        "expanded_url": "https://twitter.com/HiPeople_21/status/1455475244295065601/photo/1",
+                        "start": 158,
+                        "url": "https://t.co/IxcrxPXCis"
+                    }
+                ]
+            },
+            "id": 1455475244295065601,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown - https://t.co/Fz9q935vJB https://t.co/onpyzcry1e SignUp HiPeople\u266b https://t.co/IxcrxPXCis"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1455459675982471170,
+            "created_at": "2021-11-02 09:00:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 81,
+                        "tag": "\u0395\u03bb\u03bb\u03ac\u03b4\u03b1"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2"
+                    },
+                    {
+                        "end": 108,
+                        "start": 98,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 118,
+                        "start": 109,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 123,
+                        "start": 119,
+                        "tag": "\u0395\u03a3\u03a5"
+                    },
+                    {
+                        "end": 138,
+                        "start": 124,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/greece/pl\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.skai.gr/news/greece/pleyris-amesa-tha-arxisoun-na-apozimionontai-oi-therapeies-asthenon-me-long-covid?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 139,
+                        "url": "https://t.co/q0twKR1BNL"
+                    }
+                ]
+            },
+            "id": 1455459675982471170,
+            "public_metrics": {
+                "like_count": 10,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2: \u0386\u03bc\u03b5\u03c3\u03b1 \u03b8\u03b1 \u03b1\u03c1\u03c7\u03af\u03c3\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b1\u03c0\u03bf\u03b6\u03b7\u03bc\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b5\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 long Covid  #\u0395\u03bb\u03bb\u03ac\u03b4\u03b1 #\u03c0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 #lockdown #\u0395\u03a3\u03a5 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 https://t.co/q0twKR1BNL"
+        },
+        {
+            "author_id": 397573224,
+            "conversation_id": 1455447381198184455,
+            "created_at": "2021-11-02 08:11:11+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 111,
+                        "start": 105,
+                        "tag": "\u03a5\u03b3\u03b5\u03af\u03b1"
+                    },
+                    {
+                        "end": 121,
+                        "start": 112,
+                        "tag": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2"
+                    },
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "17389650",
+                        "start": 3,
+                        "username": "skaigr"
+                    }
+                ]
+            },
+            "id": 1455447381198184455,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455445079561224196 type=retweeted"
+            ],
+            "text": "RT @skaigr: \u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown   #\u03a5\u03b3\u03b5\u03af\u03b1 #\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #lockd\u2026"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1455445079561224196,
+            "created_at": "2021-11-02 08:02:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 99,
+                        "start": 93,
+                        "tag": "\u03a5\u03b3\u03b5\u03af\u03b1"
+                    },
+                    {
+                        "end": 109,
+                        "start": 100,
+                        "tag": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2"
+                    },
+                    {
+                        "end": 120,
+                        "start": 110,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 130,
+                        "start": 121,
+                        "tag": "lockdown"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/health/th\u2026",
+                        "end": 154,
+                        "expanded_url": "https://www.skai.gr/news/health/thomaidis-mporei-na-ftasoume-kai-ta-10000-krousmata?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 131,
+                        "url": "https://t.co/bJt5jIZMDC"
+                    }
+                ]
+            },
+            "id": 1455445079561224196,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 3,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 \u03c3\u03b5 \u03a3\u039a\u0391\u03aa: \u039c\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03c4\u03b1 10.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1-\u039d\u03b1 \u03b5\u03be\u03b5\u03c4\u03ac\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03bf\u03c0\u03b9\u03ba\u03ac lockdown   #\u03a5\u03b3\u03b5\u03af\u03b1 #\u0398\u03c9\u03bc\u03b1\u0390\u03b4\u03b7\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #lockdown https://t.co/bJt5jIZMDC"
+        }
+    ]
+}

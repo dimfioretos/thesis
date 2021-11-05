@@ -1,0 +1,315 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2009-09-28 20:34:20+00:00",
+                "description": "\u03a4\u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bd\u03b7\u03bc\u03b5\u03c1\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03b4\u03af\u03ba\u03c4\u03c5\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03ba\u03c0\u03b1\u03af\u03b4\u03b5\u03c5\u03c3\u03b7, \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bc\u03cc\u03c1\u03c6\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03b7\u03bd \u03b1\u03b3\u03bf\u03c1\u03ac \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2",
+                "id": 78114955,
+                "name": "alfavita.gr",
+                "public_metrics": {
+                    "followers_count": 12396,
+                    "following_count": 199,
+                    "listed_count": 179,
+                    "tweet_count": 179203
+                },
+                "username": "alfavita",
+                "verified": false
+            },
+            {
+                "created_at": "2014-06-02 21:15:23+00:00",
+                "description": "\u03a7\u03b7\u03bc\u03b9\u03ba\u03cc\u03c2 \u039c\u03b7\u03c7\u03b1\u03bd\u03b9\u03ba\u03cc\u03c2 - \u03a6\u03c5\u03c3\u03b9\u03ba\u03cc\u03c2",
+                "id": 2542148664,
+                "name": "\u0392\u0391\u03a1\u0395\u039b\u0391\u03a3 \u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 60,
+                    "following_count": 44,
+                    "listed_count": 0,
+                    "tweet_count": 33683
+                },
+                "username": "gvarelas1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 78114955,
+            "conversation_id": 1455507695155486738,
+            "created_at": "2021-11-02 12:10:51+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 197,
+                        "id": "78114955",
+                        "start": 188,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36204\u2026",
+                        "end": 183,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/362043_larisa-o-dieythyntis-tis-klinikis-covid-katerreyse-apo-tin-koyrasi-mprosta-stis",
+                        "start": 160,
+                        "url": "https://t.co/Iw3mHWf8kw"
+                    }
+                ]
+            },
+            "id": 1455507695155486738,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b1\u03c1\u03ac \u03c4\u03b9\u03c2 \u03b4\u03cd\u03c3\u03ba\u03bf\u03bb\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b8\u03ae\u03ba\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03ba\u03c1\u03b1\u03c4\u03bf\u03cd\u03bd \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1, \u03bf\u03b9 \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03af \u03c0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03ce\u03c4\u03b7 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ae \u03c4\u03b7\u03c2 \u03bc\u03ac\u03c7\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1 \u03bc\u03b5\u03b3\u03ac\u03bb\u03bf \u03ba\u03b1\u03b9 \u03b5\u03c0\u03af\u03c0\u03bf\u03bd\u03bf \u03c7\u03c1\u03bf\u03bd\u03b9\u03ba\u03cc \u03b4\u03b9\u03ac\u03c3\u03c4\u03b7\u03bc\u03b1...\nhttps://t.co/Iw3mHWf8kw via @alfavita"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1455093831339233284,
+            "created_at": "2021-11-01 08:46:18+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/ekpaideysi/361\u2026",
+                        "end": 130,
+                        "expanded_url": "https://www.alfavita.gr/ekpaideysi/361913_sholeia-ti-allazei-sti-diaheirisi-ton-kroysmaton-koronoioy",
+                        "start": 107,
+                        "url": "https://t.co/7qYa5tFfr7"
+                    }
+                ]
+            },
+            "id": 1455093831339233284,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03c0\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03b5 \u03b9\u03c3\u03c7\u03cd \u03bf\u03b9 \u03bd\u03ad\u03b5\u03c2 \u03b4\u03b9\u03b1\u03b4\u03b9\u03ba\u03b1\u03c3\u03af\u03b5\u03c2 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7\u03c2 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ce\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03cd - \u039f \u03c1\u03cc\u03bb\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03c5\u03c0\u03b5\u03cd\u03b8\u03c5\u03bd\u03bf\u03c5 Covid-19\nhttps://t.co/7qYa5tFfr7"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454449811122389002,
+            "created_at": "2021-10-30 14:07:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039c\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03c6\u03ad\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1\u03c2 \u03bb\u03cc\u03b3\u03c9 covid",
+                        "display_url": "dlvr.it/SBb3CH",
+                        "end": 127,
+                        "expanded_url": "http://dlvr.it/SBb3CH",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1454442565382590472/F13CC-6B?format=jpg&name=orig",
+                                "width": 800
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454442565382590472/F13CC-6B?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 104,
+                        "status": 200,
+                        "title": "\u03a0\u03c1\u03bf\u03c3\u03bb\u03ae\u03c8\u03b5\u03b9\u03c2: \u039c\u03b5 \u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03b4\u03b9\u03b5\u03c5\u03c1\u03cd\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03bf\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03bb\u03b7\u03c8\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03bb\u03cc\u03b3\u03c9 covid | Alfavita",
+                        "unwound_url": "https://www.alfavita.gr/ekpaideysi/361841_proslipseis-me-tropologia-dieyrynontai-fetos-oi-periptoseis-proslipsis-prosorinon?utm_source=dlvr.it&utm_medium=twitter",
+                        "url": "https://t.co/6F823Wejhh"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/gqf64HE1Zu",
+                        "end": 151,
+                        "expanded_url": "https://twitter.com/alfavita/status/1454449811122389002/photo/1",
+                        "start": 128,
+                        "url": "https://t.co/gqf64HE1Zu"
+                    }
+                ]
+            },
+            "id": 1454449811122389002,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03bb\u03ae\u03c8\u03b5\u03b9\u03c2: \u039c\u03b5 \u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03b4\u03b9\u03b5\u03c5\u03c1\u03cd\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03bf\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03bb\u03b7\u03c8\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03bb\u03cc\u03b3\u03c9 covid https://t.co/6F823Wejhh https://t.co/gqf64HE1Zu"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454447578142187528,
+            "created_at": "2021-10-30 13:58:19+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/ekpaideysi/361\u2026",
+                        "end": 124,
+                        "expanded_url": "https://alfavita.gr/ekpaideysi/361841_proslipseis-me-tropologia-dieyrynontai-fetos-oi-periptoseis-proslipsis-prosorinon",
+                        "start": 101,
+                        "url": "https://t.co/Nh0J1R5zy4"
+                    }
+                ]
+            },
+            "id": 1454447578142187528,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03bb\u03b7\u03c6\u03b8\u03bf\u03cd\u03bd \u03c6\u03ad\u03c4\u03bf\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03b5\u03af\u03bf \u03a0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1\u03c2 \u03bb\u03cc\u03b3\u03c9 covid\nhttps://t.co/Nh0J1R5zy4"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454442565009293315,
+            "created_at": "2021-10-30 13:38:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 142,
+                        "id": "78114955",
+                        "start": 133,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/ekpaideysi/361\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.alfavita.gr/ekpaideysi/361841_proslipseis-me-tropologia-dieyrynontai-fetos-oi-periptoseis-proslipsis-prosorinon",
+                        "start": 104,
+                        "url": "https://t.co/gi9aTIvxCC"
+                    }
+                ]
+            },
+            "id": 1454442565009293315,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03c1\u03bf\u03c3\u03bb\u03ae\u03c8\u03b5\u03b9\u03c2: \u039c\u03b5 \u03c4\u03c1\u03bf\u03c0\u03bf\u03bb\u03bf\u03b3\u03af\u03b1 \u03b4\u03b9\u03b5\u03c5\u03c1\u03cd\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c6\u03ad\u03c4\u03bf\u03c2 \u03bf\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c0\u03c4\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c0\u03c1\u03cc\u03c3\u03bb\u03b7\u03c8\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c1\u03b9\u03bd\u03ce\u03bd \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ce\u03bd \u03bb\u03cc\u03b3\u03c9 covid https://t.co/gi9aTIvxCC \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1454041710250635275,
+            "created_at": "2021-10-29 11:05:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36178\u2026",
+                        "end": 275,
+                        "expanded_url": "https://www.alfavita.gr/koinonia/361785_thessaloniki-koronoios-137-astheneis-stis-meth-96-anemboliastoi",
+                        "start": 252,
+                        "url": "https://t.co/Z6M23bQ6Z2"
+                    }
+                ]
+            },
+            "id": 1454041710250635275,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf \u03c3\u03cd\u03bd\u03bf\u03bb\u03bf \u03c4\u03c9\u03bd \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03c0\u03bb\u03ad\u03c2 \u03ba\u03bb\u03af\u03bd\u03b5\u03c2 Covid \u03b1\u03bd\u03ad\u03c1\u03c7\u03b5\u03c4\u03b1\u03b9 \u03c3\u03b5 773, \u03bc\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03c5\u03c8\u03b7\u03bb\u03cc \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd (74,3%-79,6%), \u03b5\u03bd\u03ce 70 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b1\u03c0\u03bb\u03ad\u03c2 \u03ba\u03bb\u03af\u03bd\u03b5\u03c2 Covid \u03bc\u03b5 \u03bc\u03ac\u03c3\u03ba\u03b1 \u03c5\u03c8\u03b7\u03bb\u03ae\u03c2 \u03c1\u03bf\u03ae\u03c2 \u03bf\u03be\u03c5\u03b3\u03cc\u03bd\u03bf\u03c5 (\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c3\u03b5 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc 83,3-89,3%)\nhttps://t.co/Z6M23bQ6Z2"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454029973719748608,
+            "created_at": "2021-10-29 10:18:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 122,
+                        "id": "78114955",
+                        "start": 113,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36175\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361753_epistimi-ygeia-se-makra-covid-19-mporei-na-odigisoyn-kai-oi-loimoxeis-se",
+                        "start": 84,
+                        "url": "https://t.co/sPZP5bnr0P"
+                    }
+                ]
+            },
+            "id": 1454029973719748608,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a3\u03b5 \u03bc\u03b1\u03ba\u03c1\u03ac Covid-19 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03bb\u03bf\u03b9\u03bc\u03ce\u03be\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 https://t.co/sPZP5bnr0P \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 2542148664,
+            "conversation_id": 1454029089678020608,
+            "created_at": "2021-10-29 10:15:24+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 118,
+                        "id": "78114955",
+                        "start": 109,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/epistimi/36176\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.alfavita.gr/epistimi/361769_ereynoyn-mystiko-ton-anthropon-poy-den-arrostainoyn-apo-covid-19",
+                        "start": 80,
+                        "url": "https://t.co/ntRRB9pv9F"
+                    }
+                ]
+            },
+            "id": 1454029089678020608,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0388\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03bc\u03c5\u03c3\u03c4\u03b9\u03ba\u03cc \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03b1\u03c1\u03c1\u03c9\u03c3\u03c4\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc Covid-19 https://t.co/ntRRB9pv9F \u03bc\u03ad\u03c3\u03c9 @alfavita"
+        },
+        {
+            "author_id": 78114955,
+            "conversation_id": 1453355152476344331,
+            "created_at": "2021-10-27 13:37:25+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 202,
+                        "id": "78114955",
+                        "start": 193,
+                        "username": "alfavita"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "alfavita.gr/koinonia/36166\u2026",
+                        "end": 188,
+                        "expanded_url": "https://alfavita.gr/koinonia/361668_koronoios-oi-epiptoseis-stin-ergasia-xeperasan-tis-problepseis",
+                        "start": 165,
+                        "url": "https://t.co/ijJYFKOi5z"
+                    }
+                ]
+            },
+            "id": 1453355152476344331,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 Covid-19 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03bf\u03b4\u03b5\u03af\u03c7\u03b8\u03b7\u03ba\u03b5 \u03c0\u03b9\u03bf \u03b9\u03c3\u03c7\u03c5\u03c1\u03ae \u03b1\u03c0\u03cc \u03cc,\u03c4\u03b9 \u03b5\u03af\u03c7\u03b5 \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03c0\u03c1\u03bf\u03b2\u03bb\u03b5\u03c6\u03b8\u03b5\u03af, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03b5\u03ba\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03b7\u03c2 \u0394\u03b9\u03b5\u03b8\u03bd\u03bf\u03cd\u03c2 \u039f\u03c1\u03b3\u03ac\u03bd\u03c9\u03c3\u03b7\u03c2 \u0395\u03c1\u03b3\u03b1\u03c3\u03af\u03b1\u03c2\nhttps://t.co/ijJYFKOi5z via @alfavita"
+        }
+    ]
+}

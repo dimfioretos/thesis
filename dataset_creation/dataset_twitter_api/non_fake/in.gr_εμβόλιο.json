@@ -1,0 +1,1714 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 19662198,
+                "conversation_id": 1455784086275039240,
+                "created_at": "2021-11-03 06:29:07+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/03/gre\u2026",
+                            "end": 123,
+                            "expanded_url": "https://www.in.gr/2021/11/03/greece/emvolio-ola-osa-prepei-na-kserete-gia-tin-triti-dosi-anoigei-platforma-tin-paraskeyi-gia-olous/",
+                            "start": 100,
+                            "url": "https://t.co/TrxQ2bzVOy"
+                        }
+                    ]
+                },
+                "id": 1455784086275039240,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u038c\u03bb\u03b1 \u03cc\u03c3\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03be\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/TrxQ2bzVOy"
+            },
+            {
+                "author_id": 186933748,
+                "conversation_id": 1455572041797705731,
+                "created_at": "2021-11-02 16:26:32+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/02/gre\u2026",
+                            "end": 192,
+                            "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                            "start": 169,
+                            "url": "https://t.co/tw0GzWXw9F"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/jb0PAht4hA",
+                            "end": 216,
+                            "expanded_url": "https://twitter.com/baphometx/status/1455572041797705731/photo/1",
+                            "start": 193,
+                            "url": "https://t.co/jb0PAht4hA"
+                        }
+                    ]
+                },
+                "id": 1455572041797705731,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5, \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03ad\u03bb\u03b8\u03b5\u03b9 \u03c4\u03bf \u03b5\u03be\u03ac\u03bc\u03b7\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c4\u03bf\u03c5 https://t.co/tw0GzWXw9F https://t.co/jb0PAht4hA"
+            },
+            {
+                "author_id": 339534214,
+                "conversation_id": 1455581573324083202,
+                "created_at": "2021-11-02 17:04:25+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/02/gre\u2026",
+                            "end": 127,
+                            "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                            "start": 104,
+                            "url": "https://t.co/BJKcCSzbFD"
+                        }
+                    ]
+                },
+                "id": 1455581573324083202,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf / \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 /  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/BJKcCSzbFD"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1455571445636124674,
+                "created_at": "2021-11-02 16:24:10+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/02/gre\u2026",
+                            "end": 127,
+                            "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                            "start": 104,
+                            "url": "https://t.co/MEzpfQ2YH9"
+                        }
+                    ]
+                },
+                "id": 1455571445636124674,
+                "public_metrics": {
+                    "like_count": 5,
+                    "quote_count": 3,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 -  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/MEzpfQ2YH9"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1455421216303501316,
+                "created_at": "2021-11-02 06:27:13+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/02/b-s\u2026",
+                            "end": 97,
+                            "expanded_url": "https://www.in.gr/2021/11/02/b-science/emvolio-kata-tou-koronaiou-meionei-ton-kindyno-thanatou-apo-alles-aities/",
+                            "start": 74,
+                            "url": "https://t.co/9cuYWJkjvr"
+                        }
+                    ]
+                },
+                "id": 1455421216303501316,
+                "public_metrics": {
+                    "like_count": 5,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03bf\u03cd - \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/9cuYWJkjvr"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1443914133305495556,
+                "created_at": "2021-10-01 12:22:10+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/01/b-s\u2026",
+                            "end": 97,
+                            "expanded_url": "https://www.in.gr/2021/10/01/b-science/sars-cov2/emvolio-pithani-sxesi-tou-johnson-johnson-spanies-thromvoemvoles/",
+                            "start": 74,
+                            "url": "https://t.co/6EvUqHjiqH"
+                        }
+                    ]
+                },
+                "id": 1443914133305495556,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03b9\u03b8\u03b1\u03bd\u03ae \u03c3\u03c7\u03ad\u03c3\u03b7 \u03c4\u03bf\u03c5 Johnson &amp; Johnson \u03bc\u03b5 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b5\u03c2 \u03b8\u03c1\u03bf\u03bc\u03b2\u03bf\u03b5\u03bc\u03b2\u03bf\u03bb\u03ad\u03c2 https://t.co/6EvUqHjiqH"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1455131960607744002,
+                "created_at": "2021-11-01 11:17:49+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/11/01/pol\u2026",
+                            "end": 120,
+                            "expanded_url": "https://www.in.gr/2021/11/01/politics/oikonomou-den-exoume-teleiosei-ton-koronaio-kampanaki-gia-ayksisi-krousmaton-kai-nosileion/",
+                            "start": 97,
+                            "url": "https://t.co/9M6IsN35pp"
+                        }
+                    ]
+                },
+                "id": 1455131960607744002,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "text": "\u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5 - \u0394\u03b5\u03bd \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03c3\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc - \u039a\u03b1\u03bc\u03c0\u03b1\u03bd\u03ac\u03ba\u03b9 \u03b3\u03b9\u03b1 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03ba\u03b1\u03b9 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03b9\u03ce\u03bd https://t.co/9M6IsN35pp"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1454821478168506377,
+                "created_at": "2021-10-31 14:44:04+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/31/gre\u2026",
+                            "end": 107,
+                            "expanded_url": "https://www.in.gr/2021/10/31/greece/kalafatis-gia-anemvoliastous-adiko-na-xanontai-zoes-tin-ora-pou-mporoun-na-sothoun/",
+                            "start": 84,
+                            "url": "https://t.co/eIs4RAu0JR"
+                        }
+                    ]
+                },
+                "id": 1454821478168506377,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "text": "\u039a\u03b1\u03bb\u03b1\u03c6\u03ac\u03c4\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 - \u0386\u03b4\u03b9\u03ba\u03bf \u03bd\u03b1 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b6\u03c9\u03ad\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03c3\u03c9\u03b8\u03bf\u03cd\u03bd https://t.co/eIs4RAu0JR"
+            },
+            {
+                "author_id": 1369278358224306188,
+                "conversation_id": 1454452460379156481,
+                "created_at": "2021-10-30 14:17:43+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/30/gre\u2026",
+                            "end": 262,
+                            "expanded_url": "https://www.in.gr/2021/10/30/greece/thessaloniki-synagermos-gia-tin-ayksisi-tou-iikou-fortiou-sokarei-provlepsi-gia-tous-asymptomatikous-foreis/",
+                            "start": 239,
+                            "url": "https://t.co/uHT9WdcUzi"
+                        }
+                    ]
+                },
+                "id": 1454452460379156481,
+                "public_metrics": {
+                    "like_count": 9,
+                    "quote_count": 1,
+                    "reply_count": 1,
+                    "retweet_count": 3
+                },
+                "text": "\u039a\u03c1\u03b1\u03c5\u03b3\u03ae \u03b1\u03b3\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03ba\u03b1\u03c4\u03ac \u03bc\u03b1\u03c2,\u03bf\u03b9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b9\u03ca\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf..\n\u039f\u03b9 \u039a\u03bf\u03c0\u03c1\u03bf\u03bc\u03ac\u03bd\u03c4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03bf\u03c0\u03c1\u03bf\u03bb\u03ac\u03b3\u03bd\u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03bf\u03cd\u03bd,\u03cc\u03c4\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03ba\u03cd\u03bc\u03b1 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd, \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03c0\u03af\u03b4\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b6\u03c9\u03ae.\n\nhttps://t.co/uHT9WdcUzi"
+            },
+            {
+                "author_id": 1176477930819653635,
+                "conversation_id": 1454084291617509376,
+                "created_at": "2021-10-29 17:41:17+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 10,
+                            "id": "486977844",
+                            "start": 0,
+                            "username": "lotofagus"
+                        },
+                        {
+                            "end": 17,
+                            "id": "172496404",
+                            "start": 11,
+                            "username": "Elva6"
+                        }
+                    ]
+                },
+                "id": 1454141302124294147,
+                "in_reply_to_user_id": 486977844,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454139956364992518 type=replied_to"
+                ],
+                "text": "@lotofagus @Elva6 \u0394\u03b5 \u03bd\u03bf\u03bc\u03b9\u03b6\u03c9 \u03c4\u03b7\u03c2 \u03b9\u03bb\u03b1\u03c1\u03b1\u03c2...\u03bd\u03b1\u03b9, \u03b4\u03b5\u03bd \u03b1\u03bd\u03c4\u03b9\u03bb\u03b5\u03b3\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03b9\u03c2 \u03c0\u03c9\u03c2 \u03c5\u03c0\u03b1\u03c1\u03c7\u03b5\u03b9 \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03b1. \u039f\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03b9\u03b5\u03c2 \u03bf\u03bc\u03c9\u03c2 \u03b5\u03b9\u03bd\u03b1\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03b9\u03b5\u03c2 \u03bf\u03c4\u03b1\u03bd \u03b4\u03b5\u03bd \u03bb\u03c5\u03bd\u03bf\u03c5\u03bd \u03ba\u03b1\u03c0\u03bf\u03b9\u03bf \u03c4\u03b5\u03c4\u03bf\u03b9\u03bf \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03b1 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03c9\u03bd\u03c4\u03b1\u03c2 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03b5\u03c1\u03bf."
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1454046073316691968,
+                "created_at": "2021-10-29 11:22:53+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/29/gre\u2026",
+                            "end": 94,
+                            "expanded_url": "https://www.in.gr/2021/10/29/greece/emvolio-sms-se-olous-ton-ano-ton-50-eton-gia-na-kanoun-tin-triti-dosi/",
+                            "start": 71,
+                            "url": "https://t.co/eZP4P8xvGz"
+                        }
+                    ]
+                },
+                "id": 1454046073316691968,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- SMS \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 https://t.co/eZP4P8xvGz"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1453594282510663681,
+                "created_at": "2021-10-28 05:27:38+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/28/gre\u2026",
+                            "end": 103,
+                            "expanded_url": "https://www.in.gr/2021/10/28/greece/vasilakopoulos-xamilo-pososto-emvoliasmou-pyrodotise-tin-ayksisi-krousmaton/",
+                            "start": 80,
+                            "url": "https://t.co/qRaDGYhvNH"
+                        }
+                    ]
+                },
+                "id": 1453594282510663681,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 1,
+                    "reply_count": 3,
+                    "retweet_count": 0
+                },
+                "text": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u2013 \u03a4\u03bf \u03c7\u03b1\u03bc\u03b7\u03bb\u03cc \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u03c0\u03c5\u03c1\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd https://t.co/qRaDGYhvNH"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1453349720991191042,
+                "created_at": "2021-10-27 13:15:50+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/27/b-s\u2026",
+                            "end": 81,
+                            "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-1-stous-5-ellines-dilonei-distaktikos-arnitis/",
+                            "start": 58,
+                            "url": "https://t.co/R3QKFCwCwl"
+                        }
+                    ]
+                },
+                "id": 1453349720991191042,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/R3QKFCwCwl"
+            },
+            {
+                "author_id": 1236732028420345857,
+                "conversation_id": 1453039104489295879,
+                "created_at": "2021-10-26 16:41:33+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/26/b-s\u2026",
+                            "end": 260,
+                            "expanded_url": "https://www.in.gr/2021/10/26/b-science/sars-cov2/anoigei-stis-5-noemvriou-platforma-gia-tin-2i-dosi-oson-exoun-kanei-johnson-johnson/",
+                            "start": 237,
+                            "url": "https://t.co/DlH87DlV1C"
+                        }
+                    ]
+                },
+                "id": 1453039104489295879,
+                "public_metrics": {
+                    "like_count": 46,
+                    "quote_count": 3,
+                    "reply_count": 7,
+                    "retweet_count": 10
+                },
+                "text": "\u0391\u03bd \u03ad\u03c7\u03b5\u03b9\u03c2 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf JJ \u03b7 2\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b5 Pfizer, \u03b7 3\u03b7 \u03bc\u03b5 Moderna \u03ba\u03b1\u03b9 \u03b7 3\u03b7 \u03bc\u03b5 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03b3\u03bc\u03b1 \u03c3\u03ba\u03cc\u03c1\u03b4\u03bf\u03c5 \u03bc\u03b5 \u03c6\u03c1\u03b1\u03c0\u03b5\u03bb\u03b9\u03ac \ud83e\udd23\n\n\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ad\u03bf\u03c5\u03c2 &amp;#8211; \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c3\u03c4\u03b9\u03c2 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd 2\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03cc\u03c3\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03ac\u03bd\u03b5\u03b9 Johnson &amp;#038; Johnson https://t.co/DlH87DlV1C"
+            },
+            {
+                "author_id": 19662198,
+                "conversation_id": 1453316238369857545,
+                "created_at": "2021-10-27 11:02:47+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "in.gr/2021/10/27/b-s\u2026",
+                            "end": 88,
+                            "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-thetiki-gnomodotisi-tis-fda-gia-tis-ilikies-5-11-eton/",
+                            "start": 65,
+                            "url": "https://t.co/b6KKUp7zST"
+                        }
+                    ]
+                },
+                "id": 1453316238369857545,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03b7 \u03b3\u03bd\u03c9\u03bc\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 FDA \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/b6KKUp7zST"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-07-28 19:07:02+00:00",
+                "description": "Journalist-radio producer \nand still a dreamer of life/\nPanteion University-Mass Media/\nKapodistrian University-MA Political\nCommunication and New Media",
+                "id": 172029952,
+                "name": "Efi Galoni",
+                "public_metrics": {
+                    "followers_count": 1247,
+                    "following_count": 1183,
+                    "listed_count": 45,
+                    "tweet_count": 110710
+                },
+                "username": "galonaki",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-28 17:05:29+00:00",
+                "description": "The leading news site in Greece",
+                "id": 19662198,
+                "name": "in.gr/news",
+                "public_metrics": {
+                    "followers_count": 150533,
+                    "following_count": 50,
+                    "listed_count": 1203,
+                    "tweet_count": 475058
+                },
+                "username": "in_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2010-09-04 20:13:14+00:00",
+                "description": "\u0395\u03c1\u03b1\u03c3\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 7\u03b7\u03c2 \u03a4\u03ad\u03c7\u03bd\u03b7\u03c2 - \u039a\u03c5\u03bd\u03b7\u03b3\u03ce\u03bd\u03c4\u03b1\u03c2 @chimeres & \u03c4\u03b1\u03be\u03b9\u03b4\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c0\u03b1\u03bb\u03b1\u03b9\u03cc\u03c4\u03b5\u03c1\u03b1 \u03c3\u03b5: @sodeia_net @cinefreaks @SevenArt_gr\n\u03a3\u03c5\u03bd\u03b5\u03c1\u03b3\u03ac\u03c4\u03b7\u03c2 \u03c4\u03bf\u03c5 @tvxs",
+                "id": 186933748,
+                "name": "George Roussos",
+                "public_metrics": {
+                    "followers_count": 5867,
+                    "following_count": 169,
+                    "listed_count": 356,
+                    "tweet_count": 626346
+                },
+                "username": "baphometx",
+                "verified": true
+            },
+            {
+                "created_at": "2021-11-01 08:53:05+00:00",
+                "description": "I m back.\n\u0391\u0395\u039a\n\nhttps://t.co/ObgGPb1lur",
+                "id": 1455095420212989953,
+                "name": "Sleuth",
+                "public_metrics": {
+                    "followers_count": 65,
+                    "following_count": 150,
+                    "listed_count": 0,
+                    "tweet_count": 1041
+                },
+                "username": "Kojak98110504",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-21 07:48:56+00:00",
+                "description": "Seeking out the big stories ...  \n#News #People #Nature #Physics #Photography #Tech #Landscape #Travel #Aviation #Love #Music #History  \nTake care. Have fun !",
+                "id": 339534214,
+                "name": "Michael Argiroudis",
+                "public_metrics": {
+                    "followers_count": 11439,
+                    "following_count": 11512,
+                    "listed_count": 113,
+                    "tweet_count": 208966
+                },
+                "username": "MikeArgi",
+                "verified": false
+            },
+            {
+                "created_at": "2010-03-31 11:00:49+00:00",
+                "description": "Mega TV Official Account | #ToMegaToKalo tweets",
+                "id": 128188288,
+                "name": "Mega Tv",
+                "public_metrics": {
+                    "followers_count": 166370,
+                    "following_count": 121,
+                    "listed_count": 281,
+                    "tweet_count": 36241
+                },
+                "username": "MegaTvOfficial",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-26 12:07:19+00:00",
+                "description": "\u00ab\u03a4\u03bf \u03bb\u03ac\u03b8\u03bf\u03c2 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c0\u03bf\u03bb\u03bb\u03bf\u03cd\u03c2 \u03c4\u03c1\u03cc\u03c0\u03bf\u03c5\u03c2, \u03c4\u03bf \u03c3\u03c9\u03c3\u03c4\u03cc \u03bc\u03b5 \u03ad\u03bd\u03b1\u03bd\u00b7 \u03bd\u03b1 \u03b3\u03b9\u03b1\u03c4\u03af \u03b7 \u03c5\u03c0\u03b5\u03c1\u03b2\u03bf\u03bb\u03ae \u03ba\u03b1\u03b9 \u03b7 \u03ad\u03bb\u03bb\u03b5\u03b9\u03c8\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c7\u03b1\u03c1\u03b1\u03ba\u03c4\u03b7\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03c4\u03b7\u03c2 \u03ba\u03b1\u03ba\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03bc\u03b5\u03c3\u03cc\u03c4\u03b7\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03b1\u03c1\u03b5\u03c4\u03ae\u03c2\u00bb \u0391\u03c1\u03b9\u03c3\u03c4\u03bf\u03c4\u03ad\u03bb\u03b7\u03c2",
+                "id": 1365272151771783170,
+                "name": "freethinker",
+                "public_metrics": {
+                    "followers_count": 152,
+                    "following_count": 452,
+                    "listed_count": 0,
+                    "tweet_count": 2512
+                },
+                "username": "freethi47441236",
+                "verified": false
+            },
+            {
+                "created_at": "2011-04-04 15:19:53+00:00",
+                "description": "My name is sofia.I love singing,playing the guitar and piano.I also like watching movies and reading books.Art is my world=)",
+                "id": 277029468,
+                "name": "sofia spyrou",
+                "public_metrics": {
+                    "followers_count": 41,
+                    "following_count": 111,
+                    "listed_count": 0,
+                    "tweet_count": 336
+                },
+                "username": "savrils",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-19 07:04:29+00:00",
+                "description": "80's",
+                "id": 1428251397905080320,
+                "name": "Lambros",
+                "public_metrics": {
+                    "followers_count": 0,
+                    "following_count": 18,
+                    "listed_count": 0,
+                    "tweet_count": 306
+                },
+                "username": "Lambros59359478",
+                "verified": false
+            },
+            {
+                "created_at": "2021-06-07 16:27:54+00:00",
+                "description": "\u0388\u03bd\u03b1\u03c2 \u03b1\u03c0\u03bb\u03cc\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03c2",
+                "id": 1401938904958345218,
+                "name": "Koka",
+                "public_metrics": {
+                    "followers_count": 99,
+                    "following_count": 428,
+                    "listed_count": 0,
+                    "tweet_count": 843
+                },
+                "username": "Koka06910828",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-26 18:08:54+00:00",
+                "description": "",
+                "id": 422023154,
+                "name": "\u03a3\u0391\u039a\u0397\u03a3 \u03a7",
+                "public_metrics": {
+                    "followers_count": 351,
+                    "following_count": 670,
+                    "listed_count": 0,
+                    "tweet_count": 8124
+                },
+                "username": "chalkiasathanas",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-09 13:26:53+00:00",
+                "description": "\u201c\u0395\u03ac\u03bd \u03bf \u0398\u03b5\u03cc\u03c2 \u03bc\u03b5\u03b8\u2019 \u03b7\u03bc\u03ce\u03bd \u03bf\u03c5\u03b4\u03b5\u03af\u03c2 \u03ba\u03b1\u03b8\u2019 \u03c5\u03bc\u03ce\u03bd\u201d",
+                "id": 1369278358224306188,
+                "name": "Efthimakos",
+                "public_metrics": {
+                    "followers_count": 136,
+                    "following_count": 167,
+                    "listed_count": 1,
+                    "tweet_count": 1117
+                },
+                "username": "Efthimakos1",
+                "verified": false
+            },
+            {
+                "created_at": "2020-12-16 06:50:55+00:00",
+                "description": "\u0395\ud83c\uddec\ud83c\uddf7\u0398\u2626\ufe0f\u039f\ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66\ud83d\udde3\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddeb\ud83c\uddf7\ud83c\udde9\ud83c\uddea\ud83c\uddea\ud83c\uddf8\ud83d\udd1c\ud83c\uddf7\ud83c\uddfa\u2694Griechenland \u00fcber alles\ud83d\udee1\ufe0fNuestra patria nunca se retira y nunca se rinde\ud83d\ude45\u200d\u2642\ufe0fAgainst block\u26d4libert\u00e9 d'expression\ud83c\udfdb",
+                "id": 1339100544657469440,
+                "name": "\ud83c\uddec\ud83c\uddf7Griechischer Herrscher\ud83c\udf96\ufe0f\u1f1d\u03bb\u03bb\u03b7\u03bd \u1f04\u03c1\u03c7\u03c9\u03bd\ud83e\udd34",
+                "public_metrics": {
+                    "followers_count": 884,
+                    "following_count": 1898,
+                    "listed_count": 5,
+                    "tweet_count": 42550
+                },
+                "username": "reveal321_truth",
+                "verified": false
+            },
+            {
+                "created_at": "2016-02-14 15:45:57+00:00",
+                "description": "\u03a0\u1fb6\u03c3\u1f71 \u03c4\u03b5 \u1f10\u03c0\u03b9\u03c3\u03c4\u1f75\u03bc\u03b7 \u03c7\u03c9\u03c1\u03b9\u03b6\u03bf\u03bc\u1f73\u03bd\u03b7 \u03b4\u03b9\u03ba\u03b1\u03b9\u03bf\u03c3\u1f7b\u03bd\u03b7\u03c2 \u03ba\u03b1\u1f76 \u03c4\u1fc6\u03c2 \u1f04\u03bb\u03bb\u03b7\u03c2 \u1f00\u03c1\u03b5\u03c4\u1fc6\u03c2 \u03c0\u03b1\u03bd\u03bf\u03c5\u03c1\u03b3\u1f77\u03b1, \u03bf\u1f50 \u03c3\u03bf\u03c6\u1f77\u03b1 \u03c6\u03b1\u1f77\u03bd\u03b5\u03c4\u03b1\u03b9 \u2014 \u03a0\u03bb\u03ac\u03c4\u03c9\u03bd",
+                "id": 4909333575,
+                "name": "\u039c\u03ac\u03bd\u03bf\u03c2 \u039a \u0391 \u2626\ud83c\uddec\ud83c\uddf7",
+                "public_metrics": {
+                    "followers_count": 2497,
+                    "following_count": 2083,
+                    "listed_count": 15,
+                    "tweet_count": 135284
+                },
+                "username": "Manos_K_A",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-04 17:00:26+00:00",
+                "description": "",
+                "id": 3308394005,
+                "name": "Giannis Eutuxiadis",
+                "public_metrics": {
+                    "followers_count": 1160,
+                    "following_count": 1078,
+                    "listed_count": 2,
+                    "tweet_count": 66708
+                },
+                "username": "GiannisEutux",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-08 21:41:11+00:00",
+                "description": "\u03a3\u03c0\u03bf\u03cd\u03b4\u03b1\u03c3\u03b1 \u0399\u03c3\u03c4\u03bf\u03c1\u03af\u03b1, \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b5\u03be\u03b7\u03b3\u03ce \u03c4\u03bf \u03c0\u03b1\u03c1\u03b5\u03bb\u03b8\u03cc\u03bd, \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03c4\u03b7\u03c1\u03ce \u03c4\u03bf \u03c0\u03b1\u03c1\u03cc\u03bd \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03b9\u03ba\u03ac\u03b6\u03c9 \u03c4\u03bf \u03bc\u03ad\u03bb\u03bb\u03bf\u03bd.",
+                "id": 486977844,
+                "name": "\u039b\u03c9\u03c4\u03bf\u03c6\u03ac\u03b3\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 2184,
+                    "following_count": 2354,
+                    "listed_count": 5,
+                    "tweet_count": 75960
+                },
+                "username": "lotofagus",
+                "verified": false
+            },
+            {
+                "created_at": "2019-09-24 12:46:40+00:00",
+                "description": "",
+                "id": 1176477930819653635,
+                "name": "Savecan",
+                "public_metrics": {
+                    "followers_count": 536,
+                    "following_count": 542,
+                    "listed_count": 1,
+                    "tweet_count": 28009
+                },
+                "username": "Savecan1",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-29 21:22:49+00:00",
+                "description": "Fascist, Racist, Sexist and Homophobic scum, keep away!",
+                "id": 172496404,
+                "name": "\ud835\udd3c\u039b\u03b2A",
+                "public_metrics": {
+                    "followers_count": 5143,
+                    "following_count": 4552,
+                    "listed_count": 49,
+                    "tweet_count": 99765
+                },
+                "username": "Elva6",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-11 18:34:45+00:00",
+                "description": "Born in Athens, Kostas Ant Lavdas was educated in Greece, the UK and the USA. Professor of Politics at Panteion University, Athens. RTs are not endorsements.",
+                "id": 1004623333,
+                "name": "Kostas Ant Lavdas",
+                "public_metrics": {
+                    "followers_count": 2864,
+                    "following_count": 1726,
+                    "listed_count": 43,
+                    "tweet_count": 20317
+                },
+                "username": "KostasAntLavdas",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-12 13:38:12+00:00",
+                "description": "",
+                "id": 1348987504247136258,
+                "name": "Athanasios Mantis",
+                "public_metrics": {
+                    "followers_count": 14,
+                    "following_count": 46,
+                    "listed_count": 0,
+                    "tweet_count": 1667
+                },
+                "username": "AthanasiosMant4",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-14 09:13:53+00:00",
+                "description": "",
+                "id": 1010761706,
+                "name": "THE GOD!",
+                "public_metrics": {
+                    "followers_count": 287,
+                    "following_count": 896,
+                    "listed_count": 0,
+                    "tweet_count": 5409
+                },
+                "username": "papatrouper",
+                "verified": false
+            },
+            {
+                "created_at": "2012-10-15 21:08:02+00:00",
+                "description": "\u0388\u03bd\u03b1 \u03c1\u03b7\u03bc\u03b1\u03b4\u03bf-PhD \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03ce \u03bd\u03b1 \u03c4\u03b5\u03bb\u03b5\u03b9\u03ce\u03c3\u03c9 \ud83d\udd2c\ud83d\udc69\u200d\ud83c\udf93 \u03a0\u03b1\u03b9\u03b4\u03af \u03c4\u03c9\u03bd STEM \u269b\ufe0f & \u03bb\u03ac\u03c4\u03c1\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03c0\u03b1\u03bb\u03b9\u03bf\u03cd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03bf\u03cd \u03ba\u03b9\u03bd\u03b7\u03bc\u03b1\u03c4\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5 \ud83c\udfac\ud83c\udf9e\ufe0f \u03a0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \ud83d\ude37 \u03c3\u03c4\u03bf #\u03ba\u03bf\u03b2\u03b9\u03bd\u03c4\u03bf\u03c0\u03c1\u03bf\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2",
+                "id": 883126292,
+                "name": "\u269b\ufe0fTi_na_ts\ud83d\udc83",
+                "public_metrics": {
+                    "followers_count": 967,
+                    "following_count": 1071,
+                    "listed_count": 4,
+                    "tweet_count": 108796
+                },
+                "username": "TinaTs2",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-10 23:41:58+00:00",
+                "description": "\u039f\u03a8\u039f\u039c\u0395\u0398\u0391 \u0395\u0399\u03a3 \u03a6\u0399\u039b\u0399\u03a0\u03a0\u039f\u03a5\u03a3",
+                "id": 1315075019567964160,
+                "name": "Penny Rage",
+                "public_metrics": {
+                    "followers_count": 1467,
+                    "following_count": 936,
+                    "listed_count": 7,
+                    "tweet_count": 72117
+                },
+                "username": "penny_rage",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-08 19:14:35+00:00",
+                "description": "\u0395\u03bb\u03c0\u03b9\u03b4\u03bf\u03c6\u03cc\u03c1\u03b5 \u03ba\u03ac\u03bd\u03b5 \u03bc\u03b5 block, \u03ad\u03c7\u03c9 \u03b3\u03af\u03bd\u03b5\u03b9 \u03c1\u03b5\u03b6\u03af\u03bb\u03b9 \u03c3\u03c4\u03bf twitter. Less is more. https://t.co/D95PRU4ATp",
+                "id": 1236732028420345857,
+                "name": "Dennis \ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+                "public_metrics": {
+                    "followers_count": 1417,
+                    "following_count": 1971,
+                    "listed_count": 2,
+                    "tweet_count": 20519
+                },
+                "username": "dangel1d",
+                "verified": false
+            },
+            {
+                "created_at": "2014-04-28 21:51:30+00:00",
+                "description": "\u039c\u03b1\u03b8\u03b7\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2, \u0392\u03b9\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2/\u0395\u03c1\u03b5\u03c5\u03bd\u03b7\u03c4\u03ae\u03c2",
+                "id": 2468303748,
+                "name": "\u0395\u03a5\u0398\u03a5\u039c\u0399\u039f\u03a3 \u0396\u0391\u03a7\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 969,
+                    "following_count": 2040,
+                    "listed_count": 0,
+                    "tweet_count": 11468
+                },
+                "username": "EFTHYMIOSZACHOS",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 172029952,
+            "conversation_id": 1455797336492412931,
+            "created_at": "2021-11-03 07:21:47+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/03/gre\u2026",
+                        "end": 134,
+                        "expanded_url": "https://www.in.gr/2021/11/03/greece/emvolio-ola-osa-prepei-na-kserete-gia-tin-triti-dosi-anoigei-platforma-tin-paraskeyi-gia-olous/",
+                        "start": 111,
+                        "url": "https://t.co/TrxQ2bzVOy"
+                    }
+                ]
+            },
+            "id": 1455797336492412931,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455784086275039240 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u038c\u03bb\u03b1 \u03cc\u03c3\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03be\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/TrxQ2bzVOy"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455784086275039240,
+            "created_at": "2021-11-03 06:29:07+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/03/gre\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.in.gr/2021/11/03/greece/emvolio-ola-osa-prepei-na-kserete-gia-tin-triti-dosi-anoigei-platforma-tin-paraskeyi-gia-olous/",
+                        "start": 100,
+                        "url": "https://t.co/TrxQ2bzVOy"
+                    }
+                ]
+            },
+            "id": 1455784086275039240,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u038c\u03bb\u03b1 \u03cc\u03c3\u03b1 \u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03be\u03ad\u03c1\u03b5\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2 https://t.co/TrxQ2bzVOy"
+        },
+        {
+            "author_id": 186933748,
+            "conversation_id": 1455689174930137088,
+            "created_at": "2021-11-03 00:11:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "186933748",
+                        "start": 3,
+                        "username": "baphometx"
+                    }
+                ]
+            },
+            "id": 1455689174930137088,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455572041797705731 type=retweeted"
+            ],
+            "text": "RT @baphometx: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5, \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9\u2026"
+        },
+        {
+            "author_id": 1455095420212989953,
+            "conversation_id": 1455582820403920903,
+            "created_at": "2021-11-02 17:09:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "339534214",
+                        "start": 3,
+                        "username": "MikeArgi"
+                    }
+                ]
+            },
+            "id": 1455582820403920903,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455581573324083202 type=retweeted"
+            ],
+            "text": "RT @MikeArgi: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf / \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 /  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/BJKcCSzb\u2026"
+        },
+        {
+            "author_id": 339534214,
+            "conversation_id": 1455581573324083202,
+            "created_at": "2021-11-02 17:04:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/gre\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                        "start": 104,
+                        "url": "https://t.co/BJKcCSzbFD"
+                    }
+                ]
+            },
+            "id": 1455581573324083202,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf / \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 /  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/BJKcCSzbFD"
+        },
+        {
+            "author_id": 128188288,
+            "conversation_id": 1455572783451234310,
+            "created_at": "2021-11-02 16:29:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/gre\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                        "start": 115,
+                        "url": "https://t.co/MEzpfQ2YH9"
+                    }
+                ]
+            },
+            "id": 1455572783451234310,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455571445636124674 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 -  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/MEzpfQ2YH9"
+        },
+        {
+            "author_id": 186933748,
+            "conversation_id": 1455572041797705731,
+            "created_at": "2021-11-02 16:26:32+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/gre\u2026",
+                        "end": 192,
+                        "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                        "start": 169,
+                        "url": "https://t.co/tw0GzWXw9F"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/jb0PAht4hA",
+                        "end": 216,
+                        "expanded_url": "https://twitter.com/baphometx/status/1455572041797705731/photo/1",
+                        "start": 193,
+                        "url": "https://t.co/jb0PAht4hA"
+                    }
+                ]
+            },
+            "id": 1455572041797705731,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5, \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 - \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03ad\u03bb\u03b8\u03b5\u03b9 \u03c4\u03bf \u03b5\u03be\u03ac\u03bc\u03b7\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03c4\u03bf\u03c5 https://t.co/tw0GzWXw9F https://t.co/jb0PAht4hA"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455571445636124674,
+            "created_at": "2021-11-02 16:24:10+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/gre\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.in.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-platforma-gia-olous-gia-tin-triti-dosi-monadiki-proypothesi/",
+                        "start": 104,
+                        "url": "https://t.co/MEzpfQ2YH9"
+                    }
+                ]
+            },
+            "id": 1455571445636124674,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 3,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 -  \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/MEzpfQ2YH9"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455517014848643075,
+            "created_at": "2021-11-02 12:47:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/b-s\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.in.gr/2021/11/02/b-science/sars-cov2/emvolio-pfizer-anevazei-sta-36-dis-dolaria-tin-ektimisi-gia-ta-fetina-esoda/",
+                        "start": 81,
+                        "url": "https://t.co/1tIoeUyS5k"
+                    }
+                ]
+            },
+            "id": 1455517014848643075,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0397 Pfizer \u03b1\u03bd\u03b5\u03b2\u03ac\u03b6\u03b5\u03b9 \u03c3\u03c4\u03b1 36 \u03b4\u03b9\u03c3. \u03b4\u03bf\u03bb\u03ac\u03c1\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03ba\u03c4\u03af\u03bc\u03b7\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03c6\u03b5\u03c4\u03b9\u03bd\u03ac \u03ad\u03c3\u03bf\u03b4\u03b1 https://t.co/1tIoeUyS5k"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455474780455546880,
+            "created_at": "2021-11-02 10:00:03+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/hea\u2026",
+                        "end": 91,
+                        "expanded_url": "https://www.in.gr/2021/11/02/health/emvolio-pfizer-anosia-fthinei-merikous-mines-meta-ton-emvoliasmo/",
+                        "start": 68,
+                        "url": "https://t.co/ldzO89IDQr"
+                    }
+                ]
+            },
+            "id": 1455474780455546880,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer - \u0397 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc https://t.co/ldzO89IDQr"
+        },
+        {
+            "author_id": 1365272151771783170,
+            "conversation_id": 1455421702691856386,
+            "created_at": "2021-11-02 06:29:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/b-s\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.in.gr/2021/11/02/b-science/emvolio-kata-tou-koronaiou-meionei-ton-kindyno-thanatou-apo-alles-aities/",
+                        "start": 85,
+                        "url": "https://t.co/9cuYWJkjvr"
+                    }
+                ]
+            },
+            "id": 1455421702691856386,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455421216303501316 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03bf\u03cd - \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/9cuYWJkjvr"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455421216303501316,
+            "created_at": "2021-11-02 06:27:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/02/b-s\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.in.gr/2021/11/02/b-science/emvolio-kata-tou-koronaiou-meionei-ton-kindyno-thanatou-apo-alles-aities/",
+                        "start": 74,
+                        "url": "https://t.co/9cuYWJkjvr"
+                    }
+                ]
+            },
+            "id": 1455421216303501316,
+            "public_metrics": {
+                "like_count": 5,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03bf\u03cd - \u039c\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/9cuYWJkjvr"
+        },
+        {
+            "author_id": 277029468,
+            "conversation_id": 1455282827356934149,
+            "created_at": "2021-11-01 21:17:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/01/b-s\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.in.gr/2021/10/01/b-science/sars-cov2/emvolio-pithani-sxesi-tou-johnson-johnson-spanies-thromvoemvoles/",
+                        "start": 85,
+                        "url": "https://t.co/6EvUqHjiqH"
+                    }
+                ]
+            },
+            "id": 1455282827356934149,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1443914133305495556 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03b9\u03b8\u03b1\u03bd\u03ae \u03c3\u03c7\u03ad\u03c3\u03b7 \u03c4\u03bf\u03c5 Johnson &amp; Johnson \u03bc\u03b5 \u03c3\u03c0\u03ac\u03bd\u03b9\u03b5\u03c2 \u03b8\u03c1\u03bf\u03bc\u03b2\u03bf\u03b5\u03bc\u03b2\u03bf\u03bb\u03ad\u03c2 https://t.co/6EvUqHjiqH"
+        },
+        {
+            "author_id": 1428251397905080320,
+            "conversation_id": 1455131960607744002,
+            "created_at": "2021-11-01 11:30:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 6,
+                        "id": "19662198",
+                        "start": 0,
+                        "username": "in_gr"
+                    }
+                ]
+            },
+            "id": 1455135066385010692,
+            "in_reply_to_user_id": 19662198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455131960607744002 type=replied_to"
+            ],
+            "text": "@in_gr \u0395\u03bc\u03c0\u03c1\u03cc\u03c2 \u03c0\u03af\u03c3\u03c9 \u03b4\u03b5\u03be\u03b9\u03ac \u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac \u03b1\u03bd\u03b1\u03c0\u03bf\u03c6\u03ac\u03c3\u03b9\u03c3\u03c4\u03bf\u03b9 \u03ac\u03c4\u03bf\u03bb\u03bc\u03bf\u03b9 \u03c8\u03b5\u03cd\u03c4\u03b5\u03c2  \u03b5\u03c0\u03b9\u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf\u03b9 \u03b1\u03bd\u03c4\u03af \u03bd\u03ac \u03b2\u03c1\u03b5\u03b9 \u03c4\u03c1\u03cc\u03c0\u03bf \u03bd\u03b1 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03c3\u03b5\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03ae  \u03bd\u03ac \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b8\u03ac \u03c4\u03ae \u03c0\u03bb\u03b7\u03c1\u03ce\u03c3\u03bf\u03c5\u03bd \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9..."
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1455075350078238725,
+            "created_at": "2021-11-01 07:32:52+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/11/01/b-s\u2026",
+                        "end": 119,
+                        "expanded_url": "https://www.in.gr/2021/11/01/b-science/emvolio-koronaios-peiramatiko-dermatiko-epithema-fainetai-pio-apotelesmatiko-apo-tis-eneseis/",
+                        "start": 96,
+                        "url": "https://t.co/pwq48F0h9G"
+                    }
+                ]
+            },
+            "id": 1455075350078238725,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u03a0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b4\u03b5\u03c1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03b8\u03b5\u03bc\u03b1 \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 https://t.co/pwq48F0h9G"
+        },
+        {
+            "author_id": 1401938904958345218,
+            "conversation_id": 1454821478168506377,
+            "created_at": "2021-10-31 15:37:19+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 6,
+                        "id": "19662198",
+                        "start": 0,
+                        "username": "in_gr"
+                    }
+                ]
+            },
+            "id": 1454834879657504776,
+            "in_reply_to_user_id": 19662198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454821478168506377 type=replied_to"
+            ],
+            "text": "@in_gr \u0391\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c6\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b8\u03b1 \u03c3\u03c9\u03b8\u03bf\u03cd\u03bd \u03b5\u03c3\u03b5\u03af\u03c2 \u03c4\u03bf \u03bb\u03ad\u03c4\u03b5 \u03b1\u03bd\u03ac\u03c0\u03bf\u03b4\u03b1 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b5\u03b8\u03ac\u03bd\u03bf\u03c5\u03bd \u03ba\u03b1\u03b8\u03ac\u03c1\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 422023154,
+            "conversation_id": 1454503869321523205,
+            "created_at": "2021-10-30 17:42:00+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1369278358224306188",
+                        "start": 3,
+                        "username": "Efthimakos1"
+                    }
+                ]
+            },
+            "id": 1454503869321523205,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454452460379156481 type=retweeted"
+            ],
+            "text": "RT @Efthimakos1: \u039a\u03c1\u03b1\u03c5\u03b3\u03ae \u03b1\u03b3\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03ba\u03b1\u03c4\u03ac \u03bc\u03b1\u03c2,\u03bf\u03b9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b9\u03ca\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf..\n\u039f\u03b9 \u039a\u03bf\u03c0\u03c1\u03bf\u03bc\u03ac\u03bd\u03c4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03bf\u03c0\u03c1\u03bf\u03bb\u2026"
+        },
+        {
+            "author_id": 1339100544657469440,
+            "conversation_id": 1454458290994352136,
+            "created_at": "2021-10-30 14:40:53+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1369278358224306188",
+                        "start": 3,
+                        "username": "Efthimakos1"
+                    }
+                ]
+            },
+            "id": 1454458290994352136,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454452460379156481 type=retweeted"
+            ],
+            "text": "RT @Efthimakos1: \u039a\u03c1\u03b1\u03c5\u03b3\u03ae \u03b1\u03b3\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03ba\u03b1\u03c4\u03ac \u03bc\u03b1\u03c2,\u03bf\u03b9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b9\u03ca\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf..\n\u039f\u03b9 \u039a\u03bf\u03c0\u03c1\u03bf\u03bc\u03ac\u03bd\u03c4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03bf\u03c0\u03c1\u03bf\u03bb\u2026"
+        },
+        {
+            "author_id": 4909333575,
+            "conversation_id": 1454455446455132163,
+            "created_at": "2021-10-30 14:29:35+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1369278358224306188",
+                        "start": 3,
+                        "username": "Efthimakos1"
+                    }
+                ]
+            },
+            "id": 1454455446455132163,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454452460379156481 type=retweeted"
+            ],
+            "text": "RT @Efthimakos1: \u039a\u03c1\u03b1\u03c5\u03b3\u03ae \u03b1\u03b3\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03ba\u03b1\u03c4\u03ac \u03bc\u03b1\u03c2,\u03bf\u03b9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b9\u03ca\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf..\n\u039f\u03b9 \u039a\u03bf\u03c0\u03c1\u03bf\u03bc\u03ac\u03bd\u03c4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03bf\u03c0\u03c1\u03bf\u03bb\u2026"
+        },
+        {
+            "author_id": 1369278358224306188,
+            "conversation_id": 1454452460379156481,
+            "created_at": "2021-10-30 14:17:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/30/gre\u2026",
+                        "end": 262,
+                        "expanded_url": "https://www.in.gr/2021/10/30/greece/thessaloniki-synagermos-gia-tin-ayksisi-tou-iikou-fortiou-sokarei-provlepsi-gia-tous-asymptomatikous-foreis/",
+                        "start": 239,
+                        "url": "https://t.co/uHT9WdcUzi"
+                    }
+                ]
+            },
+            "id": 1454452460379156481,
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 3
+            },
+            "text": "\u039a\u03c1\u03b1\u03c5\u03b3\u03ae \u03b1\u03b3\u03c9\u03bd\u03af\u03b1\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03c3\u03ba\u03b1\u03c4\u03ac \u03bc\u03b1\u03c2,\u03bf\u03b9 \u03ba\u03bf\u03c5\u03c1\u03ac\u03b4\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b9\u03ca\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf..\n\u039f\u03b9 \u039a\u03bf\u03c0\u03c1\u03bf\u03bc\u03ac\u03bd\u03c4\u03b5\u03b9\u03c2 \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03ba\u03bf\u03c0\u03c1\u03bf\u03bb\u03ac\u03b3\u03bd\u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03bf\u03cd\u03bd,\u03cc\u03c4\u03b9 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03ba\u03cd\u03bc\u03b1 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd, \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c3\u03c0\u03af\u03b4\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b6\u03c9\u03ae.\n\nhttps://t.co/uHT9WdcUzi"
+        },
+        {
+            "author_id": 3308394005,
+            "conversation_id": 1454199366277910528,
+            "created_at": "2021-10-29 21:32:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/29/b-s\u2026",
+                        "end": 278,
+                        "expanded_url": "https://www.in.gr/2021/10/29/b-science/sars-cov2/emvolio-ekatontades-ekatommyria-doseis-kindyneyoun-na-liksoun-proeidopoioun-160-prosopikotites/",
+                        "start": 255,
+                        "url": "https://t.co/lADJgN7aCo"
+                    }
+                ]
+            },
+            "id": 1454199366277910528,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- \u0395\u03ba\u03b1\u03c4\u03bf\u03bd\u03c4\u03ac\u03b4\u03b5\u03c2 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bb\u03ae\u03be\u03bf\u03c5\u03bd, \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd 160 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2\n\n\u039f\u03b9 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b7\u03c2 G20 \u03ba\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03b8\u03ad\u03c3\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf\u03bd \u03c3\u03c4\u03c1\u03b1\u03c4\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5 \u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03c6\u03c4\u03c9\u03c7\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2.\n\n\u03a3\u03b1\u03bd \u03c4\u03b1 \u03c4\u03c1\u03cc\u03c6\u03b9\u03bc\u03b1. \u0386\u03bb\u03bb\u03bf\u03b9 \u03b4\u03b5\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ac\u03bb\u03bb\u03bf\u03b9 \u03c4\u03b1 \u03c0\u03b5\u03c4\u03ac\u03bd\u03b5\n\nhttps://t.co/lADJgN7aCo"
+        },
+        {
+            "author_id": 486977844,
+            "conversation_id": 1454084291617509376,
+            "created_at": "2021-10-29 17:49:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "1176477930819653635",
+                        "start": 0,
+                        "username": "Savecan1"
+                    },
+                    {
+                        "end": 16,
+                        "id": "172496404",
+                        "start": 10,
+                        "username": "Elva6"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2017/01/23/b-s\u2026",
+                        "end": 163,
+                        "expanded_url": "https://www.in.gr/2017/01/23/b-science/epidimia-ilaras-se-orthodoksoys-ebraioys-poy-arnoyntai-ton-emboliasmo/",
+                        "start": 140,
+                        "url": "https://t.co/01jd7vYhmO"
+                    }
+                ]
+            },
+            "id": 1454143363536629766,
+            "in_reply_to_user_id": 1176477930819653635,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454141302124294147 type=replied_to"
+            ],
+            "text": "@Savecan1 @Elva6 \u0394\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03bf\u03cd\u03c4\u03b5 \u03c0\u03b1\u03bd\u03ac\u03ba\u03b5\u03b9\u03b1, \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03ac\u03c0\u03bf\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1.\n\u0393\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b9\u03bb\u03b1\u03c1\u03ac, \u03c3\u03c4\u03bf \u039b\u03bf\u03c2 \u0386\u03bd\u03c4\u03b6\u03b5\u03bb\u03b5\u03c2 &amp; \u03cc\u03c7\u03b9 \u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7, \nhttps://t.co/01jd7vYhmO"
+        },
+        {
+            "author_id": 339534214,
+            "conversation_id": 1454069593237037059,
+            "created_at": "2021-10-29 12:56:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f\u03b9 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03c4\u03b7\u03c2 G20 \u03ba\u03b1\u03bb\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03b8\u03ad\u03c3\u03bf\u03c5\u03bd \u03c3\u03c4\u03bf\u03bd \u03c3\u03c4\u03c1\u03b1\u03c4\u03cc \u03c4\u03b7 \u03bc\u03b5\u03c4\u03b1\u03c6\u03bf\u03c1\u03ac \u03c4\u03bf\u03c5 \u03c0\u03bb\u03b5\u03bf\u03bd\u03ac\u03c3\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c3\u03c4\u03b9\u03c2 \u03c6\u03c4\u03c9\u03c7\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2.",
+                        "display_url": "in.gr/2021/10/29/b-s\u2026",
+                        "end": 119,
+                        "expanded_url": "https://www.in.gr/2021/10/29/b-science/sars-cov2/emvolio-ekatontades-ekatommyria-doseis-kindyneyoun-na-liksoun-proeidopoioun-160-prosopikotites/",
+                        "images": [
+                            {
+                                "height": 1040,
+                                "url": "https://pbs.twimg.com/news_img/1454069593715187712/86PU87hD?format=jpg&name=orig",
+                                "width": 1560
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454069593715187712/86PU87hD?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 96,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- \u0395\u03ba\u03b1\u03c4\u03bf\u03bd\u03c4\u03ac\u03b4\u03b5\u03c2 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bb\u03ae\u03be\u03bf\u03c5\u03bd, \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd 160 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/29/b-science/sars-cov2/emvolio-ekatontades-ekatommyria-doseis-kindyneyoun-na-liksoun-proeidopoioun-160-prosopikotites/",
+                        "url": "https://t.co/Y0M4N13IAA"
+                    }
+                ]
+            },
+            "id": 1454069593237037059,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- \u0395\u03ba\u03b1\u03c4\u03bf\u03bd\u03c4\u03ac\u03b4\u03b5\u03c2 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03bf\u03c5\u03bd \u03bd\u03b1 \u03bb\u03ae\u03be\u03bf\u03c5\u03bd, \u03c0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd 160 \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 https://t.co/Y0M4N13IAA"
+        },
+        {
+            "author_id": 1004623333,
+            "conversation_id": 1454047032679751681,
+            "created_at": "2021-10-29 11:26:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/29/gre\u2026",
+                        "end": 105,
+                        "expanded_url": "https://www.in.gr/2021/10/29/greece/emvolio-sms-se-olous-ton-ano-ton-50-eton-gia-na-kanoun-tin-triti-dosi/",
+                        "start": 82,
+                        "url": "https://t.co/eZP4P8xvGz"
+                    }
+                ]
+            },
+            "id": 1454047032679751681,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454046073316691968 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- SMS \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 https://t.co/eZP4P8xvGz"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1454046073316691968,
+            "created_at": "2021-10-29 11:22:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/29/gre\u2026",
+                        "end": 94,
+                        "expanded_url": "https://www.in.gr/2021/10/29/greece/emvolio-sms-se-olous-ton-ano-ton-50-eton-gia-na-kanoun-tin-triti-dosi/",
+                        "start": 71,
+                        "url": "https://t.co/eZP4P8xvGz"
+                    }
+                ]
+            },
+            "id": 1454046073316691968,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf- SMS \u03c3\u03b5 \u03cc\u03bb\u03bf\u03c5\u03c2 \u03c4\u03c9\u03bd \u03ac\u03bd\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 https://t.co/eZP4P8xvGz"
+        },
+        {
+            "author_id": 1348987504247136258,
+            "conversation_id": 1453594282510663681,
+            "created_at": "2021-10-28 06:13:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 6,
+                        "id": "19662198",
+                        "start": 0,
+                        "username": "in_gr"
+                    }
+                ]
+            },
+            "id": 1453605857661440004,
+            "in_reply_to_user_id": 19662198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453594282510663681 type=replied_to"
+            ],
+            "text": "@in_gr \u0392\u0391\u03a3\u0399\u039b\u0391\u039a\u038c\u03a0\u039f\u03a5\u039b\u0395 \u0395\u0399\u03a3\u0395 \u0395\u039d\u0391\u03a3 \u0391\u039b\u0397\u03a4\u0397\u03a3  \u0395\u039c\u0392\u038c\u039b\u0399\u039f \u039a\u0391\u039d\u0391\u039c\u0395  \u0394\u0395\u039d  \u039a\u039b\u0395\u0399\u0394\u03a9\u039d\u039f\u039c\u0391\u03a3\u03a4\u0395 \u03a0\u0391\u039b\u0399\u039f \u0391\u039b\u0397\u03a4\u0397 \u03a4\u039f\u03a5 \u039a\u0395\u03a1\u0391\u03a4\u0391  \u0393\u03a5\u03a1\u039f\u039b\u039f\u0393\u0395  \u03a4\u03a9\u039d \u039a\u0391\u039d\u0391\u039b\u0399\u03a9\u039d"
+        },
+        {
+            "author_id": 1010761706,
+            "conversation_id": 1453452889951817733,
+            "created_at": "2021-10-27 20:05:47+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 162,
+                        "start": 146,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 171,
+                        "start": 163,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 182,
+                        "start": 172,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0391\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03c5\u03c3\u03c4\u03c5\u03c7\u03ce\u03c2 \u03c4\u03b1 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ac \u03c0\u03bf\u03c5 \u03bf\u03bb\u03cc\u03ba\u03bb\u03b7\u03c1\u03b5\u03c2 \u03bf\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b5\u03c2 \u03be\u03b5\u03ba\u03bb\u03b7\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc. \u03a3\u03c4\u03b7\u03bd \u03c0\u03bb\u03b5\u03b9\u03bf\u03c8\u03b7\u03c6\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9, \u03b5\u03bd\u03af\u03bf\u03c4\u03b5 \u03b4\u03b5 \u03ba\u03b1\u03b9 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd \u03c0\u03b5\u03b8\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03b2\u03c5\u03b8\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2",
+                        "display_url": "in.gr/2021/10/27/in-\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.in.gr/2021/10/27/in-tv/kathe-mera-prospathousa-na-ton-peiso-na-emvoliastei-se-apognosi-syzygos-arniti-pou-afise-tria-paidia-orfana/",
+                        "images": [
+                            {
+                                "height": 454,
+                                "url": "https://pbs.twimg.com/news_img/1453452890442551304/yxfIQs6M?format=jpg&name=orig",
+                                "width": 681
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453452890442551304/yxfIQs6M?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 122,
+                        "status": 200,
+                        "title": "\u00ab\u039a\u03ac\u03b8\u03b5 \u03bc\u03ad\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1 \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03af\u03c3\u03c9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u00bb - \u03a3\u03b5 \u03b1\u03c0\u03cc\u03b3\u03bd\u03c9\u03c3\u03b7 \u03b7 \u03c3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bf\u03c1\u03c6\u03b1\u03bd\u03ac | in.gr",
+                        "unwound_url": "https://www.in.gr/2021/10/27/in-tv/kathe-mera-prospathousa-na-ton-peiso-na-emvoliastei-se-apognosi-syzygos-arniti-pou-afise-tria-paidia-orfana/",
+                        "url": "https://t.co/m7RJKk7Gb7"
+                    }
+                ]
+            },
+            "id": 1453452889951817733,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039a\u03ac\u03b8\u03b5 \u03bc\u03ad\u03c1\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c0\u03b1\u03b8\u03bf\u03cd\u03c3\u03b1 \u03bd\u03b1 \u03c4\u03bf\u03bd \u03c0\u03b5\u03af\u03c3\u03c9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u00bb &amp;#8211; \u03a3\u03b5 \u03b1\u03c0\u03cc\u03b3\u03bd\u03c9\u03c3\u03b7 \u03b7 \u03c3\u03cd\u03b6\u03c5\u03b3\u03bf\u03c2 \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03c4\u03c1\u03af\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bf\u03c1\u03c6\u03b1\u03bd\u03ac https://t.co/m7RJKk7Gb7 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+        },
+        {
+            "author_id": 186933748,
+            "conversation_id": 1453401589440466951,
+            "created_at": "2021-10-27 16:41:56+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 113,
+                        "start": 103,
+                        "tag": "COVID19gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/27/b-s\u2026",
+                        "end": 102,
+                        "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-1-stous-5-ellines-dilonei-distaktikos-arnitis/",
+                        "start": 79,
+                        "url": "https://t.co/7RNipuQvcC"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/6REvonEuvR",
+                        "end": 137,
+                        "expanded_url": "https://twitter.com/baphometx/status/1453401589440466951/photo/1",
+                        "start": 114,
+                        "url": "https://t.co/6REvonEuvR"
+                    }
+                ]
+            },
+            "id": 1453401589440466951,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03b1\u03ca\u03cc\u03c2 - \u0395\u03bb\u03bb\u03ac\u03b4\u03b1: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2  https://t.co/7RNipuQvcC #COVID19gr https://t.co/6REvonEuvR"
+        },
+        {
+            "author_id": 883126292,
+            "conversation_id": 1453350886030385153,
+            "created_at": "2021-10-27 13:20:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/27/b-s\u2026",
+                        "end": 92,
+                        "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-1-stous-5-ellines-dilonei-distaktikos-arnitis/",
+                        "start": 69,
+                        "url": "https://t.co/R3QKFCwCwl"
+                    }
+                ]
+            },
+            "id": 1453350886030385153,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453349720991191042 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/R3QKFCwCwl"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1453349720991191042,
+            "created_at": "2021-10-27 13:15:50+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/27/b-s\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-1-stous-5-ellines-dilonei-distaktikos-arnitis/",
+                        "start": 58,
+                        "url": "https://t.co/R3QKFCwCwl"
+                    }
+                ]
+            },
+            "id": 1453349720991191042,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - 1 \u03c3\u03c4\u03bf\u03c5\u03c2 5 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03b4\u03b7\u03bb\u03ce\u03bd\u03b5\u03b9 \u03b4\u03b9\u03c3\u03c4\u03b1\u03ba\u03c4\u03b9\u03ba\u03cc\u03c2 \u03ae \u03b1\u03c1\u03bd\u03b7\u03c4\u03ae\u03c2 https://t.co/R3QKFCwCwl"
+        },
+        {
+            "author_id": 1315075019567964160,
+            "conversation_id": 1453333516754817024,
+            "created_at": "2021-10-27 12:11:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1236732028420345857",
+                        "start": 3,
+                        "username": "dangel1d"
+                    }
+                ]
+            },
+            "id": 1453333516754817024,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 10
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453039104489295879 type=retweeted"
+            ],
+            "text": "RT @dangel1d: \u0391\u03bd \u03ad\u03c7\u03b5\u03b9\u03c2 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf JJ \u03b7 2\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b5 Pfizer, \u03b7 3\u03b7 \u03bc\u03b5 Moderna \u03ba\u03b1\u03b9 \u03b7 3\u03b7 \u03bc\u03b5 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03b3\u03bc\u03b1 \u03c3\u03ba\u03cc\u03c1\u03b4\u03bf\u03c5 \u03bc\u03b5 \u03c6\u03c1\u03b1\u03c0\u03b5\u03bb\u03b9\u03ac \ud83e\udd23\n\n\u0398\u03b5\u03bc\u03b9\u03c3\u03c4\u03bf\u03ba\u03bb\u03ad\u03bf\u2026"
+        },
+        {
+            "author_id": 2468303748,
+            "conversation_id": 1453317812701863938,
+            "created_at": "2021-10-27 11:09:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "19662198",
+                        "start": 3,
+                        "username": "in_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/27/b-s\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-thetiki-gnomodotisi-tis-fda-gia-tis-ilikies-5-11-eton/",
+                        "start": 76,
+                        "url": "https://t.co/b6KKUp7zST"
+                    }
+                ]
+            },
+            "id": 1453317812701863938,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453316238369857545 type=retweeted"
+            ],
+            "text": "RT @in_gr: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03b7 \u03b3\u03bd\u03c9\u03bc\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 FDA \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/b6KKUp7zST"
+        },
+        {
+            "author_id": 19662198,
+            "conversation_id": 1453316238369857545,
+            "created_at": "2021-10-27 11:02:47+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "in.gr/2021/10/27/b-s\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.in.gr/2021/10/27/b-science/sars-cov2/emvolio-thetiki-gnomodotisi-tis-fda-gia-tis-ilikies-5-11-eton/",
+                        "start": 65,
+                        "url": "https://t.co/b6KKUp7zST"
+                    }
+                ]
+            },
+            "id": 1453316238369857545,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03b7 \u03b3\u03bd\u03c9\u03bc\u03bf\u03b4\u03cc\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 FDA \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b5\u03c2 5-11 \u03b5\u03c4\u03ce\u03bd https://t.co/b6KKUp7zST"
+        }
+    ]
+}

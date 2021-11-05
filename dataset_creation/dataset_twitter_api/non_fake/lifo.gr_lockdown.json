@@ -1,0 +1,205 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1242736434248851456,
+                "conversation_id": 1454050526862221312,
+                "created_at": "2021-10-29 11:40:35+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 28,
+                            "start": 18,
+                            "tag": "\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9"
+                        },
+                        {
+                            "end": 40,
+                            "start": 29,
+                            "tag": "\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03c4\u03b7 \u03b4\u03b5\u03ba\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+                            "display_url": "lifo.gr/now/world/lone\u2026",
+                            "end": 79,
+                            "expanded_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 56,
+                            "status": 200,
+                            "title": "Lonely Planet: \u039f\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022- \u03a4\u03bf \u038c\u03ba\u03bb\u03b1\u03bd\u03c4, \u03b1\u03bd \u03ba\u03b1\u03b9 \u03c3\u03b5 lockdown, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03bf\u03c1\u03c5\u03c6\u03ae | LiFO",
+                            "unwound_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                            "url": "https://t.co/3PwTXbr6b1"
+                        }
+                    ]
+                },
+                "id": 1454050526862221312,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 3,
+                    "retweet_count": 1
+                },
+                "text": "Lonely Planet: \u039f\u03b9 #\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 #\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022...\nhttps://t.co/3PwTXbr6b1"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-04-21 12:49:17+00:00",
+                "description": "https://t.co/SZa9v9xxYc",
+                "id": 3190731226,
+                "name": "Toula Tour",
+                "public_metrics": {
+                    "followers_count": 6529,
+                    "following_count": 693,
+                    "listed_count": 25,
+                    "tweet_count": 898384
+                },
+                "username": "ToulaTour",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-25 08:54:03+00:00",
+                "description": "Counselor, Adult Trainer\n\u03a3\u03b7\u03bc\u03b5\u03b9\u03ce\u03bd\u03bf\u03bd\u03c4\u03b1\u03c2 \u03cc\u03c3\u03b1 \u03c3\u03c5\u03bc\u03b2\u03b1\u03af\u03bd\u03bf\u03c5\u03bd...\nhttps://t.co/TWzEOISC3n",
+                "id": 1242736434248851456,
+                "name": "Counselor",
+                "public_metrics": {
+                    "followers_count": 2997,
+                    "following_count": 2516,
+                    "listed_count": 0,
+                    "tweet_count": 41560
+                },
+                "username": "counselor_2020",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3190731226,
+            "conversation_id": 1454054927303680001,
+            "created_at": "2021-10-29 11:58:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 38,
+                        "tag": "\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9"
+                    },
+                    {
+                        "end": 60,
+                        "start": 49,
+                        "tag": "\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1242736434248851456",
+                        "start": 3,
+                        "username": "counselor_2020"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03b7 \u03b4\u03b5\u03ba\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+                        "display_url": "lifo.gr/now/world/lone\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 76,
+                        "status": 200,
+                        "title": "Lonely Planet: \u039f\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022- \u03a4\u03bf \u038c\u03ba\u03bb\u03b1\u03bd\u03c4, \u03b1\u03bd \u03ba\u03b1\u03b9 \u03c3\u03b5 lockdown, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03bf\u03c1\u03c5\u03c6\u03ae | LiFO",
+                        "unwound_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                        "url": "https://t.co/3PwTXbr6b1"
+                    }
+                ]
+            },
+            "id": 1454054927303680001,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454050526862221312 type=retweeted"
+            ],
+            "text": "RT @counselor_2020: Lonely Planet: \u039f\u03b9 #\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 #\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022...\nhttps://t.co/3PwTXbr6b1"
+        },
+        {
+            "author_id": 1242736434248851456,
+            "conversation_id": 1454050526862221312,
+            "created_at": "2021-10-29 11:40:35+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 28,
+                        "start": 18,
+                        "tag": "\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9"
+                    },
+                    {
+                        "end": 40,
+                        "start": 29,
+                        "tag": "\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03b7 \u03b4\u03b5\u03ba\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03b7 \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1",
+                        "display_url": "lifo.gr/now/world/lone\u2026",
+                        "end": 79,
+                        "expanded_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454050527482892289/3vogUJ-z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 56,
+                        "status": 200,
+                        "title": "Lonely Planet: \u039f\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 \u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022- \u03a4\u03bf \u038c\u03ba\u03bb\u03b1\u03bd\u03c4, \u03b1\u03bd \u03ba\u03b1\u03b9 \u03c3\u03b5 lockdown, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03bf\u03c1\u03c5\u03c6\u03ae | LiFO",
+                        "unwound_url": "https://www.lifo.gr/now/world/lonely-planet-oi-kalyteroi-proorismoi-gia-2022-oklant-kai-se-lockdown-einai-stin-koryfi",
+                        "url": "https://t.co/3PwTXbr6b1"
+                    }
+                ]
+            },
+            "id": 1454050526862221312,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 3,
+                "retweet_count": 1
+            },
+            "text": "Lonely Planet: \u039f\u03b9 #\u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03b9 #\u03c0\u03c1\u03bf\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af \u03b3\u03b9\u03b1 \u03c4\u03bf 2022...\nhttps://t.co/3PwTXbr6b1"
+        }
+    ]
+}

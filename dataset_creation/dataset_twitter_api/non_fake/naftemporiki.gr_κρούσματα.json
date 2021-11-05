@@ -1,0 +1,925 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1361411161569296386,
+                "conversation_id": 1455507948365619202,
+                "created_at": "2021-11-02 12:11:51+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 73,
+                            "start": 63,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 244,
+                            "start": 234,
+                            "tag": "\u039d\u0394_\u03b8\u03b5\u03bb\u03b1\u03c4\u03b5"
+                        },
+                        {
+                            "end": 268,
+                            "start": 245,
+                            "tag": "\u03a4\u03b9_\u03c8\u03b7\u03c6\u03af\u03c3\u03b1\u03c4\u03b5_\u03c1\u03b5_\u03bc\u03b1\u03bb\u03ac\u03ba\u03b5\u03c2"
+                        },
+                        {
+                            "end": 288,
+                            "start": 269,
+                            "tag": "\u03bc\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03ad\u03c3\u03b1\u03b9"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03b5 \u03b1\u03c0\u03bf\u03bc\u03cc\u03bd\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03b9\u03b1\u03ba\u03ae \u03bc\u03bf\u03bd\u03ac\u03b4\u03b1 \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1, \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03ba\u03b1\u03c4\u03ac \u03b4\u03b5\u03b9\u03b3\u03bc\u03b1\u03c4\u03bf\u03bb\u03b7\u03c0\u03c4\u03b9\u03ba\u03cc \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c0\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03ad\u03c3\u03c4\u03c1\u03b5, \u03bb\u03af\u03b3\u03b1 \u03c7\u03b9\u03bb\u03b9\u03cc\u03bc\u03b5\u03c4\u03c1\u03b1 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03b7\u03bd\u03bf\u03c4\u03ac\u03c4\u03b7.",
+                            "display_url": "m.naftemporiki.gr/story/1795367/\u2026",
+                            "end": 23,
+                            "expanded_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                            "images": [
+                                {
+                                    "height": 253,
+                                    "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=orig",
+                                    "width": 406
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 0,
+                            "status": 200,
+                            "title": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1- \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03ba\u03cc\u03bc\u03b7 \u03c3\u03c4\u03bf \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1",
+                            "unwound_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                            "url": "https://t.co/NmpXdb4Mr3"
+                        }
+                    ]
+                },
+                "id": 1455507948365619202,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "https://t.co/NmpXdb4Mr3\n\u0398\u03b1 \u03b4\u03bf\u03b8\u03bf\u03cd\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd \u03c3\u03c4\u03b7\u03bd \u03b9\u03c4\u03b1\u03bb\u03b9\u03b1.\u0394\u03b7\u03bb \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7,\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b5\u03b4\u03ce &amp; 6 \u03bc\u03ae\u03bd\u03b5\u03c2, \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bf \u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 \u03ba\u03b1\u03c0\u03bd\u03af\u03b6\u03b5\u03b9\u2026.\u03b6\u03ae\u03c4\u03c9 \u03bf\u03b9 \u03c6\u03c1\u03b5\u03b3\u03b1\u03c4\u03b5\u03c2 &amp; \u00ab\u03bc\u03b7\u03bd \u03c3\u03ce\u03c3\u03bf\u03c5\u03bd &amp; \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03c5\u03bd\u00bb\n\n#\u039d\u0394_\u03b8\u03b5\u03bb\u03b1\u03c4\u03b5 #\u03a4\u03b9_\u03c8\u03b7\u03c6\u03af\u03c3\u03b1\u03c4\u03b5_\u03c1\u03b5_\u03bc\u03b1\u03bb\u03ac\u03ba\u03b5\u03c2 #\u03bc\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03ad\u03c3\u03b1\u03b9"
+            },
+            {
+                "author_id": 18934391,
+                "conversation_id": 1455563159549403142,
+                "created_at": "2021-11-02 15:51:14+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 51,
+                            "start": 38,
+                            "tag": "naftemporiki"
+                        },
+                        {
+                            "end": 62,
+                            "start": 52,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        },
+                        {
+                            "end": 67,
+                            "start": 63,
+                            "tag": "\u039c\u0395\u0398"
+                        },
+                        {
+                            "end": 78,
+                            "start": 68,
+                            "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                        },
+                        {
+                            "end": 87,
+                            "start": 79,
+                            "tag": "COVID19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "naftemporiki.gr/story/1795836/\u2026",
+                            "end": 112,
+                            "expanded_url": "https://www.naftemporiki.gr/story/1795836/neo-mauro-rekor-me-6700-krousmata-59-thanatoi-434-se-meth",
+                            "start": 89,
+                            "url": "https://t.co/fm7cdwtjXr"
+                        }
+                    ]
+                },
+                "id": 1455563159549403142,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 2
+                },
+                "text": "321 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c3\u03b5 \u03bc\u03af\u03b1 \u03b7\u03bc\u03ad\u03c1\u03b1. | #naftemporiki #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u039c\u0395\u0398 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 #COVID19 \nhttps://t.co/fm7cdwtjXr"
+            },
+            {
+                "author_id": 18934391,
+                "conversation_id": 1454835047022972936,
+                "created_at": "2021-10-31 15:37:59+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 92,
+                            "start": 79,
+                            "tag": "naftemporiki"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "naftemporiki.gr/story/1795027",
+                            "end": 78,
+                            "expanded_url": "https://www.naftemporiki.gr/story/1795027",
+                            "start": 55,
+                            "url": "https://t.co/EUQb8at1Ez"
+                        }
+                    ]
+                },
+                "id": 1454835047022972936,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/EUQb8at1Ez #naftemporiki"
+            },
+            {
+                "author_id": 18934391,
+                "conversation_id": 1454096212865560579,
+                "created_at": "2021-10-29 14:42:07+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 87,
+                            "start": 74,
+                            "tag": "naftemporiki"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "naftemporiki.gr/story/1794587",
+                            "end": 73,
+                            "expanded_url": "https://www.naftemporiki.gr/story/1794587",
+                            "start": 50,
+                            "url": "https://t.co/pt4HKCXEQD"
+                        }
+                    ]
+                },
+                "id": 1454096212865560579,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 55 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 392 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/pt4HKCXEQD #naftemporiki"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-05-02 21:32:56+00:00",
+                "description": "",
+                "id": 2474558148,
+                "name": "Fotis",
+                "public_metrics": {
+                    "followers_count": 1194,
+                    "following_count": 871,
+                    "listed_count": 3,
+                    "tweet_count": 53031
+                },
+                "username": "municapelo",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-15 20:25:02+00:00",
+                "description": "\u03c0\u03b1\u03c0\u03b1\u03c2&\u03bc\u03b1\u03c4 \u03bc\u03b1\u03b6\u03af!\u03cc\u03c7\u03b9 \u03bc\u03b1\u03c4-\u03b3\u03c5\u03b1\u03bb\u03b9\u03c3\u03c4\u03b5\u03c1\u03cc!\u0391\u03bb\u03bb\u03ac \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae \u03b5\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b7 \u03c7\u03ce\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03bf\u03c5\u03c2 \u03c0\u03b1\u03c0\u03ac\u03b4\u03b5\u03c2&\u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc \u03b3\u03b9\u03b1\u03c4\u03c1\u03bf\u03cd\u03c2 & \u03b4\u03b1\u03c3\u03ba\u03ac\u03bb\u03bf\u03c5\u03c2. \u03c0\u03c1\u03bf\u03bf\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03cc account .",
+                "id": 1361411161569296386,
+                "name": "\u03c0\u03b1\u03c0\u03b1-\u039c\u03b1\u03c4!",
+                "public_metrics": {
+                    "followers_count": 662,
+                    "following_count": 1343,
+                    "listed_count": 1,
+                    "tweet_count": 4634
+                },
+                "username": "papa_mat43",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-28 13:08:02+00:00",
+                "description": "middle east politics & international relations - Following conflicts around the world. History chaser. Last but not least, a lifetimer fan of Great PAOK - \u03a0\u0391\u039f\u039a",
+                "id": 791989904414765058,
+                "name": "MICHAIL KLIN",
+                "public_metrics": {
+                    "followers_count": 1253,
+                    "following_count": 797,
+                    "listed_count": 14,
+                    "tweet_count": 80991
+                },
+                "username": "artemis_klin",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-13 10:09:17+00:00",
+                "description": "\u03a1\u03b5\u03c0\u03bf\u03c1\u03c4\u03ac\u03b6, multimedia, \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 & \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf.",
+                "id": 18934391,
+                "name": "naftemporiki.gr",
+                "public_metrics": {
+                    "followers_count": 192181,
+                    "following_count": 78,
+                    "listed_count": 1795,
+                    "tweet_count": 297351
+                },
+                "username": "naftemporikigr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-26 22:19:06+00:00",
+                "description": "It's not the truth that is ugly. It's your face in the mirror.\nParody account\n(Views are my own)",
+                "id": 791403811143348224,
+                "name": "nasty woman",
+                "public_metrics": {
+                    "followers_count": 2295,
+                    "following_count": 3204,
+                    "listed_count": 50,
+                    "tweet_count": 107089
+                },
+                "username": "theiabebeka",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-06 16:32:38+00:00",
+                "description": "(Maria:b30/11/52 Montreal, Carol:b30/11/53 London UK)to Greek parents,moved to London(1953);raised in London;moved back to Canada (M in 87, C in 88).Mainly RTs",
+                "id": 386072477,
+                "name": "Maria & Carol Los",
+                "public_metrics": {
+                    "followers_count": 649,
+                    "following_count": 4959,
+                    "listed_count": 2,
+                    "tweet_count": 476498
+                },
+                "username": "terpsichore_los",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748248
+                },
+                "username": "entypos",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-14 09:53:30+00:00",
+                "description": "\u03a3\u03c4\u03bf\u03c5 \u03ba\u03bf\u03c5\u03c6\u03bf\u03c5 \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03c4\u03b1 \u03bf\u03c0\u03bf\u03b9\u03bf\u03c2 \u03b1\u03bd\u03b1\u03ba\u03b1\u03c4\u03b5\u03c5\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03b9\u03c4\u03bf\u03c5\u03c1\u03b1 \u03b1\u03c6\u03bf\u03c5 \u03b5\u03c7\u03b5\u03b9 \u03ba \u03b1\u03bb\u03bb\u03bf\u03c5 \u03c0\u03bf\u03c1\u03c4\u03bf\u03ba\u03b1\u03bb\u03b9\u03b5\u03c2 \u03b5\u03bd\u03c9 \u03b1\u03c0\u03bf \u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03c4\u03b1 \u03c3\u03bf\u03c5 \u03c0\u03b1\u03b9\u03c1\u03bd\u03c9 \u03ba \u03c4\u03b7\u03b3\u03b1\u03bd\u03b9\u03b6\u03b5\u03b9\u03c2 \u03c8\u03b1\u03c1\u03b9\u03b1...",
+                "id": 298442566,
+                "name": "PM_GR",
+                "public_metrics": {
+                    "followers_count": 2038,
+                    "following_count": 2504,
+                    "listed_count": 106,
+                    "tweet_count": 166934
+                },
+                "username": "PanosM_GR",
+                "verified": false
+            },
+            {
+                "created_at": "2013-01-02 13:40:04+00:00",
+                "description": "https://t.co/qJ6QAiR5SH , https://t.co/rOVuteryXa",
+                "id": 1055122482,
+                "name": "George Tsolakoglou",
+                "public_metrics": {
+                    "followers_count": 41,
+                    "following_count": 164,
+                    "listed_count": 0,
+                    "tweet_count": 6196
+                },
+                "username": "George23820",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2474558148,
+            "conversation_id": 1455676066488590344,
+            "created_at": "2021-11-02 23:19:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 79,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1361411161569296386",
+                        "start": 3,
+                        "username": "papa_mat43"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u03b1\u03c0\u03bf\u03bc\u03cc\u03bd\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03b9\u03b1\u03ba\u03ae \u03bc\u03bf\u03bd\u03ac\u03b4\u03b1 \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1, \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03ba\u03b1\u03c4\u03ac \u03b4\u03b5\u03b9\u03b3\u03bc\u03b1\u03c4\u03bf\u03bb\u03b7\u03c0\u03c4\u03b9\u03ba\u03cc \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c0\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03ad\u03c3\u03c4\u03c1\u03b5, \u03bb\u03af\u03b3\u03b1 \u03c7\u03b9\u03bb\u03b9\u03cc\u03bc\u03b5\u03c4\u03c1\u03b1 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03b7\u03bd\u03bf\u03c4\u03ac\u03c4\u03b7.",
+                        "display_url": "m.naftemporiki.gr/story/1795367/\u2026",
+                        "end": 39,
+                        "expanded_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                        "images": [
+                            {
+                                "height": 253,
+                                "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=orig",
+                                "width": 406
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 16,
+                        "status": 200,
+                        "title": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1- \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03ba\u03cc\u03bc\u03b7 \u03c3\u03c4\u03bf \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1",
+                        "unwound_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                        "url": "https://t.co/NmpXdb4Mr3"
+                    }
+                ]
+            },
+            "id": 1455676066488590344,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455507948365619202 type=retweeted"
+            ],
+            "text": "RT @papa_mat43: https://t.co/NmpXdb4Mr3\n\u0398\u03b1 \u03b4\u03bf\u03b8\u03bf\u03cd\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd \u03c3\u03c4\u03b7\u03bd \u03b9\u03c4\u03b1\u03bb\u03b9\u03b1.\u0394\u03b7\u03bb \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7,\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1 \u03ad\u2026"
+        },
+        {
+            "author_id": 791989904414765058,
+            "conversation_id": 1455563444250419201,
+            "created_at": "2021-11-02 15:52:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 71,
+                        "start": 58,
+                        "tag": "naftemporiki"
+                    },
+                    {
+                        "end": 82,
+                        "start": 72,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 87,
+                        "start": 83,
+                        "tag": "\u039c\u0395\u0398"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "COVID19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "18934391",
+                        "start": 3,
+                        "username": "naftemporikigr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795836/\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795836/neo-mauro-rekor-me-6700-krousmata-59-thanatoi-434-se-meth",
+                        "start": 109,
+                        "url": "https://t.co/fm7cdwtjXr"
+                    }
+                ]
+            },
+            "id": 1455563444250419201,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455563159549403142 type=retweeted"
+            ],
+            "text": "RT @naftemporikigr: 321 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c3\u03b5 \u03bc\u03af\u03b1 \u03b7\u03bc\u03ad\u03c1\u03b1. | #naftemporiki #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u039c\u0395\u0398 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 #COVID19 \nhttps://t.co/fm7cdwtjXr"
+        },
+        {
+            "author_id": 791403811143348224,
+            "conversation_id": 1455563339355017222,
+            "created_at": "2021-11-02 15:51:57+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 71,
+                        "start": 58,
+                        "tag": "naftemporiki"
+                    },
+                    {
+                        "end": 82,
+                        "start": 72,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 87,
+                        "start": 83,
+                        "tag": "\u039c\u0395\u0398"
+                    },
+                    {
+                        "end": 98,
+                        "start": 88,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 107,
+                        "start": 99,
+                        "tag": "COVID19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "18934391",
+                        "start": 3,
+                        "username": "naftemporikigr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795836/\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795836/neo-mauro-rekor-me-6700-krousmata-59-thanatoi-434-se-meth",
+                        "start": 109,
+                        "url": "https://t.co/fm7cdwtjXr"
+                    }
+                ]
+            },
+            "id": 1455563339355017222,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455563159549403142 type=retweeted"
+            ],
+            "text": "RT @naftemporikigr: 321 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c3\u03b5 \u03bc\u03af\u03b1 \u03b7\u03bc\u03ad\u03c1\u03b1. | #naftemporiki #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u039c\u0395\u0398 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 #COVID19 \nhttps://t.co/fm7cdwtjXr"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1455563159549403142,
+            "created_at": "2021-11-02 15:51:14+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 51,
+                        "start": 38,
+                        "tag": "naftemporiki"
+                    },
+                    {
+                        "end": 62,
+                        "start": 52,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 67,
+                        "start": 63,
+                        "tag": "\u039c\u0395\u0398"
+                    },
+                    {
+                        "end": 78,
+                        "start": 68,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 87,
+                        "start": 79,
+                        "tag": "COVID19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795836/\u2026",
+                        "end": 112,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795836/neo-mauro-rekor-me-6700-krousmata-59-thanatoi-434-se-meth",
+                        "start": 89,
+                        "url": "https://t.co/fm7cdwtjXr"
+                    }
+                ]
+            },
+            "id": 1455563159549403142,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 2
+            },
+            "text": "321 \u03b5\u03b9\u03c3\u03b1\u03b3\u03c9\u03b3\u03ad\u03c2 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03c3\u03b5 \u03bc\u03af\u03b1 \u03b7\u03bc\u03ad\u03c1\u03b1. | #naftemporiki #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u039c\u0395\u0398 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 #COVID19 \nhttps://t.co/fm7cdwtjXr"
+        },
+        {
+            "author_id": 1361411161569296386,
+            "conversation_id": 1455507948365619202,
+            "created_at": "2021-11-02 12:11:51+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 73,
+                        "start": 63,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 244,
+                        "start": 234,
+                        "tag": "\u039d\u0394_\u03b8\u03b5\u03bb\u03b1\u03c4\u03b5"
+                    },
+                    {
+                        "end": 268,
+                        "start": 245,
+                        "tag": "\u03a4\u03b9_\u03c8\u03b7\u03c6\u03af\u03c3\u03b1\u03c4\u03b5_\u03c1\u03b5_\u03bc\u03b1\u03bb\u03ac\u03ba\u03b5\u03c2"
+                    },
+                    {
+                        "end": 288,
+                        "start": 269,
+                        "tag": "\u03bc\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03ad\u03c3\u03b1\u03b9"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u03b1\u03c0\u03bf\u03bc\u03cc\u03bd\u03c9\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03b9\u03b1\u03ba\u03ae \u03bc\u03bf\u03bd\u03ac\u03b4\u03b1 \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1, \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03bd\u03b1 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03c3\u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03ba\u03b1\u03c4\u03ac \u03b4\u03b5\u03b9\u03b3\u03bc\u03b1\u03c4\u03bf\u03bb\u03b7\u03c0\u03c4\u03b9\u03ba\u03cc \u03ad\u03bb\u03b5\u03b3\u03c7\u03bf \u03c0\u03bf\u03c5 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03bf\u03c0\u03bf\u03b9\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ae \u03c4\u03bf\u03c5 \u039c\u03ad\u03c3\u03c4\u03c1\u03b5, \u03bb\u03af\u03b3\u03b1 \u03c7\u03b9\u03bb\u03b9\u03cc\u03bc\u03b5\u03c4\u03c1\u03b1 \u03b1\u03c0\u03cc\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0393\u03b1\u03bb\u03b7\u03bd\u03bf\u03c4\u03ac\u03c4\u03b7.",
+                        "display_url": "m.naftemporiki.gr/story/1795367/\u2026",
+                        "end": 23,
+                        "expanded_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                        "images": [
+                            {
+                                "height": 253,
+                                "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=orig",
+                                "width": 406
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455507953147056128/TMZGnvPX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 0,
+                        "status": 200,
+                        "title": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1- \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03ba\u03cc\u03bc\u03b7 \u03c3\u03c4\u03bf \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03bf\u03b9 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03bf\u03c5\u03c1\u03af\u03c3\u03c4\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03b2\u03c1\u03ad\u03b8\u03b7\u03ba\u03b1\u03bd \u03b8\u03b5\u03c4\u03b9\u03ba\u03bf\u03af \u03ad\u03be\u03c9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0392\u03b5\u03bd\u03b5\u03c4\u03af\u03b1",
+                        "unwound_url": "https://m.naftemporiki.gr/story/1795367/italia-koronoios-akomi-sto-nosokomeio-oi-ellines-touristes-pou-brethikan-thetikoi-ekso-apo-tin-benetia",
+                        "url": "https://t.co/NmpXdb4Mr3"
+                    }
+                ]
+            },
+            "id": 1455507948365619202,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "https://t.co/NmpXdb4Mr3\n\u0398\u03b1 \u03b4\u03bf\u03b8\u03bf\u03cd\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u0388\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd \u03c3\u03c4\u03b7\u03bd \u03b9\u03c4\u03b1\u03bb\u03b9\u03b1.\u0394\u03b7\u03bb \u03ad\u03c7\u03bf\u03c5\u03bd \u03ae\u03b4\u03b7,\u03b7 \u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03af\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03b5\u03b4\u03ce &amp; 6 \u03bc\u03ae\u03bd\u03b5\u03c2, \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03bf \u03a0\u03bf\u03bb\u03b1\u03ba\u03b7\u03c2 \u03ba\u03b1\u03c0\u03bd\u03af\u03b6\u03b5\u03b9\u2026.\u03b6\u03ae\u03c4\u03c9 \u03bf\u03b9 \u03c6\u03c1\u03b5\u03b3\u03b1\u03c4\u03b5\u03c2 &amp; \u00ab\u03bc\u03b7\u03bd \u03c3\u03ce\u03c3\u03bf\u03c5\u03bd &amp; \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03c5\u03bd\u00bb\n\n#\u039d\u0394_\u03b8\u03b5\u03bb\u03b1\u03c4\u03b5 #\u03a4\u03b9_\u03c8\u03b7\u03c6\u03af\u03c3\u03b1\u03c4\u03b5_\u03c1\u03b5_\u03bc\u03b1\u03bb\u03ac\u03ba\u03b5\u03c2 #\u03bc\u03b7\u03c4\u03c3\u03bf\u03c4\u03b1\u03ba\u03b7_\u03b3\u03b1\u03bc\u03b9\u03ad\u03c3\u03b1\u03b9"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1455199073582080005,
+            "created_at": "2021-11-01 15:44:30+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 103,
+                        "start": 90,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795438",
+                        "end": 89,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795438",
+                        "start": 66,
+                        "url": "https://t.co/MkK0YdBMxu"
+                    }
+                ]
+            },
+            "id": 1455199073582080005,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1: 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - 430 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/MkK0YdBMxu #naftemporiki"
+        },
+        {
+            "author_id": 386072477,
+            "conversation_id": 1454867975945719813,
+            "created_at": "2021-10-31 17:48:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 99,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "18934391",
+                        "start": 3,
+                        "username": "naftemporikigr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795027",
+                        "end": 98,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795027",
+                        "start": 75,
+                        "url": "https://t.co/EUQb8at1Ez"
+                    }
+                ]
+            },
+            "id": 1454867975945719813,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454835047022972936 type=retweeted"
+            ],
+            "text": "RT @naftemporikigr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/EUQb8at1Ez #naftemporiki"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1454835047022972936,
+            "created_at": "2021-10-31 15:37:59+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 92,
+                        "start": 79,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795027",
+                        "end": 78,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795027",
+                        "start": 55,
+                        "url": "https://t.co/EUQb8at1Ez"
+                    }
+                ]
+            },
+            "id": 1454835047022972936,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 421 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/EUQb8at1Ez #naftemporiki"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1454737585344024576,
+            "created_at": "2021-10-31 09:10:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794949/\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794949/eody-313-krousmata-covid-19-se-8795-rapid-tests-to-sabbato",
+                        "start": 61,
+                        "url": "https://t.co/JFl7gOZaIj"
+                    }
+                ]
+            },
+            "id": 1454737585344024576,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u039f\u0394\u03a5: 313 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 Covid-19 \u03c3\u03b5 8.795 rapid tests \u03c4\u03bf \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf https://t.co/JFl7gOZaIj"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1454460558145622025,
+            "created_at": "2021-10-30 14:49:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 67,
+                        "start": 54,
+                        "tag": "naftemporiki"
+                    },
+                    {
+                        "end": 76,
+                        "start": 68,
+                        "tag": "covid19"
+                    },
+                    {
+                        "end": 87,
+                        "start": 77,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 93,
+                        "start": 89,
+                        "tag": "\u039c\u0395\u0398"
+                    },
+                    {
+                        "end": 103,
+                        "start": 94,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 114,
+                        "start": 104,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794831/\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794831/koronoios-rekor-me-4696-nea-krousmata-38-thanatoi-404-se-meth",
+                        "start": 116,
+                        "url": "https://t.co/HG4MVxABPU"
+                    }
+                ]
+            },
+            "id": 1454460558145622025,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "15.894 \u03c3\u03c5\u03bd\u03bf\u03bb\u03b9\u03ba\u03ac \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc. #naftemporiki #covid19 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2  #\u039c\u0395\u0398 #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03b9\u03b1 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/HG4MVxABPU"
+        },
+        {
+            "author_id": 298442566,
+            "conversation_id": 1454097826510671874,
+            "created_at": "2021-10-29 14:48:32+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 107,
+                        "start": 94,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "18934391",
+                        "start": 3,
+                        "username": "naftemporikigr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794587",
+                        "end": 93,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794587",
+                        "start": 70,
+                        "url": "https://t.co/pt4HKCXEQD"
+                    }
+                ]
+            },
+            "id": 1454097826510671874,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454096212865560579 type=retweeted"
+            ],
+            "text": "RT @naftemporikigr: \u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 55 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 392 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/pt4HKCXEQD #naftemporiki"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1454096212865560579,
+            "created_at": "2021-10-29 14:42:07+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 87,
+                        "start": 74,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794587",
+                        "end": 73,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794587",
+                        "start": 50,
+                        "url": "https://t.co/pt4HKCXEQD"
+                    }
+                ]
+            },
+            "id": 1454096212865560579,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 55 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, 3.643 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 392 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/pt4HKCXEQD #naftemporiki"
+        },
+        {
+            "author_id": 1055122482,
+            "conversation_id": 1453464948173123587,
+            "created_at": "2021-10-27 20:53:42+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 117,
+                        "start": 107,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1792746/\u2026",
+                        "end": 141,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1792746/austria-sto-trapezi-metra-lockdown-mono-gia-anemboliastous",
+                        "start": 118,
+                        "url": "https://t.co/almc3yZGNY"
+                    }
+                ]
+            },
+            "id": 1453464948173123587,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039b\u03bf\u03b3\u03b9\u03ba\u03ac \u03b8\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03bc\u03ac\u03c2, \u03b1\u03c6\u03bf\u03cd \u03cc\u03c4\u03b9 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03c5\u03c1\u03ce\u03c0\u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03cc\u03b6\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bb\u03af\u03b3\u03bf \u03ba\u03b1\u03b9\u03c1\u03cc \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1. #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/almc3yZGNY"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1453374798730514434,
+            "created_at": "2021-10-27 14:55:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 92,
+                        "start": 79,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794014",
+                        "end": 78,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794014",
+                        "start": 55,
+                        "url": "https://t.co/5rR4MDjBQO"
+                    }
+                ]
+            },
+            "id": 1453374798730514434,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9, 387 \u03c3\u03b5 \u039c\u0395\u0398 https://t.co/5rR4MDjBQO #naftemporiki"
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 98872288,
+                "conversation_id": 1455784660026413057,
+                "created_at": "2021-11-03 06:31:24+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b9 \u03b4\u03ad\u03bf\u03bd \u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9.",
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 128,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3592528/o-katholikos-emboliasmos-os-proupothesi-gia-tin-leitourgia-tis-koinonias-oikonomias-ekdilosi-tou-diktuou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920157",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1455784666590547971/XRNCLIrv?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455784666590547971/XRNCLIrv?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 105,
+                            "status": 200,
+                            "title": "\u039f \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c9\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2-\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 - E\u03ba\u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0394\u0399\u039a\u03a4\u03a5\u039f\u03a5",
+                            "unwound_url": "https://www.capital.gr/epikairotita/3592528/o-katholikos-emboliasmos-os-proupothesi-gia-tin-leitourgia-tis-koinonias-oikonomias-ekdilosi-tou-diktuou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920157",
+                            "url": "https://t.co/1VmFXJgcg1"
+                        }
+                    ]
+                },
+                "id": 1455784660026413057,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039f \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c9\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2-\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 - E\u03ba\u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0394\u0399\u039a\u03a4\u03a5\u039f\u03a5 https://t.co/1VmFXJgcg1"
+            },
+            {
+                "author_id": 98872288,
+                "conversation_id": 1454850616275124224,
+                "created_at": "2021-10-31 16:39:51+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039f \u03ba. \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b5\u03c0\u03b9\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \"\u03b5\u03c0\u03ad\u03bb\u03b5\u03be\u03b5 \u03bd\u03b1 \u03bc\u03b7 \u03b3\u03af\u03bd\u03b5\u03b9 \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03b7\" .",
+                            "display_url": "capital.gr/epikairotita/3\u2026",
+                            "end": 132,
+                            "expanded_url": "https://www.capital.gr/epikairotita/3591928/nikos-androulakis-na-proxorisei-amesa-o-upoxreotikos-emboliasmos-se-osous-erxontai-se-epafi-me-tous-polites?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635693937",
+                            "images": [
+                                {
+                                    "height": 523,
+                                    "url": "https://pbs.twimg.com/news_img/1454850620461039623/HONzGsSW?format=jpg&name=orig",
+                                    "width": 1000
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454850620461039623/HONzGsSW?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 109,
+                            "status": 200,
+                            "title": "\u039d\u03af\u03ba\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039d\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2",
+                            "unwound_url": "https://www.capital.gr/epikairotita/3591928/nikos-androulakis-na-proxorisei-amesa-o-upoxreotikos-emboliasmos-se-osous-erxontai-se-epafi-me-tous-polites?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635693937",
+                            "url": "https://t.co/bmrAaWTMhK"
+                        }
+                    ]
+                },
+                "id": 1454850616275124224,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039d\u03af\u03ba\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039d\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 https://t.co/bmrAaWTMhK"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-04-10 08:31:07+00:00",
+                "description": "",
+                "id": 2436715856,
+                "name": "Kostas Perantakos",
+                "public_metrics": {
+                    "followers_count": 636,
+                    "following_count": 1034,
+                    "listed_count": 0,
+                    "tweet_count": 9796
+                },
+                "username": "kperantakos",
+                "verified": false
+            },
+            {
+                "created_at": "2009-12-23 12:49:16+00:00",
+                "description": "\u039a\u03b5\u03c6\u03ac\u03bb\u03b1\u03b9\u03bf \u03c3\u03c4\u03b7\u03bd \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7",
+                "id": 98872288,
+                "name": "capital.gr",
+                "public_metrics": {
+                    "followers_count": 77428,
+                    "following_count": 0,
+                    "listed_count": 764,
+                    "tweet_count": 213259
+                },
+                "username": "capitalgr",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2436715856,
+            "conversation_id": 1455785100298366977,
+            "created_at": "2021-11-03 06:33:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1455785100298366977,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455784660026413057 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039f \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c9\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2-\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 - E\u03ba\u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0394\u0399\u039a\u03a4\u03a5\u039f\u03a5 https://t.co/1VmFXJ\u2026"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1455784660026413057,
+            "created_at": "2021-11-03 06:31:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b9 \u03b4\u03ad\u03bf\u03bd \u03b3\u03b5\u03bd\u03ad\u03c3\u03b8\u03b1\u03b9.",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 128,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3592528/o-katholikos-emboliasmos-os-proupothesi-gia-tin-leitourgia-tis-koinonias-oikonomias-ekdilosi-tou-diktuou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920157",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1455784666590547971/XRNCLIrv?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455784666590547971/XRNCLIrv?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 105,
+                        "status": 200,
+                        "title": "\u039f \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c9\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2-\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 - E\u03ba\u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0394\u0399\u039a\u03a4\u03a5\u039f\u03a5",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3592528/o-katholikos-emboliasmos-os-proupothesi-gia-tin-leitourgia-tis-koinonias-oikonomias-ekdilosi-tou-diktuou?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635920157",
+                        "url": "https://t.co/1VmFXJgcg1"
+                    }
+                ]
+            },
+            "id": 1455784660026413057,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039f \u03ba\u03b1\u03b8\u03bf\u03bb\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c9\u03c2 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2-\u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 - E\u03ba\u03b4\u03ae\u03bb\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0394\u0399\u039a\u03a4\u03a5\u039f\u03a5 https://t.co/1VmFXJgcg1"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454860729950015497,
+            "created_at": "2021-10-31 17:20:02+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "98872288",
+                        "start": 3,
+                        "username": "capitalgr"
+                    }
+                ]
+            },
+            "id": 1454860729950015497,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454850616275124224 type=retweeted"
+            ],
+            "text": "RT @capitalgr: \u039d\u03af\u03ba\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039d\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 https://t.co/bm\u2026"
+        },
+        {
+            "author_id": 98872288,
+            "conversation_id": 1454850616275124224,
+            "created_at": "2021-10-31 16:39:51+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039f \u03ba. \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b5\u03c0\u03b9\u03ba\u03c1\u03af\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03b5\u03c0\u03b5\u03b9\u03b4\u03ae, \u03cc\u03c0\u03c9\u03c2 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \"\u03b5\u03c0\u03ad\u03bb\u03b5\u03be\u03b5 \u03bd\u03b1 \u03bc\u03b7 \u03b3\u03af\u03bd\u03b5\u03b9 \u03b4\u03c5\u03c3\u03ac\u03c1\u03b5\u03c3\u03c4\u03b7\" .",
+                        "display_url": "capital.gr/epikairotita/3\u2026",
+                        "end": 132,
+                        "expanded_url": "https://www.capital.gr/epikairotita/3591928/nikos-androulakis-na-proxorisei-amesa-o-upoxreotikos-emboliasmos-se-osous-erxontai-se-epafi-me-tous-polites?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635693937",
+                        "images": [
+                            {
+                                "height": 523,
+                                "url": "https://pbs.twimg.com/news_img/1454850620461039623/HONzGsSW?format=jpg&name=orig",
+                                "width": 1000
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454850620461039623/HONzGsSW?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 109,
+                        "status": 200,
+                        "title": "\u039d\u03af\u03ba\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039d\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2",
+                        "unwound_url": "https://www.capital.gr/epikairotita/3591928/nikos-androulakis-na-proxorisei-amesa-o-upoxreotikos-emboliasmos-se-osous-erxontai-se-epafi-me-tous-polites?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635693937",
+                        "url": "https://t.co/bmrAaWTMhK"
+                    }
+                ]
+            },
+            "id": 1454850616275124224,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039d\u03af\u03ba\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03bf\u03c5\u03bb\u03ac\u03ba\u03b7\u03c2: \u039d\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03b7\u03c3\u03b5\u03b9 \u03ac\u03bc\u03b5\u03c3\u03b1 \u03bf \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b5\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03b5 \u03b5\u03c0\u03b1\u03c6\u03ae \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 https://t.co/bmrAaWTMhK"
+        }
+    ]
+}

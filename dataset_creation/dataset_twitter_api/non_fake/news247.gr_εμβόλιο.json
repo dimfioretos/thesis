@@ -1,0 +1,391 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 834338862713470976,
+                "conversation_id": 1454779878482587648,
+                "created_at": "2021-11-01 00:03:41+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "id": "1235597093269655552",
+                            "start": 0,
+                            "username": "tsouganatos"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u039d\u03ad\u03b1 \u03b1\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd \u03c3\u03c4o Twitter \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03bc\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03ae \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ac\u03c4\u03bf\u03bc\u03b1 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 45-49.",
+                            "display_url": "google.com/amp/s/www.news\u2026",
+                            "end": 114,
+                            "expanded_url": "https://www.google.com/amp/s/www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.amp.html",
+                            "images": [
+                                {
+                                    "height": 512,
+                                    "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 91,
+                            "status": 200,
+                            "title": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2: \u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf",
+                            "unwound_url": "https://www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.html",
+                            "url": "https://t.co/neuwyWMOtG"
+                        }
+                    ]
+                },
+                "id": 1454962312641753089,
+                "in_reply_to_user_id": 1235597093269655552,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454817305360277505 type=replied_to"
+                ],
+                "text": "@tsouganatos \"\u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf\" \u03b5\u03af\u03c7\u03b5 \u03b3\u03c1\u03ac\u03c8\u03b5\u03b9 \u03bf \u03c0\u03bb\u03b1\u03c3\u03b9\u03ad \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd.\nhttps://t.co/neuwyWMOtG"
+            },
+            {
+                "author_id": 1235597093269655552,
+                "conversation_id": 1454779878482587648,
+                "created_at": "2021-10-31 14:27:29+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 11,
+                            "id": "910250401210957825",
+                            "start": 0,
+                            "username": "kordonias_"
+                        }
+                    ]
+                },
+                "id": 1454817305360277505,
+                "in_reply_to_user_id": 910250401210957825,
+                "public_metrics": {
+                    "like_count": 11,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 2
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454779879845732353 type=replied_to"
+                ],
+                "text": "@kordonias_ \u039a\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf \u03c0\u03bf\u03c5 \u03c3\u03bf\u03c5 \u03bb\u03ad\u03b5\u03b9 \u03bf \u039a\u03bf\u03cd\u03bb\u03b7\u03c2 \u00ab\u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03b1\u03c3\u03c6\u03b1\u03bb\u03ad\u03c3\u03c4\u03b5\u03c1\u03bf\u00bb \u03ba\u03b1\u03c4\u03b1\u03bb\u03b1\u03b2\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03bd\u03b5\u03af\u03c2 \u03c4\u03bf \u03bd\u03bf\u03b7\u03c4\u03b9\u03ba\u03cc \u03b5\u03c0\u03af\u03c0\u03b5\u03b4\u03bf \u03c4\u03bf\u03c5 \u03af\u03b4\u03b9\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd \u03ba\u03bf\u03bc\u03bc\u03b1\u03c4\u03cc\u03c3\u03ba\u03c5\u03bb\u03c9\u03bd."
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-03-05 16:04:53+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03ad\u03c1\u03b1\u03c2 4 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd,A\u03be\u03ba\u03cc\u03c2 \u03b5.\u03b1,MA National Security Affairs(NPS-Monterey,USA),\u03c0\u03c1\u03ce\u03b7\u03bd \u0394\u03bd\u03c4\u03b7\u03c2 \u03a3\u03c4\u03c1\u03b1\u03c4/\u03ba\u03ae\u03c2 \u03b5\u03ba\u03c0/\u03c3\u03b7\u03c2 \u03a3\u03a3\u0395",
+                "id": 1235597093269655552,
+                "name": "\u0391\u03b8\u03b1\u03bd\u03ac\u03c3\u03b9\u03bf\u03c2 \u03a4\u03c3\u03bf\u03c5\u03b3\u03b1\u03bd\u03ac\u03c4\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 1078,
+                    "following_count": 1047,
+                    "listed_count": 6,
+                    "tweet_count": 19156
+                },
+                "username": "tsouganatos",
+                "verified": false
+            },
+            {
+                "created_at": "2017-02-22 09:47:40+00:00",
+                "description": "\u201c\u0393\u03bd\u03ce\u03c3\u03b5\u03c3\u03b8\u03b5 \u03c4\u03ae\u03bd \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1\u03bd, \u03ba\u03b1\u03af \u1f21 \u1f00\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u1f10\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03ce\u03c3\u03b5\u03b9 \u1f51\u03bc\u1fb6\u03c2\u201d (\u1f38\u03c9. \u03b7\u0384 32)\n''And ye shall know the truth, and the truth shall make you free'' (John 8:32)",
+                "id": 834338862713470976,
+                "name": "Constantinos",
+                "public_metrics": {
+                    "followers_count": 364,
+                    "following_count": 493,
+                    "listed_count": 3,
+                    "tweet_count": 17936
+                },
+                "username": "dinos_sonid",
+                "verified": false
+            },
+            {
+                "created_at": "2021-09-05 20:45:45+00:00",
+                "description": "\u0391\u0399\u03a9\u039d\u0399\u039f\u0399 \u039f\u0394\u03a5\u03a3\u03a3\u0395\u0399\u03a3 \u03a0\u03a1\u039f\u039f\u03a1\u0399\u03a3\u039c\u0395\u039d\u039f\u0399 \u039d\u0391 \u03a4\u03a5\u03a6\u039b\u03a9\u03a3\u039f\u03a5\u039c\u0395 \u0393\u0399\u0391 \u0391\u039a\u039f\u039c\u0391 \u039c\u0399\u0391 \u03a6\u039f\u03a1\u0391 \u03a4\u039f\u039d \u039c\u039f\u039d\u039f\u03a6\u0398\u0391\u039b\u039c\u039f \u03a0\u039f\u039b\u03a5\u03a6\u0397\u039c\u039f \u039a\u03a5\u039a\u039b\u03a9\u03a0\u0391",
+                "id": 1434618510597054464,
+                "name": "\u03c4\u03b9\u03c3\u03b9\u03c2",
+                "public_metrics": {
+                    "followers_count": 362,
+                    "following_count": 625,
+                    "listed_count": 1,
+                    "tweet_count": 5516
+                },
+                "username": "8X6QgJLfazJ9YNo",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-21 11:28:20+00:00",
+                "description": "\u03a3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7\u03c2.",
+                "id": 19284221,
+                "name": "NEWS 24/7",
+                "public_metrics": {
+                    "followers_count": 145371,
+                    "following_count": 444,
+                    "listed_count": 1154,
+                    "tweet_count": 364492
+                },
+                "username": "News247gr",
+                "verified": true
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1235597093269655552,
+            "conversation_id": 1455026388646379520,
+            "created_at": "2021-11-01 04:18:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "834338862713470976",
+                        "start": 3,
+                        "username": "dinos_sonid"
+                    },
+                    {
+                        "end": 29,
+                        "id": "1235597093269655552",
+                        "start": 17,
+                        "username": "tsouganatos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03b1 \u03b1\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd \u03c3\u03c4o Twitter \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03bc\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03ae \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ac\u03c4\u03bf\u03bc\u03b1 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 45-49.",
+                        "display_url": "google.com/amp/s/www.news\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.google.com/amp/s/www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.amp.html",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 108,
+                        "status": 200,
+                        "title": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2: \u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf",
+                        "unwound_url": "https://www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.html",
+                        "url": "https://t.co/neuwyWMOtG"
+                    }
+                ]
+            },
+            "id": 1455026388646379520,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454962312641753089 type=retweeted"
+            ],
+            "text": "RT @dinos_sonid: @tsouganatos \"\u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf\" \u03b5\u03af\u03c7\u03b5 \u03b3\u03c1\u03ac\u03c8\u03b5\u03b9 \u03bf \u03c0\u03bb\u03b1\u03c3\u03b9\u03ad \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd.\nhttps://t.co/neuwyWMOtG"
+        },
+        {
+            "author_id": 1434618510597054464,
+            "conversation_id": 1454962486793449474,
+            "created_at": "2021-11-01 00:04:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "834338862713470976",
+                        "start": 3,
+                        "username": "dinos_sonid"
+                    },
+                    {
+                        "end": 29,
+                        "id": "1235597093269655552",
+                        "start": 17,
+                        "username": "tsouganatos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03b1 \u03b1\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd \u03c3\u03c4o Twitter \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03bc\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03ae \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ac\u03c4\u03bf\u03bc\u03b1 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 45-49.",
+                        "display_url": "google.com/amp/s/www.news\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.google.com/amp/s/www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.amp.html",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 108,
+                        "status": 200,
+                        "title": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2: \u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf",
+                        "unwound_url": "https://www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.html",
+                        "url": "https://t.co/neuwyWMOtG"
+                    }
+                ]
+            },
+            "id": 1454962486793449474,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454962312641753089 type=retweeted"
+            ],
+            "text": "RT @dinos_sonid: @tsouganatos \"\u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf\" \u03b5\u03af\u03c7\u03b5 \u03b3\u03c1\u03ac\u03c8\u03b5\u03b9 \u03bf \u03c0\u03bb\u03b1\u03c3\u03b9\u03ad \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd.\nhttps://t.co/neuwyWMOtG"
+        },
+        {
+            "author_id": 834338862713470976,
+            "conversation_id": 1454779878482587648,
+            "created_at": "2021-11-01 00:03:41+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1235597093269655552",
+                        "start": 0,
+                        "username": "tsouganatos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039d\u03ad\u03b1 \u03b1\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03bf\u03cd \u03c3\u03c4o Twitter \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03bc\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03ae \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b1 \u03ac\u03c4\u03bf\u03bc\u03b1 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 45-49.",
+                        "display_url": "google.com/amp/s/www.news\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.google.com/amp/s/www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.amp.html",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1452745484829925385/sm5qNrJu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 91,
+                        "status": 200,
+                        "title": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2: \u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf",
+                        "unwound_url": "https://www.news247.gr/politiki/mitsotakis-to-kalytero-emvolio-einai-to-grigorotero.9219005.html",
+                        "url": "https://t.co/neuwyWMOtG"
+                    }
+                ]
+            },
+            "id": 1454962312641753089,
+            "in_reply_to_user_id": 1235597093269655552,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454817305360277505 type=replied_to"
+            ],
+            "text": "@tsouganatos \"\u03a4\u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03b3\u03c1\u03b7\u03b3\u03bf\u03c1\u03cc\u03c4\u03b5\u03c1\u03bf\" \u03b5\u03af\u03c7\u03b5 \u03b3\u03c1\u03ac\u03c8\u03b5\u03b9 \u03bf \u03c0\u03bb\u03b1\u03c3\u03b9\u03ad \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd.\nhttps://t.co/neuwyWMOtG"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454514981114941441,
+            "created_at": "2021-10-30 18:26:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0394\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03cc \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c3\u03c4\u03bf \u03ba\u03b9\u03bd\u03b7\u03c4\u03cc \u03c4\u03b7\u03bb\u03ad\u03c6\u03c9\u03bd\u03bf \u03b8\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03bd\u03b1 \u03bd\u03bf\u03c3\u03ae\u03c3\u03bf\u03c5\u03bd \u03ae \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. \u03a0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03b3\u03bc\u03b1\u03c4\u03b1 sms \u03b1\u03bd\u03ac \u03b7\u03bc\u03ad\u03c1\u03b1.",
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 184,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-nea-kampania-me-sms-sta-kinita-450-000-anemvoliaston.9406886.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635618341",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1454514983228919816/q41IiCPH?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454514983228919816/q41IiCPH?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 161,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03b1 \u03ba\u03b1\u03bc\u03c0\u03ac\u03bd\u03b9\u03b1 \u03bc\u03b5 SMS \u03c3\u03c4\u03b1 \u03ba\u03b9\u03bd\u03b7\u03c4\u03ac 450.000 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd",
+                        "unwound_url": "https://www.news247.gr/ygeia/koronoios-nea-kampania-me-sms-sta-kinita-450-000-anemvoliaston.9406886.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635618341",
+                        "url": "https://t.co/49fsTqltYg"
+                    }
+                ]
+            },
+            "id": 1454514981114941441,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 2,
+                "reply_count": 5,
+                "retweet_count": 0
+            },
+            "text": "\u0394\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03cc \u03bc\u03ae\u03bd\u03c5\u03bc\u03b1 \u03c3\u03c4\u03bf \u03ba\u03b9\u03bd\u03b7\u03c4\u03cc \u03c4\u03b7\u03bb\u03ad\u03c6\u03c9\u03bd\u03bf \u03b8\u03b1 \u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c1\u03c7\u03cc\u03bc\u03b5\u03bd\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03bc\u03ad\u03c7\u03c1\u03b9 \u03bd\u03b1 \u03bd\u03bf\u03c3\u03ae\u03c3\u03bf\u03c5\u03bd \u03ae \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. \u03a0\u03b1\u03c1\u03b1\u03b4\u03b5\u03af\u03b3\u03bc\u03b1\u03c4\u03b1 sms \u03b1\u03bd\u03ac \u03b7\u03bc\u03ad\u03c1\u03b1. https://t.co/49fsTqltYg"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1453527363757789184,
+            "created_at": "2021-10-28 01:01:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0391\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u039c\u03b1\u03c1\u03af\u03b1\u03c2 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03bf\u03c5 \u03c3\u03c4\u03bf Instagram \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u0393\u03b9\u03ac\u03bd\u03bd\u03b7 \u0391\u03ca\u03b2\u03ac\u03b6\u03b7 \u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc. \u03a4\u03b9 \u03b5\u03af\u03c0\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf.",
+                        "display_url": "news247.gr/celebrities/pa\u2026",
+                        "end": 167,
+                        "expanded_url": "https://www.news247.gr/celebrities/paramenei-sto-nosokomeio-o-giannis-aivazis-ekklisi-tis-marias-korinthioy-meso-instagram.9403729.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635374509",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1453527366433705985/sRmSdJ2Y?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453527366433705985/sRmSdJ2Y?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 144,
+                        "status": 200,
+                        "title": "\u03a0\u03b1\u03c1\u03b1\u03bc\u03ad\u03bd\u03b5\u03b9 \u03c3\u03c4\u03bf \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03bf \u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u0391\u03ca\u03b2\u03ac\u03b6\u03b7\u03c2 - \u0388\u03ba\u03ba\u03bb\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u039c\u03b1\u03c1\u03af\u03b1\u03c2 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03bf\u03c5 \u03bc\u03ad\u03c3\u03c9 Instagram",
+                        "unwound_url": "https://www.news247.gr/celebrities/paramenei-sto-nosokomeio-o-giannis-aivazis-ekklisi-tis-marias-korinthioy-meso-instagram.9403729.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635374509",
+                        "url": "https://t.co/zYx7xnRptP"
+                    }
+                ]
+            },
+            "id": 1453527363757789184,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 2,
+                "retweet_count": 0
+            },
+            "text": "\u0391\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u039c\u03b1\u03c1\u03af\u03b1\u03c2 \u039a\u03bf\u03c1\u03b9\u03bd\u03b8\u03af\u03bf\u03c5 \u03c3\u03c4\u03bf Instagram \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u0393\u03b9\u03ac\u03bd\u03bd\u03b7 \u0391\u03ca\u03b2\u03ac\u03b6\u03b7 \u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc. \u03a4\u03b9 \u03b5\u03af\u03c0\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf. https://t.co/zYx7xnRptP"
+        }
+    ]
+}

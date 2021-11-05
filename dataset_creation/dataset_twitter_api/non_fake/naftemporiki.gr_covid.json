@@ -1,0 +1,757 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 484624051,
+                "conversation_id": 1454910617622614018,
+                "created_at": "2021-11-01 12:22:28+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "17962401",
+                            "start": 0,
+                            "username": "ankostis"
+                        }
+                    ]
+                },
+                "id": 1455148233194356750,
+                "in_reply_to_user_id": 17962401,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1455147617244094465 type=replied_to"
+                ],
+                "text": "@ankostis \u039f\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03b2\u03c1\u03b5 \u03ba\u03b1\u03b7\u03bc\u03ad\u03bd\u03b5 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03c1\u03ce\u03c4\u03bf\u03bd \u03ac\u03c1\u03c1\u03c9\u03c3\u03c4\u03bf\u03b9 \u03cc\u03bb\u03bf\u03b9, \u03c4\u03b5\u03c3\u03c4\u03ac\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 2 \u03c6\u03bf\u03c1\u03ad\u03c2 \u03c4\u03b7 \u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1 \u03ba\u03b1\u03b9 \u03b4\u03b5\u03bd \u03bc\u03c0\u03b1\u03af\u03bd\u03bf\u03c5\u03bd \u03c3\u03b5 \u03ba\u03bb\u03b5\u03b9\u03c3\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2. \u0395\u03bd\u03ce \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9 \u03bf\u03cd\u03c4\u03b5 \u03c4\u03b5\u03c3\u03c4\u03ac\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9, \u03bd\u03bf\u03c3\u03bf\u03cd\u03bd, \u03bc\u03b5\u03c4\u03b1\u03b4\u03af\u03b4\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03ba\u03b1\u03b9 \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03c0\u03ac\u03c1\u03c4\u03c5... \u03a1\u03b5 \u03c3\u03b5\u03b9\u03c2 \u03c0\u03ac\u03c4\u03b5 \u03ba\u03b1\u03bb\u03ac;"
+            },
+            {
+                "author_id": 409952079,
+                "conversation_id": 1454796585578213382,
+                "created_at": "2021-10-31 16:13:18+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "id": "1357818632135462912",
+                            "start": 0,
+                            "username": "Makis_crazy"
+                        },
+                        {
+                            "end": 24,
+                            "id": "1304145154731839492",
+                            "start": 13,
+                            "username": "inafizinaf"
+                        }
+                    ]
+                },
+                "id": 1454843934526656518,
+                "in_reply_to_user_id": 1357818632135462912,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 4,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454822878629842944 type=replied_to"
+                ],
+                "text": "@Makis_crazy @inafizinaf \"\u03a5\u03c0\u03ac\u03c1\u03c7\u03bf\u03c5\u03bd \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03b1 \u03bc\u03b5 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b9\u03bf\u03cd\".\n\u03a0\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd 3."
+            },
+            {
+                "author_id": 18934391,
+                "conversation_id": 1454382144382439430,
+                "created_at": "2021-10-30 09:38:18+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 115,
+                            "start": 102,
+                            "tag": "naftemporiki"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "naftemporiki.gr/story/1794763",
+                            "end": 101,
+                            "expanded_url": "https://www.naftemporiki.gr/story/1794763",
+                            "start": 78,
+                            "url": "https://t.co/hmjeBHgR9i"
+                        }
+                    ]
+                },
+                "id": 1454382144382439430,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "Covid-19: \u03a0\u03cc\u03c3\u03bf \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7; https://t.co/hmjeBHgR9i #naftemporiki"
+            },
+            {
+                "author_id": 103529492,
+                "conversation_id": 1454130359549972482,
+                "created_at": "2021-10-29 17:27:40+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "id": "168271127",
+                            "start": 0,
+                            "username": "mystirios70"
+                        },
+                        {
+                            "end": 20,
+                            "id": "842106060756418563",
+                            "start": 13,
+                            "username": "Nyrros"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/zfjvnBGk5q",
+                            "end": 46,
+                            "expanded_url": "https://twitter.com/herogrig/status/1454137873129779203/photo/1",
+                            "start": 23,
+                            "url": "https://t.co/zfjvnBGk5q"
+                        }
+                    ]
+                },
+                "id": 1454137873129779203,
+                "in_reply_to_user_id": 168271127,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 2,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454137318399479809 type=replied_to"
+                ],
+                "text": "@mystirios70 @Nyrros ? https://t.co/zfjvnBGk5q"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2009-01-13 10:09:17+00:00",
+                "description": "\u03a1\u03b5\u03c0\u03bf\u03c1\u03c4\u03ac\u03b6, multimedia, \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 & \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf.",
+                "id": 18934391,
+                "name": "naftemporiki.gr",
+                "public_metrics": {
+                    "followers_count": 192181,
+                    "following_count": 78,
+                    "listed_count": 1795,
+                    "tweet_count": 297351
+                },
+                "username": "naftemporikigr",
+                "verified": false
+            },
+            {
+                "created_at": "2009-11-06 08:26:08+00:00",
+                "description": "Please do not follow me if you think that I know the way",
+                "id": 87896855,
+                "name": "Yiannis Mouratidis",
+                "public_metrics": {
+                    "followers_count": 122,
+                    "following_count": 15,
+                    "listed_count": 4,
+                    "tweet_count": 1829
+                },
+                "username": "virtualgr",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-05 14:36:51+00:00",
+                "description": "\u039f\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c3\u03b5\u03bb\u03af\u03b4\u03b5\u03c2. \u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c3\u03b5\u03c9\u03bd.",
+                "id": 3360734176,
+                "name": "entypos.com",
+                "public_metrics": {
+                    "followers_count": 868,
+                    "following_count": 25,
+                    "listed_count": 18,
+                    "tweet_count": 748248
+                },
+                "username": "entypos",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-08 13:34:10+00:00",
+                "description": "Unlike Jeffrey`s explanation in '12 Monkeys', twitter alone cannot copy my mind.",
+                "id": 17962401,
+                "name": "-(ankostis)-",
+                "public_metrics": {
+                    "followers_count": 774,
+                    "following_count": 2152,
+                    "listed_count": 26,
+                    "tweet_count": 29284
+                },
+                "username": "ankostis",
+                "verified": false
+            },
+            {
+                "created_at": "2012-02-06 09:46:18+00:00",
+                "description": "Modern Ninja/Goat Herder - Livestock Enthusiast - Professional/Scientific/Advanced Goat Herding Consultancy Services - Low tolerance for BS",
+                "id": 484624051,
+                "name": "_0minus_",
+                "public_metrics": {
+                    "followers_count": 155,
+                    "following_count": 506,
+                    "listed_count": 1,
+                    "tweet_count": 3087
+                },
+                "username": "_0minus_",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-29 19:12:02+00:00",
+                "description": "Member of Research Council ME/CFS - Brag\u00e9e Clinics - Stockholm - Radiologist Working With Intervention/Artificial intelligence/ Augmented Reality",
+                "id": 1387847090626338820,
+                "name": "Anastasios Michos",
+                "public_metrics": {
+                    "followers_count": 922,
+                    "following_count": 5008,
+                    "listed_count": 0,
+                    "tweet_count": 263
+                },
+                "username": "reviews_fusion",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-05 22:29:41+00:00",
+                "description": "smile",
+                "id": 1357818632135462912,
+                "name": "Makis_crazy",
+                "public_metrics": {
+                    "followers_count": 76,
+                    "following_count": 47,
+                    "listed_count": 0,
+                    "tweet_count": 1703
+                },
+                "username": "Makis_crazy",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-11 12:54:23+00:00",
+                "description": "\u03a3\u03b9\u03c7\u03b1\u03af\u03bd\u03bf\u03bc\u03b1\u03b9 \u03c4\u03b1 \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ac \u03ac\u03ba\u03c1\u03b1. \u039a\u03bf\u03bc\u03bc\u03bf\u03c5\u03bd\u03b9\u03c3\u03c4\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03bd\u03b1\u03b6\u03af, \u03c4\u03bf \u03af\u03b4\u03b9\u03bf \u03bc\u03b1\u03b3\u03b1\u03b6\u03af.",
+                "id": 409952079,
+                "name": "kardinalios",
+                "public_metrics": {
+                    "followers_count": 127,
+                    "following_count": 24,
+                    "listed_count": 1,
+                    "tweet_count": 2224
+                },
+                "username": "kardinalios74",
+                "verified": false
+            },
+            {
+                "created_at": "2013-01-31 17:55:41+00:00",
+                "description": "STRATEGIST,\nMEDIA PRODUCER,TINKER",
+                "id": 1137528692,
+                "name": "NICHOLAS KARAHALIOS",
+                "public_metrics": {
+                    "followers_count": 2275,
+                    "following_count": 2103,
+                    "listed_count": 19,
+                    "tweet_count": 615
+                },
+                "username": "KarahaliosNikos",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-20 16:50:59+00:00",
+                "description": "trying to understand",
+                "id": 417184378,
+                "name": "ksk",
+                "public_metrics": {
+                    "followers_count": 499,
+                    "following_count": 208,
+                    "listed_count": 0,
+                    "tweet_count": 58534
+                },
+                "username": "KarmaKatna",
+                "verified": false
+            },
+            {
+                "created_at": "2010-07-18 22:11:53+00:00",
+                "description": "\u03a4\u03b1 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ad\u03c2 \u03bc\u03b1\u03c2...\nviews my own, RT not endorsement",
+                "id": 168271127,
+                "name": "Vanastas",
+                "public_metrics": {
+                    "followers_count": 412,
+                    "following_count": 394,
+                    "listed_count": 17,
+                    "tweet_count": 68048
+                },
+                "username": "mystirios70",
+                "verified": false
+            },
+            {
+                "created_at": "2010-01-10 09:32:58+00:00",
+                "description": "Moans about life, universe and everything in between (politics, sports, tv). Might all be Greek to you. Frequently quoting Pratchett.",
+                "id": 103529492,
+                "name": "Hero Grigoraki",
+                "public_metrics": {
+                    "followers_count": 3754,
+                    "following_count": 158,
+                    "listed_count": 34,
+                    "tweet_count": 55779
+                },
+                "username": "herogrig",
+                "verified": false
+            },
+            {
+                "created_at": "2017-03-15 20:11:45+00:00",
+                "description": "\u03b1bio\u03c4\u03bf",
+                "id": 842106060756418563,
+                "name": "nyrros",
+                "public_metrics": {
+                    "followers_count": 13760,
+                    "following_count": 2950,
+                    "listed_count": 66,
+                    "tweet_count": 29767
+                },
+                "username": "Nyrros",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 18934391,
+            "conversation_id": 1455773412962545664,
+            "created_at": "2021-11-03 05:46:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 145,
+                        "start": 132,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795976",
+                        "end": 131,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795976",
+                        "start": 108,
+                        "url": "https://t.co/xaddOHEBEJ"
+                    }
+                ]
+            },
+            "id": 1455773412962545664,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Covid-19: \u03a4\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd- \u00ab\u03a3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03cc \u03b2\u03ae\u03bc\u03b1 \u03c0\u03c1\u03bf\u03c2 \u03c4\u03b1 \u03b5\u03bc\u03c0\u03c1\u03cc\u03c2\u00bb https://t.co/xaddOHEBEJ #naftemporiki"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1455460146713333761,
+            "created_at": "2021-11-02 09:01:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 76,
+                        "start": 63,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u03c7\u03c1\u03ae\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b1\u03c2 \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03ad\u03bd\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03b2\u03b1\u03c3\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03b1 \u03c3\u03c4\u03b7 \u03bc\u03ac\u03c7\u03b7 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b4\u03b9\u03ac\u03b4\u03bf\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 Covid-19 \u03ba\u03b1\u03b9 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b5\u03af\u03c4\u03b1\u03b9 \u03c3\u03c5\u03bc\u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03bc\u03b5 \u03c4\u03b1 \u03c5\u03c0\u03cc\u03bb\u03bf\u03b9\u03c0\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1, \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc, \u03c4\u03b7\u03bd \u03c4\u03ae\u03c1\u03b7\u03c3\u03b7 \u03c4\u03c9\u03bd \u03b1\u03c0\u03bf\u03c3\u03c4\u03ac\u03c3\u03b5\u03c9\u03bd, \u03c4\u03b1 \u03c3\u03c5\u03c7\u03bd\u03ac \u03c4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03cc \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03cc.",
+                        "display_url": "naftemporiki.gr/story/1795669",
+                        "end": 62,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795669",
+                        "images": [
+                            {
+                                "height": 375,
+                                "url": "https://pbs.twimg.com/news_img/1455460152128200705/PgdN_zMl?format=jpg&name=orig",
+                                "width": 600
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455460152128200705/PgdN_zMl?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 39,
+                        "status": 200,
+                        "title": "Covid-19: \u03a4\u03b9 \u03c0\u03ae\u03b3\u03b5 \u03bb\u03ac\u03b8\u03bf\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2;",
+                        "unwound_url": "https://www.naftemporiki.gr/story/1795669",
+                        "url": "https://t.co/P1XV7alMWV"
+                    }
+                ]
+            },
+            "id": 1455460146713333761,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 3,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Covid-19: \u03a4\u03b9 \u03c0\u03ae\u03b3\u03b5 \u03bb\u03ac\u03b8\u03bf\u03c2 \u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bc\u03ac\u03c3\u03ba\u03b5\u03c2; https://t.co/P1XV7alMWV #naftemporiki"
+        },
+        {
+            "author_id": 87896855,
+            "conversation_id": 1455448385159417857,
+            "created_at": "2021-11-02 08:15:10+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a5\u03c0\u03ad\u03ba\u03c5\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c4\u03c1\u03b1\u03cd\u03bc\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1, \u03b7 \u03c0\u03bf\u03b4\u03b7\u03bb\u03ac\u03c4\u03b9\u03c3\u03c3\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03c3\u03cd\u03c1\u03b8\u03b7\u03ba\u03b5 \u03bb\u03af\u03b3\u03bf \u03bc\u03b5\u03c4\u03ac \u03c4\u03b9\u03c2 8 \u03c4\u03bf \u03c0\u03c1\u03c9\u03af \u03b1\u03c0\u03cc \u03c6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc, \u03c3\u03c4\u03b7 \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03ae \u03c4\u03c9\u03bd \u03bf\u03b4\u03ce\u03bd \u0391\u03b3\u03af\u03bf\u03c5 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u0393\u03c1\u03b7\u03b3\u03bf\u03c1\u03af\u03bf\u03c5 \u039b\u03b1\u03bc\u03c0\u03c1\u03ac\u03ba\u03b7, \u03c3\u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7.",
+                        "display_url": "lnkd.in/eSVH8R3F",
+                        "end": 231,
+                        "expanded_url": "https://lnkd.in/eSVH8R3F",
+                        "images": [
+                            {
+                                "height": 253,
+                                "url": "https://pbs.twimg.com/news_img/1455448392532955136/9HXgPp3e?format=jpg&name=orig",
+                                "width": 405
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455448392532955136/9HXgPp3e?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 208,
+                        "status": 200,
+                        "title": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a5\u03c0\u03ad\u03ba\u03c5\u03c8\u03b5 \u03c3\u03c4\u03b1 \u03c4\u03c1\u03b1\u03cd\u03bc\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03b7 \u03c0\u03bf\u03b4\u03b7\u03bb\u03ac\u03c4\u03b9\u03c3\u03c3\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b1\u03c3\u03cd\u03c1\u03b8\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c6\u03bf\u03c1\u03c4\u03b7\u03b3\u03cc",
+                        "unwound_url": "https://m.naftemporiki.gr/story/1795646/thessaloniki-ypekupse-sta-traumata-tis-i-podilatissa-pou-parasurthike-apo-fortigo",
+                        "url": "https://t.co/i2ggSSIaqi"
+                    }
+                ]
+            },
+            "id": 1455448385159417857,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03c1\u03ac\u03c3\u03b9\u03bd\u03b7 \u03b5\u03bd\u03ad\u03c1\u03b3\u03b5\u03b9\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03ac\u03c3\u03b9\u03bd\u03b1 \u03ac\u03bb\u03bf\u03b3\u03b1. \u03a0\u03b1\u03c2 \u03a3\u03c4\u03b9\u03c2 \u03b4\u03bf\u03c5\u03bb\u03b5\u03b9\u03ad\u03c2 \u03c3\u03bf\u03c5 \u03bc\u03b5 \u03c0\u03bf\u03b4\u03ae\u03bb\u03b1\u03c4\u03bf \u03ba\u03b1\u03b9 \u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03c3\u03b1\u03b9. \u03a0\u03b1\u03c2 \u03bc\u03b5 \u03bc\u03b7\u03c7\u03b1\u03bd\u03ac\u03ba\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03c3\u03b1\u03b9. \u03a0\u03b1\u03c2 \u03bc\u03b5 \u039c\u039c\u039c \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03b5\u03b9\u03c2 \u03b1\u03c0\u03bf COVID. \n\u039f\u03c0\u03cc\u03c4\u03b5 \u039c\u039f\u039d\u039f \u03bc\u03b5 \u03b7\u03bb\u03b5\u03ba\u03c4\u03c1\u03b9\u03ba\u03ac \u03b1\u03c5\u03c4\u03bf\u03ba\u03af\u03bd\u03b7\u03c4\u03b1 \u03b8\u03b1 \u03c3\u03c9\u03b8\u03bf\u03cd\u03bc\u03b5 \u03b5\u03b5\u03b5\u03b5\u03b5;\n\nhttps://t.co/i2ggSSIaqi"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1455286571729670152,
+            "created_at": "2021-11-01 21:32:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1795556/\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1795556/se-idiotikes-klinikes-arxisan-na-stelnoun-peristatika-covid-ta-nosokomeia",
+                        "start": 74,
+                        "url": "https://t.co/ED7Zo1yvz5"
+                    }
+                ]
+            },
+            "id": 1455286571729670152,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03ac\u03c1\u03c7\u03b9\u03c3\u03b1\u03bd \u03bd\u03b1 \u03c3\u03c4\u03ad\u03bb\u03bd\u03bf\u03c5\u03bd \u03c0\u03b5\u03c1\u03b9\u03c3\u03c4\u03b1\u03c4\u03b9\u03ba\u03ac covid \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 https://t.co/ED7Zo1yvz5"
+        },
+        {
+            "author_id": 17962401,
+            "conversation_id": 1454910617622614018,
+            "created_at": "2021-11-01 12:39:04+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "484624051",
+                        "start": 0,
+                        "username": "_0minus_"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "google.com/amp/s/m.naftem\u2026",
+                        "end": 171,
+                        "expanded_url": "https://www.google.com/amp/s/m.naftemporiki.gr/amp/story/1775779/anemboliastoi-apo-813-eos-98-oi-nosileuomenoi-me-covid-sta-14-nosokomeia-tis-4i-ype",
+                        "start": 148,
+                        "url": "https://t.co/DvdUt35P2q"
+                    }
+                ]
+            },
+            "id": 1455152410238857222,
+            "in_reply_to_user_id": 484624051,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455148233194356750 type=replied_to"
+            ],
+            "text": "@_0minus_ \u0391\u03ba\u03c1\u03b9\u03b2\u03ce\u03c2!\n\u039f\u03b9 \u03bc\u03b5\u03bd \u03b4\u03b5\u03bd \u03c0\u03c1\u03bf\u03c3\u03ad\u03c7\u03bf\u03c5\u03bd,\n\u03b5\u03bd\u03ce \u03bf\u03b9 \u03b4\u03b5 \u03c4\u03b5\u03c3\u03c4\u03ac\u03c1\u03bf\u03bd\u03c4\u03b1\u03b9 \u03ba \u03b1\u03c5\u03c4\u03bf\u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9,\n\u03ba\u03b1\u03b9 \u03c0\u03b1\u03c1\u03cc\u03bb\u03b1\u03c5\u03c4\u03b1 \u03b4\u03b5\u03af\u03c4\u03b5 \u03c4\u03b1 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03ac \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03c9\u03bd \u03c0\u03bf\u03c5 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03bf\u03bd\u03c4\u03b1\u03b9:\n\nhttps://t.co/DvdUt35P2q"
+        },
+        {
+            "author_id": 1387847090626338820,
+            "conversation_id": 1455028121925820424,
+            "created_at": "2021-11-01 04:25:12+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "google.com/amp/s/m.naftem\u2026",
+                        "end": 109,
+                        "expanded_url": "https://www.google.com/amp/s/m.naftemporiki.gr/amp/story/1716689/g-patoulis-moxlos-anaptuksis-tis-oikonomias-o-tourismos-ygeias-stin-meta-covid-epoxi",
+                        "start": 86,
+                        "url": "https://t.co/jTIxLxRK62"
+                    }
+                ]
+            },
+            "id": 1455028121925820424,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0393. \u03a0\u03b1\u03c4\u03bf\u03cd\u03bb\u03b7\u03c2: \u039c\u03bf\u03c7\u03bb\u03cc\u03c2 \u03b1\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03af\u03b1\u03c2 \u03bf \u03c4\u03bf\u03c5\u03c1\u03b9\u03c3\u03bc\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03bc\u03b5\u03c4\u03ac-covid \u03b5\u03c0\u03bf\u03c7\u03ae\nhttps://t.co/jTIxLxRK62"
+        },
+        {
+            "author_id": 1357818632135462912,
+            "conversation_id": 1454796585578213382,
+            "created_at": "2021-10-31 18:20:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "409952079",
+                        "start": 0,
+                        "username": "kardinalios74"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1750110/\u2026",
+                        "end": 53,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1750110/ena-fthino-kai-palio-farmako-mporei-na-meionei-tous-thanatous-apo-covid-19",
+                        "start": 30,
+                        "url": "https://t.co/Mus87S7oEF"
+                    }
+                ]
+            },
+            "id": 1454875853582708741,
+            "in_reply_to_user_id": 409952079,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454843934526656518 type=replied_to"
+            ],
+            "text": "@kardinalios74 \u03a0\u03ac\u03bc\u03b5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03ce\u03c4\u03bf https://t.co/Mus87S7oEF"
+        },
+        {
+            "author_id": 3360734176,
+            "conversation_id": 1454737585344024576,
+            "created_at": "2021-10-31 09:10:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794949/\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794949/eody-313-krousmata-covid-19-se-8795-rapid-tests-to-sabbato",
+                        "start": 61,
+                        "url": "https://t.co/JFl7gOZaIj"
+                    }
+                ]
+            },
+            "id": 1454737585344024576,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u039f\u0394\u03a5: 313 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 Covid-19 \u03c3\u03b5 8.795 rapid tests \u03c4\u03bf \u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf https://t.co/JFl7gOZaIj"
+        },
+        {
+            "author_id": 1137528692,
+            "conversation_id": 1454655028585803781,
+            "created_at": "2021-10-31 03:42:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "m.naftemporiki.gr",
+                        "end": 279,
+                        "expanded_url": "https://m.naftemporiki.gr/",
+                        "start": 256,
+                        "url": "https://t.co/7wMxPJ8Il2"
+                    }
+                ]
+            },
+            "id": 1454655028585803781,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03bf\u03ba\u03b1\u03c1\u03bf\u03c5\u03bd \u03c0\u03c1\u03c9\u03c4\u03bf\u03c6\u03b1\u03bd\u03b7 \u03c0\u03bf\u03c3\u03b1\n13,4\u03b4\u03b9\u03c2 \u03b1\u03c0\u03b5\u03c5\u03b8\u03b5\u03b9\u03b1\u03c2 \u03b1\u03bd\u03b1\u03b8\u03b5\u03c3\u03b5\u03c9\u03bd (65%) \u03c4\u03bf\u03c5 \u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03c5\n\u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03b9\u03bf 18\u03bc\u03b7\u03bd\u03bf!\n\u039c\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03b7 \u03c4\u03bf\u03bd covid\n\u03ba \u03b1\u03b9\u03c4\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b9\u03b4\u03b9\u03bf\u03ba\u03c4\u03b7\u03c3\u03b9\u03b1\u03ba\u03b7 \u03b1\u03bd\u03c4\u03b9\u03bb\u03b7\u03c8\u03b7 \u03bc\u03b9\u03b1\u03c2 \u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u0391.\u0395.,\n\u03c4\u03bf \u0395\u03c0\u03b9\u03c4\u03b5\u03bb\u03b9\u03ba\u03bf \u039a\u03c1\u03b1\u03c4\u03bf\u03c2\n\u03ba\u03b1\u03bd\u03b5\u03b9 by pass \u03ba\u03b1\u03b8\u03b5 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b1 \u03b4\u03b9\u03b1\u03c6\u03b1\u03bd\u03b5\u03b9\u03b1\u03c2\n\u03a0\u03bf\u03b9\u03bf\u03c2 \u03c9\u03c6\u03b5\u03bb\u03b5\u03b9\u03c4\u03b1\u03b9?\n\u03a4\u03bf \u03c8\u03b1\u03c7\u03bd\u03bf\u03c5\u03bc\u03b5.. https://t.co/7wMxPJ8Il2"
+        },
+        {
+            "author_id": 417184378,
+            "conversation_id": 1454535962688622596,
+            "created_at": "2021-10-30 19:49:32+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 135,
+                        "start": 122,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "18934391",
+                        "start": 3,
+                        "username": "naftemporikigr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794763",
+                        "end": 121,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794763",
+                        "start": 98,
+                        "url": "https://t.co/hmjeBHgR9i"
+                    }
+                ]
+            },
+            "id": 1454535962688622596,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454382144382439430 type=retweeted"
+            ],
+            "text": "RT @naftemporikigr: Covid-19: \u03a0\u03cc\u03c3\u03bf \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7; https://t.co/hmjeBHgR9i #naftemporiki"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1454382144382439430,
+            "created_at": "2021-10-30 09:38:18+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 115,
+                        "start": 102,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794763",
+                        "end": 101,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794763",
+                        "start": 78,
+                        "url": "https://t.co/hmjeBHgR9i"
+                    }
+                ]
+            },
+            "id": 1454382144382439430,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "Covid-19: \u03a0\u03cc\u03c3\u03bf \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7; https://t.co/hmjeBHgR9i #naftemporiki"
+        },
+        {
+            "author_id": 18934391,
+            "conversation_id": 1454332808151945223,
+            "created_at": "2021-10-30 06:22:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 87,
+                        "tag": "naftemporiki"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "naftemporiki.gr/story/1794735",
+                        "end": 86,
+                        "expanded_url": "https://www.naftemporiki.gr/story/1794735",
+                        "start": 63,
+                        "url": "https://t.co/Aka3UXsDla"
+                    }
+                ]
+            },
+            "id": 1454332808151945223,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03b1\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03ad\u03bb\u03b5\u03c5\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 Covid-19 \u03af\u03c3\u03c9\u03c2 \u03bc\u03c0\u03b5\u03b9 \u00ab\u03c3\u03c4\u03bf \u03b1\u03c1\u03c7\u03b5\u03af\u03bf\u00bb https://t.co/Aka3UXsDla #naftemporiki"
+        },
+        {
+            "author_id": 168271127,
+            "conversation_id": 1454130359549972482,
+            "created_at": "2021-10-29 17:29:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "103529492",
+                        "start": 0,
+                        "username": "herogrig"
+                    },
+                    {
+                        "end": 17,
+                        "id": "842106060756418563",
+                        "start": 10,
+                        "username": "Nyrros"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "google.com/amp/s/m.naftem\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.google.com/amp/s/m.naftemporiki.gr/amp/story/1794041/epistrateutikan-5-idiotikes-klinikes-gia-nosileies-covid-se-thessaloniki-bolo-larisa",
+                        "start": 18,
+                        "url": "https://t.co/Agqik6Ciyk"
+                    }
+                ]
+            },
+            "id": 1454138303842762758,
+            "in_reply_to_user_id": 103529492,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454137873129779203 type=replied_to"
+            ],
+            "text": "@herogrig @Nyrros https://t.co/Agqik6Ciyk"
+        }
+    ]
+}

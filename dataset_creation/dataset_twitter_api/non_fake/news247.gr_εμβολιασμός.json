@@ -1,0 +1,206 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454063120268382224,
+                "created_at": "2021-10-29 12:30:37+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 132,
+                            "start": 122,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                            "end": 156,
+                            "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                            "start": 133,
+                            "url": "https://t.co/9TxCUiiXOm"
+                        }
+                    ]
+                },
+                "id": 1454063120268382224,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-21 11:28:20+00:00",
+                "description": "\u03a3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7\u03c2.",
+                "id": 19284221,
+                "name": "NEWS 24/7",
+                "public_metrics": {
+                    "followers_count": 145371,
+                    "following_count": 444,
+                    "listed_count": 1154,
+                    "tweet_count": 364492
+                },
+                "username": "News247gr",
+                "verified": true
+            },
+            {
+                "created_at": "2016-08-04 05:06:44+00:00",
+                "description": "",
+                "id": 761065811779870721,
+                "name": "\u039a\u03bf\u03bd\u03c4\u03b1\u03be\u03ae  \u039c\u03b5\u03bb\u03af\u03bd\u03b1",
+                "public_metrics": {
+                    "followers_count": 1669,
+                    "following_count": 2645,
+                    "listed_count": 58,
+                    "tweet_count": 133931
+                },
+                "username": "mel75801",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-29 15:48:23+00:00",
+                "description": "Psychiatrist- Psychotherapist\u26aa\u038c\u03c0\u03bf\u03b9\u03bf\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af \u03bc\u03cc\u03bd\u03bf \u03c4\u03b7\u03bd \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03c2",
+                "id": 3350858639,
+                "name": "Giorgos Kakarinos, MD",
+                "public_metrics": {
+                    "followers_count": 177,
+                    "following_count": 161,
+                    "listed_count": 2,
+                    "tweet_count": 2566
+                },
+                "username": "GKakarinos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454136857147715588,
+            "created_at": "2021-10-29 17:23:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454136857147715588,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 761065811779870721,
+            "conversation_id": 1454066163412054023,
+            "created_at": "2021-10-29 12:42:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454066163412054023,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 3350858639,
+            "conversation_id": 1454063489417351168,
+            "created_at": "2021-10-29 12:32:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454063489417351168,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454063120268382224,
+            "created_at": "2021-10-29 12:30:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                        "end": 156,
+                        "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                        "start": 133,
+                        "url": "https://t.co/9TxCUiiXOm"
+                    }
+                ]
+            },
+            "id": 1454063120268382224,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+        }
+    ]
+}

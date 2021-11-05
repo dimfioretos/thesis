@@ -1,0 +1,79 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2011-04-04 15:50:02+00:00",
+                "description": "\u0393\u03b9\u03b1\u03c4\u03af \u03b7 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2  #dikaiologitika",
+                "id": 277043000,
+                "name": "dikaiologitika",
+                "public_metrics": {
+                    "followers_count": 7835,
+                    "following_count": 197,
+                    "listed_count": 101,
+                    "tweet_count": 201256
+                },
+                "username": "dikaiologitika",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 277043000,
+            "conversation_id": 1454754479119740929,
+            "created_at": "2021-10-31 10:17:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 75,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 102,
+                        "start": 90,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 118,
+                        "start": 103,
+                        "tag": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u00ab\u03a3\u03ba\u03ad\u03c6\u03c4\u03bf\u03bc\u03b1\u03b9 \u03bd\u03b1 \u03b6\u03b7\u03c4\u03ae\u03c3\u03c9 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1. \u03a0\u03ac\u03c1\u03b1 \u03c0\u03bf\u03bb\u03bb\u03ad\u03c2 \u03c6\u03bf\u03c1\u03ad\u03c2 \u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ad\u03c2\u00bb.",
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 144,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360854/vasilakopoulos-skeftomai-na-zitiso-astynomiki-prostasia-dexomai-apeiles",
+                        "images": [
+                            {
+                                "height": 520,
+                                "url": "https://pbs.twimg.com/news_img/1454754481455910913/m_LCgUm-?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454754481455910913/m_LCgUm-?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 121,
+                        "status": 200,
+                        "title": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03a3\u03ba\u03ad\u03c6\u03c4\u03bf\u03bc\u03b1\u03b9 \u03bd\u03b1 \u03b6\u03b7\u03c4\u03ae\u03c3\u03c9 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1, \u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ad\u03c2",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360854/vasilakopoulos-skeftomai-na-zitiso-astynomiki-prostasia-dexomai-apeiles",
+                        "url": "https://t.co/o5pLr46ZDj"
+                    }
+                ]
+            },
+            "id": 1454754479119740929,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03a3\u03ba\u03ad\u03c6\u03c4\u03bf\u03bc\u03b1\u03b9 \u03bd\u03b1 \u03b6\u03b7\u03c4\u03ae\u03c3\u03c9 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1, \u03b4\u03ad\u03c7\u03bf\u03bc\u03b1\u03b9 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ad\u03c2\n\n#\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03c2 #\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \n\nhttps://t.co/o5pLr46ZDj"
+        }
+    ]
+}

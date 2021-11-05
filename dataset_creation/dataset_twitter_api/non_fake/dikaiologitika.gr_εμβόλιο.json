@@ -1,0 +1,62 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2011-04-04 15:50:02+00:00",
+                "description": "\u0393\u03b9\u03b1\u03c4\u03af \u03b7 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2  #dikaiologitika",
+                "id": 277043000,
+                "name": "dikaiologitika",
+                "public_metrics": {
+                    "followers_count": 7835,
+                    "following_count": 197,
+                    "listed_count": 101,
+                    "tweet_count": 201256
+                },
+                "username": "dikaiologitika",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 277043000,
+            "conversation_id": 1455099178485485572,
+            "created_at": "2021-11-01 09:07:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u03c4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03c5\u03bd\u03b1\u03c4\u03cc \u03bd\u03b1 \u03b1\u03c0\u03bf\u03b8\u03b7\u03ba\u03b5\u03c5\u03b8\u03b5\u03af \u03c3\u03b5 \u03b8\u03b5\u03c1\u03bc\u03bf\u03ba\u03c1\u03b1\u03c3\u03af\u03b1 \u03b4\u03c9\u03bc\u03b1\u03c4\u03af\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c4\u03b7\u03b8\u03b5\u03af \u03c7\u03c9\u03c1\u03af\u03c2 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03c0\u03c1\u03bf\u03c3\u03c9\u03c0\u03b9\u03ba\u03bf\u03cd. \u0388\u03bd\u03b1 \u03bd\u03ad\u03bf \u00ab\u03c4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf\u00bb \u03b4\u03ad\u03c1\u03bc\u03b1\u03c4\u03bf\u03c2, \u03bc\u03ad\u03c3\u03c9 \u03c4\u03bf\u03c5 \u03bf\u03c0\u03bf\u03af\u03bf\u03c5 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf...",
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360912/emvolio-koronoioy-se-tsiroto-poso-apotelesmatiko-einai-se-sxesi-me-tin-enesi",
+                        "images": [
+                            {
+                                "height": 612,
+                                "url": "https://pbs.twimg.com/news_img/1455099178909159427/9nU-ZZU1?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455099178909159427/9nU-ZZU1?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 81,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03b5... \u03c4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf, \u03c0\u03cc\u03c3\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03ad\u03bd\u03b5\u03c3\u03b7",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360912/emvolio-koronoioy-se-tsiroto-poso-apotelesmatiko-einai-se-sxesi-me-tin-enesi",
+                        "url": "https://t.co/TwMcBHxuip"
+                    }
+                ]
+            },
+            "id": 1455099178485485572,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03b5... \u03c4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf, \u03c0\u03cc\u03c3\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03ad\u03bd\u03b5\u03c3\u03b7\nhttps://t.co/TwMcBHxuip"
+        }
+    ]
+}

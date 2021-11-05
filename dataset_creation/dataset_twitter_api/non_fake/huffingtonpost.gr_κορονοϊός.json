@@ -1,0 +1,725 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 2706857144,
+                "conversation_id": 1455196470211133451,
+                "created_at": "2021-11-01 15:34:09+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                            "end": 88,
+                            "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_617fea9be4b079111a6728f8",
+                            "start": 65,
+                            "url": "https://t.co/N9LnSSrd63"
+                        }
+                    ]
+                },
+                "id": 1455196470211133451,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/N9LnSSrd63"
+            },
+            {
+                "author_id": 2706857144,
+                "conversation_id": 1454488822587269123,
+                "created_at": "2021-10-30 16:42:13+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                            "end": 107,
+                            "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-cdc-ta-emvolia-parechoen-kaletere-prostasia-se-schese-me-te-fesike-anosia_gr_617d3531e4b03072d704cb6f",
+                            "start": 84,
+                            "url": "https://t.co/9pupXpmYQ1"
+                        }
+                    ]
+                },
+                "id": 1454488822587269123,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- CDC: \u03a4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\nhttps://t.co/9pupXpmYQ1"
+            },
+            {
+                "author_id": 2706857144,
+                "conversation_id": 1454406882463035392,
+                "created_at": "2021-10-30 11:16:37+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                            "end": 118,
+                            "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-thessalonike-senayermos-yia-tis-epseles-times-toe-iikoe-fortioe-sta-astika-apovleta_gr_617d1b88e4b066de4f707e37",
+                            "start": 95,
+                            "url": "https://t.co/TUQKX0y2G9"
+                        }
+                    ]
+                },
+                "id": 1454406882463035392,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c8\u03b7\u03bb\u03ad\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03b9\u03ba\u03bf\u03cd \u03c6\u03bf\u03c1\u03c4\u03af\u03bf\u03c5 \u03c3\u03c4\u03b1 \u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc\u03b2\u03bb\u03b7\u03c4\u03b1\n\nhttps://t.co/TUQKX0y2G9"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-08-04 16:02:14+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 HuffPost. Blogs, \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2, \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1, Viral.",
+                "id": 2706857144,
+                "name": "HuffPost Greece",
+                "public_metrics": {
+                    "followers_count": 38517,
+                    "following_count": 782,
+                    "listed_count": 479,
+                    "tweet_count": 127138
+                },
+                "username": "HuffPostGreece",
+                "verified": true
+            },
+            {
+                "created_at": "2011-12-29 20:12:01+00:00",
+                "description": "Business,Pathology,Games,Cars,Movies & Music.God guides my steps! A\u03bd\u03c4\u03b9\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03bf\u03c2.\u0395\u03bb\u03bb\u03b7\u03bd.PSN billy-doc1,XBL Billy Doc1.\ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\udde6\ud83c\uddec\ud83c\udde7",
+                "id": 450042226,
+                "name": "DJBillyDoc\ud83c\uddec\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8",
+                "public_metrics": {
+                    "followers_count": 1680,
+                    "following_count": 2479,
+                    "listed_count": 24,
+                    "tweet_count": 203451
+                },
+                "username": "BillKouts1",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-12 18:20:50+00:00",
+                "description": "\u039a\u03ac\u03b8\u03b5 \u03bb\u03b1\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ac\u03be\u03b9\u03bf\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd \u03c0\u03bf\u03c5 \u03c4\u03bf\u03bd \u03ba\u03c5\u03b2\u03b5\u03c1\u03bd\u03bf\u03cd\u03bd (\u03a0\u03bb\u03ac\u03c4\u03c9\u03bd)",
+                "id": 3033199306,
+                "name": "@neo_sourgelo",
+                "public_metrics": {
+                    "followers_count": 647,
+                    "following_count": 567,
+                    "listed_count": 7,
+                    "tweet_count": 32403
+                },
+                "username": "neo_sourgelo",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455784727768670211,
+            "created_at": "2021-11-03 06:31:40+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-archizoen-stis-epa-oi-emvoliasmoi-paidion-5-11-eton-me-to-emvolio-tes-pfizer_gr_6182246ae4b0c8666bd56509",
+                        "start": 88,
+                        "url": "https://t.co/QY8ouAiGk9"
+                    }
+                ]
+            },
+            "id": 1455784727768670211,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0391\u03c1\u03c7\u03af\u03b6\u03bf\u03c5\u03bd \u03c3\u03c4\u03b9\u03c2 \u0397\u03a0\u0391 \u03bf\u03b9 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af \u03c0\u03b1\u03b9\u03b4\u03b9\u03ce\u03bd 5-11 \u03b5\u03c4\u03ce\u03bd \u03bc\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c4\u03b7\u03c2 Pfizer\n\nhttps://t.co/QY8ouAiGk9"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455561017036050442,
+            "created_at": "2021-11-02 15:42:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_61813a0ee4b06b9de8bb246c",
+                        "start": 65,
+                        "url": "https://t.co/a4ja21SSHT"
+                    }
+                ]
+            },
+            "id": 1455561017036050442,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 6.700 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 59 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/a4ja21SSHT"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455515244839776263,
+            "created_at": "2021-11-02 12:40:51+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-plerofories-yia-6000-nea-kroesmata-ten-trite_gr_61812f0ae4b03830d837f363",
+                        "start": 58,
+                        "url": "https://t.co/prQ9cPQII3"
+                    }
+                ]
+            },
+            "id": 1455515244839776263,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03b3\u03b9\u03b1 6.000 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u03a4\u03c1\u03af\u03c4\u03b7\n\nhttps://t.co/prQ9cPQII3"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455458825755058179,
+            "created_at": "2021-11-02 08:56:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 82,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-pos-chresimopoioentai-ta-monoklonika-antisomata_gr_6180f6eae4b0ec286d312efb",
+                        "start": 59,
+                        "url": "https://t.co/TLVRSUqqcj"
+                    }
+                ]
+            },
+            "id": 1455458825755058179,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03ce\u03c2 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1\n\nhttps://t.co/TLVRSUqqcj"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455208783131652107,
+            "created_at": "2021-11-01 16:23:05+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-xeperasan-ta-5-ekat-oi-nekroi-paykosmios-se-liyotero-apo-deo-chronia_gr_61800adde4b010d93320e295",
+                        "start": 80,
+                        "url": "https://t.co/YpZaL1PMBD"
+                    }
+                ]
+            },
+            "id": 1455208783131652107,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03b1 5 \u03b5\u03ba\u03b1\u03c4. \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c0\u03b1\u03b3\u03ba\u03bf\u03c3\u03bc\u03af\u03c9\u03c2 \u03c3\u03b5 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf \u03b1\u03c0\u03cc \u03b4\u03cd\u03bf \u03c7\u03c1\u03cc\u03bd\u03b9\u03b1\nhttps://t.co/YpZaL1PMBD"
+        },
+        {
+            "author_id": 450042226,
+            "conversation_id": 1455198692340817930,
+            "created_at": "2021-11-01 15:42:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "2706857144",
+                        "start": 3,
+                        "username": "HuffPostGreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_617fea9be4b079111a6728f8",
+                        "start": 85,
+                        "url": "https://t.co/N9LnSSrd63"
+                    }
+                ]
+            },
+            "id": 1455198692340817930,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455196470211133451 type=retweeted"
+            ],
+            "text": "RT @HuffPostGreece: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/N9LnSSrd63"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455196470211133451,
+            "created_at": "2021-11-01 15:34:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_617fea9be4b079111a6728f8",
+                        "start": 65,
+                        "url": "https://t.co/N9LnSSrd63"
+                    }
+                ]
+            },
+            "id": 1455196470211133451,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/N9LnSSrd63"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455189936420831232,
+            "created_at": "2021-11-01 15:08:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 80,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-plerofories-yia-neo-arnetiko-rekor-kroesmaton_gr_617fffdde4b06573574b3b8e",
+                        "start": 57,
+                        "url": "https://t.co/b8j1adJqxq"
+                    }
+                ]
+            },
+            "id": 1455189936420831232,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u03a0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b5\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd\nhttps://t.co/b8j1adJqxq"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455162709767593990,
+            "created_at": "2021-11-01 13:20:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 122,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-ispanike-yripe-e1n1-sars-aids-epatitida-mia-seykrise-yia-tis-anthropines-apoleies_gr_617fa19ee4b09314321a4768",
+                        "start": 99,
+                        "url": "https://t.co/2EUumEMFxn"
+                    }
+                ]
+            },
+            "id": 1455162709767593990,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2, \u03b9\u03c3\u03c0\u03b1\u03bd\u03b9\u03ba\u03ae \u03b3\u03c1\u03af\u03c0\u03b7, \u03971\u039d1, Sars, AIDS, \u03b7\u03c0\u03b1\u03c4\u03af\u03c4\u03b9\u03b4\u03b1 - \u039c\u03b9\u03b1 \u03c3\u03cd\u03b3\u03ba\u03c1\u03b9\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03b9\u03bd\u03b5\u03c2 \u03b1\u03c0\u03ce\u03bb\u03b5\u03b9\u03b5\u03c2\n\nhttps://t.co/2EUumEMFxn"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455103513038557184,
+            "created_at": "2021-11-01 09:24:46+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-sareyiannes-rekor-diasporas-choris-kene-meth-e-thessalonike-os-ta-mesa-noemvrioe_gr_617fab87e4b010d9332046cd",
+                        "start": 92,
+                        "url": "https://t.co/YVhxyhyTKL"
+                    }
+                ]
+            },
+            "id": 1455103513038557184,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a3\u03b1\u03c1\u03b7\u03b3\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2: \u03a1\u03b5\u03ba\u03cc\u03c1 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2- \u03a7\u03c9\u03c1\u03af\u03c2 \u03ba\u03b5\u03bd\u03ae \u039c\u0395\u0398 \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03c9\u03c2 \u03c4\u03b1 \u03bc\u03ad\u03c3\u03b1 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5\n\nhttps://t.co/YVhxyhyTKL"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455095449724112899,
+            "created_at": "2021-11-01 08:52:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u038a\u03c3\u03c9\u03c2 \u03c0\u03b1\u03c1\u03ad\u03c7\u03b5\u03b9 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1.",
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 91,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-tsiroto-anti-eneseon-yia-to-emvolio-kata-tes-covid-19_gr_617f9528e4b066de4f71c671",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455095451917684739/7p3SevCt?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455095451917684739/7p3SevCt?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 68,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf\u00bb \u03b1\u03bd\u03c4\u03af \u03b5\u03bd\u03ad\u03c3\u03b5\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/koronoios-tsiroto-anti-eneseon-yia-to-emvolio-kata-tes-covid-19_gr_617f9528e4b066de4f71c671",
+                        "url": "https://t.co/oItdqDrX66"
+                    }
+                ]
+            },
+            "id": 1455095449724112899,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u00ab\u03a4\u03c3\u03b9\u03c1\u03cc\u03c4\u03bf\u00bb \u03b1\u03bd\u03c4\u03af \u03b5\u03bd\u03ad\u03c3\u03b5\u03c9\u03bd \u03b3\u03b9\u03b1 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19\n\nhttps://t.co/oItdqDrX66"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454838252955914242,
+            "created_at": "2021-10-31 15:50:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-2727-nea-kroesmata-kai-44-nekroi-to-teleetaio-24oro_gr_617eb8dbe4b079111a6621d8",
+                        "start": 64,
+                        "url": "https://t.co/WE4SnYoDBU"
+                    }
+                ]
+            },
+            "id": 1454838252955914242,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 44 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/WE4SnYoDBU"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454703227891601409,
+            "created_at": "2021-10-31 06:54:11+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-pretanes-apth-eimaste-se-senayermo-isos-einai-pentaplasioi-oi-asemptomatikoi_gr_617e3b85e4b03072d7051fb7",
+                        "start": 90,
+                        "url": "https://t.co/94Oji7Okb0"
+                    }
+                ]
+            },
+            "id": 1454703227891601409,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u03a0\u03c1\u03cd\u03c4\u03b1\u03bd\u03b7\u03c2 \u0391\u03a0\u0398: \u0395\u03af\u03bc\u03b1\u03c3\u03c4\u03b5 \u03c3\u03b5 \u03c3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc, \u03af\u03c3\u03c9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03b5\u03bd\u03c4\u03b1\u03c0\u03bb\u03ac\u03c3\u03b9\u03bf\u03b9 \u03bf\u03b9 \u03b1\u03c3\u03c5\u03bc\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03bf\u03af\n\nhttps://t.co/94Oji7Okb0"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454538598435352576,
+            "created_at": "2021-10-30 20:00:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/prasinof\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/prasinofileleetheroi_gr_61556970e4b05040d1d6bb34",
+                        "start": 95,
+                        "url": "https://t.co/KbNF72op1P"
+                    }
+                ]
+            },
+            "id": 1454538598435352576,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u0388\u03c1\u03b5\u03c5\u03bd\u03b1: \u0397 3\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 Pfizer/ BioNTech \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1\u03c2\nhttps://t.co/KbNF72op1P"
+        },
+        {
+            "author_id": 3033199306,
+            "conversation_id": 1454489464298954761,
+            "created_at": "2021-10-30 16:44:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "2706857144",
+                        "start": 3,
+                        "username": "HuffPostGreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-cdc-ta-emvolia-parechoen-kaletere-prostasia-se-schese-me-te-fesike-anosia_gr_617d3531e4b03072d704cb6f",
+                        "start": 104,
+                        "url": "https://t.co/9pupXpmYQ1"
+                    }
+                ]
+            },
+            "id": 1454489464298954761,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454488822587269123 type=retweeted"
+            ],
+            "text": "RT @HuffPostGreece: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- CDC: \u03a4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\nhttps://t.co/9pupXpmYQ1"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454488822587269123,
+            "created_at": "2021-10-30 16:42:13+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 107,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-cdc-ta-emvolia-parechoen-kaletere-prostasia-se-schese-me-te-fesike-anosia_gr_617d3531e4b03072d704cb6f",
+                        "start": 84,
+                        "url": "https://t.co/9pupXpmYQ1"
+                    }
+                ]
+            },
+            "id": 1454488822587269123,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- CDC: \u03a4\u03b1 \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03b1 \u03c0\u03b1\u03c1\u03ad\u03c7\u03bf\u03c5\u03bd \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c3\u03b5 \u03c3\u03c7\u03ad\u03c3\u03b7 \u03bc\u03b5 \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03b1\u03bd\u03bf\u03c3\u03af\u03b1\nhttps://t.co/9pupXpmYQ1"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454461739509092368,
+            "created_at": "2021-10-30 14:54:35+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-4696-nea-kroesmata-kai-38-nekroi-to-teleetaio-24oro_gr_617d51bee4b0931432190e8d",
+                        "start": 64,
+                        "url": "https://t.co/L4CKbCPv1y"
+                    }
+                ]
+            },
+            "id": 1454461739509092368,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/L4CKbCPv1y"
+        },
+        {
+            "author_id": 450042226,
+            "conversation_id": 1454407236575539204,
+            "created_at": "2021-10-30 11:18:01+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "2706857144",
+                        "start": 3,
+                        "username": "HuffPostGreece"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-thessalonike-senayermos-yia-tis-epseles-times-toe-iikoe-fortioe-sta-astika-apovleta_gr_617d1b88e4b066de4f707e37",
+                        "start": 115,
+                        "url": "https://t.co/TUQKX0y2G9"
+                    }
+                ]
+            },
+            "id": 1454407236575539204,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454406882463035392 type=retweeted"
+            ],
+            "text": "RT @HuffPostGreece: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c8\u03b7\u03bb\u03ad\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03b9\u03ba\u03bf\u03cd \u03c6\u03bf\u03c1\u03c4\u03af\u03bf\u03c5 \u03c3\u03c4\u03b1 \u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc\u03b2\u03bb\u03b7\u03c4\u03b1\n\nhttps://t.co/TUQKX0y2G9"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454406882463035392,
+            "created_at": "2021-10-30 11:16:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-thessalonike-senayermos-yia-tis-epseles-times-toe-iikoe-fortioe-sta-astika-apovleta_gr_617d1b88e4b066de4f707e37",
+                        "start": 95,
+                        "url": "https://t.co/TUQKX0y2G9"
+                    }
+                ]
+            },
+            "id": 1454406882463035392,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2- \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03c5\u03c8\u03b7\u03bb\u03ad\u03c2 \u03c4\u03b9\u03bc\u03ad\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03b9\u03ba\u03bf\u03cd \u03c6\u03bf\u03c1\u03c4\u03af\u03bf\u03c5 \u03c3\u03c4\u03b1 \u03b1\u03c3\u03c4\u03b9\u03ba\u03ac \u03b1\u03c0\u03cc\u03b2\u03bb\u03b7\u03c4\u03b1\n\nhttps://t.co/TUQKX0y2G9"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454170546296524802,
+            "created_at": "2021-10-29 19:37:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/epa-koro\u2026",
+                        "end": 103,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/epa-koronoios-h-fda-pros-eykrise-toe-emvolioe-pfizer-biontech-yia-paidia-5-11-eton_gr_617c4774e4b079111a64eaea",
+                        "start": 80,
+                        "url": "https://t.co/TQDs9JpNdX"
+                    }
+                ]
+            },
+            "id": 1454170546296524802,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391- \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: H FDA \u03b5\u03bd\u03ad\u03ba\u03c1\u03b9\u03bd\u03b5 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer/ BioNTech \u03b3\u03b9\u03b1 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5-11 \u03b5\u03c4\u03ce\u03bd\nhttps://t.co/TQDs9JpNdX"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1454093059881328640,
+            "created_at": "2021-10-29 14:29:35+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-3643-nea-kroesmata-kai-55-nekroi-to-teleetaio-24oro_gr_617bfe1de4b066de4f6f712e",
+                        "start": 64,
+                        "url": "https://t.co/8FAam41FOg"
+                    }
+                ]
+            },
+            "id": 1454093059881328640,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.643 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 55 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/8FAam41FOg"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1453732599264735245,
+            "created_at": "2021-10-28 14:37:15+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_617a97d8e4b03072d700e210",
+                        "start": 65,
+                        "url": "https://t.co/u5a9r9flay"
+                    }
+                ]
+            },
+            "id": 1453732599264735245,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.984 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 31 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/u5a9r9flay"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1453372671694098437,
+            "created_at": "2021-10-27 14:47:01+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "huffingtonpost.gr/entry/koronoio\u2026",
+                        "end": 88,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/koronoios-nea-kroesmata-kai-thanatoi-to-teleetaio-24oro_gr_6179468ce4b065735742fcdf",
+                        "start": 65,
+                        "url": "https://t.co/LV28kAoHnR"
+                    }
+                ]
+            },
+            "id": 1453372671694098437,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf\nhttps://t.co/LV28kAoHnR"
+        }
+    ]
+}

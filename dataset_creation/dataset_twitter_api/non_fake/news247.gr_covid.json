@@ -1,0 +1,2335 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 999664636478795777,
+                "conversation_id": 1455568525951741953,
+                "created_at": "2021-11-02 16:12:34+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 25,
+                            "start": 15,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/politiki/adoni\u2026",
+                            "end": 278,
+                            "expanded_url": "https://www.news247.gr/politiki/adonis-georgiadis-min-metrame-pia-kroysmata-kanena-lockdown-akomi-ki-an-ftasoyn-10-000.9410075.html",
+                            "start": 255,
+                            "url": "https://t.co/y3VihlwGVp"
+                        }
+                    ]
+                },
+                "id": 1455568525951741953,
+                "public_metrics": {
+                    "like_count": 48,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 22
+                },
+                "text": "\u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf \u0392\u03ad\u03bb\u03b3\u03b9\u03bf - \u03ba\u03b1\u03b9 \u03c0\u03b1\u03bd\u03b7\u03b3\u03cd\u03c1\u03b9\u03b6\u03b5. \u039d\u03b1 \u03bc\u03b7 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5, \u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2- \u03b5\u03c0\u03b9\u03c4\u03bf\u03bc\u03ae \u03c4\u03b7\u03c2 \u03b1\u03bc\u03b5\u03c4\u03c1\u03bf\u03ad\u03c0\u03b5\u03b9\u03b1\u03c2... \n\u039c\u03b7 \u03bc\u03b9\u03bb\u03ac\u03c2, \u03bc\u03b7 \u03bc\u03b5\u03c4\u03c1\u03ac\u03c2, \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03b5\u03b9 \u03b7 \u0395\u03bb\u03bb\u03ac\u03c2... \n\nhttps://t.co/y3VihlwGVp"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455504469567934465,
+                "created_at": "2021-11-02 11:58:02+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 161,
+                            "start": 154,
+                            "tag": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/laris\u2026",
+                            "end": 186,
+                            "expanded_url": "https://www.news247.gr/koinonia/larisa-katerreyse-mprosta-stin-kamera-o-dieythyntis-tis-klinikis-covid-toy-genikoy-nosokomeioy.9409747.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635851799",
+                            "start": 163,
+                            "url": "https://t.co/f8ozzAdr08"
+                        }
+                    ]
+                },
+                "id": 1455504469567934465,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2. #\u039b\u03ac\u03c1\u03b9\u03c3\u03b1  https://t.co/f8ozzAdr08"
+            },
+            {
+                "author_id": 852575123999780864,
+                "conversation_id": 1455492605970632706,
+                "created_at": "2021-11-02 11:10:53+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/laris\u2026",
+                            "end": 206,
+                            "expanded_url": "https://www.news247.gr/koinonia/larisa-katerreyse-mprosta-stin-kamera-o-dieythyntis-tis-klinikis-covid-toy-genikoy-nosokomeioy.9409747.html",
+                            "start": 183,
+                            "url": "https://t.co/b6IuQ9KAet"
+                        }
+                    ]
+                },
+                "id": 1455492605970632706,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 7
+                },
+                "text": "\u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2\u00bb\n\nhttps://t.co/b6IuQ9KAet"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1455159722651308033,
+                "created_at": "2021-11-01 13:08:08+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 239,
+                            "start": 229,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        },
+                        {
+                            "end": 246,
+                            "start": 240,
+                            "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                        },
+                        {
+                            "end": 256,
+                            "start": 247,
+                            "tag": "Covid_19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/koinonia/koron\u2026",
+                            "end": 280,
+                            "expanded_url": "https://www.news247.gr/koinonia/koronoios-kinitra-se-giatroys-gia-nosokomeia-tis-perifereias-mparaz-elegchon-stin-estiasi.9408558.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635771232",
+                            "start": 257,
+                            "url": "https://t.co/yPuNqsOpAo"
+                        }
+                    ]
+                },
+                "id": 1455159722651308033,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03bc\u03b9\u03b3\u03b5\u03af\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7\u03c2. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #Covid_19 https://t.co/yPuNqsOpAo"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454063120268382224,
+                "created_at": "2021-10-29 12:30:37+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 132,
+                            "start": 122,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                            "end": 156,
+                            "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                            "start": 133,
+                            "url": "https://t.co/9TxCUiiXOm"
+                        }
+                    ]
+                },
+                "id": 1454063120268382224,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454100907839344644,
+                "created_at": "2021-10-29 15:00:46+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "news247.gr/ygeia/toichos-\u2026",
+                            "end": 173,
+                            "expanded_url": "https://www.news247.gr/ygeia/toichos-prostasias-enanti-tis-covid-19-kai-endonosokomeiakon-loimoxeon.9405227.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635498189",
+                            "start": 150,
+                            "url": "https://t.co/KQCajEoZyA"
+                        }
+                    ]
+                },
+                "id": 1454100907839344644,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u039d\u03ad\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u039f\u03bc\u03af\u03bb\u03bf\u03c5 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 VITEX A.E. \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ad\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2, \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03bf\u03b4\u03bf\u03cd\u03c2. https://t.co/KQCajEoZyA"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1454063120268382224,
+                "created_at": "2021-10-29 12:30:37+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 132,
+                            "start": 122,
+                            "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19.",
+                            "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                            "end": 156,
+                            "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                            "images": [
+                                {
+                                    "height": 512,
+                                    "url": "https://pbs.twimg.com/news_img/1454063122327773197/rzMlRe65?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454063122327773197/rzMlRe65?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 133,
+                            "status": 200,
+                            "title": "\u039f\u03b9 \u03bb\u03bf\u03b9\u03bc\u03ce\u03be\u03b5\u03b9\u03c2 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03bf\u03b4\u03b7\u03b3\u03ae\u03c3\u03bf\u03c5\u03bd \u03c3\u03b5 \u03bc\u03b1\u03ba\u03c1\u03ac Covid-19 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                            "unwound_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                            "url": "https://t.co/9TxCUiiXOm"
+                        }
+                    ]
+                },
+                "id": 1454063120268382224,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+            },
+            {
+                "author_id": 19284221,
+                "conversation_id": 1453780030715142160,
+                "created_at": "2021-10-28 17:45:43+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0397 \u039f\u03cd\u03c1\u03c3\u03bf\u03c5\u03bb\u03b1 \u03c6\u03bf\u03bd \u03bd\u03c4\u03b5\u03c1 \u039b\u03ac\u03b9\u03b5\u03bd \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0388\u03bd\u03c9\u03c3\u03b7 \u03b8\u03b1 \u03b5\u03be\u03ac\u03b3\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03bf\u03c3\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf 2022.",
+                            "display_url": "news247.gr/kosmos/ee-2022\u2026",
+                            "end": 146,
+                            "expanded_url": "https://www.news247.gr/kosmos/ee-2022-anamenetai-parachthoyn-ee-3-5-disekatommyria-doseis-emvolioy-covid-19.9404648.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635432736",
+                            "images": [
+                                {
+                                    "height": 512,
+                                    "url": "https://pbs.twimg.com/news_img/1453780033416273943/lWRwLmP-?format=jpg&name=orig",
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453780033416273943/lWRwLmP-?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 123,
+                            "status": 200,
+                            "title": "\u0395\u0395: \u03a4\u03bf 2022 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03c7\u03b8\u03bf\u03cd\u03bd 3,5 \u03b4\u03b9\u03c3. \u03b4\u03cc\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd",
+                            "unwound_url": "https://www.news247.gr/kosmos/ee-2022-anamenetai-parachthoyn-ee-3-5-disekatommyria-doseis-emvolioy-covid-19.9404648.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635432736",
+                            "url": "https://t.co/znkkf2wFhj"
+                        }
+                    ]
+                },
+                "id": 1453780030715142160,
+                "public_metrics": {
+                    "like_count": 3,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0397 \u039f\u03cd\u03c1\u03c3\u03bf\u03c5\u03bb\u03b1 \u03c6\u03bf\u03bd \u03bd\u03c4\u03b5\u03c1 \u039b\u03ac\u03b9\u03b5\u03bd \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0388\u03bd\u03c9\u03c3\u03b7 \u03b8\u03b1 \u03b5\u03be\u03ac\u03b3\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03bf\u03c3\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf 2022. https://t.co/znkkf2wFhj"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-05-07 08:48:11+00:00",
+                "description": "",
+                "id": 2481700940,
+                "name": "\u0386\u03bd\u03bd\u03b1",
+                "public_metrics": {
+                    "followers_count": 2119,
+                    "following_count": 2525,
+                    "listed_count": 8,
+                    "tweet_count": 122457
+                },
+                "username": "annale_28",
+                "verified": false
+            },
+            {
+                "created_at": "2018-05-24 14:53:16+00:00",
+                "description": "\u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2, \u03c3\u03c5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ad\u03b1\u03c2",
+                "id": 999664636478795777,
+                "name": "\u0394\u03b9\u03bf\u03bd\u03cd\u03c3\u03b7\u03c2 \u0395\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03ac\u03c4\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 7743,
+                    "following_count": 6073,
+                    "listed_count": 32,
+                    "tweet_count": 17411
+                },
+                "username": "EleftheratosD",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-01 23:36:58+00:00",
+                "description": "Why do farts stink?\nFor the benefit of the deaf.",
+                "id": 22422804,
+                "name": "themis eleftheriadis",
+                "public_metrics": {
+                    "followers_count": 145,
+                    "following_count": 347,
+                    "listed_count": 0,
+                    "tweet_count": 6673
+                },
+                "username": "trapezus",
+                "verified": false
+            },
+            {
+                "created_at": "2015-09-09 20:33:34+00:00",
+                "description": "\u03b3\u03c1\u03ac\u03c6\u03c9, \u03ac\u03c1\u03b1 \u03b2\u03b1\u03c1\u03b9\u03ad\u03bc\u03b1\u03b9.",
+                "id": 3601938077,
+                "name": "nikos kavourinos",
+                "public_metrics": {
+                    "followers_count": 542,
+                    "following_count": 967,
+                    "listed_count": 4,
+                    "tweet_count": 8911
+                },
+                "username": "NisKav",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-18 11:08:42+00:00",
+                "description": "https://t.co/5yaTi5lmWw",
+                "id": 300790937,
+                "name": "Patient_Zero",
+                "public_metrics": {
+                    "followers_count": 1714,
+                    "following_count": 2147,
+                    "listed_count": 15,
+                    "tweet_count": 137698
+                },
+                "username": "S2t2n",
+                "verified": false
+            },
+            {
+                "created_at": "2011-01-13 13:32:38+00:00",
+                "description": "\u03ba\u03b1\u03c6\u03c1\u03b9\u03bb\u03b5\u03c2 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2, \u03b1\u03c0\u03b1\u03b9\u03c3\u03b9\u03cc\u03bb\u03bf\u03be\u03bf\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c4\u03c1\u03bf\u03c6\u03bf\u03bb\u03cc\u03b3\u03bf\u03c2 \u03ba\u03c5\u03bd\u03b9\u03ba\u03cc\u03c2, atheist,antisocial pervert, copypasta enthusiast, permanently immature retard, PROUD TO BE MALAKAS",
+                "id": 237719164,
+                "name": "\u03c5\u03c0\u03b5\u03c1\u03ae\u03c6\u03b1\u03bd\u03b1 \u03bd\u03c4\u03c1\u03bf\u03c0\u03ae \u03c4\u03bf\u03c5 \u03ad\u03b8\u03bd\u03bf\u03c5\u03c2.. #IStandWithJKRowling",
+                "public_metrics": {
+                    "followers_count": 60137,
+                    "following_count": 65037,
+                    "listed_count": 972,
+                    "tweet_count": 1558711
+                },
+                "username": "kanekos69",
+                "verified": false
+            },
+            {
+                "created_at": "2019-09-27 17:25:48+00:00",
+                "description": "",
+                "id": 1177634840042192896,
+                "name": "\u039a\u03ce\u03c3\u03c4\u03b1\u03c2 \u0393.",
+                "public_metrics": {
+                    "followers_count": 146,
+                    "following_count": 218,
+                    "listed_count": 0,
+                    "tweet_count": 9368
+                },
+                "username": "Kostasg92786000",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-29 14:26:17+00:00",
+                "description": "Green \u2618\ufe0f\ud83c\uddec\ud83c\uddf7 and Gunner\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
+                "id": 792371983308754944,
+                "name": "Biancoverde Rodi \u2618\ufe0f",
+                "public_metrics": {
+                    "followers_count": 251,
+                    "following_count": 425,
+                    "listed_count": 1,
+                    "tweet_count": 2914
+                },
+                "username": "biancoverderodi",
+                "verified": false
+            },
+            {
+                "created_at": "2015-01-27 19:07:23+00:00",
+                "description": "",
+                "id": 3001863563,
+                "name": "\u0391\u03bb\u03ad\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2\u03bb",
+                "public_metrics": {
+                    "followers_count": 664,
+                    "following_count": 1684,
+                    "listed_count": 2,
+                    "tweet_count": 11506
+                },
+                "username": "alex_lagk",
+                "verified": false
+            },
+            {
+                "created_at": "2020-11-17 13:54:53+00:00",
+                "description": "",
+                "id": 1328698017361371138,
+                "name": "Martha Kokkini",
+                "public_metrics": {
+                    "followers_count": 657,
+                    "following_count": 968,
+                    "listed_count": 0,
+                    "tweet_count": 26476
+                },
+                "username": "KokkiniMartha",
+                "verified": false
+            },
+            {
+                "created_at": "2021-04-30 16:42:37+00:00",
+                "description": "\u0391\u03b3\u03b5\u03c9\u03bc\u03ad\u03c4\u03c1\u03b7\u03c4\u03bf\u03c2 \u03a4\u03ad\u03ba\u03c4\u03bf\u03bd\u03b1\u03c2",
+                "id": 1388171850367315982,
+                "name": "oPousTisKathetou",
+                "public_metrics": {
+                    "followers_count": 830,
+                    "following_count": 881,
+                    "listed_count": 4,
+                    "tweet_count": 15414
+                },
+                "username": "o_pous",
+                "verified": false
+            },
+            {
+                "created_at": "2021-02-22 11:15:56+00:00",
+                "description": "",
+                "id": 1363809682629013506,
+                "name": "jery.stef",
+                "public_metrics": {
+                    "followers_count": 288,
+                    "following_count": 452,
+                    "listed_count": 0,
+                    "tweet_count": 4295
+                },
+                "username": "jerry_stef",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-14 13:18:42+00:00",
+                "description": "\u03a4\u03bf \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03ba\u03b1\u03ba\u03bf \u03b5\u03af\u03bd\u03b1 \u03c0\u03c9\u03c2 \u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03bc\u03b9\u03bb\u03bf\u03cd\u03bd \u03c0\u03bf\u03bb\u03c5 \u03b1\u03bb\u03bb\u03ac \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03c3\u03c5\u03bc\u03c6\u03c9\u03bd\u03bf\u03cd\u03bd \u03bc\u03b1\u03b6\u03af \u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c5\u03c4\u03cc \u03b5\u03b9\u03bd\u03b1\u03b9 \u03c7\u03b5\u03b9\u03c1\u03bf\u03c4\u03b5\u03c1\u03bf \u03b1\u03c0\u03bf \u03c4\u03b7 \u03c3\u03b9\u03c9\u03c0\u03ae. \u039f \u03c3\u03b9\u03c9\u03c0\u03b7\u03bb\u03cc\u03c2 \u03c4\u03bf\u03c5\u03bb\u03ac\u03c7\u03b9\u03c3\u03c4\u03bf\u03bd \u03b1\u03ba\u03bf\u03cd\u03b5\u03b9",
+                "id": 1238816779754975235,
+                "name": "\u039a\u03af\u03bc\u03c9\u03bd \u0396\u03b1\u03b3\u03c1\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 153,
+                    "following_count": 127,
+                    "listed_count": 0,
+                    "tweet_count": 6501
+                },
+                "username": "kimon_zagris",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-03 22:01:06+00:00",
+                "description": "\u0391\u03c1\u03b2\u03b1\u03bd\u03af\u03c4\u03b7\u03c2 \u03bc\u03b5\u03bd, \u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03b4\u03b5.\n\u039a\u03b1\u03c4\u03ac \u03a4\u03bf\u03bd \u0394\u03b1\u03af\u03bc\u03bf\u03bd\u03b1 \u0395\u03b1\u03c5\u03c4\u03bf\u03cd.",
+                "id": 22687782,
+                "name": "Geo.graphic",
+                "public_metrics": {
+                    "followers_count": 10817,
+                    "following_count": 8055,
+                    "listed_count": 90,
+                    "tweet_count": 253144
+                },
+                "username": "parallilos",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-07 21:29:28+00:00",
+                "description": "\u039f\u03b9\u03ba\u03bf\u03b3\u03ad\u03bd\u03b5\u03b9\u03b1,\u03c5\u03b3\u03b5\u03af\u03b1,\u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2...",
+                "id": 2610515851,
+                "name": "kostantinos",
+                "public_metrics": {
+                    "followers_count": 308,
+                    "following_count": 262,
+                    "listed_count": 7,
+                    "tweet_count": 5952
+                },
+                "username": "xazompampas_",
+                "verified": false
+            },
+            {
+                "created_at": "2021-01-20 15:02:34+00:00",
+                "description": "\u03c4\u03bf \u03bd\u03bf\u03cd \u03a3\u0391\u03a3 \u03c1\u03b5\u03bc\u03ac\u03bb\u03b9\u03b1!!",
+                "id": 1351907704114184194,
+                "name": "\ud83d\udc52\u03c4\u03bf \u03c8\u03b1\u03b8\u03ac\u03ba\u03b9 \ud83d\udc15\ud83c\udf24\ud83c\udf42\ud83c\udf26",
+                "public_metrics": {
+                    "followers_count": 169,
+                    "following_count": 299,
+                    "listed_count": 1,
+                    "tweet_count": 4999
+                },
+                "username": "Sintapa1",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-07 16:44:22+00:00",
+                "description": "\u03a0\u03bf\u03b4\u03cc\u03c3\u03c6\u03b1\u03b9\u03c1\u03bf, \u039c\u03c0\u03ac\u03c3\u03ba\u03b5\u03c4 \u03ba\u03b1\u03b9 \u039c\u03bf\u03c5\u03c3\u03b9\u03ba\u03ae \u03bc\u03cc\u03bd\u03bf \u03b1\u03b3\u03ac\u03c0\u03b7. \u039c\u03b1\u03cd\u03c1\u03bf \u03c3\u03b5 \u03b2\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2, \u03c3\u03b5\u03be\u03b9\u03c3\u03c4\u03ad\u03c2, \u03bf\u03bc\u03bf\u03c6\u03bf\u03b2\u03b9\u03ba\u03bf\u03c5\u03c2, \u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b5\u03c2, \u03c1\u03b1\u03c4\u03c3\u03b9\u03c3\u03c4\u03ad\u03c2, \u03b1\u03ba\u03c1\u03bf\u03b4\u03b5\u03be\u03b9\u03bf\u03cd\u03c2 \u03ba\u03b1\u03b9 \u03bb\u03bf\u03b9\u03c0\u03ac \u03c3\u03ba\u03bf\u03c5\u03c0\u03af\u03b4\u03b9\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1\u03c2.",
+                "id": 407097269,
+                "name": "\u03a5\u03c0\u03ad\u03c1\u03ba\u03bf\u03bc\u03c8\u03bf\u03c2 \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 1086,
+                    "following_count": 1039,
+                    "listed_count": 6,
+                    "tweet_count": 265947
+                },
+                "username": "MikeKou7",
+                "verified": false
+            },
+            {
+                "created_at": "2014-02-27 20:39:43+00:00",
+                "description": "-- .... - ... --- - .- -.- ....  --. .- -- .. . ... .- ..",
+                "id": 2364640831,
+                "name": "Syl667",
+                "public_metrics": {
+                    "followers_count": 1545,
+                    "following_count": 1373,
+                    "listed_count": 9,
+                    "tweet_count": 63062
+                },
+                "username": "SylBlashyrkh667",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-07 17:36:24+00:00",
+                "description": "\u0394\u03b5\u03bd \u03b5\u03af\u03bc\u03b1\u03b9 \u03ba\u03ac\u03c4\u03b9 \u03be\u03b5\u03c7\u03c9\u03c1\u03b9\u03c3\u03c4\u03cc, \u03bc\u03bf\u03bd\u03ac\u03c7\u03b1 \u03ad\u03bd\u03b1 \u03c6\u03ac\u03bb\u03c4\u03c3\u03bf \u03b3\u03b1\u03c4\u03af \u03c3\u03c4\u03bf\u03bd \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03cc \u03c4\u03c1\u03b1\u03b3\u03ad\u03bb\u03b1\u03c6\u03bf.\n\nI am not special, I am merely a dissonant cat@tragelaughique.gr",
+                "id": 1368616139400638464,
+                "name": "\u03a6\u03ac\u03bb\u03c4\u03c3\u03bf\u03c2 \u03b3\u03ac\u03c4\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 201,
+                    "following_count": 711,
+                    "listed_count": 1,
+                    "tweet_count": 4636
+                },
+                "username": "FaltsosGatos",
+                "verified": false
+            },
+            {
+                "created_at": "2014-06-27 02:07:07+00:00",
+                "description": "\u03c7\u03ad\u03b6\u03c9 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c0\u03cc\u03c1\u03c4\u03b1 \u03b1\u03bd\u03bf\u03b9\u03c7\u03c4\u03ae. \u03bc\u03cc\u03bd\u03bf \u03bc\u03c0\u03b1\u03c3\u03ba\u03b5\u03c4\u03ac\u03ba\u03b9 \u03ba\u03b1\u03b9 Manchester United",
+                "id": 2590616971,
+                "name": "\u03a3\u03ac\u03bb\u03c4\u03b9\ud83c\udfc0",
+                "public_metrics": {
+                    "followers_count": 4243,
+                    "following_count": 3555,
+                    "listed_count": 28,
+                    "tweet_count": 141067
+                },
+                "username": "saltibangouras",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-30 12:01:06+00:00",
+                "description": "\u039c' \u03ad\u03c7\u03bf\u03c5\u03bd \u03c1\u03af\u03be\u03b5\u03b9 \u03b4\u03cd\u03bf \u03c6\u03bf\u03c1\u03ad\u03c2. \n\u03a3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03c9 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ac \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03bc\u03bf\u03c5. \n\u0393\u03b9\u03b1 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b1\u03c1\u03c9\u03c4\u03b9\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03ae\u03bc\u03bf\u03c5\u03bd \u03bf @LeftSymptomatic \u03ba\u03b1\u03b9 \u03bf @AvantiLeft. \n\u03a3\u03c5\u03bc\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03cc\u03c2",
+                "id": 1376867015059775488,
+                "name": "GreekLeft\u2618\ufe0f",
+                "public_metrics": {
+                    "followers_count": 908,
+                    "following_count": 2209,
+                    "listed_count": 1,
+                    "tweet_count": 22572
+                },
+                "username": "GreekLeft",
+                "verified": false
+            },
+            {
+                "created_at": "2013-09-16 16:21:34+00:00",
+                "description": "",
+                "id": 1872223814,
+                "name": "siena",
+                "public_metrics": {
+                    "followers_count": 2089,
+                    "following_count": 2463,
+                    "listed_count": 285,
+                    "tweet_count": 1239785
+                },
+                "username": "InsdataInter",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-21 11:28:20+00:00",
+                "description": "\u03a3\u03c4\u03bf \u03ba\u03ad\u03bd\u03c4\u03c1\u03bf \u03c4\u03b7\u03c2 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7\u03c2.",
+                "id": 19284221,
+                "name": "NEWS 24/7",
+                "public_metrics": {
+                    "followers_count": 145371,
+                    "following_count": 444,
+                    "listed_count": 1154,
+                    "tweet_count": 364492
+                },
+                "username": "News247gr",
+                "verified": true
+            },
+            {
+                "created_at": "2007-10-11 14:22:26+00:00",
+                "description": "Freelance journo/global newsfilter; @globalvoices, ex-@reportedly; human rights, film/games/scifi geek. Social justice/stay human. \ud83e\uddfc\ud83d\ude37\ud83e\uddcd\u2194\ufe0f\ud83e\uddcd\u2764\ufe0f\u270a",
+                "id": 9378802,
+                "name": "Asteris Masouras \u6b63\u4e49",
+                "public_metrics": {
+                    "followers_count": 17377,
+                    "following_count": 1243,
+                    "listed_count": 1242,
+                    "tweet_count": 542452
+                },
+                "username": "asteris",
+                "verified": true
+            },
+            {
+                "created_at": "2017-04-13 17:32:04+00:00",
+                "description": "\u0391\u03b4\u03c1\u03b1\u03bd\u03ae \u03c5\u03bb\u03b9\u03ba\u03ac. \u0395\u03c0\u03b1\u03c1\u03c7\u03b9\u03ce\u03c4\u03b7\u03c2. \u0391\u03c5\u03c4\u03bf\u03b4\u03af\u03b4\u03b1\u03ba\u03c4\u03bf\u03c2. \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03c5\u03c4\u03ae\u03c2 \u039d\u03bf\u03bc\u03bf\u03cd \u0397\u03bc\u03b9\u03bc\u03b1\u03b8\u03b5\u03af\u03b1\u03c2.",
+                "id": 852575123999780864,
+                "name": "\u039c\u03c0\u03b9\u0395\u03bb\u0391\u03c1",
+                "public_metrics": {
+                    "followers_count": 3809,
+                    "following_count": 76,
+                    "listed_count": 0,
+                    "tweet_count": 184875
+                },
+                "username": "blr1a1",
+                "verified": false
+            },
+            {
+                "created_at": "2009-09-06 20:16:25+00:00",
+                "description": "''\u038c\u03c3\u03b1 \u03ba\u03bf\u03c3\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03bc\u03b9\u03b1 \u03b4\u03c1\u03b1\u03c7\u03bc\u03ae,\n\u03b3\u03b9\u2019 \u03ac\u03bb\u03bb\u03bf\u03c5\u03c2 \u03ba\u03bf\u03c3\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03bc\u03b9\u03b1 \u03b6\u03c9\u03ae...\u0394\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03c1\u03b9\u03bc\u03b1; ''",
+                "id": 72115039,
+                "name": "Myrsini Kokolaki",
+                "public_metrics": {
+                    "followers_count": 723,
+                    "following_count": 311,
+                    "listed_count": 4,
+                    "tweet_count": 23449
+                },
+                "username": "myrs_",
+                "verified": false
+            },
+            {
+                "created_at": "2010-11-25 10:56:51+00:00",
+                "description": "Citizen. Historian. Translator. Immigrant. Turkey, Greece, History, politics, language, new media, trivia. Tweets in GR, TR, EN, FR, (tentative) NL.",
+                "id": 219614660,
+                "name": "dr.ha\u00efn",
+                "public_metrics": {
+                    "followers_count": 2104,
+                    "following_count": 661,
+                    "listed_count": 39,
+                    "tweet_count": 51466
+                },
+                "username": "_yurumek",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-27 13:07:48+00:00",
+                "description": "We dont need the key we ll break in",
+                "id": 18407515,
+                "name": "j_alguacil",
+                "public_metrics": {
+                    "followers_count": 794,
+                    "following_count": 267,
+                    "listed_count": 33,
+                    "tweet_count": 24729
+                },
+                "username": "j_alguacil",
+                "verified": false
+            },
+            {
+                "created_at": "2014-05-05 10:49:21+00:00",
+                "description": "\u039a\u03b1\u03b9 \u03cc\u03c4\u03b1\u03bd \u03c3\u03bf\u03c5 \u03bb\u03ad\u03bd\u03b5\"\u03c0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03b3\u03af\u03bd\u03b5\u03b9\u03c2 \u03c0\u03b9\u03bf \u03c3\u03ba\u03bb\u03b7\u03c1\u03cc\u03c2\" \n\u03bd\u03b1 \u03bb\u03b5\u03c2 \"\u03b4\u03b5\u03bd \u03bc\u03b5 \u03bd\u03bf\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b1\u03c2 \u03b3\u03af\u03bd\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03bf\u03af \u03c0\u03b9\u03bf \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9...\"                     N.D.   \u26d4\ufe0f\ud83d\udce7\u2702\ufe0f",
+                "id": 2478177956,
+                "name": "\u03a3\u03c4\u03b5\u03c1\u03bd\u03ae*\u039c\u03bf\u03c5*\u0393\u03bd\u03ce\u03c3\u03b7",
+                "public_metrics": {
+                    "followers_count": 1181,
+                    "following_count": 1604,
+                    "listed_count": 1,
+                    "tweet_count": 18591
+                },
+                "username": "Ntinaxe",
+                "verified": false
+            },
+            {
+                "created_at": "2011-05-27 09:29:06+00:00",
+                "description": "Seal and whale hunter since my 5yo. PHD in marine life and oceanic climate.",
+                "id": 306113154,
+                "name": "Dedalos",
+                "public_metrics": {
+                    "followers_count": 1165,
+                    "following_count": 931,
+                    "listed_count": 29,
+                    "tweet_count": 122386
+                },
+                "username": "dedalos_gl",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-06 18:10:07+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a4\u03bf\u03c5\u03c1\u03b9\u03c3\u03bc\u03bf\u03cd | \u0392\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u0391' \u0391\u03b8\u03b7\u03bd\u03ce\u03bd | Facebook Page: https://t.co/72vghlrd38 Instagram: https://t.co/NgJasH6nvS",
+                "id": 54283324,
+                "name": "Vassilis Kikilias",
+                "public_metrics": {
+                    "followers_count": 76777,
+                    "following_count": 1140,
+                    "listed_count": 362,
+                    "tweet_count": 17873
+                },
+                "username": "Vkikilias",
+                "verified": true
+            },
+            {
+                "created_at": "2010-02-08 14:42:08+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0392\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u0391 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u039d\u0394, \u0394\u03b9\u03ba\u03b7\u03b3\u03bf\u03c1\u03bf\u03c2 \u0394\u039d LLM",
+                "id": 112445908,
+                "name": "\u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 46986,
+                    "following_count": 5610,
+                    "listed_count": 307,
+                    "tweet_count": 14119
+                },
+                "username": "thanosplevris",
+                "verified": false
+            },
+            {
+                "created_at": "2008-04-02 14:47:02+00:00",
+                "description": "\u03a0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae\u03c2 \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03a0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u039d\u03ad\u03b1\u03c2 \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1\u03c2",
+                "id": 14283525,
+                "name": "Kyriakos Mitsotakis",
+                "public_metrics": {
+                    "followers_count": 326506,
+                    "following_count": 1969,
+                    "listed_count": 1113,
+                    "tweet_count": 8258
+                },
+                "username": "kmitsotakis",
+                "verified": true
+            },
+            {
+                "created_at": "2012-02-05 01:04:14+00:00",
+                "description": "",
+                "id": 483435894,
+                "name": "Munica Pello \ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+                "public_metrics": {
+                    "followers_count": 624,
+                    "following_count": 1009,
+                    "listed_count": 2,
+                    "tweet_count": 37373
+                },
+                "username": "AshCarpet",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-08 13:26:05+00:00",
+                "description": "",
+                "id": 548506788,
+                "name": "aBaloTelli",
+                "public_metrics": {
+                    "followers_count": 900,
+                    "following_count": 1051,
+                    "listed_count": 1,
+                    "tweet_count": 62180
+                },
+                "username": "P_Aristotelis",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-27 00:42:45+00:00",
+                "description": "Science, politics, democracy, equality, aviation, Greece\n[Refugees Welcome]",
+                "id": 1460958716,
+                "name": "\u039aapoios \u0391llos \ud83c\udf10",
+                "public_metrics": {
+                    "followers_count": 5298,
+                    "following_count": 5375,
+                    "listed_count": 115,
+                    "tweet_count": 217888
+                },
+                "username": "Kapoiosmpla",
+                "verified": false
+            },
+            {
+                "created_at": "2015-04-05 19:30:48+00:00",
+                "description": "",
+                "id": 3138236981,
+                "name": "Liana K",
+                "public_metrics": {
+                    "followers_count": 795,
+                    "following_count": 86,
+                    "listed_count": 14,
+                    "tweet_count": 246825
+                },
+                "username": "lianalk3",
+                "verified": false
+            },
+            {
+                "created_at": "2016-08-04 05:06:44+00:00",
+                "description": "",
+                "id": 761065811779870721,
+                "name": "\u039a\u03bf\u03bd\u03c4\u03b1\u03be\u03ae  \u039c\u03b5\u03bb\u03af\u03bd\u03b1",
+                "public_metrics": {
+                    "followers_count": 1669,
+                    "following_count": 2645,
+                    "listed_count": 58,
+                    "tweet_count": 133931
+                },
+                "username": "mel75801",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-29 15:48:23+00:00",
+                "description": "Psychiatrist- Psychotherapist\u26aa\u038c\u03c0\u03bf\u03b9\u03bf\u03c2 \u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af \u03bc\u03cc\u03bd\u03bf \u03c4\u03b7\u03bd \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1, \u03b5\u03af\u03bd\u03b1\u03b9 \u03c0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03bf\u03c2",
+                "id": 3350858639,
+                "name": "Giorgos Kakarinos, MD",
+                "public_metrics": {
+                    "followers_count": 177,
+                    "following_count": 161,
+                    "listed_count": 2,
+                    "tweet_count": 2566
+                },
+                "username": "GKakarinos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2481700940,
+            "conversation_id": 1455798659203964928,
+            "created_at": "2021-11-03 07:27:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455798659203964928,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 22422804,
+            "conversation_id": 1455741730880430083,
+            "created_at": "2021-11-03 03:40:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455741730880430083,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 3601938077,
+            "conversation_id": 1455654816944898048,
+            "created_at": "2021-11-02 21:55:27+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455654816944898048,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 300790937,
+            "conversation_id": 1455654351486214149,
+            "created_at": "2021-11-02 21:53:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455654351486214149,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 237719164,
+            "conversation_id": 1455654308318531600,
+            "created_at": "2021-11-02 21:53:26+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455654308318531600,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1177634840042192896,
+            "conversation_id": 1455630182409248777,
+            "created_at": "2021-11-02 20:17:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455630182409248777,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 792371983308754944,
+            "conversation_id": 1455622445407289344,
+            "created_at": "2021-11-02 19:46:49+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455622445407289344,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 3001863563,
+            "conversation_id": 1455622360489472001,
+            "created_at": "2021-11-02 19:46:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455622360489472001,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1328698017361371138,
+            "conversation_id": 1455618445043814405,
+            "created_at": "2021-11-02 19:30:56+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455618445043814405,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1388171850367315982,
+            "conversation_id": 1455617207216578563,
+            "created_at": "2021-11-02 19:26:00+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455617207216578563,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1363809682629013506,
+            "conversation_id": 1455617141206659072,
+            "created_at": "2021-11-02 19:25:45+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455617141206659072,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1238816779754975235,
+            "conversation_id": 1455616716940132363,
+            "created_at": "2021-11-02 19:24:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455616716940132363,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 22687782,
+            "conversation_id": 1455616105792352264,
+            "created_at": "2021-11-02 19:21:38+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455616105792352264,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 2610515851,
+            "conversation_id": 1455579299776434178,
+            "created_at": "2021-11-02 16:55:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455579299776434178,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1351907704114184194,
+            "conversation_id": 1455569916250279942,
+            "created_at": "2021-11-02 16:18:05+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455569916250279942,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 407097269,
+            "conversation_id": 1455569348320452609,
+            "created_at": "2021-11-02 16:15:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455569348320452609,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 2364640831,
+            "conversation_id": 1455569198093115392,
+            "created_at": "2021-11-02 16:15:14+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455569198093115392,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1368616139400638464,
+            "conversation_id": 1455569020292378633,
+            "created_at": "2021-11-02 16:14:32+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455569020292378633,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 2590616971,
+            "conversation_id": 1455568878495469587,
+            "created_at": "2021-11-02 16:13:58+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455568878495469587,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 1376867015059775488,
+            "conversation_id": 1455568860090970116,
+            "created_at": "2021-11-02 16:13:54+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 44,
+                        "start": 34,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 17,
+                        "id": "999664636478795777",
+                        "start": 3,
+                        "username": "EleftheratosD"
+                    }
+                ]
+            },
+            "id": 1455568860090970116,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 22
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455568525951741953 type=retweeted"
+            ],
+            "text": "RT @EleftheratosD: \u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u2026"
+        },
+        {
+            "author_id": 999664636478795777,
+            "conversation_id": 1455568525951741953,
+            "created_at": "2021-11-02 16:12:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/politiki/adoni\u2026",
+                        "end": 278,
+                        "expanded_url": "https://www.news247.gr/politiki/adonis-georgiadis-min-metrame-pia-kroysmata-kanena-lockdown-akomi-ki-an-ftasoyn-10-000.9410075.html",
+                        "start": 255,
+                        "url": "https://t.co/y3VihlwGVp"
+                    }
+                ]
+            },
+            "id": 1455568525951741953,
+            "public_metrics": {
+                "like_count": 48,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 22
+            },
+            "text": "\u039d\u03b1 \u03bc\u03b7\u03bd \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b6\u03b7\u03c4\u03ac \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2, \u03c0\u03bf\u03c5 \u03c0\u03ad\u03c1\u03c3\u03b9 \u03bc\u03b5\u03c4\u03c1\u03bf\u03cd\u03c3\u03b5 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc Covid -19 \u03b1\u03bd\u03ac \u03ad\u03bd\u03b1 \u03b5\u03ba\u03b1\u03c4. \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03bf\u03cd, \u03b5\u03b4\u03ce \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf \u0392\u03ad\u03bb\u03b3\u03b9\u03bf - \u03ba\u03b1\u03b9 \u03c0\u03b1\u03bd\u03b7\u03b3\u03cd\u03c1\u03b9\u03b6\u03b5. \u039d\u03b1 \u03bc\u03b7 \u03bc\u03b5\u03c4\u03c1\u03ac\u03bc\u03b5, \u03b1\u03be\u03b9\u03ce\u03bd\u03b5\u03b9 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2- \u03b5\u03c0\u03b9\u03c4\u03bf\u03bc\u03ae \u03c4\u03b7\u03c2 \u03b1\u03bc\u03b5\u03c4\u03c1\u03bf\u03ad\u03c0\u03b5\u03b9\u03b1\u03c2... \n\u039c\u03b7 \u03bc\u03b9\u03bb\u03ac\u03c2, \u03bc\u03b7 \u03bc\u03b5\u03c4\u03c1\u03ac\u03c2, \u03ba\u03b9\u03bd\u03b4\u03c5\u03bd\u03b5\u03cd\u03b5\u03b9 \u03b7 \u0395\u03bb\u03bb\u03ac\u03c2... \n\nhttps://t.co/y3VihlwGVp"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455543056384630786,
+            "created_at": "2021-11-02 14:31:21+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455543056384630786,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455504469567934465 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u2026"
+        },
+        {
+            "author_id": 9378802,
+            "conversation_id": 1455512545553485825,
+            "created_at": "2021-11-02 12:30:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455512545553485825,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 72115039,
+            "conversation_id": 1455512251998298115,
+            "created_at": "2021-11-02 12:28:57+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455512251998298115,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 219614660,
+            "conversation_id": 1455507274781372418,
+            "created_at": "2021-11-02 12:09:10+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455507274781372418,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 18407515,
+            "conversation_id": 1455505946692685824,
+            "created_at": "2021-11-02 12:03:54+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455505946692685824,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455504469567934465 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u2026"
+        },
+        {
+            "author_id": 2478177956,
+            "conversation_id": 1455505277285851145,
+            "created_at": "2021-11-02 12:01:14+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455505277285851145,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455504469567934465 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u2026"
+        },
+        {
+            "author_id": 306113154,
+            "conversation_id": 1455505210944757762,
+            "created_at": "2021-11-02 12:00:58+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 151,
+                        "id": "54283324",
+                        "start": 141,
+                        "username": "Vkikilias"
+                    },
+                    {
+                        "end": 166,
+                        "id": "112445908",
+                        "start": 152,
+                        "username": "thanosplevris"
+                    },
+                    {
+                        "end": 179,
+                        "id": "14283525",
+                        "start": 167,
+                        "username": "kmitsotakis"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/laris\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.news247.gr/koinonia/larisa-katerreyse-mprosta-stin-kamera-o-dieythyntis-tis-klinikis-covid-toy-genikoy-nosokomeioy.9409747.html",
+                        "start": 95,
+                        "url": "https://t.co/4qzQ5xPghE"
+                    }
+                ]
+            },
+            "id": 1455505210944757762,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1: \u039a\u03b1\u03c4\u03ad\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b7\u03bd \u03ba\u03ac\u03bc\u03b5\u03c1\u03b1 \u03bf \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 https://t.co/4qzQ5xPghE \u0395\u03b9\u03b4\u03b9\u03ba\u03cc \u03b4\u03b9\u03ba\u03b1\u03c3\u03c4\u03ae\u03c1\u03b9\u03bf \u03b3\u03b9\u03b1 @VKikilias @thanosplevris @kmitsotakis!"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455504469567934465,
+            "created_at": "2021-11-02 11:58:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 161,
+                        "start": 154,
+                        "tag": "\u039b\u03ac\u03c1\u03b9\u03c3\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/laris\u2026",
+                        "end": 186,
+                        "expanded_url": "https://www.news247.gr/koinonia/larisa-katerreyse-mprosta-stin-kamera-o-dieythyntis-tis-klinikis-covid-toy-genikoy-nosokomeioy.9409747.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635851799",
+                        "start": 163,
+                        "url": "https://t.co/f8ozzAdr08"
+                    }
+                ]
+            },
+            "id": 1455504469567934465,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2. #\u039b\u03ac\u03c1\u03b9\u03c3\u03b1  https://t.co/f8ozzAdr08"
+        },
+        {
+            "author_id": 483435894,
+            "conversation_id": 1455496459424616450,
+            "created_at": "2021-11-02 11:26:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455496459424616450,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 548506788,
+            "conversation_id": 1455494850531545089,
+            "created_at": "2021-11-02 11:19:48+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455494850531545089,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 1460958716,
+            "conversation_id": 1455493533645869057,
+            "created_at": "2021-11-02 11:14:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455493533645869057,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 3138236981,
+            "conversation_id": 1455492848678211595,
+            "created_at": "2021-11-02 11:11:51+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "852575123999780864",
+                        "start": 3,
+                        "username": "blr1a1"
+                    }
+                ]
+            },
+            "id": 1455492848678211595,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455492605970632706 type=retweeted"
+            ],
+            "text": "RT @blr1a1: \u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u2026"
+        },
+        {
+            "author_id": 852575123999780864,
+            "conversation_id": 1455492605970632706,
+            "created_at": "2021-11-02 11:10:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/laris\u2026",
+                        "end": 206,
+                        "expanded_url": "https://www.news247.gr/koinonia/larisa-katerreyse-mprosta-stin-kamera-o-dieythyntis-tis-klinikis-covid-toy-genikoy-nosokomeioy.9409747.html",
+                        "start": 183,
+                        "url": "https://t.co/b6IuQ9KAet"
+                    }
+                ]
+            },
+            "id": 1455492605970632706,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 7
+            },
+            "text": "\u03a3\u03b1\u03ba\u03b1\u03c4\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03bf\u03b9!\n\n\u00ab\u0397 \u03ba\u03cc\u03c0\u03c9\u03c3\u03b7 \"\u03bb\u03cd\u03b3\u03b9\u03c3\u03b5\" \u03c4\u03bf\u03bd \u03b4\u03b9\u03b5\u03c5\u03b8\u03c5\u03bd\u03c4\u03ae \u03c4\u03b7\u03c2 \u03ba\u03bb\u03b9\u03bd\u03b9\u03ba\u03ae\u03c2 Covid \u03c4\u03bf\u03c5 \u0393\u03b5\u03bd\u03b9\u03ba\u03bf\u03cd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03c4\u03ac\u03c1\u03c1\u03b5\u03c5\u03c3\u03b5 \u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03ac \u03c3\u03c4\u03b9\u03c2 \u03ba\u03ac\u03bc\u03b5\u03c1\u03b5\u03c2 \u03c4\u03b7\u03bd \u03ce\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03ad\u03ba\u03b1\u03bd\u03b5 \u03b4\u03b7\u03bb\u03ce\u03c3\u03b5\u03b9\u03c2\u00bb\n\nhttps://t.co/b6IuQ9KAet"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455478179171287041,
+            "created_at": "2021-11-02 10:13:34+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/kosmos/ice-cub\u2026",
+                        "end": 173,
+                        "expanded_url": "https://www.news247.gr/kosmos/ice-cube-apokleistike-apo-tainia-epeidi-arnithike-na-emvoliastei.9409466.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635842022",
+                        "start": 150,
+                        "url": "https://t.co/YEV8j59Ehb"
+                    }
+                ]
+            },
+            "id": 1455478179171287041,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f Ice Cube \u03b1\u03c0\u03bf\u03ba\u03bb\u03b5\u03af\u03c3\u03c4\u03b7\u03ba\u03b5 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c4\u03b1\u03b9\u03bd\u03af\u03b1 \"Oh Hell No\", \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b4\u03b5\u03bd \u03b4\u03ad\u03c7\u03c4\u03b7\u03ba\u03b5 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 Covid-19. \u03a4\u03bf \u03b1\u03c3\u03c4\u03c1\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03cc \u03c3\u03c5\u03bc\u03b2\u03cc\u03bb\u03b1\u03b9\u03bf \u03c0\u03bf\u03c5 \u03b5\u03af\u03c7\u03b5 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c8\u03b5\u03b9. https://t.co/YEV8j59Ehb"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455476104307826691,
+            "created_at": "2021-11-02 10:05:19+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/monoklon\u2026",
+                        "end": 204,
+                        "expanded_url": "https://www.news247.gr/ygeia/monoklonika-antisomata-ti-einai-kai-pos-mporoyn-na-symvalloyn-sti-machi-me-ton-koronoio.9409319.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635842571",
+                        "start": 181,
+                        "url": "https://t.co/KaJiSduaH2"
+                    }
+                ]
+            },
+            "id": 1455476104307826691,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03b1 \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03c3\u03ad\u03b3\u03b3\u03b9\u03c3\u03b7. \u03a0\u03ce\u03c2 \u03c3\u03c5\u03bd\u03b4\u03ad\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03b5 \u03c4\u03b7 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 Covid-19 \u03ba\u03b1\u03b9 \u03c0\u03cc\u03c4\u03b5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9. \u0394\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf explainer video https://t.co/KaJiSduaH2"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455296981761503233,
+            "created_at": "2021-11-01 22:13:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/kosmos/koronoi\u2026",
+                        "end": 152,
+                        "expanded_url": "https://www.news247.gr/kosmos/koronoios-pano-apo-5-ekatommyria-oi-thanatoi-pagkosmios.9409218.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635804798",
+                        "start": 129,
+                        "url": "https://t.co/lq0tvBQJmJ"
+                    }
+                ]
+            },
+            "id": 1455296981761503233,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03bf\u03c5\u03c2 5 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03cd\u03c1\u03b9\u03b1 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b5\u03be\u03b1\u03b9\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 Covid-19 \u03c3\u03b5 \u03cc\u03bb\u03bf \u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf, \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03ba\u03b1\u03c4\u03b1\u03bc\u03ad\u03c4\u03c1\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0393\u03b1\u03bb\u03bb\u03b9\u03ba\u03bf\u03cd \u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf\u03c5. https://t.co/lq0tvBQJmJ"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455249406660386818,
+            "created_at": "2021-11-01 19:04:30+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/emvol\u2026",
+                        "end": 219,
+                        "expanded_url": "https://www.news247.gr/koinonia/emvolio-koronoioy-to-booster-profylassei-kata-93-apo-ti-nosileia-kai-kata-81-apo-to-thanato.9408219.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635772688",
+                        "start": 196,
+                        "url": "https://t.co/b7PWom96Kd"
+                    }
+                ]
+            },
+            "id": 1455249406660386818,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 \u03c0\u03c1\u03ce\u03c4\u03b7 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03b5\u03bd\u03b1\u03bd\u03c4\u03af\u03bf\u03bd \u03c4\u03bf\u03c5 Covid-19 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03b1\u03c0\u03cc \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03b9\u03bf \u03c4\u03bf\u03c5 \u0399\u03c3\u03c1\u03b1\u03ae\u03bb \u03ba\u03b1\u03b9 \u03c4\u03bf Harvard \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03b5\u03cd\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b9\u03c2 29/10, \u03c3\u03c4\u03bf \u03b9\u03b1\u03c4\u03c1\u03b9\u03ba\u03cc \u03c0\u03b5\u03c1\u03b9\u03bf\u03b4\u03b9\u03ba\u03cc \"The Lancet\". https://t.co/b7PWom96Kd"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1455178489112539136,
+            "created_at": "2021-11-01 14:22:42+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1455178489112539136,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455159722651308033 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1455159722651308033,
+            "created_at": "2021-11-01 13:08:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 239,
+                        "start": 229,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    },
+                    {
+                        "end": 246,
+                        "start": 240,
+                        "tag": "\u03bc\u03ad\u03c4\u03c1\u03b1"
+                    },
+                    {
+                        "end": 256,
+                        "start": 247,
+                        "tag": "Covid_19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/koinonia/koron\u2026",
+                        "end": 280,
+                        "expanded_url": "https://www.news247.gr/koinonia/koronoios-kinitra-se-giatroys-gia-nosokomeia-tis-perifereias-mparaz-elegchon-stin-estiasi.9408558.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635771232",
+                        "start": 257,
+                        "url": "https://t.co/yPuNqsOpAo"
+                    }
+                ]
+            },
+            "id": 1455159722651308033,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b1\u03c0\u03bf\u03c6\u03b1\u03c3\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd \u03c3\u03c4\u03b7\u03bd \u03c4\u03b7\u03bb\u03b5\u03b4\u03b9\u03ac\u03c3\u03ba\u03b5\u03c8\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03c4\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c5\u03c0\u03cc \u0393\u03b5\u03c1\u03b1\u03c0\u03b5\u03c4\u03c1\u03af\u03c4\u03b7 - \u03a3\u03ba\u03ad\u03c1\u03c4\u03c3\u03bf \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03b5\u03b9\u03c3\u03cc\u03b4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd \u03c3\u03b5 \u03b1\u03bc\u03b9\u03b3\u03b5\u03af\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7\u03c2. #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 #\u03bc\u03ad\u03c4\u03c1\u03b1 #Covid_19 https://t.co/yPuNqsOpAo"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454136857147715588,
+            "created_at": "2021-10-29 17:23:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454136857147715588,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1454120632745144324,
+            "created_at": "2021-10-29 16:19:09+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454120632745144324,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454100907839344644 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u039d\u03ad\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u039f\u03bc\u03af\u03bb\u03bf\u03c5 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 VITEX A.E. \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ad\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454100907839344644,
+            "created_at": "2021-10-29 15:00:46+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/toichos-\u2026",
+                        "end": 173,
+                        "expanded_url": "https://www.news247.gr/ygeia/toichos-prostasias-enanti-tis-covid-19-kai-endonosokomeiakon-loimoxeon.9405227.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635498189",
+                        "start": 150,
+                        "url": "https://t.co/KQCajEoZyA"
+                    }
+                ]
+            },
+            "id": 1454100907839344644,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u039d\u03ad\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c1\u03b3\u03b1\u03c3\u03af\u03b1 \u039f\u03bc\u03af\u03bb\u03bf\u03c5 \u0399\u03b1\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u03ba\u03b1\u03b9 VITEX A.E. \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b4\u03b7\u03bc\u03b9\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b5\u03bd\u03cc\u03c2 \u03b1\u03c3\u03c6\u03b1\u03bb\u03ad\u03c3\u03c4\u03b5\u03c1\u03bf\u03c5 \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd\u03c4\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2, \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03bf\u03b4\u03bf\u03cd\u03c2. https://t.co/KQCajEoZyA"
+        },
+        {
+            "author_id": 761065811779870721,
+            "conversation_id": 1454066163412054023,
+            "created_at": "2021-10-29 12:42:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454066163412054023,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 3350858639,
+            "conversation_id": 1454063489417351168,
+            "created_at": "2021-10-29 12:32:05+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1454063489417351168,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454063120268382224 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454063120268382224,
+            "created_at": "2021-10-29 12:30:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 122,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/oi-loimo\u2026",
+                        "end": 156,
+                        "expanded_url": "https://www.news247.gr/ygeia/oi-loimoxeis-mporei-na-odigisoyn-se-makra-covid-19-kai-toys-emvoliasmenoys.9405226.html?utm_medium=Social&utm_campaign=eb&utm_source=Twitter#Echobox=1635505986",
+                        "start": 133,
+                        "url": "https://t.co/9TxCUiiXOm"
+                    }
+                ]
+            },
+            "id": 1454063120268382224,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bd\u03ad\u03b1 \u03b2\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ae \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b4\u03b5\u03bd \u03c6\u03b1\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c0\u03bf\u03bb\u03cd\u03c4\u03c9\u03c2 \u03b1\u03c0\u03cc \u03c3\u03c5\u03bc\u03c0\u03c4\u03ce\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b1\u03ba\u03c1\u03ac\u03c2 Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03cc\u03c2 https://t.co/9TxCUiiXOm"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1454008834553417729,
+            "created_at": "2021-10-29 08:54:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/to-aisth\u2026",
+                        "end": 203,
+                        "expanded_url": "https://www.news247.gr/ygeia/to-aisthima-toy-anikitoy-empodizei-toys-emvoliasmoys-stis-atomikistikes-chores.9405114.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635491311",
+                        "start": 180,
+                        "url": "https://t.co/p7titXiaCO"
+                    }
+                ]
+            },
+            "id": 1454008834553417729,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 4,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03bd\u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03af\u03bf\u03c5 \u03c4\u03b7\u03c2 \u039d\u03b5\u03b2\u03ac\u03b4\u03b1, \u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03c0\u03bf\u03c5 \u03b4\u03b5\u03bd \u03c0\u03b9\u03c3\u03c4\u03b5\u03cd\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 Covid-19 \u03bc\u03c0\u03bf\u03c1\u03b5\u03af \u03bd\u03b1 \u03b1\u03c0\u03b5\u03b9\u03bb\u03ae\u03c3\u03b5\u03b9 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ac \u03c4\u03b7\u03bd \u03c5\u03b3\u03b5\u03af\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bb\u03b9\u03b3\u03cc\u03c4\u03b5\u03c1\u03bf \u03c0\u03c1\u03cc\u03b8\u03c5\u03bc\u03bf\u03b9 \u03bd\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03cd\u03bd. https://t.co/p7titXiaCO"
+        },
+        {
+            "author_id": 1872223814,
+            "conversation_id": 1453780162072518656,
+            "created_at": "2021-10-28 17:46:15+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "19284221",
+                        "start": 3,
+                        "username": "News247gr"
+                    }
+                ]
+            },
+            "id": 1453780162072518656,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453780030715142160 type=retweeted"
+            ],
+            "text": "RT @News247gr: \u0397 \u039f\u03cd\u03c1\u03c3\u03bf\u03c5\u03bb\u03b1 \u03c6\u03bf\u03bd \u03bd\u03c4\u03b5\u03c1 \u039b\u03ac\u03b9\u03b5\u03bd \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0388\u03bd\u03c9\u03c3\u03b7 \u03b8\u03b1 \u03b5\u03be\u03ac\u03b3\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03bf\u03c3\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf 2022. h\u2026"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1453780030715142160,
+            "created_at": "2021-10-28 17:45:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/kosmos/ee-2022\u2026",
+                        "end": 146,
+                        "expanded_url": "https://www.news247.gr/kosmos/ee-2022-anamenetai-parachthoyn-ee-3-5-disekatommyria-doseis-emvolioy-covid-19.9404648.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635432736",
+                        "start": 123,
+                        "url": "https://t.co/znkkf2wFhj"
+                    }
+                ]
+            },
+            "id": 1453780030715142160,
+            "public_metrics": {
+                "like_count": 3,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0397 \u039f\u03cd\u03c1\u03c3\u03bf\u03c5\u03bb\u03b1 \u03c6\u03bf\u03bd \u03bd\u03c4\u03b5\u03c1 \u039b\u03ac\u03b9\u03b5\u03bd \u03c4\u03cc\u03bd\u03b9\u03c3\u03b5 \u03cc\u03c4\u03b9 \u03b7 \u0395\u03c5\u03c1\u03c9\u03c0\u03b1\u03ca\u03ba\u03ae \u0388\u03bd\u03c9\u03c3\u03b7 \u03b8\u03b1 \u03b5\u03be\u03ac\u03b3\u03b5\u03b9 \u03bc\u03b5\u03b3\u03ac\u03bb\u03b5\u03c2 \u03c0\u03bf\u03c3\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c3\u03b5 \u03c4\u03c1\u03af\u03c4\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 \u03bc\u03ad\u03c3\u03b1 \u03c3\u03c4\u03bf 2022. https://t.co/znkkf2wFhj"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1453579612466917380,
+            "created_at": "2021-10-28 04:29:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039e\u03b5\u03c0\u03b5\u03c1\u03bd\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 900 \u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 covid \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2. \u03a3\u03c4\u03bf\u03c5\u03c2 136 \u03bf\u03b9 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae.",
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 136,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-gemizoyn-ta-nosokomeia-tis-v-elladas-me-astheneis.9404096.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635395291",
+                        "images": [
+                            {
+                                "height": 512,
+                                "url": "https://pbs.twimg.com/news_img/1453579614614343682/K9Op0mIe?format=jpg&name=orig",
+                                "width": 1024
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453579614614343682/K9Op0mIe?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 113,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0393\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03bc\u03b5 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2",
+                        "unwound_url": "https://www.news247.gr/ygeia/koronoios-gemizoyn-ta-nosokomeia-tis-v-elladas-me-astheneis.9404096.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635395291",
+                        "url": "https://t.co/IRkSgy0GoY"
+                    }
+                ]
+            },
+            "id": 1453579612466917380,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039e\u03b5\u03c0\u03b5\u03c1\u03bd\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 900 \u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03bc\u03b5 covid \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0392. \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2. \u03a3\u03c4\u03bf\u03c5\u03c2 136 \u03bf\u03b9 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03c5\u03cc\u03bc\u03b5\u03bd\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u03b5\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae. https://t.co/IRkSgy0GoY"
+        },
+        {
+            "author_id": 19284221,
+            "conversation_id": 1453401717916250114,
+            "created_at": "2021-10-27 16:42:27+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "news247.gr/ygeia/koronoio\u2026",
+                        "end": 138,
+                        "expanded_url": "https://www.news247.gr/ygeia/koronoios-piezetai-to-esy-syndromi-toy-idiotikoy-tomea.9403856.html?utm_term=Autofeed&utm_campaign=eb&utm_medium=Social&utm_source=Twitter#Echobox=1635352923",
+                        "start": 115,
+                        "url": "https://t.co/ldO27HE5Ud"
+                    }
+                ]
+            },
+            "id": 1453401717916250114,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03ad\u03bd\u03c4\u03b5 \u0399\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ad\u03c2 \u039a\u03bb\u03b9\u03bd\u03b9\u03ba\u03ad\u03c2 \u03c3\u03b5 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7, \u0392\u03cc\u03bb\u03bf \u03ba\u03b1\u03b9 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1 \u03b8\u03b1 \u03c3\u03c5\u03bc\u03b2\u03ac\u03bb\u03bf\u03c5\u03bd \u03c3\u03c4\u03b7 \u03bdo\u03c3\u03b7\u03bb\u03b5\u03af\u03b1 \u03b1\u03c3\u03b8\u03b5\u03bd\u03ce\u03bd \u03bc\u03b5 covid \u03bc\u03b5 250 \u03ba\u03bb\u03af\u03bd\u03b5\u03c2. https://t.co/ldO27HE5Ud"
+        }
+    ]
+}

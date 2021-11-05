@@ -1,0 +1,270 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 202539898,
+                "conversation_id": 1454895288817229825,
+                "created_at": "2021-10-31 19:37:22+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a4\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03c0\u03bf\u03c5 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03c0\u03cc\u03c1\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+                            "display_url": "lifo.gr/now/tech-scien\u2026",
+                            "end": 119,
+                            "expanded_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 96,
+                            "status": 200,
+                            "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO",
+                            "unwound_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                            "url": "https://t.co/ABrqv2gfAl"
+                        }
+                    ]
+                },
+                "id": 1454895288817229825,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO https://t.co/ABrqv2gfAl"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2021-08-31 16:41:44+00:00",
+                "description": "MD     \u0395\u03c7\u03c9 \u03c7\u03b1\u03c3\u03b5\u03b9 \u03c0\u03bb\u03b5\u03bf\u03bd \u03ba\u03b1\u03b8\u03b5 \u03b9\u03c7\u03bd\u03bf\u03c2 \u03c5\u03c0\u03bf\u03bc\u03bf\u03bd\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03b9\u03c2 \u03b1\u03bd\u03bf\u03b7\u03c3\u03b9\u03b5\u03c2 \u03c0\u03bf\u03c5 \u03bb\u03b5\u03b3\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c3\u03c7\u03b5\u03c4\u03b9\u03ba\u03b1 \u03bc\u03b5 \u03c4\u03bf\u03bd covid19 & \u03c4\u03b1 covid19 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1",
+                "id": 1432745352994643969,
+                "name": "No name",
+                "public_metrics": {
+                    "followers_count": 42,
+                    "following_count": 75,
+                    "listed_count": 0,
+                    "tweet_count": 654
+                },
+                "username": "VaccineIsSafe1",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-30 07:30:27+00:00",
+                "description": "",
+                "id": 1469166188,
+                "name": "peace_maker",
+                "public_metrics": {
+                    "followers_count": 285,
+                    "following_count": 655,
+                    "listed_count": 5,
+                    "tweet_count": 11256
+                },
+                "username": "little_friend_2",
+                "verified": false
+            },
+            {
+                "created_at": "2010-10-14 08:07:36+00:00",
+                "description": "md",
+                "id": 202539898,
+                "name": "d. g.",
+                "public_metrics": {
+                    "followers_count": 102,
+                    "following_count": 214,
+                    "listed_count": 0,
+                    "tweet_count": 19467
+                },
+                "username": "d_e_gg",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1432745352994643969,
+            "conversation_id": 1455116550206365707,
+            "created_at": "2021-11-01 10:16:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "\u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03b9"
+                    },
+                    {
+                        "end": 168,
+                        "start": 160,
+                        "tag": "\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5"
+                    },
+                    {
+                        "end": 197,
+                        "start": 181,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 212,
+                        "start": 198,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 219,
+                        "start": 213,
+                        "tag": "\u03c8\u03b5\u03ba\u03b9\u03b1"
+                    },
+                    {
+                        "end": 228,
+                        "start": 220,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 243,
+                        "start": 229,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 255,
+                        "start": 245,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 273,
+                        "start": 263,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0388\u03bd\u03b1 \u03b1\u03bd\u03b1\u03c4\u03c1\u03b5\u03c0\u03c4\u03b9\u03ba\u03cc \u03b7\u03c7\u03b7\u03c4\u03b9\u03ba\u03cc \u03bd\u03c4\u03bf\u03ba\u03b9\u03bc\u03b1\u03bd\u03c4\u03ad\u03c1 \u03c4\u03bf\u03c5 \u0386\u03c1\u03b7 \u0394\u03b7\u03bc\u03bf\u03ba\u03af\u03b4\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b1\u03bc\u03c6\u03b9\u03bb\u03b5\u03b3\u03cc\u03bc\u03b5\u03bd\u03bf \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae \u03c0\u03bf\u03c5, \u03c7\u03c9\u03c1\u03af\u03c2 \u03bd\u03b1 \u03b1\u03bd\u03ae\u03ba\u03b5\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ad\u03c2, \u03b8\u03b5\u03c9\u03c1\u03b5\u03af\u03c4\u03b1\u03b9 \u03bf \u03b3\u03ba\u03bf\u03c5\u03c1\u03bf\u03cd \u03c4\u03bf\u03c5\u03c2.",
+                        "display_url": "lifo.gr/podcasts/wraia\u2026",
+                        "end": 33,
+                        "expanded_url": "https://www.lifo.gr/podcasts/wraia-pragmata/i-skliri-alitheia-gia-ton-kathigiti-koybela",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455116556141305862/c0jxIfRS?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455116556141305862/c0jxIfRS?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 10,
+                        "status": 200,
+                        "title": "\u0397 \u03c3\u03ba\u03bb\u03b7\u03c1\u03ae \u03b1\u03bb\u03ae\u03b8\u03b5\u03b9\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03ae \u039a\u03bf\u03cd\u03b2\u03b5\u03bb\u03b1 | LiFO",
+                        "unwound_url": "https://www.lifo.gr/podcasts/wraia-pragmata/i-skliri-alitheia-gia-ton-kathigiti-koybela",
+                        "url": "https://t.co/QAFTO0HOwx"
+                    }
+                ]
+            },
+            "id": 1455116550206365707,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c5\u03b2\u03b5\u03bb\u03b1\u03c2  https://t.co/QAFTO0HOwx \u03a3\u03c5\u03bd\u03b5\u03c7\u03b9\u03b6\u03b5\u03b9 \u03bd\u03b1 \u03b5\u03b9\u03bd\u03b1\u03b9 \u03ba\u03b1\u03b8\u03b7\u03b3\u03b7\u03c4\u03b7\u03c2 &amp; \u03bd\u03b1 \u03b4\u03b9\u03b4\u03b1\u03c3\u03ba\u03b5\u03b9 \u0394\u03b5\u03bd \u03b5\u03c7\u03b5\u03b9 \u03b5\u03c0\u03b5\u03bc\u03b2\u03b5\u03b9 \u0395\u03b9\u03c3\u03b1\u03b3\u03b3\u03b5\u03bb\u03b5\u03b1\u03c2 \u03a3\u03c5\u03bd\u03b5\u03c7\u03b9\u03b6\u03b5\u03b9 \u03bd\u03b1 #\u03c3\u03ba\u03bf\u03c4\u03c9\u03bd\u03b5\u03b9 \u03bf\u03c0\u03c9\u03c2 &amp; \u03bf \u03b4\u03b9\u03ba\u03b7\u03b3\u03bf\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 #\u03b8\u03b1\u03bd\u03b1\u03c4\u03bf\u03c5 \u0395\u03bb\u03bb\u03b1\u03b4\u03b1 2021 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 #\u03c8\u03b5\u03ba\u03b9\u03b1 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9  #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 \u039d\u03b5\u03ba\u03c1\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u0391\u03b9\u03c3\u03c7\u03bf\u03c2 \u2714\ufe0f"
+        },
+        {
+            "author_id": 1469166188,
+            "conversation_id": 1454916869178249218,
+            "created_at": "2021-10-31 21:03:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "202539898",
+                        "start": 3,
+                        "username": "d_e_gg"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03c0\u03bf\u03c5 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03c0\u03cc\u03c1\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+                        "display_url": "lifo.gr/now/tech-scien\u2026",
+                        "end": 131,
+                        "expanded_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 108,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO",
+                        "unwound_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                        "url": "https://t.co/ABrqv2gfAl"
+                    }
+                ]
+            },
+            "id": 1454916869178249218,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454895288817229825 type=retweeted"
+            ],
+            "text": "RT @d_e_gg: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO https://t.co/ABrqv2gfAl"
+        },
+        {
+            "author_id": 202539898,
+            "conversation_id": 1454895288817229825,
+            "created_at": "2021-10-31 19:37:22+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b1 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03ad\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03c2 \u03bc\u03b5\u03b3\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7\u03c2 \u03c3\u03c4\u03bf\u03bd \u03ba\u03cc\u03c3\u03bc\u03bf \u03c0\u03bf\u03c5 \u03ad\u03b3\u03b9\u03bd\u03b5 \u03c3\u03c4\u03bf \u03c0\u03c1\u03c9\u03c4\u03bf\u03c0\u03cc\u03c1\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+                        "display_url": "lifo.gr/now/tech-scien\u2026",
+                        "end": 119,
+                        "expanded_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454437999031238660/iytUsRed?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 96,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO",
+                        "unwound_url": "https://www.lifo.gr/now/tech-science/embolio-pfizer-i-triti-dosi-meionei-93-ton-kindyno-barias-covid-19-anexartitos",
+                        "url": "https://t.co/ABrqv2gfAl"
+                    }
+                ]
+            },
+            "id": 1454895288817229825,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u0397 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 93% \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b2\u03b1\u03c1\u03b9\u03ac\u03c2 Covid-19 \u03b1\u03bd\u03b5\u03be\u03b1\u03c1\u03c4\u03ae\u03c4\u03c9\u03c2 \u03b7\u03bb\u03b9\u03ba\u03af\u03b1\u03c2 | LiFO https://t.co/ABrqv2gfAl"
+        }
+    ]
+}

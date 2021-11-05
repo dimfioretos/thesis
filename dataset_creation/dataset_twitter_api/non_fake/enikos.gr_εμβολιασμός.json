@@ -1,0 +1,208 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 373909732,
+                "conversation_id": 1455426122171170825,
+                "created_at": "2021-11-02 06:46:42+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "enikos.gr/society/korono\u2026",
+                            "end": 93,
+                            "expanded_url": "https://www.enikos.gr/society/koronoios-o-emvoliasmos-meionei-ton-kindyno-thanatou-apo-alles-aities/1700032/",
+                            "start": 70,
+                            "url": "https://t.co/NjaBAN7l0t"
+                        }
+                    ]
+                },
+                "id": 1455426122171170825,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/NjaBAN7l0t"
+            },
+            {
+                "author_id": 373909732,
+                "conversation_id": 1454849214249422848,
+                "created_at": "2021-10-31 16:34:17+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u0395\u03c0\u03b9\u03bc\u03ad\u03bd\u03b5\u03b9 \u03bf \u03a3\u03a5\u03a1\u0399\u0396\u0391 \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03c4\u03b1\u03c3\u03ae \u03c4\u03bf\u03c5 \u03b3\u03b9\u03b1 \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03cc\u03bd\u03c9\u03bd \u03b1\u03bb\u03bb\u03ac \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ae \u03c4\u03bf\u03c5 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03cc\u03c3\u03bf\u03bd \u03b1\u03c6\u03bf\u03c1\u03ac \u03c3\u03c4\u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2",
+                            "display_url": "enikos.gr/politics/nasos\u2026",
+                            "end": 92,
+                            "expanded_url": "https://www.enikos.gr/politics/nasos-iliopoulos-nai-i-ochi-se-koinis-apodochis-epitropi-epistimonon/1699215/",
+                            "images": [
+                                {
+                                    "height": 800,
+                                    "url": "https://pbs.twimg.com/news_img/1454849216593989637/hLgvzRPD?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454849216593989637/hLgvzRPD?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 69,
+                            "status": 200,
+                            "title": "\u039d\u03ac\u03c3\u03bf\u03c2 \u0397\u03bb\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u039d\u03b1\u03b9 \u03ae \u03cc\u03c7\u03b9 \u03c3\u03b5 \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03cc\u03bd\u03c9\u03bd;",
+                            "unwound_url": "https://www.enikos.gr/politics/nasos-iliopoulos-nai-i-ochi-se-koinis-apodochis-epitropi-epistimonon/1699215/",
+                            "url": "https://t.co/WyKIlR1Gld"
+                        }
+                    ]
+                },
+                "id": 1454849214249422848,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 2,
+                    "reply_count": 11,
+                    "retweet_count": 1
+                },
+                "text": "\u039d\u03ac\u03c3\u03bf\u03c2 \u0397\u03bb\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u039d\u03b1\u03b9 \u03ae \u03cc\u03c7\u03b9 \u03c3\u03b5 \u03ba\u03bf\u03b9\u03bd\u03ae\u03c2 \u03b1\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u03c2 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03cc\u03bd\u03c9\u03bd;\nhttps://t.co/WyKIlR1Gld"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-07-01 08:25:51+00:00",
+                "description": "\u0395\u03ba\u03b4\u03cc\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 Realnews \u03ba\u03b1\u03b9 \u03c4\u03c9\u03bd https://t.co/XtRe5Wo6RX \u03ba\u03b1\u03b9 https://t.co/BvCTDucu0a",
+                "id": 327267369,
+                "name": "Nikos Chatzinikolaou",
+                "public_metrics": {
+                    "followers_count": 629510,
+                    "following_count": 37817,
+                    "listed_count": 1537,
+                    "tweet_count": 395949
+                },
+                "username": "NChatzinikolaou",
+                "verified": false
+            },
+            {
+                "created_at": "2011-09-15 11:33:44+00:00",
+                "description": "\u0395\u03b4\u03ce \u03bc\u03b9\u03bb\u03ac\u03bc\u03b5 \u03c3\u03c4\u03bf\u03bd \u03b5\u03bd\u03b9\u03ba\u03cc.",
+                "id": 373909732,
+                "name": "enikos.gr",
+                "public_metrics": {
+                    "followers_count": 405557,
+                    "following_count": 33,
+                    "listed_count": 1188,
+                    "tweet_count": 619155
+                },
+                "username": "enikos_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2009-01-04 09:40:46+00:00",
+                "description": "\u03bc\u03b9\u03b1 \u03b6\u03c9\u03ae \u03c4\u03c1\u03bf\u03bb",
+                "id": 18599468,
+                "name": "\u0391\u03b3\u03cd\u03c1\u03b9\u03c3\u03c4\u03bf\u039a\u03b5\u03c6\u03ac\u03bb\u03b9",
+                "public_metrics": {
+                    "followers_count": 25,
+                    "following_count": 52,
+                    "listed_count": 0,
+                    "tweet_count": 614
+                },
+                "username": "georgepapadim",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 327267369,
+            "conversation_id": 1455430334066184192,
+            "created_at": "2021-11-02 07:03:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "373909732",
+                        "start": 3,
+                        "username": "enikos_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/korono\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.enikos.gr/society/koronoios-o-emvoliasmos-meionei-ton-kindyno-thanatou-apo-alles-aities/1700032/",
+                        "start": 85,
+                        "url": "https://t.co/NjaBAN7l0t"
+                    }
+                ]
+            },
+            "id": 1455430334066184192,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455426122171170825 type=retweeted"
+            ],
+            "text": "RT @enikos_gr: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/NjaBAN7l0t"
+        },
+        {
+            "author_id": 373909732,
+            "conversation_id": 1455426122171170825,
+            "created_at": "2021-11-02 06:46:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "enikos.gr/society/korono\u2026",
+                        "end": 93,
+                        "expanded_url": "https://www.enikos.gr/society/koronoios-o-emvoliasmos-meionei-ton-kindyno-thanatou-apo-alles-aities/1700032/",
+                        "start": 70,
+                        "url": "https://t.co/NjaBAN7l0t"
+                    }
+                ]
+            },
+            "id": 1455426122171170825,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03ba\u03af\u03bd\u03b4\u03c5\u03bd\u03bf \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5 \u03b1\u03c0\u03cc \u03ac\u03bb\u03bb\u03b5\u03c2 \u03b1\u03b9\u03c4\u03af\u03b5\u03c2 https://t.co/NjaBAN7l0t"
+        },
+        {
+            "author_id": 18599468,
+            "conversation_id": 1454849214249422848,
+            "created_at": "2021-10-31 18:01:33+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "373909732",
+                        "start": 0,
+                        "username": "enikos_gr"
+                    },
+                    {
+                        "end": 27,
+                        "id": "327267369",
+                        "start": 11,
+                        "username": "NChatzinikolaou"
+                    }
+                ]
+            },
+            "id": 1454871175264411651,
+            "in_reply_to_user_id": 373909732,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454849214249422848 type=replied_to"
+            ],
+            "text": "@enikos_gr @NChatzinikolaou \u038c\u03c7\u03b9, \u03c4\u03b9 \u03b1\u03c1\u03bb\u03bf\u03c5\u03bc\u03c0\u03b5\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03c5\u03c4\u03ad\u03c2? \u0395\u03af\u03bd\u03b1\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03bf \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03bf\u03c2 \u03c4\u03c1\u03cc\u03c0\u03bf\u03c2 \u03b1\u03bd\u03c4\u03b9\u03bc\u03b5\u03c4\u03ce\u03c0\u03b9\u03c3\u03b7\u03c2? \u0395\u03af\u03bd\u03b1\u03b9, \u03ac\u03c1\u03b1 \u03b3\u03b9\u03b1\u03c4\u03af \u03b4\u03b5 \u03c3\u03c4\u03b7\u03c1\u03af\u03be\u03b1\u03c4\u03b5? \u0393\u03b9\u03b1\u03c4\u03af \u03b5\u03af\u03c3\u03c4\u03b5 \u03b2\u03bf\u03b4\u03b9\u03b1"
+        }
+    ]
+}

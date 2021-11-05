@@ -1,0 +1,88 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2020-12-01 06:00:21+00:00",
+                "description": "\u03a7\u03c1\u03b9\u03c3\u03c4\u03b9\u03b1\u03bd\u03cc\u03c2 \u039f\u03c1\u03b8\u03cc\u03b4\u03bf\u03be\u03bf\u03c2-\u039f\u03bc\u03bf\u03bb\u03bf\u03b3\u03b7\u03c4\u03ae\u03c2 \u039f\u03c1\u03b8\u03bf\u03b4\u03cc\u03be\u03bf\u03c5 \u03a0\u03af\u03c3\u03c4\u03b5\u03c9\u03c2\n\u03c0\u03b1\u03c2 \u03bf\u03c5\u03bd \u03cc\u03c3\u03c4\u03b9\u03c2 \u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ae\u03c3\u03b5\u03b9 \u03b5\u03bd \u03b5\u03bc\u03bf\u03af \u03ad\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd \u03c4\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd,\u03bf\u03bc\u03bf\u03bb\u03bf\u03b3\u03ae\u03c3\u03c9 \u03ba\u03b1\u03b3\u03ce \u03b5\u03bd \u03b1\u03c5\u03c4\u03ce \u03ad\u03bc\u03c0\u03c1\u03bf\u03c3\u03b8\u03b5\u03bd \u03c4\u03bf\u03c5 \u03c0\u03b1\u03c4\u03c1\u03cc\u03c2 \u03bc\u03bf\u03c5+\u0399\u03a3.\u03a7\u03a1.",
+                "id": 1333651823446659072,
+                "name": "\u039a\u03c9\u03c3\u03c4\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u0394\u03b7\u03bc\u03ae\u03c4\u03c1\u03b9\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 27,
+                    "following_count": 182,
+                    "listed_count": 0,
+                    "tweet_count": 257
+                },
+                "username": "olimpiodoros",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1333651823446659072,
+            "conversation_id": 1454447280346517504,
+            "created_at": "2021-10-30 13:57:08+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 25,
+                        "start": 11,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 43,
+                        "start": 27,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 57,
+                        "start": 45,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 72,
+                        "start": 59,
+                        "tag": "\u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03b9"
+                    },
+                    {
+                        "end": 84,
+                        "start": 74,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 99,
+                        "start": 86,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    },
+                    {
+                        "end": 227,
+                        "start": 219,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "pronews.gr/ygeia/1029698_\u2026",
+                        "end": 217,
+                        "expanded_url": "https://www.pronews.gr/ygeia/1029698_steven-tkirsch-se-syskepsi-toy-fda-giati-ta-paidia-peftoyn-san-tis-myges-amesos-meta",
+                        "start": 194,
+                        "url": "https://t.co/D5IO06wp2o"
+                    }
+                ]
+            },
+            "id": 1454447280346517504,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1\n#\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9 \n#\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 \n#\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399 \n#\u03c5\u03b3\u03b5\u03b9\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03b9 \n#\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2 \n#\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2 \nSteven Todd Kirsch: \u0393\u03b9\u03b1\u03c4\u03af \u03b1\u03c5\u03c4\u03cc\u03c2 \u03bf 15\u03c7\u03c1\u03bf\u03bd\u03bf\u03c2 \u03c0\u03ad\u03b8\u03b1\u03bd\u03b5 \u03c3\u03c4\u03bf\u03bd \u03cd\u03c0\u03bd\u03bf \u03c4\u03bf\u03c5 2 \u03bc\u03ad\u03c1\u03b5\u03c2 \u03bc\u03b5\u03c4\u03ac \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc;\nhttps://t.co/D5IO06wp2o\n #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+        }
+    ]
+}

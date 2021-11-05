@@ -1,0 +1,1270 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 462249767,
+                "conversation_id": 1455558642577649668,
+                "created_at": "2021-11-02 15:33:18+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/politiki/artic\u2026",
+                            "end": 165,
+                            "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                            "start": 142,
+                            "url": "https://t.co/t6Ut3nLr8x"
+                        }
+                    ]
+                },
+                "id": 1455558642577649668,
+                "public_metrics": {
+                    "like_count": 21,
+                    "quote_count": 0,
+                    "reply_count": 6,
+                    "retweet_count": 4
+                },
+                "text": "\u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc :\nhttps://t.co/t6Ut3nLr8x"
+            },
+            {
+                "author_id": 943447513964695552,
+                "conversation_id": 1455561377641336840,
+                "created_at": "2021-11-02 15:44:10+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "pic.twitter.com/H4URKjrNio",
+                            "end": 34,
+                            "expanded_url": "https://twitter.com/LavrentisBeria4/status/1455561377641336840/photo/1",
+                            "start": 11,
+                            "url": "https://t.co/H4URKjrNio"
+                        }
+                    ]
+                },
+                "id": 1455561377641336840,
+                "public_metrics": {
+                    "like_count": 576,
+                    "quote_count": 6,
+                    "reply_count": 19,
+                    "retweet_count": 80
+                },
+                "text": "\u0391\u03bd\u03b1\u03c0\u03ac\u03bd\u03c4\u03b5\u03c7\u03bf https://t.co/H4URKjrNio"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1455573141477109764,
+                "created_at": "2021-11-02 16:30:54+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/politiki/artic\u2026",
+                            "end": 177,
+                            "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635868285",
+                            "start": 154,
+                            "url": "https://t.co/jV1dPnDRa1"
+                        }
+                    ]
+                },
+                "id": 1455573141477109764,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 5,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2. https://t.co/jV1dPnDRa1"
+            },
+            {
+                "author_id": 611835487,
+                "conversation_id": 1455520939974742028,
+                "created_at": "2021-11-02 13:03:29+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 277,
+                            "start": 267,
+                            "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                            "end": 23,
+                            "expanded_url": "https://www.thetoc.gr/koinwnia/article/benetia-den-ebgale-ti-maska-pote---ti-leei-i-monadiki-pou-den-kollise-koronoio-apo-to-gkroup-ton-ellinon-touriston/",
+                            "start": 0,
+                            "url": "https://t.co/8qXpfkSAPH"
+                        }
+                    ]
+                },
+                "id": 1455520939974742028,
+                "public_metrics": {
+                    "like_count": 9,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "https://t.co/8qXpfkSAPH\n\u03a4\u03bf\u03c5\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03ba\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u0399\u03c4\u03b1\u03bb\u03af\u03b1,\u03c0\u03bf\u03c5 \u03b1\u03c1\u03c1\u03ce\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd,(\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9),\u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03b3\u03b1\u03bd \u03c3\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03ba \u03c4\u03bf\u03c5\u03c2 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b1\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac. \n\u03a0\u03cc\u03c3\u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03b8\u03b1 \u03c3\u03ce\u03b6\u03bf\u03bd\u03c4\u03b1\u03bd  \u03b1\u03bd \u03c5\u03c0\u03ae\u03c1\u03c7\u03b5 \u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1 \u03bd\u03b1 \u03b5\u03c1\u03b8\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03b1 \u03ba \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b1 \u03bd\u03c9\u03c1\u03b9\u03c4\u03b5\u03c1\u03b1?\n\u0395\u03b3\u03ba\u03bb\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bf\u03bb\u03b9\u03b3\u03c9\u03c1\u03af\u03b1!\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+            },
+            {
+                "author_id": 2258048989,
+                "conversation_id": 1454540376736415751,
+                "created_at": "2021-10-30 21:40:27+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "id": "1040885508",
+                            "start": 0,
+                            "username": "Anatoli1813"
+                        },
+                        {
+                            "end": 23,
+                            "id": "2200853882",
+                            "start": 13,
+                            "username": "TheTOC_gr"
+                        }
+                    ]
+                },
+                "id": 1454563878231281667,
+                "in_reply_to_user_id": 1040885508,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454560447609384961 type=replied_to"
+                ],
+                "text": "@Anatoli1813 @TheTOC_gr \u03c0\u03c9\u03c2 \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 \u03b8\u03b1 \u03ad\u03b2\u03b3\u03b1\u03b6\u03b1\u03bd 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1; \u039c\u03b5 \u03c4\u03bf\u03bd \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03b8\u03b1 \u03ad\u03c0\u03c1\u03b5\u03c0\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c0\u03c9\u03c2 \u03bf\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 10-20.000 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b8\u03b1 \u03ad\u03b4\u03b9\u03bd\u03b1\u03bd 400 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.."
+            },
+            {
+                "author_id": 1040885508,
+                "conversation_id": 1454540376736415751,
+                "created_at": "2021-10-30 21:26:49+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 9,
+                            "id": "2258048989",
+                            "start": 0,
+                            "username": "K_omegas"
+                        },
+                        {
+                            "end": 20,
+                            "id": "2200853882",
+                            "start": 10,
+                            "username": "TheTOC_gr"
+                        }
+                    ]
+                },
+                "id": 1454560447609384961,
+                "in_reply_to_user_id": 2258048989,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 0
+                },
+                "referenced_tweets": [
+                    "<ReferencedTweet id=1454559525336494082 type=replied_to"
+                ],
+                "text": "@K_omegas @TheTOC_gr \u039a\u03b1\u03b9 \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03c3\u03b7\u03bc\u03b1\u03bd\u03c4\u03b9\u03ba\u03ae \u03c0\u03af\u03b5\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b4\u03c9\u03c1\u03b5\u03ac\u03bd \u03c4\u03cc\u03c3\u03b5\u03c2 \u03c7\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03c4\u03b5\u03c3\u03c4 (200.000) \u03ba\u03ac\u03b8\u03b5 \u03bc\u03ad\u03c1\u03b1; \u03a4\u03cc\u03c3\u03b1 \u03c0\u03b5\u03c4\u03b1\u03bc\u03ad\u03bd\u03b1 \u03bb\u03b5\u03c6\u03c4\u03ac. \u0386\u03c3\u03b5 \u03c4\u03b1 \u03c3\u03ba\u03bf\u03c5\u03c0\u03af\u03b4\u03b9\u03b1 (\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03c1\u03b5 \u03bf \u03c0\u03cc\u03bd\u03bf\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf \u03c0\u03b5\u03c1\u03b9\u03b2\u03ac\u03bb\u03bb\u03bf\u03bd)"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1454540376736415751,
+                "created_at": "2021-10-30 20:07:04+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                            "end": 156,
+                            "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-tromazoun-ta-4696-krousmata---magiorkinis-pithana-nea-metra---isos-kleisoun-kentra-diaskedasis/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635622793",
+                            "start": 133,
+                            "url": "https://t.co/h6EwfU06ll"
+                        }
+                    ]
+                },
+                "id": 1454540376736415751,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u039c\u03af\u03b1 \u03b1\u03bd\u03ac\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bd\u03ad\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03c0\u03b9\u03ad\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c6\u03cc\u03c1\u03b7\u03c4\u03b1, \u03bc\u03b5\u03c4\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. https://t.co/h6EwfU06ll"
+            },
+            {
+                "author_id": 2200853882,
+                "conversation_id": 1454474568979079175,
+                "created_at": "2021-10-30 15:45:34+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                            "end": 124,
+                            "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-eftasan-tous-oi-nekroi---nea-krousmata---oi-diasolinomenoi/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635608337",
+                            "start": 101,
+                            "url": "https://t.co/L7UYuX8bQ2"
+                        }
+                    ]
+                },
+                "id": 1454474568979079175,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u0391\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/L7UYuX8bQ2"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-10-21 13:17:23+00:00",
+                "description": "\u03b1\u03bd\u03c4\u03b9\u03b4\u03b7\u03bc\u03bf\u03c6\u03b9\u03bb\u03b5\u03b9\u03c2 \u03b1\u03c0\u03bf\u03c8\u03b5\u03b9\u03c2",
+                "id": 2839909750,
+                "name": "Ketelapongo",
+                "public_metrics": {
+                    "followers_count": 5050,
+                    "following_count": 2649,
+                    "listed_count": 35,
+                    "tweet_count": 38769
+                },
+                "username": "ketelapongo",
+                "verified": false
+            },
+            {
+                "created_at": "2012-01-12 18:55:36+00:00",
+                "description": "\u0391\u0392\u03a3\u03a0, Information Technologies, Logistics, HR",
+                "id": 462249767,
+                "name": "Tassos Ioannides",
+                "public_metrics": {
+                    "followers_count": 4064,
+                    "following_count": 4112,
+                    "listed_count": 16,
+                    "tweet_count": 51054
+                },
+                "username": "TassosIoannides",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-28 13:08:02+00:00",
+                "description": "middle east politics & international relations - Following conflicts around the world. History chaser. Last but not least, a lifetimer fan of Great PAOK - \u03a0\u0391\u039f\u039a",
+                "id": 791989904414765058,
+                "name": "MICHAIL KLIN",
+                "public_metrics": {
+                    "followers_count": 1253,
+                    "following_count": 797,
+                    "listed_count": 14,
+                    "tweet_count": 80991
+                },
+                "username": "artemis_klin",
+                "verified": false
+            },
+            {
+                "created_at": "2009-07-17 12:36:00+00:00",
+                "description": "To \u03b1\u03ba\u03b1\u03bf\u03c5 \u03c1\u03af\u03c7\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03b1\u03bb\u03b9\u03bf\u03bc\u03bf\u03b4\u03af\u03c4\u03b9\u03ba\u03bf \u03bc\u03c0\u03b9\u03bd\u03b5\u03bb\u03af\u03ba\u03b9. \u0397 \u03c0\u03cc\u03c1\u03c4\u03b1 \u03b4\u03b5\u03be\u03b9\u03ac.",
+                "id": 57631109,
+                "name": "\u039a\u03ac\u03c1\u03bf\u03bb\u03bf\u03c2 \u0394\u03b1\u03c1\u03b2\u03af\u03bd\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 1178,
+                    "following_count": 1201,
+                    "listed_count": 21,
+                    "tweet_count": 18549
+                },
+                "username": "lovotomimenos21",
+                "verified": false
+            },
+            {
+                "created_at": "2017-12-20 11:46:30+00:00",
+                "description": "NKVD Leader, reformer of dissidents. Everyone is considered guilty until ultimately confessing guilty",
+                "id": 943447513964695552,
+                "name": "LavrentisBeria",
+                "public_metrics": {
+                    "followers_count": 24568,
+                    "following_count": 1587,
+                    "listed_count": 120,
+                    "tweet_count": 28379
+                },
+                "username": "LavrentisBeria4",
+                "verified": false
+            },
+            {
+                "created_at": "2011-04-27 10:51:25+00:00",
+                "description": "\u03a4\u03bf \u03c0\u03b1\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03b5\u03b8\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c1\u03b8\u03b9\u03bf\u03b9",
+                "id": 288725041,
+                "name": "stRela",
+                "public_metrics": {
+                    "followers_count": 6260,
+                    "following_count": 870,
+                    "listed_count": 143,
+                    "tweet_count": 100438
+                },
+                "username": "ste_pl",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-08-20 09:05:33+00:00",
+                "description": "",
+                "id": 766924116955766784,
+                "name": "\u0394\u03b5\u03c3\u03c4\u03ad  \u0391\u03c1\u03b3\u03c5\u03c1\u03ce",
+                "public_metrics": {
+                    "followers_count": 187,
+                    "following_count": 251,
+                    "listed_count": 0,
+                    "tweet_count": 6207
+                },
+                "username": "ardeste1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-05-24 00:35:59+00:00",
+                "description": "",
+                "id": 2561140245,
+                "name": "Johnny",
+                "public_metrics": {
+                    "followers_count": 1058,
+                    "following_count": 1169,
+                    "listed_count": 12,
+                    "tweet_count": 16686
+                },
+                "username": "ykachrilas",
+                "verified": false
+            },
+            {
+                "created_at": "2009-02-28 12:06:10+00:00",
+                "description": "\u0391\u03bb\u03bb\u03b5\u03c1\u03b3\u03b9\u03ba\u03cc\u03c2 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bc\u03cc\u03c1\u03c6\u03c9\u03c4\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c7\u03c9\u03c1\u03af\u03c2 \u03c0\u03b1\u03b9\u03b4\u03b5\u03af\u03b1. \u039a\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03c0\u03bb\u03ac\u03ba\u03b1, \u03c0\u03bf\u03c5 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c5 \u03bb\u03ad\u03bc\u03b5 \u03ba\u03b1\u03bd\u03ad\u03bd\u03b1 \u03c3\u03bf\u03b2\u03b1\u03c1\u03cc. \u03a7\u03b1\u03bb\u03b1\u03c1\u03ce\u03c3\u03c4\u03b5 \u03b7 \u03b6\u03c9\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03c9\u03c1\u03b1\u03af\u03b1... \u03b5\u03ba\u03b5\u03af \u03ad\u03be\u03c9, \u03bf\u03c7\u03b9 \u03c3\u03c4\u03bf twitter.",
+                "id": 22249835,
+                "name": "Katifysiko",
+                "public_metrics": {
+                    "followers_count": 4843,
+                    "following_count": 5306,
+                    "listed_count": 10,
+                    "tweet_count": 7230
+                },
+                "username": "Katifysiko",
+                "verified": false
+            },
+            {
+                "created_at": "2020-03-17 05:43:01+00:00",
+                "description": "",
+                "id": 1239789270153510913,
+                "name": "\u03a4\u03b1\u03c3\u03c3\u03ce \u039a\u03b1\u03b2\u03b2\u03b1\u03b4\u03af\u03b1.",
+                "public_metrics": {
+                    "followers_count": 193,
+                    "following_count": 17,
+                    "listed_count": 0,
+                    "tweet_count": 12614
+                },
+                "username": "Amalia83974251",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-18 17:07:06+00:00",
+                "description": "\u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c2 \u03bd\u03b1 \u03ba\u03cc\u03c8\u03b5\u03b9\u03c2 \u03cc\u03bb\u03b1 \u03c4\u03b1 \u03bb\u03bf\u03c5\u03bb\u03bf\u03cd\u03b4\u03b9\u03b1,\n\u03b1\u03bb\u03bb\u03ac \u03b4\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03b5\u03b9\u03c2 \u03bd\u03b1 \u03b5\u03bc\u03c0\u03bf\u03b4\u03af\u03c3\u03b5\u03b9\u03c2 \n\u03c4\u03b7\u03bd \u0386\u03bd\u03bf\u03b9\u03be\u03b7, \u03bd\u03b1 '\u03c1\u03b8\u03b5\u03b9.\nPABLO NERUDA",
+                "id": 611835487,
+                "name": "olga",
+                "public_metrics": {
+                    "followers_count": 3536,
+                    "following_count": 3649,
+                    "listed_count": 10,
+                    "tweet_count": 26778
+                },
+                "username": "olga48778863",
+                "verified": false
+            },
+            {
+                "created_at": "2019-09-09 15:36:45+00:00",
+                "description": "Fight for the fairytale,it does exist...",
+                "id": 1171084889766207489,
+                "name": "R-ch\ud83e\udd8b",
+                "public_metrics": {
+                    "followers_count": 544,
+                    "following_count": 667,
+                    "listed_count": 1,
+                    "tweet_count": 4730
+                },
+                "username": "themis1802",
+                "verified": false
+            },
+            {
+                "created_at": "2018-03-01 15:24:58+00:00",
+                "description": "\u00ab\u039a\u03bf\u03b9\u03c4\u03ac\u03b6\u03c9 \u03c4\u03b7 \u0393\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03cc\u03c3\u03bf \u03cc\u03bc\u03bf\u03c1\u03c6\u03b7\u00bb \n\u0393.\u0393\u03ba\u03b1\u03b3\u03ba\u03ac\u03c1\u03b9\u03bd 12/04/1961",
+                "id": 969232029836566528,
+                "name": "Panos \ud83c\udfcd52\ud83c\udfcd teenager \ud83d\udc89",
+                "public_metrics": {
+                    "followers_count": 1934,
+                    "following_count": 2361,
+                    "listed_count": 13,
+                    "tweet_count": 102735
+                },
+                "username": "SaveDignity",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-27 23:57:09+00:00",
+                "description": "\u03a0\u03cc\u03c3\u03bf \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c1\u03b1\u03b3\u03b9\u03ac\u03b4\u03b5\u03c2 \u03b7 \u039a\u03c1\u03ae\u03c4\u03b7 \u03ba\u03b9 \u03b7 \u039c\u03ac\u03bd\u03b7\n\u03a3\u03ba\u03bf\u03c4\u03b5\u03b9\u03bd\u03ad\u03c2 \u03bc\u03b1\u03c5\u03c1\u03bf\u03c6\u03cc\u03c1\u03b5\u03c2, \u03bc\u03b1\u03bd\u03ac\u03b4\u03b5\u03c2 \u03c3\u03c4\u03bf\u03c5 \u039f\u03b4\u03c5\u03c3\u03c3\u03ad\u03b1 \u03c4\u03bf \u03c7\u03ac\u03bd\u03b9...",
+                "id": 1040885508,
+                "name": "\u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03ae",
+                "public_metrics": {
+                    "followers_count": 1662,
+                    "following_count": 825,
+                    "listed_count": 21,
+                    "tweet_count": 76961
+                },
+                "username": "Anatoli1813",
+                "verified": false
+            },
+            {
+                "created_at": "2013-12-22 19:07:30+00:00",
+                "description": "\u03a4\u03bf account \u03c4\u03b5\u03bb\u03b5\u03af \u03c5\u03c0\u03cc \u03b5\u03ba\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b7. \n\u03a0\u03b1\u03c1\u03b1\u03ba\u03b1\u03bb\u03ce \u03bc\u03b7\u03bd \u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03b5 \u03ac\u03bb\u03bb\u03bf\u03b9.",
+                "id": 2258048989,
+                "name": "NewPage \u2b55\u274c\u2757",
+                "public_metrics": {
+                    "followers_count": 864,
+                    "following_count": 70,
+                    "listed_count": 24,
+                    "tweet_count": 66570
+                },
+                "username": "K_omegas",
+                "verified": false
+            },
+            {
+                "created_at": "2011-07-06 07:47:20+00:00",
+                "description": "Salus populi suprema lex esto\r\nLet the welfare of the people be the supreme law\r\n(Ciceron)\r\n\r\nLa vita e' bella\r\n\r\nCivil Engineer, NTUA 1980",
+                "id": 330196261,
+                "name": "George Mitakides",
+                "public_metrics": {
+                    "followers_count": 9329,
+                    "following_count": 10263,
+                    "listed_count": 210,
+                    "tweet_count": 479321
+                },
+                "username": "GMitakides",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-27 21:51:27+00:00",
+                "description": "Animal rights, human rights, \u03c3\u03b5\u03b2\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b1 \u03b6\u03ce\u03b1, \u039f\u03a7\u0399 \u03c3\u03c4\u03bf\u03bd \u03c1\u03b1\u03c4\u03c3\u03b9\u03c3\u03bc\u03cc, \u039f\u03a7\u0399 \u03c3\u03c4\u03b7\u03bd \u03b1\u03ba\u03c1\u03bf\u03b4\u03b5\u03be\u03b9\u03ac!",
+                "id": 3347987163,
+                "name": "Vasso Taki \ud83d\udc3e\u2696\ufe0f\ud83c\udf08",
+                "public_metrics": {
+                    "followers_count": 871,
+                    "following_count": 1567,
+                    "listed_count": 2,
+                    "tweet_count": 31207
+                },
+                "username": "VassoTaki",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-13 20:08:21+00:00",
+                "description": "Sometimes antisocial always antifascist...",
+                "id": 552973103,
+                "name": "PDST95",
+                "public_metrics": {
+                    "followers_count": 410,
+                    "following_count": 389,
+                    "listed_count": 0,
+                    "tweet_count": 5923
+                },
+                "username": "PDST95",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-29 21:54:32+00:00",
+                "description": "Hi, folks! I am TSAKTHAN from Greece. I am a political sociologist and a social movement activist.",
+                "id": 18461117,
+                "name": "tsakthan",
+                "public_metrics": {
+                    "followers_count": 377,
+                    "following_count": 714,
+                    "listed_count": 5,
+                    "tweet_count": 9916
+                },
+                "username": "tsakthan",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2839909750,
+            "conversation_id": 1455636111011852295,
+            "created_at": "2021-11-02 20:41:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455636111011852295,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 791989904414765058,
+            "conversation_id": 1455591883971956737,
+            "created_at": "2021-11-02 17:45:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455591883971956737,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 57631109,
+            "conversation_id": 1455577707094368258,
+            "created_at": "2021-11-02 16:49:03+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 15,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 42,
+                        "start": 26,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 57,
+                        "start": 43,
+                        "tag": "\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 77,
+                        "start": 58,
+                        "tag": "\u03c3\u03c5\u03c1\u03b9\u03b6\u03b1_\u03c3\u03b5_\u03b1\u03c0\u03bf\u03b3\u03bd\u03c9\u03c3\u03b7"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/best-\u2026",
+                        "end": 102,
+                        "expanded_url": "http://www.thetoc.gr/koinwnia/best-of-internet/larisa-ti-apegine-o-mathitis-pou-moutzose-tous-episimous-stin-parelasi-tou-2011--apo-aganaktismenos-egine-antiemboliastis/%3famp=true",
+                        "start": 79,
+                        "url": "https://t.co/ybSa5OcVP0"
+                    },
+                    {
+                        "display_url": "twitter.com/LavrentisBeria\u2026",
+                        "end": 126,
+                        "expanded_url": "https://twitter.com/LavrentisBeria4/status/1455561377641336840",
+                        "start": 103,
+                        "url": "https://t.co/eUVf4ZFc6P"
+                    }
+                ]
+            },
+            "id": 1455577707094368258,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455561377641336840 type=quoted"
+            ],
+            "text": "\u039c\u03b1 \u03c4\u03b9 \u03b5\u03ba\u03c0\u03bb\u03b7\u03be\u03b7.\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1\n#\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2\n#\u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03bf\u03b9\n#\u03c3\u03c5\u03c1\u03b9\u03b6\u03b1_\u03c3\u03b5_\u03b1\u03c0\u03bf\u03b3\u03bd\u03c9\u03c3\u03b7\n\nhttps://t.co/ybSa5OcVP0 https://t.co/eUVf4ZFc6P"
+        },
+        {
+            "author_id": 288725041,
+            "conversation_id": 1455575621254459398,
+            "created_at": "2021-11-02 16:40:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1455575621254459398,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455573141477109764 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u2026"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455573141477109764,
+            "created_at": "2021-11-02 16:30:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 177,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635868285",
+                        "start": 154,
+                        "url": "https://t.co/jV1dPnDRa1"
+                    }
+                ]
+            },
+            "id": 1455573141477109764,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 5,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03c3\u03c4\u03b5\u03af \u03b3\u03b5\u03bd\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03bf Lockdown \"\u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b1\u03b9 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000\", \u03be\u03b5\u03ba\u03b1\u03b8\u03ac\u03c1\u03b9\u03c3\u03b5 \u03bf \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0391\u03bd\u03ac\u03c0\u03c4\u03c5\u03be\u03b7\u03c2 \u03ba\u03b1\u03b9 \u0395\u03c0\u03b5\u03bd\u03b4\u03cd\u03c3\u03b5\u03c9\u03bd, \u0386\u03b4\u03c9\u03bd\u03b9\u03c2 \u0393\u03b5\u03c9\u03c1\u03b3\u03b9\u03ac\u03b4\u03b7\u03c2. https://t.co/jV1dPnDRa1"
+        },
+        {
+            "author_id": 766924116955766784,
+            "conversation_id": 1455559627194650624,
+            "created_at": "2021-11-02 15:37:12+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455559627194650624,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 2561140245,
+            "conversation_id": 1455559317948702720,
+            "created_at": "2021-11-02 15:35:59+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "462249767",
+                        "start": 3,
+                        "username": "TassosIoannides"
+                    }
+                ]
+            },
+            "id": 1455559317948702720,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 4
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455558642577649668 type=retweeted"
+            ],
+            "text": "RT @TassosIoannides: \u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u2026"
+        },
+        {
+            "author_id": 462249767,
+            "conversation_id": 1455558642577649668,
+            "created_at": "2021-11-02 15:33:18+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 165,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/protofanis-dilosi-adoni-oxi-se-lockdown-akoma-kai-an-ta-krousmata-ftasoun-tis-10000/",
+                        "start": 142,
+                        "url": "https://t.co/t6Ut3nLr8x"
+                    }
+                ]
+            },
+            "id": 1455558642577649668,
+            "public_metrics": {
+                "like_count": 21,
+                "quote_count": 0,
+                "reply_count": 6,
+                "retweet_count": 4
+            },
+            "text": "\u039a\u03b1\u03bb\u03ad \u03bc\u03bf\u03c5 \u0386\u03b4\u03c9\u03bd\u03b7 \u03b1\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c4\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 10.000 \u03b7 \u03b5\u03c5\u03b8\u03cd\u03bd\u03b7 \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03cc\u03bb\u03b7 \u03c4\u03b7\u03c2 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7\u03c2 \u03c0\u03bf\u03c5 \u03b1\u03c1\u03bd\u03b5\u03af\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c7\u03c9\u03c1\u03ae\u03c3\u03b5\u03b9 \u03c3\u03b5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc :\nhttps://t.co/t6Ut3nLr8x"
+        },
+        {
+            "author_id": 22249835,
+            "conversation_id": 1455533807189307397,
+            "created_at": "2021-11-02 13:54:36+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 241,
+                        "start": 234,
+                        "tag": "\u039e\u03b9\u03b1\u03c1\u03c7\u03cc"
+                    },
+                    {
+                        "end": 252,
+                        "start": 242,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/best-\u2026",
+                        "end": 277,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/best-of-internet/larisa-ti-apegine-o-mathitis-pou-moutzose-tous-episimous-stin-parelasi-tou-2011--apo-aganaktismenos-egine-antiemboliastis/",
+                        "start": 254,
+                        "url": "https://t.co/pvcBIPvNfp"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/1J3I6zeXzR",
+                        "end": 301,
+                        "expanded_url": "https://twitter.com/Katifysiko/status/1455533807189307397/photo/1",
+                        "start": 278,
+                        "url": "https://t.co/1J3I6zeXzR"
+                    }
+                ]
+            },
+            "id": 1455533807189307397,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf\u03bd \u03b8\u03c5\u03bc\u03ac\u03c3\u03c4\u03b5 ; \u03a4\u03ce\u03c1\u03b1 \u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03c4\u03bf TheToc: \"\u039f \u03ba\u03cc\u03c3\u03bc\u03bf\u03c2 \u03b3\u03b9' \u03b1\u03c5\u03c4\u03cc\u03bd \u03b5\u03be\u03b7\u03b3\u03b5\u03af\u03c4\u03b1\u03b9 \u03bc\u03cc\u03bd\u03bf \u03bc\u03b5 \u03b8\u03b5\u03c9\u03c1\u03af\u03b5\u03c2 \u03c3\u03c5\u03bd\u03c9\u03bc\u03bf\u03c3\u03af\u03b1\u03c2. \u0398\u03b1\u03c5\u03bc\u03ac\u03b6\u03b5\u03b9 \u03ad\u03bd\u03b1\u03bd \u03bf\u03bc\u03bf\u03c6\u03bf\u03b2\u03b9\u03ba\u03cc \u03bf \u03bf\u03c0\u03bf\u03af\u03bf\u03c2 \"\u03be\u03b5\u03bc\u03c0\u03c1\u03bf\u03c3\u03c4\u03b9\u03ac\u03b6\u03b5\u03b9 \u03c4\u03b7 \u03bd\u03ad\u03b1 \u03c4\u03ac\u03be\u03b7 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c9\u03b8\u03b5\u03af \u03c4\u03bf \"\u03c4\u03c1\u03af\u03c4\u03bf \u03c6\u03cd\u03bb\u03bf\" \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03bf\u03c3\u03c4\u03ac\u03c1\u03b5\u03b9 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\". #\u039e\u03b9\u03b1\u03c1\u03c7\u03cc #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1\n\nhttps://t.co/pvcBIPvNfp https://t.co/1J3I6zeXzR"
+        },
+        {
+            "author_id": 1239789270153510913,
+            "conversation_id": 1455527207170973702,
+            "created_at": "2021-11-02 13:28:23+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "611835487",
+                        "start": 3,
+                        "username": "olga48778863"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/benetia-den-ebgale-ti-maska-pote---ti-leei-i-monadiki-pou-den-kollise-koronoio-apo-to-gkroup-ton-ellinon-touriston/",
+                        "start": 18,
+                        "url": "https://t.co/8qXpfkSAPH"
+                    }
+                ]
+            },
+            "id": 1455527207170973702,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455520939974742028 type=retweeted"
+            ],
+            "text": "RT @olga48778863: https://t.co/8qXpfkSAPH\n\u03a4\u03bf\u03c5\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03ba\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u0399\u03c4\u03b1\u03bb\u03af\u03b1,\u03c0\u03bf\u03c5 \u03b1\u03c1\u03c1\u03ce\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd,(\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9),\u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03b3\u03b1\u03bd \u03c3\u03b5 \u03bd\u03bf\u03c3\u2026"
+        },
+        {
+            "author_id": 1171084889766207489,
+            "conversation_id": 1455523018411753477,
+            "created_at": "2021-11-02 13:11:44+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "611835487",
+                        "start": 3,
+                        "username": "olga48778863"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/benetia-den-ebgale-ti-maska-pote---ti-leei-i-monadiki-pou-den-kollise-koronoio-apo-to-gkroup-ton-ellinon-touriston/",
+                        "start": 18,
+                        "url": "https://t.co/8qXpfkSAPH"
+                    }
+                ]
+            },
+            "id": 1455523018411753477,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455520939974742028 type=retweeted"
+            ],
+            "text": "RT @olga48778863: https://t.co/8qXpfkSAPH\n\u03a4\u03bf\u03c5\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03ba\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u0399\u03c4\u03b1\u03bb\u03af\u03b1,\u03c0\u03bf\u03c5 \u03b1\u03c1\u03c1\u03ce\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd,(\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9),\u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03b3\u03b1\u03bd \u03c3\u03b5 \u03bd\u03bf\u03c3\u2026"
+        },
+        {
+            "author_id": 969232029836566528,
+            "conversation_id": 1455521228941320198,
+            "created_at": "2021-11-02 13:04:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "611835487",
+                        "start": 3,
+                        "username": "olga48778863"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 41,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/benetia-den-ebgale-ti-maska-pote---ti-leei-i-monadiki-pou-den-kollise-koronoio-apo-to-gkroup-ton-ellinon-touriston/",
+                        "start": 18,
+                        "url": "https://t.co/8qXpfkSAPH"
+                    }
+                ]
+            },
+            "id": 1455521228941320198,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455520939974742028 type=retweeted"
+            ],
+            "text": "RT @olga48778863: https://t.co/8qXpfkSAPH\n\u03a4\u03bf\u03c5\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03ba\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u0399\u03c4\u03b1\u03bb\u03af\u03b1,\u03c0\u03bf\u03c5 \u03b1\u03c1\u03c1\u03ce\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd,(\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9),\u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03b3\u03b1\u03bd \u03c3\u03b5 \u03bd\u03bf\u03c3\u2026"
+        },
+        {
+            "author_id": 611835487,
+            "conversation_id": 1455520939974742028,
+            "created_at": "2021-11-02 13:03:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 277,
+                        "start": 267,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 23,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/benetia-den-ebgale-ti-maska-pote---ti-leei-i-monadiki-pou-den-kollise-koronoio-apo-to-gkroup-ton-ellinon-touriston/",
+                        "start": 0,
+                        "url": "https://t.co/8qXpfkSAPH"
+                    }
+                ]
+            },
+            "id": 1455520939974742028,
+            "public_metrics": {
+                "like_count": 9,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "https://t.co/8qXpfkSAPH\n\u03a4\u03bf\u03c5\u03c2 \u0395\u03bb\u03bb\u03b7\u03bd\u03b5\u03c2 \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03c4\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03ba\u03b4\u03c1\u03bf\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u0399\u03c4\u03b1\u03bb\u03af\u03b1,\u03c0\u03bf\u03c5 \u03b1\u03c1\u03c1\u03ce\u03c3\u03c4\u03b7\u03c3\u03b1\u03bd,(\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03b9),\u03c4\u03bf\u03c5\u03c2 \u03c0\u03ae\u03b3\u03b1\u03bd \u03c3\u03b5 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u03ba \u03c4\u03bf\u03c5\u03c2 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b1\u03bd \u03bc\u03bf\u03bd\u03bf\u03ba\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac. \n\u03a0\u03cc\u03c3\u03bf\u03b9 \u03ac\u03bd\u03b8\u03c1\u03c9\u03c0\u03bf\u03b9 \u03b8\u03b1 \u03c3\u03ce\u03b6\u03bf\u03bd\u03c4\u03b1\u03bd  \u03b1\u03bd \u03c5\u03c0\u03ae\u03c1\u03c7\u03b5 \u03bc\u03b5\u03c1\u03b9\u03bc\u03bd\u03b1 \u03bd\u03b1 \u03b5\u03c1\u03b8\u03bf\u03c5\u03bd \u03b1\u03c5\u03c4\u03b1 \u03ba \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03b1\u03b4\u03b1 \u03bd\u03c9\u03c1\u03b9\u03c4\u03b5\u03c1\u03b1?\n\u0395\u03b3\u03ba\u03bb\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ae \u03bf\u03bb\u03b9\u03b3\u03c9\u03c1\u03af\u03b1!\n#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455430146698141696,
+            "created_at": "2021-11-02 07:02:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/ygeia/article/\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.thetoc.gr/ygeia/article/auximeni-i-thnitotita-sto-tetarto-kuma-tis-pandimias---to-profil-oson-eisagontai-stis-meth-anemboliastoi-pou-arnountai-therapeia/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635836428",
+                        "start": 95,
+                        "url": "https://t.co/XrZiuKFHNE"
+                    }
+                ]
+            },
+            "id": 1455430146698141696,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03c5\u03bd\u03b1\u03b3\u03b5\u03c1\u03bc\u03cc\u03c2 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03b7\u03bc\u03ac\u03bd\u03b5\u03b9 \u03c3\u03b5 \u03ba\u03c5\u03b2\u03ad\u03c1\u03bd\u03b7\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03c4\u03bf \u03b8\u03b5\u03c3\u03b9\u03bd\u03cc \u03bc\u03b1\u03cd\u03c1\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 \u03c4\u03b1 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. https://t.co/XrZiuKFHNE"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455240629651447818,
+            "created_at": "2021-11-01 18:29:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-sok-me-neo-mauro-rekor---5449-nea-krousmata-simera-52-thanatoi-kai-430-diasolinomenoi/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635786007",
+                        "start": 122,
+                        "url": "https://t.co/TQlebIpjeG"
+                    }
+                ]
+            },
+            "id": 1455240629651447818,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bd\u03c4\u03bf\u03bd\u03b7 \u03b1\u03bd\u03b7\u03c3\u03c5\u03c7\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \"\u03ad\u03ba\u03c1\u03b7\u03be\u03b7\" \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd - 5.449 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 52 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c4\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1 - \u03a3\u03c4\u03bf\u03c5\u03c2 430 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/TQlebIpjeG"
+        },
+        {
+            "author_id": 1040885508,
+            "conversation_id": 1454540376736415751,
+            "created_at": "2021-10-30 21:45:31+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 9,
+                        "id": "2258048989",
+                        "start": 0,
+                        "username": "K_omegas"
+                    },
+                    {
+                        "end": 20,
+                        "id": "2200853882",
+                        "start": 10,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1454565152515297295,
+            "in_reply_to_user_id": 2258048989,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454563878231281667 type=replied_to"
+            ],
+            "text": "@K_omegas @TheTOC_gr \u0395\u03c7\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c4\u03b1\u03bb\u03ac\u03b2\u03b5\u03b9 \u03cc\u03c4\u03b9 \u03cc\u03bb\u03b1 \u03b1\u03c5\u03c4\u03ac \u03c4\u03b1 \u03c4\u03b5\u03c3\u03c4 (\u03ba\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ac), \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ae \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac;"
+        },
+        {
+            "author_id": 2258048989,
+            "conversation_id": 1454540376736415751,
+            "created_at": "2021-10-30 21:40:27+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "1040885508",
+                        "start": 0,
+                        "username": "Anatoli1813"
+                    },
+                    {
+                        "end": 23,
+                        "id": "2200853882",
+                        "start": 13,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1454563878231281667,
+            "in_reply_to_user_id": 1040885508,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454560447609384961 type=replied_to"
+            ],
+            "text": "@Anatoli1813 @TheTOC_gr \u03c0\u03c9\u03c2 \u03b1\u03bb\u03bb\u03b9\u03ce\u03c2 \u03b8\u03b1 \u03ad\u03b2\u03b3\u03b1\u03b6\u03b1\u03bd 4.696 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1; \u039c\u03b5 \u03c4\u03bf\u03bd \u03c0\u03bb\u03b7\u03b8\u03c5\u03c3\u03bc\u03cc \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bc\u03b5 \u03b8\u03b1 \u03ad\u03c0\u03c1\u03b5\u03c0\u03b5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03cc\u03c0\u03c9\u03c2 \u03bf\u03b9 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03c7\u03ce\u03c1\u03b5\u03c2 10-20.000 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b1 \u03bf\u03c0\u03bf\u03af\u03b1 \u03b8\u03b1 \u03ad\u03b4\u03b9\u03bd\u03b1\u03bd 400 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1.."
+        },
+        {
+            "author_id": 2258048989,
+            "conversation_id": 1454540376736415751,
+            "created_at": "2021-10-30 21:18:55+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 10,
+                        "id": "2200853882",
+                        "start": 0,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1454558457558978567,
+            "in_reply_to_user_id": 2200853882,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454540376736415751 type=replied_to"
+            ],
+            "text": "@TheTOC_gr \u03bc\u03b5 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c0\u03b9\u03ad\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1; \u0394\u03b5\u03bd \u03b3\u03b5\u03bb\u03ac\u03c4\u03b5 \u03bc\u03b5 \u03b1\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b3\u03c1\u03ac\u03c6\u03b5\u03c4\u03b5;"
+        },
+        {
+            "author_id": 330196261,
+            "conversation_id": 1454545175355736071,
+            "created_at": "2021-10-30 20:26:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ]
+            },
+            "id": 1454545175355736071,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454540376736415751 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u039c\u03af\u03b1 \u03b1\u03bd\u03ac\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bd\u03ad\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03c0\u03b9\u03ad\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c6\u03cc\u03c1\u03b7\u03c4\u03b1, \u03bc\u03b5\u03c4\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u2026"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454540376736415751,
+            "created_at": "2021-10-30 20:07:04+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 156,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-tromazoun-ta-4696-krousmata---magiorkinis-pithana-nea-metra---isos-kleisoun-kentra-diaskedasis/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635622793",
+                        "start": 133,
+                        "url": "https://t.co/h6EwfU06ll"
+                    }
+                ]
+            },
+            "id": 1454540376736415751,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u039c\u03af\u03b1 \u03b1\u03bd\u03ac\u03c3\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03bb\u03ae\u03c8\u03b7 \u03bd\u03ad\u03c9\u03bd \u03bc\u03ad\u03c4\u03c1\u03c9\u03bd \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b1, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03c4\u03bf \u03c3\u03cd\u03c3\u03c4\u03b7\u03bc\u03b1 \u03c0\u03b9\u03ad\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b1\u03c6\u03cc\u03c1\u03b7\u03c4\u03b1, \u03bc\u03b5\u03c4\u03ac \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03c3\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ac 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1. https://t.co/h6EwfU06ll"
+        },
+        {
+            "author_id": 3347987163,
+            "conversation_id": 1454475865564254213,
+            "created_at": "2021-10-30 15:50:43+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "2200853882",
+                        "start": 3,
+                        "username": "TheTOC_gr"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 139,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-eftasan-tous-oi-nekroi---nea-krousmata---oi-diasolinomenoi/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635608337",
+                        "start": 116,
+                        "url": "https://t.co/L7UYuX8bQ2"
+                    }
+                ]
+            },
+            "id": 1454475865564254213,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454474568979079175 type=retweeted"
+            ],
+            "text": "RT @TheTOC_gr: \u0391\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/L7UYuX8bQ2"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1454474568979079175,
+            "created_at": "2021-10-30 15:45:34+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 124,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-eftasan-tous-oi-nekroi---nea-krousmata---oi-diasolinomenoi/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635608337",
+                        "start": 101,
+                        "url": "https://t.co/L7UYuX8bQ2"
+                    }
+                ]
+            },
+            "id": 1454474568979079175,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0391\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b1\u03c1\u03c7\u03ae \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2 \u03bc\u03b5 4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 38 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/L7UYuX8bQ2"
+        },
+        {
+            "author_id": 552973103,
+            "conversation_id": 1454465469436542976,
+            "created_at": "2021-10-30 15:09:25+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 171,
+                        "start": 158,
+                        "tag": "\u039d\u0394_\u03b1\u03c0\u03b1\u03c4\u03b5\u03c9\u03bd\u03b5\u03c2"
+                    },
+                    {
+                        "end": 185,
+                        "start": 172,
+                        "tag": "\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 209,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/o-kikilias-brabeutike-gia-tin-antimetopisi-tis-pandimias-stin-ellada/",
+                        "start": 186,
+                        "url": "https://t.co/VRhctvwY25"
+                    }
+                ]
+            },
+            "id": 1454465469436542976,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "4.696 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1, 38 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03ba\u03b1\u03b9 404 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03bb\u03bb\u03ac \u03bf \u0392\u03b1\u03c3\u03b9\u03bb\u03ac\u03ba\u03b7\u03c2 \u03b2\u03c1\u03b1\u03b2\u03b5\u03cd\u03c4\u03b7\u03ba\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c3\u03c5\u03bc\u03b2\u03bf\u03bb\u03ae \u03c4\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1\u03c2....\ud83e\udd2c\ud83e\udd2c\ud83e\udd2c\n#\u039d\u0394_\u03b1\u03c0\u03b1\u03c4\u03b5\u03c9\u03bd\u03b5\u03c2 #\u03bc\u03bc\u03b5_\u03be\u03b5\u03c6\u03c4\u03b9\u03bb\u03b5\u03c2\nhttps://t.co/VRhctvwY25"
+        },
+        {
+            "author_id": 18461117,
+            "conversation_id": 1453389709976158213,
+            "created_at": "2021-10-27 15:54:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - To \ud835\udc45\ud835\udc61 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1 \u03b2\u03ac\u03c3\u03b5\u03b9 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b5\u03ba\u03c4\u03b9\u03bc\u03ac\u03c4\u03b1\u03b9 \u03c3\u03b5 1.09",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 116,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-ektinaxi-thanaton-me-63-nekrous---3651-nea-krousmata-stous-387-oi-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1453385940836175874/dxLJcfyt?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453385940836175874/dxLJcfyt?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 93,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: E\u03ba\u03c4\u03af\u03bd\u03b1\u03be\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 63 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 - 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf\u03c5\u03c2 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/koronoios-ektinaxi-thanaton-me-63-nekrous---3651-nea-krousmata-stous-387-oi-diasolinomenoi/",
+                        "url": "https://t.co/BbJee2xnlE"
+                    }
+                ]
+            },
+            "id": 1453389709976158213,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: E\u03ba\u03c4\u03af\u03bd\u03b1\u03be\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 63 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 - 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf\u03c5\u03c2 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/BbJee2xnlE"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1453385939305340935,
+            "created_at": "2021-10-27 15:39:45+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 176,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-ektinaxi-thanaton-me-63-nekrous---3651-nea-krousmata-stous-387-oi-diasolinomenoi/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635348514",
+                        "start": 153,
+                        "url": "https://t.co/kppSelax0A"
+                    }
+                ]
+            },
+            "id": 1453385939305340935,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - To \ud835\udc45\ud835\udc61 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1 \u03b2\u03ac\u03c3\u03b5\u03b9 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b5\u03ba\u03c4\u03b9\u03bc\u03ac\u03c4\u03b1\u03b9 \u03c3\u03b5 1.09 https://t.co/kppSelax0A"
+        }
+    ]
+}

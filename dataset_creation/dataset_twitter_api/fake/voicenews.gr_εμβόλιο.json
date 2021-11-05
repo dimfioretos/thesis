@@ -1,0 +1,289 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 2801820046,
+                "conversation_id": 1455130747736629248,
+                "created_at": "2021-11-01 11:12:59+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039c\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0391\u03c4\u03b6\u03ad\u03bd\u03c4\u03b1 Davos \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 2021, \u03bf \u03b9\u03b4\u03c1\u03c5\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03a6",
+                            "display_url": "voicenews.gr/tromokratei-o-\u2026",
+                            "end": 123,
+                            "expanded_url": "https://voicenews.gr/tromokratei-o-klaus-schwab-prepei-na-kanoun-oloi-to-emvolio/",
+                            "images": [
+                                {
+                                    "height": 426,
+                                    "url": "https://pbs.twimg.com/news_img/1455130749695369218/D_7G04np?format=jpg&name=orig",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455130749695369218/D_7G04np?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 100,
+                            "status": 200,
+                            "title": "\u03a4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03bf Klaus Schwab: \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u03bf \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - Voice News",
+                            "unwound_url": "https://voicenews.gr/tromokratei-o-klaus-schwab-prepei-na-kanoun-oloi-to-emvolio/",
+                            "url": "https://t.co/ZIAaC0jx9w"
+                        }
+                    ]
+                },
+                "id": 1455130747736629248,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03bf Klaus Schwab: \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u03bf \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 https://t.co/ZIAaC0jx9w"
+            },
+            {
+                "author_id": 2801820046,
+                "conversation_id": 1454178167116242954,
+                "created_at": "2021-10-29 20:07:47+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac:",
+                            "display_url": "voicenews.gr/emvolio-pfizer\u2026",
+                            "end": 107,
+                            "expanded_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                            "images": [
+                                {
+                                    "height": 393,
+                                    "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=orig",
+                                    "width": 700
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 84,
+                            "status": 200,
+                            "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) - Voice News",
+                            "unwound_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                            "url": "https://t.co/0jMLeWg58u"
+                        }
+                    ]
+                },
+                "id": 1454178167116242954,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 1,
+                    "retweet_count": 1
+                },
+                "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) https://t.co/0jMLeWg58u"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2018-06-24 17:23:40+00:00",
+                "description": "\u0391\u03c0\u03cc\u03c3\u03c4\u03c1\u03b1\u03c4\u03bf\u03c2 \u03a0/\u039d",
+                "id": 1010936506427543555,
+                "name": "\u039a\u03c9\u03bd\u03c3\u03c4\u03b1\u03bd\u03c4\u03af\u03bd\u03bf\u03c2 \u039a\u03b1\u03bd\u03b9\u03ce\u03c1\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 892,
+                    "following_count": 3205,
+                    "listed_count": 6,
+                    "tweet_count": 10581
+                },
+                "username": "kostaskanioros",
+                "verified": false
+            },
+            {
+                "created_at": "2014-10-03 11:54:17+00:00",
+                "description": "",
+                "id": 2801820046,
+                "name": "Voice News",
+                "public_metrics": {
+                    "followers_count": 7701,
+                    "following_count": 1519,
+                    "listed_count": 75,
+                    "tweet_count": 242918
+                },
+                "username": "apokalyptikodel",
+                "verified": false
+            },
+            {
+                "created_at": "2017-12-28 17:44:41+00:00",
+                "description": "",
+                "id": 946436757335224321,
+                "name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039c\u03b1\u03bb\u03b1\u03c4\u03b9\u03b4\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 145,
+                    "following_count": 185,
+                    "listed_count": 3,
+                    "tweet_count": 10278
+                },
+                "username": "GIANNIS1atsea",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1010936506427543555,
+            "conversation_id": 1455135171221626882,
+            "created_at": "2021-11-01 11:30:34+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ]
+            },
+            "id": 1455135171221626882,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455130747736629248 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u03a4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03bf Klaus Schwab: \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u03bf \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 https://t.co/ZIAaC\u2026"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1455130747736629248,
+            "created_at": "2021-11-01 11:12:59+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039c\u03b9\u03bb\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u0391\u03c4\u03b6\u03ad\u03bd\u03c4\u03b1 Davos \u03c3\u03c4\u03b9\u03c2 \u03b1\u03c1\u03c7\u03ad\u03c2 \u03c4\u03bf\u03c5 2021, \u03bf \u03b9\u03b4\u03c1\u03c5\u03c4\u03ae\u03c2 \u03ba\u03b1\u03b9 \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf\u03c5 \u039f\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd \u03a6",
+                        "display_url": "voicenews.gr/tromokratei-o-\u2026",
+                        "end": 123,
+                        "expanded_url": "https://voicenews.gr/tromokratei-o-klaus-schwab-prepei-na-kanoun-oloi-to-emvolio/",
+                        "images": [
+                            {
+                                "height": 426,
+                                "url": "https://pbs.twimg.com/news_img/1455130749695369218/D_7G04np?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455130749695369218/D_7G04np?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 100,
+                        "status": 200,
+                        "title": "\u03a4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03bf Klaus Schwab: \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u03bf \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - Voice News",
+                        "unwound_url": "https://voicenews.gr/tromokratei-o-klaus-schwab-prepei-na-kanoun-oloi-to-emvolio/",
+                        "url": "https://t.co/ZIAaC0jx9w"
+                    }
+                ]
+            },
+            "id": 1455130747736629248,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a4\u03c1\u03bf\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03b5\u03af \u03bf Klaus Schwab: \u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03cc\u03bb\u03bf\u03b9 \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a0\u03c1\u03bf\u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u03bf \u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0392\u03b5\u03bb\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 https://t.co/ZIAaC0jx9w"
+        },
+        {
+            "author_id": 946436757335224321,
+            "conversation_id": 1454335613805735936,
+            "created_at": "2021-10-30 06:33:25+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "2801820046",
+                        "start": 3,
+                        "username": "apokalyptikodel"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac:",
+                        "display_url": "voicenews.gr/emvolio-pfizer\u2026",
+                        "end": 128,
+                        "expanded_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                        "images": [
+                            {
+                                "height": 393,
+                                "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=orig",
+                                "width": 700
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 105,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) - Voice News",
+                        "unwound_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                        "url": "https://t.co/0jMLeWg58u"
+                    }
+                ]
+            },
+            "id": 1454335613805735936,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454178167116242954 type=retweeted"
+            ],
+            "text": "RT @apokalyptikodel: \u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) https://t.co/0jMLeWg58u"
+        },
+        {
+            "author_id": 2801820046,
+            "conversation_id": 1454178167116242954,
+            "created_at": "2021-10-29 20:07:47+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039c\u03b7\u03c4\u03c3\u03bf\u03c4\u03ac\u03ba\u03b7\u03c2 \u03b3\u03b9\u03b1 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac:",
+                        "display_url": "voicenews.gr/emvolio-pfizer\u2026",
+                        "end": 107,
+                        "expanded_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                        "images": [
+                            {
+                                "height": 393,
+                                "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=orig",
+                                "width": 700
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454178169100111881/JbIAlfZB?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 84,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) - Voice News",
+                        "unwound_url": "https://voicenews.gr/emvolio-pfizer-nai-tou-fda-se-paidia-5-eos-11-eton-tha-ischysei-kai-stin-ellada/",
+                        "url": "https://t.co/0jMLeWg58u"
+                    }
+                ]
+            },
+            "id": 1454178167116242954,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 1
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf Pfizer: \u00ab\u039d\u0391\u0399\u00bb \u03c4\u03bf\u03c5 FDA \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac 5 \u03ad\u03c9\u03c2 11 \u03b5\u03c4\u03ce\u03bd-\u0398\u03b1 \u03b9\u03c3\u03c7\u03cd\u03c3\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1(;) https://t.co/0jMLeWg58u"
+        }
+    ]
+}

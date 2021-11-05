@@ -1,0 +1,232 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2021-07-26 18:03:39+00:00",
+                "description": "\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\u26bd\ufe0f\ud83c\udfdf\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83c\udf1e\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11\ud83d\udc11",
+                "id": 1419719819130249222,
+                "name": "\u039a\u039f\u038e\u039a\u039f\u03a3 \u039c\u03bf\u03bd\u03cc\u03c2",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 0,
+                    "listed_count": 0,
+                    "tweet_count": 896
+                },
+                "username": "MIXALISSONIA12",
+                "verified": false
+            },
+            {
+                "created_at": "2009-04-20 17:12:27+00:00",
+                "description": "Google News helps you learn more about the stories that matter to you and the world. Download: https://t.co/MOJxUg2lze",
+                "id": 33584794,
+                "name": "Google News",
+                "public_metrics": {
+                    "followers_count": 297482,
+                    "following_count": 14,
+                    "listed_count": 10318,
+                    "tweet_count": 343
+                },
+                "username": "googlenews",
+                "verified": true
+            },
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2008-12-29 21:54:32+00:00",
+                "description": "Hi, folks! I am TSAKTHAN from Greece. I am a political sociologist and a social movement activist.",
+                "id": 18461117,
+                "name": "tsakthan",
+                "public_metrics": {
+                    "followers_count": 377,
+                    "following_count": 714,
+                    "listed_count": 5,
+                    "tweet_count": 9916
+                },
+                "username": "tsakthan",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1419719819130249222,
+            "conversation_id": 1454852826258190338,
+            "created_at": "2021-10-31 16:48:38+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 163,
+                        "id": "33584794",
+                        "start": 152,
+                        "username": "googlenews"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\"\u0392\u03bf\u03bc\u03b2\u03b1\u03c1\u03b4\u03b9\u03c3\u03bc\u03cc\u03c2\" sms \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 - \u03a4\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bf\u03c1\u03b9\u03b6\u03cc\u03bd\u03c4\u03b9\u03b1, \u03b8\u03b1 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03b1\u03c1\u03c7\u03b9\u03ba\u03ac \u03c4\u03b9\u03c2 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2 \u03c0\u03bf\u03c5 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c5\u03c8\u03b7\u03bb\u03cc \u03b5\u03c0\u03b9\u03b4\u03b7\u03bc\u03b9\u03bf\u03bb\u03bf\u03b3\u03b9\u03ba\u03cc \u03c6\u03bf\u03c1\u03c4\u03af\u03bf",
+                        "display_url": "thetoc.gr/politiki/artic\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.thetoc.gr/politiki/article/koronoios-nea-stop-gia-anemboliastous-kai-kataigida-sms-me-test-kai-stous-anoiktous-xorous-kleinoun-ta-nuxterina-kentra/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454713298818146305/LZvV6ESM?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454713298818146305/LZvV6ESM?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 122,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: N\u03ad\u03b1 stop \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u2013 \u039c\u03b5 \u03c4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03bf\u03b9\u03ba\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u2013 \u039a\u03bb\u03b5\u03af\u03bd\u03bf\u03c5\u03bd \u03c4\u03b1 \u03bd\u03c5\u03c7\u03c4\u03b5\u03c1\u03b9\u03bd\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1",
+                        "unwound_url": "https://www.thetoc.gr/politiki/article/koronoios-nea-stop-gia-anemboliastous-kai-kataigida-sms-me-test-kai-stous-anoiktous-xorous-kleinoun-ta-nuxterina-kentra/",
+                        "url": "https://t.co/lQmIipRH5j"
+                    }
+                ]
+            },
+            "id": 1454852826258190338,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "The TOC: \u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: N\u03ad\u03b1 stop \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u2013 \u039c\u03b5 \u03c4\u03b5\u03c3\u03c4 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03bf\u03b9\u03ba\u03c4\u03bf\u03cd\u03c2 \u03c7\u03ce\u03c1\u03bf\u03c5\u03c2 \u2013 \u039a\u03bb\u03b5\u03af\u03bd\u03bf\u03c5\u03bd \u03c4\u03b1 \u03bd\u03c5\u03c7\u03c4\u03b5\u03c1\u03b9\u03bd\u03ac \u03ba\u03ad\u03bd\u03c4\u03c1\u03b1.\nhttps://t.co/lQmIipRH5j\n\n\u03bc\u03ad\u03c3\u03c9 @GoogleNews\ud83e\udd23\u03a3\u03a4\u0386 \u039d\u03a5\u03a7\u03a4\u0395\u03a1\u0399\u039d\u0386 \u039a\u0388\u039d\u03a4\u03a1\u0391, \u039a\u0391\u0399 \u03a3\u03a4\u0386 \u039c\u0391\u0393\u0391\u0396\u0399\u0386 \u0395\u03a3\u03a4\u038a\u0391\u03a3\u0397\u03a3, \u03a3\u0395 \u0395\u03a3\u03a9\u03a4\u0395\u03a1\u0399\u039a\u039f\u038e\u03a3 \u03a7\u038f\u03a1\u039f\u03a5\u03a3 \u039c\u03a0\u0391\u038a\u039d\u039f\u03a5\u039d \u039c\u038c\u039d\u039f \u039c\u0395 \u03a0\u0399\u03a3\u03a4\u039f\u03a0\u039f\u0399\u0397\u03a4\u0399\u039a\u038c \u0395\u039c\u0392\u039f\u039b\u038a\u039f\u03a5\ud83d\ude02\ud83e\udd23"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1453742436547760134,
+            "created_at": "2021-10-28 15:16:20+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0395\u03c0\u03b9\u03bc\u03ad\u03bd\u03b5\u03b9 \u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - \"\u0392\u03c1\u03ac\u03b6\u03b5\u03b9\" \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1 - \u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03bf \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2.",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 120,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-i-thessaloniki-xeperase-se-krousmata-tin-attiki---brazei-i-thessalia/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635433371",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1453742442323324928/xiIfweFB?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453742442323324928/xiIfweFB?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 97,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \u0397 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 \u03be\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b5 \u03c3\u03b5 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7\u03bd \u0391\u03c4\u03c4\u03b9\u03ba\u03ae - \"\u0392\u03c1\u03ac\u03b6\u03b5\u03b9\" \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/koronoios-i-thessaloniki-xeperase-se-krousmata-tin-attiki---brazei-i-thessalia/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635433371",
+                        "url": "https://t.co/EzznVnLZxj"
+                    }
+                ]
+            },
+            "id": 1453742436547760134,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03c0\u03b9\u03bc\u03ad\u03bd\u03b5\u03b9 \u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03c3\u03c4\u03b7 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 - \"\u0392\u03c1\u03ac\u03b6\u03b5\u03b9\" \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1 - \u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03bf \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2. https://t.co/EzznVnLZxj"
+        },
+        {
+            "author_id": 18461117,
+            "conversation_id": 1453389709976158213,
+            "created_at": "2021-10-27 15:54:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 63 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 - To \ud835\udc45\ud835\udc61 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03b1 \u03b2\u03ac\u03c3\u03b5\u03b9 \u03c4\u03c9\u03bd \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd \u03b5\u03ba\u03c4\u03b9\u03bc\u03ac\u03c4\u03b1\u03b9 \u03c3\u03b5 1.09",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 116,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-ektinaxi-thanaton-me-63-nekrous---3651-nea-krousmata-stous-387-oi-diasolinomenoi/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1453385940836175874/dxLJcfyt?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453385940836175874/dxLJcfyt?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 93,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: E\u03ba\u03c4\u03af\u03bd\u03b1\u03be\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 63 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 - 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf\u03c5\u03c2 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/koronoios-ektinaxi-thanaton-me-63-nekrous---3651-nea-krousmata-stous-387-oi-diasolinomenoi/",
+                        "url": "https://t.co/BbJee2xnlE"
+                    }
+                ]
+            },
+            "id": 1453389709976158213,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: E\u03ba\u03c4\u03af\u03bd\u03b1\u03be\u03b7 \u03b8\u03b1\u03bd\u03ac\u03c4\u03c9\u03bd \u03bc\u03b5 63 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 - 3.651 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, \u03c3\u03c4\u03bf\u03c5\u03c2 387 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/BbJee2xnlE"
+        },
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1453383337817616390,
+            "created_at": "2021-10-27 15:29:24+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03c3\u03b5 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 - \u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03bf \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2.",
+                        "display_url": "thetoc.gr/koinwnia/artic\u2026",
+                        "end": 108,
+                        "expanded_url": "https://www.thetoc.gr/koinwnia/article/koronoios-brazoun-me-721-nea-krousmata-i-attiki-kai-602-i-thessaloniki---sto-kokkino-alles-exi-perioxes/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635348514",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1453383341093294084/3mvvK4sQ?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453383341093294084/3mvvK4sQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 85,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: \"\u0392\u03c1\u03ac\u03b6\u03bf\u03c5\u03bd\" \u03bc\u03b5 721 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae \u03ba\u03b1\u03b9 602 \u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - \u03a3\u03c4\u03bf \"\u03ba\u03cc\u03ba\u03ba\u03b9\u03bd\u03bf\" \u03ac\u03bb\u03bb\u03b5\u03c2 \u03ad\u03be\u03b9 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c7\u03ad\u03c2",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/koronoios-brazoun-me-721-nea-krousmata-i-attiki-kai-602-i-thessaloniki---sto-kokkino-alles-exi-perioxes/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635348514",
+                        "url": "https://t.co/dWtKwxs27m"
+                    }
+                ]
+            },
+            "id": 1453383337817616390,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03b1\u03c1\u03ce\u03bd\u03b5\u03b9 \u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 \u03c3\u03b5 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 - \u0391\u03bd\u03b1\u03bb\u03c5\u03c4\u03b9\u03ba\u03ac \u03bf \u03c7\u03ac\u03c1\u03c4\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c0\u03bf\u03c1\u03ac\u03c2. https://t.co/dWtKwxs27m"
+        }
+    ]
+}

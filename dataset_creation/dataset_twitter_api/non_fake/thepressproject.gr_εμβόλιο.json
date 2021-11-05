@@ -1,0 +1,710 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1320816230,
+                "conversation_id": 1455375067764887554,
+                "created_at": "2021-11-02 03:23:50+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 7,
+                            "start": 0,
+                            "tag": "gntmgr"
+                        },
+                        {
+                            "end": 21,
+                            "start": 8,
+                            "tag": "bigbrothergr"
+                        },
+                        {
+                            "end": 29,
+                            "start": 22,
+                            "tag": "DWTSgr"
+                        },
+                        {
+                            "end": 37,
+                            "start": 30,
+                            "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                        },
+                        {
+                            "end": 46,
+                            "start": 38,
+                            "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                        },
+                        {
+                            "end": 51,
+                            "start": 47,
+                            "tag": "\u0395\u03a1\u03a4"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 151,
+                            "id": "137041926",
+                            "start": 135,
+                            "username": "ThePressProject"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0388\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1 \u03c4\u03bf\u03c5 FBI \u03c0\u03bf\u03c5 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03cc\u03c1\u03b7\u03c3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c0\u03b5\u03c1\u03af \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2 (FOIA) \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03ac\u03bd\u03b9\u03ba\u03b7 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03b9\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ac\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u00bb \u03ba\u03b9\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03a3\u03bf\u03b2\u03b9\u03b5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0388\u03bd\u03c9\u03c3\u03b7\u03c2, \u03c4\u03bf\u03c5 \u0392\u03b9\u03b5\u03c4\u03bd\u03ac\u03bc\u2026",
+                            "display_url": "thepressproject.gr/pos-to-fbi-chr\u2026",
+                            "end": 175,
+                            "expanded_url": "https://thepressproject.gr/pos-to-fbi-chrisimopoiouse-anarchikes-kai-aristeres-organoseis-ston-psychro-polemo/",
+                            "images": [
+                                {
+                                    "height": 410,
+                                    "url": "https://pbs.twimg.com/news_img/1455214687201681413/JZY3LmaQ?format=jpg&name=orig",
+                                    "width": 640
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455214687201681413/JZY3LmaQ?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 152,
+                            "status": 200,
+                            "title": "\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03a8\u03c5\u03c7\u03c1\u03cc \u03a0\u03cc\u03bb\u03b5\u03bc\u03bf - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/pos-to-fbi-chrisimopoiouse-anarchikes-kai-aristeres-organoseis-ston-psychro-polemo/",
+                            "url": "https://t.co/Xf5qPAECA2"
+                        }
+                    ]
+                },
+                "id": 1455375067764887554,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 6
+                },
+                "text": "#gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03a8\u03c5\u03c7\u03c1\u03cc \u03a0\u03cc\u03bb\u03b5\u03bc\u03bf @ThePressProject https://t.co/Xf5qPAECA2"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-11-26 05:06:43+00:00",
+                "description": "\u039f\u03c4\u03b9 \u03b5\u03af\u03bc\u03b1\u03b9 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03bf\u03c2 \u03c3\u03c4\u03bf \u03b5\u03af\u03b4\u03bf\u03c2 \u03bc\u03bf\u03c5",
+                "id": 4281980296,
+                "name": "Thomas Glavas",
+                "public_metrics": {
+                    "followers_count": 1001,
+                    "following_count": 607,
+                    "listed_count": 34,
+                    "tweet_count": 138820
+                },
+                "username": "GlavasThomas",
+                "verified": false
+            },
+            {
+                "created_at": "2013-04-01 17:40:43+00:00",
+                "description": "\u0391\u03bd\u03b9\u03c7\u03bd\u03b5\u03c5\u03c4\u03ae\u03c2 \u03c3\u03b1\u03c1\u03ba\u03bf\u03c6\u03ac\u03b3\u03bf\u03c2 \u03b5\u03b9\u03b4\u03c9\u03bb\u03bf\u03bb\u03ac\u03c4\u03c1\u03b7\u03c2",
+                "id": 1320816230,
+                "name": "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u03a4\u03c3\u03af\u03c0\u03c1\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 26,
+                    "listed_count": 0,
+                    "tweet_count": 184
+                },
+                "username": "AndreasTsipras",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-25 09:01:32+00:00",
+                "description": "Biowar its on",
+                "id": 1430455233499615233,
+                "name": "Dimitra Loizou",
+                "public_metrics": {
+                    "followers_count": 106,
+                    "following_count": 561,
+                    "listed_count": 0,
+                    "tweet_count": 332
+                },
+                "username": "dimitra_loizou",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-11 12:51:41+00:00",
+                "description": "nerds are the best",
+                "id": 1447545195353055237,
+                "name": "Nerdoulos",
+                "public_metrics": {
+                    "followers_count": 23,
+                    "following_count": 198,
+                    "listed_count": 0,
+                    "tweet_count": 70
+                },
+                "username": "nerdoulos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-11-10 05:35:37+00:00",
+                "description": "\u0391\u03c5\u03c4\u03ac \u03c0\u03bf\u03c5 \u03b5\u03af\u03c0\u03b1\u03bc\u03b5 \u03bd\u03b5\u03c1\u03cc \u03ba\u03b1\u03b9 \u03b1\u03bb\u03bb\u03ac\u03c4\u03b9.\u2602\ufe0f\ud83d\udc8e",
+                "id": 2175366303,
+                "name": "Evangelia Bernadaki",
+                "public_metrics": {
+                    "followers_count": 545,
+                    "following_count": 534,
+                    "listed_count": 4,
+                    "tweet_count": 32262
+                },
+                "username": "liavern",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-02 12:20:23+00:00",
+                "description": "\u0395\u03c7\u03c9 \u03ad\u03bd\u03b1 \u03c3\u03af\u03b3\u03bf\u03c5\u03c1\u03bf",
+                "id": 1366724919418114053,
+                "name": "James \u03a0\u03a1\u039f\u03a0\u03a0\u039f\u03a4\u0396\u0397\u03a3",
+                "public_metrics": {
+                    "followers_count": 220,
+                    "following_count": 1020,
+                    "listed_count": 1,
+                    "tweet_count": 455
+                },
+                "username": "james_propo",
+                "verified": false
+            },
+            {
+                "created_at": "2021-08-26 08:28:48+00:00",
+                "description": "Count to ten...",
+                "id": 1430809393252163584,
+                "name": "Maria Vorre",
+                "public_metrics": {
+                    "followers_count": 129,
+                    "following_count": 555,
+                    "listed_count": 0,
+                    "tweet_count": 403
+                },
+                "username": "maria_vorre",
+                "verified": false
+            },
+            {
+                "created_at": "2010-04-25 16:23:53+00:00",
+                "description": "\u039f \u03c3\u03c7\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 TPP (\u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc\u03c2 \u03bf @tppfeed) - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0393\u03bd\u03ce\u03bc\u03b5\u03c2, \u03a3\u03ac\u03c4\u03b9\u03c1\u03b1, \u03c4\u03b1 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bc\u03b5 \u03cc\u03bb\u03b1...",
+                "id": 137041926,
+                "name": "ThePressProject",
+                "public_metrics": {
+                    "followers_count": 94553,
+                    "following_count": 502,
+                    "listed_count": 1159,
+                    "tweet_count": 146507
+                },
+                "username": "ThePressProject",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 4281980296,
+            "conversation_id": 1455633475936178185,
+            "created_at": "2021-11-02 20:30:39+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455633475936178185,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 1430455233499615233,
+            "conversation_id": 1455408759459749888,
+            "created_at": "2021-11-02 05:37:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455408759459749888,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 1447545195353055237,
+            "conversation_id": 1455399362713067528,
+            "created_at": "2021-11-02 05:00:22+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455399362713067528,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 2175366303,
+            "conversation_id": 1455387970756825090,
+            "created_at": "2021-11-02 04:15:06+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455387970756825090,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 1366724919418114053,
+            "conversation_id": 1455380411639648258,
+            "created_at": "2021-11-02 03:45:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455380411639648258,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 1430809393252163584,
+            "conversation_id": 1455375737662345219,
+            "created_at": "2021-11-02 03:26:30+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 27,
+                        "start": 20,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 41,
+                        "start": 28,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 49,
+                        "start": 42,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 57,
+                        "start": 50,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 66,
+                        "start": 58,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 71,
+                        "start": 67,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 18,
+                        "id": "1320816230",
+                        "start": 3,
+                        "username": "AndreasTsipras"
+                    }
+                ]
+            },
+            "id": 1455375737662345219,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455375067764887554 type=retweeted"
+            ],
+            "text": "RT @AndreasTsipras: #gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u2026"
+        },
+        {
+            "author_id": 1320816230,
+            "conversation_id": 1455375067764887554,
+            "created_at": "2021-11-02 03:23:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "gntmgr"
+                    },
+                    {
+                        "end": 21,
+                        "start": 8,
+                        "tag": "bigbrothergr"
+                    },
+                    {
+                        "end": 29,
+                        "start": 22,
+                        "tag": "DWTSgr"
+                    },
+                    {
+                        "end": 37,
+                        "start": 30,
+                        "tag": "\u03be\u03b9\u03b1\u03c1\u03c7\u03bf"
+                    },
+                    {
+                        "end": 46,
+                        "start": 38,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 51,
+                        "start": 47,
+                        "tag": "\u0395\u03a1\u03a4"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 151,
+                        "id": "137041926",
+                        "start": 135,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0388\u03b3\u03b3\u03c1\u03b1\u03c6\u03b1 \u03c4\u03bf\u03c5 FBI \u03c0\u03bf\u03c5 \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03cc\u03c1\u03b7\u03c3\u03b1\u03bd \u03c3\u03c4\u03b1 \u03c0\u03bb\u03b1\u03af\u03c3\u03b9\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c0\u03b5\u03c1\u03af \u03b5\u03bb\u03b5\u03c5\u03b8\u03b5\u03c1\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03bb\u03b7\u03c1\u03bf\u03c6\u03bf\u03c1\u03af\u03b1\u03c2 (FOIA) \u03b1\u03c0\u03bf\u03ba\u03b1\u03bb\u03cd\u03c0\u03c4\u03bf\u03c5\u03bd \u03c0\u03c9\u03c2 \u03b7 \u03b1\u03bc\u03b5\u03c1\u03b9\u03ba\u03ac\u03bd\u03b9\u03ba\u03b7 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1 \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03b9\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ac\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ac\u00bb \u03ba\u03b9\u03bd\u03ae\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03c4\u03ac \u03c4\u03b7\u03c2 \u03a3\u03bf\u03b2\u03b9\u03b5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0388\u03bd\u03c9\u03c3\u03b7\u03c2, \u03c4\u03bf\u03c5 \u0392\u03b9\u03b5\u03c4\u03bd\u03ac\u03bc\u2026",
+                        "display_url": "thepressproject.gr/pos-to-fbi-chr\u2026",
+                        "end": 175,
+                        "expanded_url": "https://thepressproject.gr/pos-to-fbi-chrisimopoiouse-anarchikes-kai-aristeres-organoseis-ston-psychro-polemo/",
+                        "images": [
+                            {
+                                "height": 410,
+                                "url": "https://pbs.twimg.com/news_img/1455214687201681413/JZY3LmaQ?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455214687201681413/JZY3LmaQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 152,
+                        "status": 200,
+                        "title": "\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03a8\u03c5\u03c7\u03c1\u03cc \u03a0\u03cc\u03bb\u03b5\u03bc\u03bf - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/pos-to-fbi-chrisimopoiouse-anarchikes-kai-aristeres-organoseis-ston-psychro-polemo/",
+                        "url": "https://t.co/Xf5qPAECA2"
+                    }
+                ]
+            },
+            "id": 1455375067764887554,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 6
+            },
+            "text": "#gntmgr #bigbrothergr #DWTSgr #\u03be\u03b9\u03b1\u03c1\u03c7\u03bf #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #\u0395\u03a1\u03a4 \n\u03a0\u03c9\u03c2 \u03c4\u03bf FBI \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b5 \u00ab\u03b1\u03bd\u03b1\u03c1\u03c7\u03b9\u03ba\u03ad\u03c2\u00bb \u03ba\u03b1\u03b9 \u00ab\u03b1\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03ad\u03c2\u00bb \u03bf\u03c1\u03b3\u03b1\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03c3\u03c4\u03bf\u03bd \u03a8\u03c5\u03c7\u03c1\u03cc \u03a0\u03cc\u03bb\u03b5\u03bc\u03bf @ThePressProject https://t.co/Xf5qPAECA2"
+        },
+        {
+            "author_id": 1320816230,
+            "conversation_id": 1454436970961190915,
+            "created_at": "2021-10-30 13:16:10+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 9,
+                        "start": 0,
+                        "tag": "kalytera"
+                    },
+                    {
+                        "end": 17,
+                        "start": 10,
+                        "tag": "PAOASV"
+                    },
+                    {
+                        "end": 26,
+                        "start": 18,
+                        "tag": "\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 41,
+                        "start": 27,
+                        "tag": "BigBrothegrGR"
+                    },
+                    {
+                        "end": 56,
+                        "start": 42,
+                        "tag": "TheBachelorGR"
+                    },
+                    {
+                        "end": 63,
+                        "start": 57,
+                        "tag": "paobc"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 114,
+                        "id": "137041926",
+                        "start": 98,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u00ab\u03a0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03b1 \u03bc\u03b1\u03c4\u03c9\u03bc\u03ad\u03bd\u03b1 \u03c0\u03bf\u03c5\u03ba\u03ac\u03bc\u03b9\u03c3\u03b1 \u03c4\u03c9\u03bd \u03c3\u03ba\u03bf\u03c4\u03c9\u03bc\u03ad\u03bd\u03c9\u03bd / \u03b5\u03bc\u03b5\u03af\u03c2 \u03ba\u03b1\u03b8\u03cc\u03bc\u03b1\u03c3\u03c4\u03b1\u03bd \u03c4\u03b1 \u03b2\u03c1\u03ac\u03b4\u03b9\u03b1 /\u03ba\u03b1\u03b9 \u03b6\u03c9\u03b3\u03c1\u03b1\u03c6\u03af\u03b6\u03b1\u03bc\u03b5 \u03c3\u03ba\u03b7\u03bd\u03ad\u03c2 \u03b1\u03c0\u2019 \u03c4\u03b7\u03bd \u03b1\u03c5\u03c1\u03b9\u03b1\u03bd\u03ae \u03b5\u03c5\u03c4\u03c5\u03c7\u03af\u03b1 \u03c4\u03bf\u03c5 \u03ba\u03cc\u03c3\u03bc\u03bf\u03c5 / \u0388\u03c4\u03c3\u03b9 \u03b3\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03c3\u03b7\u03bc\u03b1\u03af\u03b5\u03c2 \u03bc\u03b1\u03c2\u00bb.",
+                        "display_url": "thepressproject.gr/tasos-leivadit\u2026",
+                        "end": 138,
+                        "expanded_url": "https://thepressproject.gr/tasos-leivaditis-etsi-gennithikan-oi-simaies-mas/",
+                        "images": [
+                            {
+                                "height": 550,
+                                "url": "https://pbs.twimg.com/news_img/1454380938847207426/R5vjigB4?format=jpg&name=orig",
+                                "width": 750
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454380938847207426/R5vjigB4?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 115,
+                        "status": 200,
+                        "title": "\u03a4\u03ac\u03c3\u03bf\u03c2 \u039b\u03b5\u03b9\u03b2\u03b1\u03b4\u03af\u03c4\u03b7\u03c2: \u00ab\u0388\u03c4\u03c3\u03b9 \u03b3\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03c3\u03b7\u03bc\u03b1\u03af\u03b5\u03c2 \u03bc\u03b1\u03c2\u00bb - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/tasos-leivaditis-etsi-gennithikan-oi-simaies-mas/",
+                        "url": "https://t.co/AU8Or0sMwY"
+                    }
+                ]
+            },
+            "id": 1454436970961190915,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#kalytera #PAOASV #\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03bf #BigBrothegrGR #TheBachelorGR #paobc \n\u00ab\u0388\u03c4\u03c3\u03b9 \u03b3\u03b5\u03bd\u03bd\u03ae\u03b8\u03b7\u03ba\u03b1\u03bd \u03bf\u03b9 \u03c3\u03b7\u03bc\u03b1\u03af\u03b5\u03c2 \u03bc\u03b1\u03c2\u00bb @ThePressProject https://t.co/AU8Or0sMwY"
+        }
+    ]
+}

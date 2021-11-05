@@ -1,0 +1,142 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2009-03-08 10:48:38+00:00",
+                "description": "\u039a\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae \u03ad\u03b3\u03ba\u03c5\u03c1\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03b1\u03c0\u03cc \u00abTA NEA\u00bb",
+                "id": 23296450,
+                "name": "TA NEA",
+                "public_metrics": {
+                    "followers_count": 174439,
+                    "following_count": 240,
+                    "listed_count": 1102,
+                    "tweet_count": 184453
+                },
+                "username": "ta_nea",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455575037549895684,
+            "created_at": "2021-11-02 16:38:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u03bc\u03cc\u03bd\u03b7 \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 \u03b5\u03af\u03bd\u03b1\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03b1\u03c1\u03ad\u03bb\u03b8\u03b5\u03b9 \u03c4\u03bf \u03b5\u03be\u03ac\u03bc\u03b7\u03bd\u03bf \u03b1\u03c0\u03cc \u03c4\u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf.",
+                        "display_url": "tanea.gr/2021/11/02/gre\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.tanea.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-i-platforma-gia-olous-gia-tin-triti-dosi-i-monadiki-proypothesi/",
+                        "images": [
+                            {
+                                "height": 427,
+                                "url": "https://pbs.twimg.com/news_img/1455575044759883780/oZM1rb1X?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455575044759883780/oZM1rb1X?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 103,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u2013 \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/02/greece/emvolio-anoigei-tin-paraskeyi-5-11-i-platforma-gia-olous-gia-tin-triti-dosi-i-monadiki-proypothesi/",
+                        "url": "https://t.co/hZXp1Ud0aN"
+                    }
+                ]
+            },
+            "id": 1455575037549895684,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u0391\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae 5/11 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03cc\u03bb\u03bf\u03c5\u03c2, \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u2013 \u0397 \u03bc\u03bf\u03bd\u03b1\u03b4\u03b9\u03ba\u03ae \u03c0\u03c1\u03bf\u03cb\u03c0\u03cc\u03b8\u03b5\u03c3\u03b7 https://t.co/hZXp1Ud0aN"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455238064901705739,
+            "created_at": "2021-11-01 18:19:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a0\u03c1\u03ad\u03c0\u03b5\u03b9 \u03bd\u03b1 \u03ad\u03c7\u03bf\u03c5\u03bd \u03c0\u03b1\u03c1\u03ad\u03bb\u03b8\u03b5\u03b9 \u03b4\u03cd\u03bf \u03bc\u03ae\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc \u03c4\u03bf\u03c5\u03c2, \u03c0\u03c1\u03bf\u03ba\u03b5\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7",
+                        "display_url": "tanea.gr/2021/11/01/gre\u2026",
+                        "end": 148,
+                        "expanded_url": "https://www.tanea.gr/2021/11/01/greece/emvolio-stis-5-noemvriou-anoigei-i-platforma-gia-tin-anamnistiki-dosi-oson-exoun-emvoliastei-me-johnson-johnson/",
+                        "images": [
+                            {
+                                "height": 427,
+                                "url": "https://pbs.twimg.com/news_img/1455238070685548547/6o3F4_YX?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455238070685548547/6o3F4_YX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 125,
+                        "status": 200,
+                        "title": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a3\u03c4\u03b9\u03c2 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03cc\u03c3\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03bc\u03b5 Johnson & Johnson - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/01/greece/emvolio-stis-5-noemvriou-anoigei-i-platforma-gia-tin-anamnistiki-dosi-oson-exoun-emvoliastei-me-johnson-johnson/",
+                        "url": "https://t.co/Hq6Gusn0AI"
+                    }
+                ]
+            },
+            "id": 1455238064901705739,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u2013 \u03a3\u03c4\u03b9\u03c2 5 \u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5 \u03b1\u03bd\u03bf\u03af\u03b3\u03b5\u03b9 \u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03b1\u03bd\u03b1\u03bc\u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03ae \u03b4\u03cc\u03c3\u03b7 \u03cc\u03c3\u03c9\u03bd \u03ad\u03c7\u03bf\u03c5\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03bc\u03b5 Johnson &amp;#038; Johnson https://t.co/Hq6Gusn0AI"
+        },
+        {
+            "author_id": 23296450,
+            "conversation_id": 1455237771514290176,
+            "created_at": "2021-11-01 18:18:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u0397 \u039c\u03b1\u03c1\u03af\u03b1 \u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03af\u03b4\u03bf\u03c5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u03b5\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03c4\u03c9\u03bd \u03c3\u03c5\u03bd\u03c4\u03b1\u03ba\u03c4\u03ce\u03bd \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u03b1\u03bd\u03b1\u03c6\u03ad\u03c1\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03b7\u03bd \u03c0\u03bf\u03c1\u03b5\u03af\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1",
+                        "display_url": "tanea.gr/2021/11/01/gre\u2026",
+                        "end": 117,
+                        "expanded_url": "https://www.tanea.gr/2021/11/01/greece/theodoridou-apo-ti-epireazetai-i-anosia-to-emvolio-pio-apotelesmatiko-apo-ti-fysiki-nosisi/",
+                        "images": [
+                            {
+                                "height": 394,
+                                "url": "https://pbs.twimg.com/news_img/1455237777126219782/V1OrQCok?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455237777126219782/V1OrQCok?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03af\u03b4\u03bf\u03c5 \u2013 \u0391\u03c0\u03cc \u03c4\u03b9 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7 - \u03a4\u0391 \u039d\u0395\u0391",
+                        "unwound_url": "https://www.tanea.gr/2021/11/01/greece/theodoridou-apo-ti-epireazetai-i-anosia-to-emvolio-pio-apotelesmatiko-apo-ti-fysiki-nosisi/",
+                        "url": "https://t.co/XMAdXP4kB0"
+                    }
+                ]
+            },
+            "id": 1455237771514290176,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03b5\u03bf\u03b4\u03c9\u03c1\u03af\u03b4\u03bf\u03c5 \u2013 \u0391\u03c0\u03cc \u03c4\u03b9 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u2013 \u03a4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf \u03c0\u03b9\u03bf \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7 https://t.co/XMAdXP4kB0"
+        }
+    ]
+}

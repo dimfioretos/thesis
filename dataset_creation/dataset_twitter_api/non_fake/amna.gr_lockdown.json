@@ -1,0 +1,762 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 250058740,
+                "conversation_id": 1455639079773786113,
+                "created_at": "2021-11-02 20:52:55+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 79,
+                            "start": 70,
+                            "tag": "lockdown"
+                        },
+                        {
+                            "end": 117,
+                            "start": 108,
+                            "tag": "Covid_19"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 143,
+                            "expanded_url": "http://www.amna.gr/home/article/597875/Panellinia-Omospondia-Estiatorikon-kai-Sunafon-Epaggelmaton-Se-atupo-lockdown-mpainei-kai-pali-i-estiasi",
+                            "start": 120,
+                            "url": "https://t.co/DAz5RQ2MAF"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/RENUQaXQRs",
+                            "end": 167,
+                            "expanded_url": "https://twitter.com/amna_news/status/1455639079773786113/photo/1",
+                            "start": 144,
+                            "url": "https://t.co/RENUQaXQRs"
+                        }
+                    ]
+                },
+                "id": 1455639079773786113,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 1,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "\u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1 \u0395\u03c3\u03c4\u03b9\u03b1\u03c4\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a3\u03c5\u03bd\u03b1\u03c6\u03ce\u03bd \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd: \u03a3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf #lockdown \u03bc\u03c0\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\n\n#Covid_19 \n\nhttps://t.co/DAz5RQ2MAF https://t.co/RENUQaXQRs"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1455455469280153601,
+                "created_at": "2021-11-02 08:43:19+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 48,
+                            "start": 39,
+                            "tag": "lockdown"
+                        },
+                        {
+                            "end": 78,
+                            "start": 68,
+                            "tag": "covid19gr"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 65,
+                            "id": "112445908",
+                            "start": 51,
+                            "username": "thanosplevris"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "-",
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 104,
+                            "expanded_url": "https://www.amna.gr/home/article/597645/Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                            "images": [
+                                {
+                                    "height": 357,
+                                    "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=orig",
+                                    "width": 635
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 81,
+                            "status": 200,
+                            "title": "\u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown o \u0398.\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                            "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597645&cat=home&title=Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                            "url": "https://t.co/gNcdC0Dbmt"
+                        },
+                        {
+                            "display_url": "pic.twitter.com/bZcC1QIkue",
+                            "end": 128,
+                            "expanded_url": "https://twitter.com/amna_news/status/1455455469280153601/photo/1",
+                            "start": 105,
+                            "url": "https://t.co/bZcC1QIkue"
+                        }
+                    ]
+                },
+                "id": 1455455469280153601,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 1,
+                    "reply_count": 2,
+                    "retweet_count": 1
+                },
+                "text": "\u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf #lockdown o @thanosplevris \n\n#covid19gr \n\nhttps://t.co/gNcdC0Dbmt https://t.co/bZcC1QIkue"
+            },
+            {
+                "author_id": 250058740,
+                "conversation_id": 1455509422772559881,
+                "created_at": "2021-11-02 12:17:43+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 38,
+                            "start": 29,
+                            "tag": "lockdown"
+                        }
+                    ],
+                    "mentions": [
+                        {
+                            "end": 12,
+                            "id": "265981780",
+                            "start": 1,
+                            "username": "joikonomou"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "-",
+                            "display_url": "amna.gr/home/article/5\u2026",
+                            "end": 126,
+                            "expanded_url": "https://www.amna.gr/home/article/597695/",
+                            "images": [
+                                {
+                                    "height": 357,
+                                    "url": "https://pbs.twimg.com/news_img/1455509423288369164/qilZ8sVX?format=jpg&name=orig",
+                                    "width": 635
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455509423288369164/qilZ8sVX?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 103,
+                            "status": 200,
+                            "title": "\u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                            "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597695&cat=home&title=",
+                            "url": "https://t.co/DtGd6XVNoD"
+                        }
+                    ]
+                },
+                "id": 1455509422772559881,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": ".@joikonomou: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 #lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2\n\nhttps://t.co/DtGd6XVNoD"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2018-12-11 22:26:11+00:00",
+                "description": "\u039d\u03ad\u03bf\u03b9, \u03bc\u03b5 \u03c7\u03b8\u03b5\u03c3\u03b9\u03bd\u03ae \u03b5\u03be\u03bf\u03c5\u03c3\u03af\u03b1 \u03ba\u03b1\u03b9 \u03b8\u03b1\u03c1\u03c1\u03b5\u03af\u03c4\u03b5 \u03c0\u03c9\u03c2 \u03c0\u03cd\u03c1\u03b3\u03bf\u03c5\u03c2 \u03ad\u03c7\u03b5\u03c4' \u03ac\u03c0\u03b1\u03c1\u03c4\u03bf\u03c5\u03c2, \u03bc\u03b1 \u03b5\u03b3\u03ce \u03b4\u03b5\u03bd \u03b5\u03af\u03b4\u03b1 \u03b4\u03cd\u03bf \u03b2\u03b1\u03c3\u03b9\u03bb\u03b9\u03ac\u03b4\u03b5\u03c2 \u03b1\u03c0' \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b3\u03ba\u03c1\u03b5\u03bc\u03bd\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd\u03b5; \u03ba\u03b1\u03b9 \u03c4\u03c1\u03af\u03c4\u03bf \u03b1\u03c5\u03c4\u03cc\u03bd \u03b8\u03b1 \u03b4\u03c9. \u0391\u03b9\u03c3\u03c7\u03cd\u03bb\u03bf\u03c2",
+                "id": 1072618577432322048,
+                "name": "\u03a0\u03c1\u03bf\u03bc\u03b7\u03b8\u03ad\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 106,
+                    "following_count": 284,
+                    "listed_count": 0,
+                    "tweet_count": 7960
+                },
+                "username": "AllosPromitheas",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-10 10:08:16+00:00",
+                "description": "\u0391\u03b8\u03b7\u03bd\u03b1\u03ca\u03ba\u03cc - \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03cc \u03a0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03c9\u03bd: \u03c4\u03bf \u03b5\u03b8\u03bd\u03b9\u03ba\u03cc \u03b5\u03b9\u03b4\u03b7\u03c3\u03b5\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03c0\u03c1\u03b1\u03ba\u03c4\u03bf\u03c1\u03b5\u03af\u03bf \u03c4\u03b7\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 |English: @amna_newseng |Sport: @amna_sportgr",
+                "id": 250058740,
+                "name": "\u0391\u03a0\u0395-\u039c\u03a0\u0395",
+                "public_metrics": {
+                    "followers_count": 85174,
+                    "following_count": 3649,
+                    "listed_count": 997,
+                    "tweet_count": 392053
+                },
+                "username": "amna_news",
+                "verified": true
+            },
+            {
+                "created_at": "2021-10-10 10:47:03+00:00",
+                "description": "",
+                "id": 1447151521548935169,
+                "name": "Jimitris Kiriakopoulos",
+                "public_metrics": {
+                    "followers_count": 317,
+                    "following_count": 808,
+                    "listed_count": 0,
+                    "tweet_count": 2190
+                },
+                "username": "JimitrisK",
+                "verified": false
+            },
+            {
+                "created_at": "2010-02-08 14:42:08+00:00",
+                "description": "\u03a5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03a5\u03b3\u03b5\u03af\u03b1\u03c2 \u0392\u03bf\u03c5\u03bb\u03b5\u03c5\u03c4\u03ae\u03c2 \u0391 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u039d\u0394, \u0394\u03b9\u03ba\u03b7\u03b3\u03bf\u03c1\u03bf\u03c2 \u0394\u039d LLM",
+                "id": 112445908,
+                "name": "\u0398\u03ac\u03bd\u03bf\u03c2 \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 46986,
+                    "following_count": 5610,
+                    "listed_count": 307,
+                    "tweet_count": 14119
+                },
+                "username": "thanosplevris",
+                "verified": false
+            },
+            {
+                "created_at": "2011-03-14 13:02:05+00:00",
+                "description": "\u03a5\u03c6\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u03c0\u03b1\u03c1\u03ac \u03c4\u03c9 \u03a0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03ce\n\u039a\u03c5\u03b2\u03b5\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc\u03c2 \u0395\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 | Deputy Minister to the Prime Minister and Government Spokesman",
+                "id": 265981780,
+                "name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5",
+                "public_metrics": {
+                    "followers_count": 4233,
+                    "following_count": 1160,
+                    "listed_count": 49,
+                    "tweet_count": 913
+                },
+                "username": "joikonomou",
+                "verified": false
+            },
+            {
+                "created_at": "2015-07-13 16:14:38+00:00",
+                "description": "",
+                "id": 3374157663,
+                "name": "Nikos Kargakis",
+                "public_metrics": {
+                    "followers_count": 35,
+                    "following_count": 21,
+                    "listed_count": 0,
+                    "tweet_count": 5920
+                },
+                "username": "KargakisNikos",
+                "verified": false
+            },
+            {
+                "created_at": "2013-02-02 00:15:07+00:00",
+                "description": "Athens News Agency - Macedonian Press Agency (ANA-MPA) is a Greece-based news service (a public entity anonymous company).\nFor news in greek follow @amna_news",
+                "id": 1141047558,
+                "name": "ANA-MPA news",
+                "public_metrics": {
+                    "followers_count": 10873,
+                    "following_count": 3468,
+                    "listed_count": 480,
+                    "tweet_count": 37469
+                },
+                "username": "amna_newseng",
+                "verified": true
+            },
+            {
+                "created_at": "2021-02-19 14:17:19+00:00",
+                "description": "\u0395\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03a4\u03cd\u03c0\u03bf\u03c5 \u03c4\u03bf\u03c5 \u03a3\u03a5\u03a1\u0399\u0396\u0391-\u03a0\u03c1\u03bf\u03bf\u03b4\u03b5\u03c5\u03c4\u03b9\u03ba\u03ae \u03a3\u03c5\u03bc\u03bc\u03b1\u03c7\u03af\u03b1, \u03b5\u03c0\u03b9\u03ba\u03b5\u03c6\u03b1\u03bb\u03ae\u03c2 \u03c4\u03b7\u03c2 \u03b4\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03b1\u03c1\u03ac\u03c4\u03b1\u03be\u03b7\u03c2 \u03c4\u03bf\u03c5 \u0394\u03ae\u03bc\u03bf\u03c5 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd \"\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03ae \u03a0\u03cc\u03bb\u03b7\"",
+                "id": 1362768098701561859,
+                "name": "\u039d\u03ac\u03c3\u03bf\u03c2 \u0397\u03bb\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 7895,
+                    "following_count": 243,
+                    "listed_count": 19,
+                    "tweet_count": 187
+                },
+                "username": "n_iliopoulos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1072618577432322048,
+            "conversation_id": 1455641956672024576,
+            "created_at": "2021-11-02 21:04:21+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 94,
+                        "start": 85,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 132,
+                        "start": 123,
+                        "tag": "Covid_19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    }
+                ]
+            },
+            "id": 1455641956672024576,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455639079773786113 type=retweeted"
+            ],
+            "text": "RT @amna_news: \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1 \u0395\u03c3\u03c4\u03b9\u03b1\u03c4\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a3\u03c5\u03bd\u03b1\u03c6\u03ce\u03bd \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd: \u03a3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf #lockdown \u03bc\u03c0\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\n\n#Covid_19 \n\nhttp\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455639079773786113,
+            "created_at": "2021-11-02 20:52:55+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 79,
+                        "start": 70,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 117,
+                        "start": 108,
+                        "tag": "Covid_19"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 143,
+                        "expanded_url": "http://www.amna.gr/home/article/597875/Panellinia-Omospondia-Estiatorikon-kai-Sunafon-Epaggelmaton-Se-atupo-lockdown-mpainei-kai-pali-i-estiasi",
+                        "start": 120,
+                        "url": "https://t.co/DAz5RQ2MAF"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/RENUQaXQRs",
+                        "end": 167,
+                        "expanded_url": "https://twitter.com/amna_news/status/1455639079773786113/photo/1",
+                        "start": 144,
+                        "url": "https://t.co/RENUQaXQRs"
+                    }
+                ]
+            },
+            "id": 1455639079773786113,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1 \u0395\u03c3\u03c4\u03b9\u03b1\u03c4\u03bf\u03c1\u03b9\u03ba\u03ce\u03bd \u03ba\u03b1\u03b9 \u03a3\u03c5\u03bd\u03b1\u03c6\u03ce\u03bd \u0395\u03c0\u03b1\u03b3\u03b3\u03b5\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd: \u03a3\u03b5 \u03ac\u03c4\u03c5\u03c0\u03bf #lockdown \u03bc\u03c0\u03b1\u03af\u03bd\u03b5\u03b9 \u03ba\u03b1\u03b9 \u03c0\u03ac\u03bb\u03b9 \u03b7 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\n\n#Covid_19 \n\nhttps://t.co/DAz5RQ2MAF https://t.co/RENUQaXQRs"
+        },
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1455570230223294473,
+            "created_at": "2021-11-02 16:19:20+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 63,
+                        "start": 54,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 93,
+                        "start": 83,
+                        "tag": "covid19gr"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    },
+                    {
+                        "end": 80,
+                        "id": "112445908",
+                        "start": 66,
+                        "username": "thanosplevris"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 119,
+                        "expanded_url": "https://www.amna.gr/home/article/597645/Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 96,
+                        "status": 200,
+                        "title": "\u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown o \u0398.\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597645&cat=home&title=Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                        "url": "https://t.co/gNcdC0Dbmt"
+                    }
+                ]
+            },
+            "id": 1455570230223294473,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455455469280153601 type=retweeted"
+            ],
+            "text": "RT @amna_news: \u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf #lockdown o @thanosplevris \n\n#covid19gr \n\nhttps://t.co/gNcdC0Dbmt https://t.co/bZcC1Q\u2026"
+        },
+        {
+            "author_id": 1447151521548935169,
+            "conversation_id": 1455570088749412356,
+            "created_at": "2021-11-02 16:18:46+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 44,
+                        "tag": "lockdown"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    },
+                    {
+                        "end": 27,
+                        "id": "265981780",
+                        "start": 16,
+                        "username": "joikonomou"
+                    }
+                ]
+            },
+            "id": 1455570088749412356,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455509422772559881 type=retweeted"
+            ],
+            "text": "RT @amna_news: .@joikonomou: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 #lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2\n\nhttps://t.co/DtGd6XVN\u2026"
+        },
+        {
+            "author_id": 3374157663,
+            "conversation_id": 1455521994028486662,
+            "created_at": "2021-11-02 13:07:40+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 53,
+                        "start": 44,
+                        "tag": "lockdown"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 13,
+                        "id": "250058740",
+                        "start": 3,
+                        "username": "amna_news"
+                    },
+                    {
+                        "end": 27,
+                        "id": "265981780",
+                        "start": 16,
+                        "username": "joikonomou"
+                    }
+                ]
+            },
+            "id": 1455521994028486662,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455509422772559881 type=retweeted"
+            ],
+            "text": "RT @amna_news: .@joikonomou: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 #lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2\n\nhttps://t.co/DtGd6XVN\u2026"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455509422772559881,
+            "created_at": "2021-11-02 12:17:43+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 38,
+                        "start": 29,
+                        "tag": "lockdown"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "265981780",
+                        "start": 1,
+                        "username": "joikonomou"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.amna.gr/home/article/597695/",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455509423288369164/qilZ8sVX?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455509423288369164/qilZ8sVX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 103,
+                        "status": 200,
+                        "title": "\u0393. \u039f\u03b9\u03ba\u03bf\u03bd\u03cc\u03bc\u03bf\u03c5: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597695&cat=home&title=",
+                        "url": "https://t.co/DtGd6XVNoD"
+                    }
+                ]
+            },
+            "id": 1455509422772559881,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": ".@joikonomou: \u0394\u03b5\u03bd \u03b8\u03b1 \u03c0\u03ac\u03bc\u03b5 \u03c3\u03b5 #lockdown, \u03bf\u03cd\u03c4\u03b5 \u03c3\u03b5 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03c4\u03b9\u03ba\u03ac \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c0\u03bf\u03c5 \u03b8\u2019 \u03b1\u03c6\u03bf\u03c1\u03bf\u03cd\u03bd \u03c4\u03bf\u03c5\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2\n\nhttps://t.co/DtGd6XVNoD"
+        },
+        {
+            "author_id": 1141047558,
+            "conversation_id": 1455470697480953858,
+            "created_at": "2021-11-02 09:43:50+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 49,
+                        "start": 40,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 61,
+                        "start": 51,
+                        "tag": "covid19gr"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 25,
+                        "id": "112445908",
+                        "start": 11,
+                        "username": "thanosplevris"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/en/article/597\u2026",
+                        "end": 87,
+                        "expanded_url": "https://www.amna.gr/en/article/597651/Health-Min-Plevris-rules-out-new-lockdown",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455470703461928961/bZjnNZEJ?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455470703461928961/bZjnNZEJ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 64,
+                        "status": 200,
+                        "title": "Health Min Plevris rules out new lockdown",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597651&cat=en&title=Health-Min-Plevris-rules-out-new-lockdown",
+                        "url": "https://t.co/BhiqEUI16z"
+                    }
+                ]
+            },
+            "id": 1455470697480953858,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Health Min @thanosplevris rules out new #lockdown\n\n#covid19gr \n\nhttps://t.co/BhiqEUI16z"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455455469280153601,
+            "created_at": "2021-11-02 08:43:19+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 48,
+                        "start": 39,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 78,
+                        "start": 68,
+                        "tag": "covid19gr"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 65,
+                        "id": "112445908",
+                        "start": 51,
+                        "username": "thanosplevris"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.amna.gr/home/article/597645/Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455455475714166786/2At6Smhu?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 81,
+                        "status": 200,
+                        "title": "\u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf lockdown o \u0398.\u03a0\u03bb\u03b5\u03cd\u03c1\u03b7\u03c2",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597645&cat=home&title=Apekleise-katigorimatika-to-endechomeno-lockdown-o-ThPleuris",
+                        "url": "https://t.co/gNcdC0Dbmt"
+                    },
+                    {
+                        "display_url": "pic.twitter.com/bZcC1QIkue",
+                        "end": 128,
+                        "expanded_url": "https://twitter.com/amna_news/status/1455455469280153601/photo/1",
+                        "start": 105,
+                        "url": "https://t.co/bZcC1QIkue"
+                    }
+                ]
+            },
+            "id": 1455455469280153601,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 1,
+                "reply_count": 2,
+                "retweet_count": 1
+            },
+            "text": "\u0391\u03c0\u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b5 \u03ba\u03b1\u03c4\u03b7\u03b3\u03bf\u03c1\u03b7\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf #lockdown o @thanosplevris \n\n#covid19gr \n\nhttps://t.co/gNcdC0Dbmt https://t.co/bZcC1QIkue"
+        },
+        {
+            "author_id": 250058740,
+            "conversation_id": 1455121507143798795,
+            "created_at": "2021-11-01 10:36:16+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 72,
+                        "start": 68,
+                        "tag": "\u0395\u03a3\u03a5"
+                    },
+                    {
+                        "end": 115,
+                        "start": 106,
+                        "tag": "lockdown"
+                    },
+                    {
+                        "end": 128,
+                        "start": 118,
+                        "tag": "covid19gr"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "1362768098701561859",
+                        "start": 1,
+                        "username": "n_iliopoulos"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "-",
+                        "display_url": "amna.gr/home/article/5\u2026",
+                        "end": 155,
+                        "expanded_url": "https://www.amna.gr/home/article/597411/N-Iliopoulos-Chreiazontai-metra-dimosias-ugeias-kai-enischusis-tou-ESY--etsi-oste-na-min-chreiastei-xana-lockdown",
+                        "images": [
+                            {
+                                "height": 357,
+                                "url": "https://pbs.twimg.com/news_img/1455121513380814853/b_7xBBUw?format=jpg&name=orig",
+                                "width": 635
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455121513380814853/b_7xBBUw?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 132,
+                        "status": 200,
+                        "title": "N. \u0397\u03bb\u03b9\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2: \u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u0395\u03a3\u03a5, \u03ad\u03c4\u03c3\u03b9 \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03be\u03b1\u03bd\u03ac lockdown",
+                        "unwound_url": "https://www.amna.gr/feeds/twitterupload.php?id=597411&cat=home&title=N-Iliopoulos-Chreiazontai-metra-dimosias-ugeias-kai-enischusis-tou-ESY--etsi-oste-na-min-chreiastei-xana-lockdown",
+                        "url": "https://t.co/FOhszTeRnq"
+                    }
+                ]
+            },
+            "id": 1455121507143798795,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": ".@n_iliopoulos: \u03a7\u03c1\u03b5\u03b9\u03ac\u03b6\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03b4\u03b7\u03bc\u03cc\u03c3\u03b9\u03b1\u03c2 \u03c5\u03b3\u03b5\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03bd\u03af\u03c3\u03c7\u03c5\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 #\u0395\u03a3\u03a5, \u03ad\u03c4\u03c3\u03b9 \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03b7\u03bd \u03c7\u03c1\u03b5\u03b9\u03b1\u03c3\u03c4\u03b5\u03af \u03be\u03b1\u03bd\u03ac #lockdown \n\n#covid19gr  \n\nhttps://t.co/FOhszTeRnq"
+        }
+    ]
+}

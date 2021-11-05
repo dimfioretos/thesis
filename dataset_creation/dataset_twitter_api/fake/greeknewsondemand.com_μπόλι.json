@@ -1,0 +1,405 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 3366439607,
+                "conversation_id": 1454299392639340552,
+                "created_at": "2021-10-30 04:09:29+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 7,
+                            "start": 0,
+                            "tag": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf"
+                        },
+                        {
+                            "end": 22,
+                            "start": 12,
+                            "tag": "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+                        },
+                        {
+                            "end": 84,
+                            "start": 78,
+                            "tag": "\u03bc\u03c0\u03cc\u03bb\u03b9"
+                        },
+                        {
+                            "end": 93,
+                            "start": 85,
+                            "tag": "COVID19"
+                        },
+                        {
+                            "end": 151,
+                            "start": 133,
+                            "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19",
+                            "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                            "end": 176,
+                            "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                            "images": [
+                                {
+                                    "height": 550,
+                                    "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=orig",
+                                    "width": 991
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 153,
+                            "status": 200,
+                            "title": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!!",
+                            "unwound_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                            "url": "https://t.co/l46ZEihYre"
+                        }
+                    ]
+                },
+                "id": 1454299392639340552,
+                "public_metrics": {
+                    "like_count": 0,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "#\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 #\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \u201c\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\u201d \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf #\u03bc\u03c0\u03cc\u03bb\u03b9 #COVID19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!! // #\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd\n\nhttps://t.co/l46ZEihYre"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2015-07-08 19:25:40+00:00",
+                "description": "Greek News Service Bringing you the latest news on Greece.",
+                "id": 3366439607,
+                "name": "Greek News on Demand",
+                "public_metrics": {
+                    "followers_count": 380,
+                    "following_count": 104,
+                    "listed_count": 6,
+                    "tweet_count": 298322
+                },
+                "username": "GreekNewsGuy",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-21 16:43:08+00:00",
+                "description": "Greek-American journalist, Greek Translator for the DOJ, Apple and Hollywood/Author/Greek political pundit on Greek TV. See my site: https://t.co/u58toX0cwh",
+                "id": 25694578,
+                "name": "john kountouris",
+                "public_metrics": {
+                    "followers_count": 658,
+                    "following_count": 292,
+                    "listed_count": 11,
+                    "tweet_count": 26960
+                },
+                "username": "johndk7",
+                "verified": false
+            },
+            {
+                "created_at": "2020-09-25 18:03:17+00:00",
+                "description": "",
+                "id": 1309553981379801089,
+                "name": "elenaki orfanidou",
+                "public_metrics": {
+                    "followers_count": 80,
+                    "following_count": 116,
+                    "listed_count": 0,
+                    "tweet_count": 27391
+                },
+                "username": "elenakiorfanid1",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1454674476147249152,
+            "created_at": "2021-10-31 04:59:56+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1"
+                    },
+                    {
+                        "end": 175,
+                        "start": 158,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Sydney has been in lockdown for two months, while Melbourne and the capital, Canberra, went into lockdown in August [William West/AFP] \u0397 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1",
+                        "display_url": "greeknewsondemand.com/2021/10/31/%ce\u2026",
+                        "end": 200,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/31/%ce%b7-%ce%b1%cf%85%cf%83%cf%84%cf%81%ce%b1%ce%bb%ce%af%ce%b1-%ce%b3%ce%af%ce%bd%ce%b5%cf%84%ce%b1%ce%b9-%cf%80%ce%bb%ce%ae%cf%81%cf%89%cf%82-%ce%bc%cf%80%ce%bf%ce%bb%cf%83%ce%b5%ce%b2%ce%af%ce%ba/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454674301790015489/PC4LJer-?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454674301790015489/PC4LJer-?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 177,
+                        "status": 200,
+                        "title": "\u0397 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03bc\u03c0\u03bf\u03bb\u03c3\u03b5\u03b2\u03af\u03ba\u03bf\u03c2 - \u039a\u03b1\u03c4\u03ac\u03c3\u03c7\u03bf\u03c5\u03bd \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd - \u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03bd \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9!!!",
+                        "unwound_url": "http://greeknewsondemand.com/2021/10/31/%ce%b7-%ce%b1%cf%85%cf%83%cf%84%cf%81%ce%b1%ce%bb%ce%af%ce%b1-%ce%b3%ce%af%ce%bd%ce%b5%cf%84%ce%b1%ce%b9-%cf%80%ce%bb%ce%ae%cf%81%cf%89%cf%82-%ce%bc%cf%80%ce%bf%ce%bb%cf%83%ce%b5%ce%b2%ce%af%ce%ba/",
+                        "url": "https://t.co/ObA9hliyhH"
+                    }
+                ]
+            },
+            "id": 1454674476147249152,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397 #\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03bc\u03c0\u03bf\u03bb\u03c3\u03b5\u03b2\u03af\u03ba\u03bf\u03c2 \u2013 \u039a\u03b1\u03c4\u03ac\u03c3\u03c7\u03bf\u03c5\u03bd \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u2013 \u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03bd \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9!!! // #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd\n\nhttps://t.co/ObA9hliyhH"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1454674301374787584,
+            "created_at": "2021-10-31 04:59:14+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 12,
+                        "start": 2,
+                        "tag": "\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1"
+                    },
+                    {
+                        "end": 175,
+                        "start": 158,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "Sydney has been in lockdown for two months, while Melbourne and the capital, Canberra, went into lockdown in August [William West/AFP] \u0397 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1",
+                        "display_url": "greeknewsondemand.com/2021/10/31/%ce\u2026",
+                        "end": 200,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/31/%ce%b7-%ce%b1%cf%85%cf%83%cf%84%cf%81%ce%b1%ce%bb%ce%af%ce%b1-%ce%b3%ce%af%ce%bd%ce%b5%cf%84%ce%b1%ce%b9-%cf%80%ce%bb%ce%ae%cf%81%cf%89%cf%82-%ce%bc%cf%80%ce%bf%ce%bb%cf%83%ce%b5%ce%b2%ce%af%ce%ba/",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454674301790015489/PC4LJer-?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454674301790015489/PC4LJer-?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 177,
+                        "status": 200,
+                        "title": "\u0397 \u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03bc\u03c0\u03bf\u03bb\u03c3\u03b5\u03b2\u03af\u03ba\u03bf\u03c2 - \u039a\u03b1\u03c4\u03ac\u03c3\u03c7\u03bf\u03c5\u03bd \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd - \u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03bd \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9!!!",
+                        "unwound_url": "http://greeknewsondemand.com/2021/10/31/%ce%b7-%ce%b1%cf%85%cf%83%cf%84%cf%81%ce%b1%ce%bb%ce%af%ce%b1-%ce%b3%ce%af%ce%bd%ce%b5%cf%84%ce%b1%ce%b9-%cf%80%ce%bb%ce%ae%cf%81%cf%89%cf%82-%ce%bc%cf%80%ce%bf%ce%bb%cf%83%ce%b5%ce%b2%ce%af%ce%ba/",
+                        "url": "https://t.co/Kv1aD3UxY6"
+                    }
+                ]
+            },
+            "id": 1454674301374787584,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "\u0397 #\u0391\u03c5\u03c3\u03c4\u03c1\u03b1\u03bb\u03af\u03b1 \u03b3\u03af\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c0\u03bb\u03ae\u03c1\u03c9\u03c2 \u03bc\u03c0\u03bf\u03bb\u03c3\u03b5\u03b2\u03af\u03ba\u03bf\u03c2 \u2013 \u039a\u03b1\u03c4\u03ac\u03c3\u03c7\u03bf\u03c5\u03bd \u03c4\u03c1\u03b1\u03c0\u03b5\u03b6\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd\u03c2 \u03c4\u03c9\u03bd \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03c9\u03bd \u2013 \u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b1\u03b3\u03bf\u03c1\u03ac\u03c3\u03bf\u03c5\u03bd \u03c4\u03af\u03c0\u03bf\u03c4\u03b1 \u03b1\u03bd \u03b4\u03b5\u03bd \u03ba\u03ac\u03bd\u03bf\u03c5\u03bd \u03c4\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9!!! // #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd\n\nhttps://t.co/Kv1aD3UxY6"
+        },
+        {
+            "author_id": 1309553981379801089,
+            "conversation_id": 1454347159030145026,
+            "created_at": "2021-10-30 07:19:17+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 25,
+                        "start": 18,
+                        "tag": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf"
+                    },
+                    {
+                        "end": 40,
+                        "start": 30,
+                        "tag": "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+                    },
+                    {
+                        "end": 102,
+                        "start": 96,
+                        "tag": "\u03bc\u03c0\u03cc\u03bb\u03b9"
+                    },
+                    {
+                        "end": 111,
+                        "start": 103,
+                        "tag": "COVID19"
+                    }
+                ],
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "3366439607",
+                        "start": 3,
+                        "username": "GreekNewsGuy"
+                    }
+                ]
+            },
+            "id": 1454347159030145026,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454299392639340552 type=retweeted"
+            ],
+            "text": "RT @GreekNewsGuy: #\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 #\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \u201c\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\u201d \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf #\u03bc\u03c0\u03cc\u03bb\u03b9 #COVID19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u2026"
+        },
+        {
+            "author_id": 3366439607,
+            "conversation_id": 1454299392639340552,
+            "created_at": "2021-10-30 04:09:29+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf"
+                    },
+                    {
+                        "end": 22,
+                        "start": 12,
+                        "tag": "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "\u03bc\u03c0\u03cc\u03bb\u03b9"
+                    },
+                    {
+                        "end": 93,
+                        "start": 85,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 151,
+                        "start": 133,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19",
+                        "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                        "end": 176,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                        "images": [
+                            {
+                                "height": 550,
+                                "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=orig",
+                                "width": 991
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 153,
+                        "status": 200,
+                        "title": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!!",
+                        "unwound_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                        "url": "https://t.co/l46ZEihYre"
+                    }
+                ]
+            },
+            "id": 1454299392639340552,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "#\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 #\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \u201c\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\u201d \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf #\u03bc\u03c0\u03cc\u03bb\u03b9 #COVID19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!! // #\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd\n\nhttps://t.co/l46ZEihYre"
+        },
+        {
+            "author_id": 25694578,
+            "conversation_id": 1454299241417875456,
+            "created_at": "2021-10-30 04:08:53+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 7,
+                        "start": 0,
+                        "tag": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf"
+                    },
+                    {
+                        "end": 22,
+                        "start": 12,
+                        "tag": "\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1"
+                    },
+                    {
+                        "end": 84,
+                        "start": 78,
+                        "tag": "\u03bc\u03c0\u03cc\u03bb\u03b9"
+                    },
+                    {
+                        "end": 93,
+                        "start": 85,
+                        "tag": "COVID19"
+                    },
+                    {
+                        "end": 151,
+                        "start": 133,
+                        "tag": "\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19",
+                        "display_url": "greeknewsondemand.com/2021/10/30/%ce\u2026",
+                        "end": 176,
+                        "expanded_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                        "images": [
+                            {
+                                "height": 550,
+                                "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=orig",
+                                "width": 991
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454299243464704004/ZTrJveiK?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 153,
+                        "status": 200,
+                        "title": "\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 \u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \"\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\" \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf \u03bc\u03c0\u03cc\u03bb\u03b9 COVID-19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!!",
+                        "unwound_url": "http://greeknewsondemand.com/2021/10/30/%ce%bb%cf%8d%ce%ba%ce%b5%ce%b9%ce%bf-%cf%84%ce%b7%cf%82-%ce%bb%ce%bf%cf%85%ce%b9%ce%b6%ce%b9%ce%ac%ce%bd%ce%b1-%cf%80%ce%b9%ce%ac%cf%83%cf%84%ce%b7%ce%ba%ce%b5-%ce%bd%ce%b1-%ce%ba%ce%ac%ce%bd/",
+                        "url": "https://t.co/uqXwgBQ5ME"
+                    }
+                ]
+            },
+            "id": 1454299241417875456,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u039b\u03cd\u03ba\u03b5\u03b9\u03bf \u03c4\u03b7\u03c2 #\u039b\u03bf\u03c5\u03b9\u03b6\u03b9\u03ac\u03bd\u03b1 \u201c\u03c0\u03b9\u03ac\u03c3\u03c4\u03b7\u03ba\u03b5\u201d \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03b9 \u03b5\u03bd\u03ad\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b5 \u03c0\u03b1\u03b9\u03b4\u03b9\u03ac \u03bc\u03b5 \u03c4\u03bf \u03b8\u03b1\u03bd\u03b1\u03c4\u03b7\u03c6\u03cc\u03c1\u03bf #\u03bc\u03c0\u03cc\u03bb\u03b9 #COVID19 \u03c7\u03c9\u03c1\u03af\u03c2 \u03b3\u03bf\u03bd\u03b9\u03ba\u03ae \u03b3\u03bd\u03ce\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b1\u03af\u03bd\u03b5\u03c3\u03b7!!! // #\u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf_\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03bf\u03cd\n\nhttps://t.co/uqXwgBQ5ME"
+        }
+    ]
+}

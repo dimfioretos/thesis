@@ -1,0 +1,777 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 1448940938,
+                "conversation_id": 1453653491734429696,
+                "created_at": "2021-10-28 09:22:54+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                            "end": 251,
+                            "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360366/xanetai-to-metro-meta-ta-rapid-test-sta-diodia-protasi-kai-gia-ypoxreotiko-self-test-se-emvoliasmenous?amp",
+                            "start": 228,
+                            "url": "https://t.co/Yo2xRBpWRV"
+                        }
+                    ]
+                },
+                "id": 1453653491734429696,
+                "public_metrics": {
+                    "like_count": 2,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0395\u03bd\u03c4\u03c9\u03bc\u03b5\u03c4\u03b1\u03be\u03c5 \u03c4\u03bf \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03b5\u03b9 \u03c4\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03bf \u03b5\u03bd\u03b1 \u03c3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7 \u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03b1 \u03c3\u03b5 \u03bc\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03b9\u03b1\u03c3\u03b7, \u03ba\u03b9 \u03b1\u03c2 \u03b5\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 \u03bf\u03bb\u03bf\u03b9, \u03c4\u03bf \u03bb\u03b5\u03c9 \u03b1\u03c0\u03bf \u03c4\u03bf \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9. \u03a0\u03b5\u03c1\u03b9\u03bc\u03b5\u03bd\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c6\u03c4\u03b1\u03c3\u03bf\u03c5\u03bc\u03b5 10000 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7 \u03bc\u03b5\u03c1\u03b1 \u03bc\u03b1\u03bb\u03b1\u03ba\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03b5 \u03c4\u03bf\nhttps://t.co/Yo2xRBpWRV"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2011-04-04 15:50:02+00:00",
+                "description": "\u0393\u03b9\u03b1\u03c4\u03af \u03b7 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c0\u03c1\u03b1\u03b3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2  #dikaiologitika",
+                "id": 277043000,
+                "name": "dikaiologitika",
+                "public_metrics": {
+                    "followers_count": 7835,
+                    "following_count": 197,
+                    "listed_count": 101,
+                    "tweet_count": 201256
+                },
+                "username": "dikaiologitika",
+                "verified": false
+            },
+            {
+                "created_at": "2016-10-05 12:19:38+00:00",
+                "description": "",
+                "id": 783642801837858816,
+                "name": "\u0394\u0395\u03a3\u03a0\u039f\u0399\u039d\u0391 \u03a6\u0399\u039b\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a5",
+                "public_metrics": {
+                    "followers_count": 1589,
+                    "following_count": 3018,
+                    "listed_count": 5,
+                    "tweet_count": 11942
+                },
+                "username": "despofilo",
+                "verified": false
+            },
+            {
+                "created_at": "2019-01-03 10:06:18+00:00",
+                "description": "",
+                "id": 1080767299433439232,
+                "name": "\u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03c2 \u039d\u0399\u039a\u0397\u03a4\u039f\u03a0\u039f\u03a5\u039b\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 1096,
+                    "following_count": 2808,
+                    "listed_count": 5,
+                    "tweet_count": 10104
+                },
+                "username": "alexnikitopoylo",
+                "verified": false
+            },
+            {
+                "created_at": "2012-11-12 17:08:08+00:00",
+                "description": "",
+                "id": 944049074,
+                "name": "\u0394\u0395\u03a3\u03a0\u03a9 \u0392\u0391\u03a6\u039f",
+                "public_metrics": {
+                    "followers_count": 3072,
+                    "following_count": 4974,
+                    "listed_count": 13,
+                    "tweet_count": 45714
+                },
+                "username": "despovafo",
+                "verified": false
+            },
+            {
+                "created_at": "2018-06-20 15:05:11+00:00",
+                "description": "\u0394\u03b5\u03bd \u03b8\u03b1 \u03b5\u03c0\u03b9\u03c3\u03c4\u03c1\u03ad\u03c8\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c4\u03b7\u03bd \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1, \u03b3\u03b9\u03b1\u03c4\u03af \u03b7 \u03ba\u03b1\u03bd\u03bf\u03bd\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ae\u03c4\u03b1\u03bd \u03c4\u03bf \u03c0\u03c1\u03bf\u03b2\u03bb\u03b7\u03bc\u03b1 -- \u0395\u03c0\u03b9\u03c3\u03c4\u03c1\u03bf\u03c6\u03ae \u03c3\u03c4\u03b7\u03bd \u03bd\u03b1\u03c1\u03ba\u03bf\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03b5\u03c3\u03ba\u03bf\u03bc\u03c0\u03b1\u03c1\u03b9\u03c3\u03bc\u03cc-.",
+                "id": 1009452106871435266,
+                "name": "ENOXLITIKOS \u2744\ufe0f",
+                "public_metrics": {
+                    "followers_count": 1481,
+                    "following_count": 703,
+                    "listed_count": 4,
+                    "tweet_count": 67915
+                },
+                "username": "ENOXLITIKOS1",
+                "verified": false
+            },
+            {
+                "created_at": "2014-07-24 14:15:28+00:00",
+                "description": "",
+                "id": 2677180819,
+                "name": "velocity",
+                "public_metrics": {
+                    "followers_count": 2780,
+                    "following_count": 4994,
+                    "listed_count": 188,
+                    "tweet_count": 873596
+                },
+                "username": "velocity2121",
+                "verified": false
+            },
+            {
+                "created_at": "2013-05-22 13:21:35+00:00",
+                "description": "\u03bc\u03c0\u03c1\u03bf\u03c5\u03bd\u03bf \u03b3\u03ba\u03b1\u03bc\u03b1\nhttps://t.co/CDEjB6OSR9",
+                "id": 1448940938,
+                "name": "\u03c4\u03c3\u03b9\u03bc\u03b7\u03c2",
+                "public_metrics": {
+                    "followers_count": 11807,
+                    "following_count": 1389,
+                    "listed_count": 99,
+                    "tweet_count": 150885
+                },
+                "username": "jimgraves666",
+                "verified": false
+            },
+            {
+                "created_at": "2009-03-03 22:01:06+00:00",
+                "description": "\u0391\u03c1\u03b2\u03b1\u03bd\u03af\u03c4\u03b7\u03c2 \u03bc\u03b5\u03bd, \u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03ba\u03c1\u03ac\u03c4\u03b7\u03c2 \u03b4\u03b5.\n\u039a\u03b1\u03c4\u03ac \u03a4\u03bf\u03bd \u0394\u03b1\u03af\u03bc\u03bf\u03bd\u03b1 \u0395\u03b1\u03c5\u03c4\u03bf\u03cd.",
+                "id": 22687782,
+                "name": "Geo.graphic",
+                "public_metrics": {
+                    "followers_count": 10817,
+                    "following_count": 8055,
+                    "listed_count": 90,
+                    "tweet_count": 253144
+                },
+                "username": "parallilos",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 277043000,
+            "conversation_id": 1455559380733157380,
+            "created_at": "2021-11-02 15:36:14+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 85,
+                        "start": 80,
+                        "tag": "\u03b5\u03bf\u03b4\u03c5"
+                    },
+                    {
+                        "end": 96,
+                        "start": 86,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 121,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/361101/sok-kai-deos-me-ta-kroysmata-simera-poly-pano-apo-6-500-i-anakoinosi-tou-eody",
+                        "start": 98,
+                        "url": "https://t.co/O9dxB0VYxq"
+                    }
+                ]
+            },
+            "id": 1455559380733157380,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a3\u03bf\u03ba \u03ba\u03b1\u03b9 \u03b4\u03ad\u03bf\u03c2 \u03bc\u03b5 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03c0\u03bf\u03bb\u03cd \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 6.500 - \u0397 \u03b1\u03bd\u03b1\u03ba\u03bf\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 \u0395\u039f\u0394\u03a5 #\u03b5\u03bf\u03b4\u03c5 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1  https://t.co/O9dxB0VYxq"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1455295538551742464,
+            "created_at": "2021-11-01 22:07:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360977/mayro-rekor-me-5-449-kroysmata-koronoioy-430-diasolimenoi-kai-52-nekroi-to-teleftaio-24oro",
+                        "start": 92,
+                        "url": "https://t.co/6Nju6v3CVN"
+                    }
+                ]
+            },
+            "id": 1455295538551742464,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b1\u03cd\u03c1\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd: 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bc\u03ad\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf https://t.co/6Nju6v3CVN"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1455295507518083077,
+            "created_at": "2021-11-01 22:07:41+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360977/mayro-rekor-me-5-449-kroysmata-koronoioy-430-diasolimenoi-kai-52-nekroi-to-teleftaio-24oro",
+                        "start": 92,
+                        "url": "https://t.co/eTaS5Qn1xn"
+                    }
+                ]
+            },
+            "id": 1455295507518083077,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b1\u03cd\u03c1\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd: 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bc\u03ad\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf https://t.co/eTaS5Qn1xn"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1455295465151401989,
+            "created_at": "2021-11-01 22:07:31+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 115,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360977/mayro-rekor-me-5-449-kroysmata-koronoioy-430-diasolimenoi-kai-52-nekroi-to-teleftaio-24oro",
+                        "start": 92,
+                        "url": "https://t.co/tKrfUMukcm"
+                    }
+                ]
+            },
+            "id": 1455295465151401989,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b1\u03cd\u03c1\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 5.449 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd: 430 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bc\u03ad\u03bd\u03bf\u03b9 \u03ba\u03b1\u03b9 52 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf https://t.co/tKrfUMukcm"
+        },
+        {
+            "author_id": 1009452106871435266,
+            "conversation_id": 1455177764718399496,
+            "created_at": "2021-11-01 14:19:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 81,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360965/mayri-deftera-simera-rekor-me-pano-apo-5-000-kroysmata-simera",
+                        "start": 58,
+                        "url": "https://t.co/b0XwfXSfbu"
+                    }
+                ]
+            },
+            "id": 1455177764718399496,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039c\u03b1\u03cd\u03c1\u03b7 \u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1: \n\u03a1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 5.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1\n\nhttps://t.co/b0XwfXSfbu"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1454924496369033218,
+            "created_at": "2021-10-31 21:33:25+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360880/koronoios-31-10-2-727-ta-nea-kroysmata-44-oi-thanatoi-kai-421-oi-diasolinomenoi",
+                        "start": 81,
+                        "url": "https://t.co/DOPk7AYy0J"
+                    }
+                ]
+            },
+            "id": 1454924496369033218,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 31/10: 2.727 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/DOPk7AYy0J"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1454924465318543372,
+            "created_at": "2021-10-31 21:33:18+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2: 2.727 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf\u03c5 24\u03c9\u03c1\u03bf\u03c5, \u03bd\u03ad\u03bf \u00ab\u03ac\u03bb\u03bc\u03b1\u00bb \u03c3\u03c4\u03bf\u03c5\u03c2 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2",
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360880/koronoios-31-10-2-727-ta-nea-kroysmata-44-oi-thanatoi-kai-421-oi-diasolinomenoi",
+                        "images": [
+                            {
+                                "height": 600,
+                                "url": "https://pbs.twimg.com/news_img/1454841309051621377/NFj4GEBI?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454841309051621377/NFj4GEBI?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 81,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 31/10: 2.727 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360880/koronoios-31-10-2-727-ta-nea-kroysmata-44-oi-thanatoi-kai-421-oi-diasolinomenoi",
+                        "url": "https://t.co/OgtqNQ80AX"
+                    }
+                ]
+            },
+            "id": 1454924465318543372,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 31/10: 2.727 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/OgtqNQ80AX"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1454924429021130753,
+            "created_at": "2021-10-31 21:33:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 104,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360880/koronoios-31-10-2-727-ta-nea-kroysmata-44-oi-thanatoi-kai-421-oi-diasolinomenoi",
+                        "start": 81,
+                        "url": "https://t.co/M1Cvx4wxGQ"
+                    }
+                ]
+            },
+            "id": 1454924429021130753,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 31/10: 2.727 \u03c4\u03b1 \u03bd\u03ad\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 44 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 421 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/M1Cvx4wxGQ"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1454924145293238273,
+            "created_at": "2021-10-31 21:32:02+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360888/kovetai-i-diaskedasi-an-afksithoyn-ta-kroysmata-nea-metra-se-kafe-kai-estiatoria?fbclid=IwAR1uUUnbGGSZmvTSCzplDHLMrZvnJtQz1LBAcXAyHHqTzIQ2oxOfWY353cs",
+                        "start": 90,
+                        "url": "https://t.co/SN2yui0br3"
+                    }
+                ]
+            },
+            "id": 1454924145293238273,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03cc\u03b2\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7 \u03b1\u03bd \u03b1\u03c5\u03be\u03b7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c6\u03ad \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1 (\u03b2\u03af\u03bd\u03c4\u03b5\u03bf) https://t.co/SN2yui0br3"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1454924109331173381,
+            "created_at": "2021-10-31 21:31:53+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360888/kovetai-i-diaskedasi-an-afksithoyn-ta-kroysmata-nea-metra-se-kafe-kai-estiatoria?fbclid=IwAR1uUUnbGGSZmvTSCzplDHLMrZvnJtQz1LBAcXAyHHqTzIQ2oxOfWY353cs",
+                        "start": 90,
+                        "url": "https://t.co/NZDG9gtyDn"
+                    }
+                ]
+            },
+            "id": 1454924109331173381,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03cc\u03b2\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7 \u03b1\u03bd \u03b1\u03c5\u03be\u03b7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c6\u03ad \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1 (\u03b2\u03af\u03bd\u03c4\u03b5\u03bf) https://t.co/NZDG9gtyDn"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1454924072916299779,
+            "created_at": "2021-10-31 21:31:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c6\u03ad \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1 \u03b1\u03c0\u03cc \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 - \u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03c4\u03c9\u03bd \u03b5\u03b9\u03b4\u03b9\u03ba\u03ce\u03bd",
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360888/kovetai-i-diaskedasi-an-afksithoyn-ta-kroysmata-nea-metra-se-kafe-kai-estiatoria?fbclid=IwAR1uUUnbGGSZmvTSCzplDHLMrZvnJtQz1LBAcXAyHHqTzIQ2oxOfWY353cs",
+                        "images": [
+                            {
+                                "height": 545,
+                                "url": "https://pbs.twimg.com/news_img/1454924073474183168/GP8ukkLW?format=jpg&name=orig",
+                                "width": 900
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454924073474183168/GP8ukkLW?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 90,
+                        "status": 200,
+                        "title": "\u039a\u03cc\u03b2\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7 \u03b1\u03bd \u03b1\u03c5\u03be\u03b7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c6\u03ad \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1 (\u03b2\u03af\u03bd\u03c4\u03b5\u03bf)",
+                        "unwound_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360888/kovetai-i-diaskedasi-an-afksithoyn-ta-kroysmata-nea-metra-se-kafe-kai-estiatoria?fbclid=IwAR1uUUnbGGSZmvTSCzplDHLMrZvnJtQz1LBAcXAyHHqTzIQ2oxOfWY353cs",
+                        "url": "https://t.co/RWJ02vyB26"
+                    }
+                ]
+            },
+            "id": 1454924072916299779,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03cc\u03b2\u03b5\u03c4\u03b1\u03b9 \u03b7 \u03b4\u03b9\u03b1\u03c3\u03ba\u03ad\u03b4\u03b1\u03c3\u03b7 \u03b1\u03bd \u03b1\u03c5\u03be\u03b7\u03b8\u03bf\u03cd\u03bd \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - \u039d\u03ad\u03b1 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03c3\u03b5 \u03ba\u03b1\u03c6\u03ad \u03ba\u03b1\u03b9 \u03b5\u03c3\u03c4\u03b9\u03b1\u03c4\u03cc\u03c1\u03b9\u03b1 (\u03b2\u03af\u03bd\u03c4\u03b5\u03bf) https://t.co/RWJ02vyB26"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1454542383601831950,
+            "created_at": "2021-10-30 20:15:02+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360833/pano-apo-4-600-ta-kroysmata-simera-48-nekroi-ai-404-diasolinomenoi",
+                        "start": 90,
+                        "url": "https://t.co/SGcjavunsE"
+                    }
+                ]
+            },
+            "id": 1454542383601831950,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u00bb \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 4.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 48 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2, \u03c3\u03c4\u03bf\u03c5\u03c2 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/SGcjavunsE"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1454542338764775426,
+            "created_at": "2021-10-30 20:14:52+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360833/pano-apo-4-600-ta-kroysmata-simera-48-nekroi-ai-404-diasolinomenoi",
+                        "start": 90,
+                        "url": "https://t.co/4wHmK1D363"
+                    }
+                ]
+            },
+            "id": 1454542338764775426,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u00bb \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 4.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 48 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2, \u03c3\u03c4\u03bf\u03c5\u03c2 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/4wHmK1D363"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1454542299329974290,
+            "created_at": "2021-10-30 20:14:42+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 113,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360833/pano-apo-4-600-ta-kroysmata-simera-48-nekroi-ai-404-diasolinomenoi",
+                        "start": 90,
+                        "url": "https://t.co/XtBpqtHxOJ"
+                    }
+                ]
+            },
+            "id": 1454542299329974290,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u00bb \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 4.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 48 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2, \u03c3\u03c4\u03bf\u03c5\u03c2 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/XtBpqtHxOJ"
+        },
+        {
+            "author_id": 277043000,
+            "conversation_id": 1454504788696109062,
+            "created_at": "2021-10-30 17:45:39+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 100,
+                        "start": 90,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360833/pano-apo-4-600-ta-kroysmata-simera-48-nekroi-ai-404-diasolinomenoi",
+                        "start": 103,
+                        "url": "https://t.co/kVnprUKmLN"
+                    }
+                ]
+            },
+            "id": 1454504788696109062,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u039c\u03b1\u03cd\u03c1\u03bf\u00bb \u03c1\u03b5\u03ba\u03cc\u03c1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u03bc\u03b5 \u03c0\u03ac\u03bd\u03c9 \u03b1\u03c0\u03cc 4.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1, 48 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2, \u03c3\u03c4\u03bf\u03c5\u03c2 404 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \n\nhttps://t.co/kVnprUKmLN"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1454196024873037827,
+            "created_at": "2021-10-29 21:18:44+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360754/perissotera-apo-3-600-ta-kroysmata-simera-55-oi-nekroi-aggizoun-tous-400-oi-diasolinomenoi",
+                        "start": 95,
+                        "url": "https://t.co/0EWnpP9x1t"
+                    }
+                ]
+            },
+            "id": 1454196024873037827,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b1\u03c0\u03cc 3.600 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, 55 \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, \u00ab\u03b1\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03bf\u03c5\u03c2 400 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/0EWnpP9x1t"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1454195995894599683,
+            "created_at": "2021-10-29 21:18:37+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360754/perissotera-apo-3-600-ta-kroysmata-simera-55-oi-nekroi-aggizoun-tous-400-oi-diasolinomenoi",
+                        "start": 95,
+                        "url": "https://t.co/IPy780P2gP"
+                    }
+                ]
+            },
+            "id": 1454195995894599683,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b1\u03c0\u03cc 3.600 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, 55 \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, \u00ab\u03b1\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03bf\u03c5\u03c2 400 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/IPy780P2gP"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1454195947391565830,
+            "created_at": "2021-10-29 21:18:26+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 118,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360754/perissotera-apo-3-600-ta-kroysmata-simera-55-oi-nekroi-aggizoun-tous-400-oi-diasolinomenoi",
+                        "start": 95,
+                        "url": "https://t.co/xnveA9kBzi"
+                    }
+                ]
+            },
+            "id": 1454195947391565830,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1 \u03b1\u03c0\u03cc 3.600 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, 55 \u03bf\u03b9 \u03bd\u03b5\u03ba\u03c1\u03bf\u03af, \u00ab\u03b1\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03bf\u03c5\u03c2 400 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 https://t.co/xnveA9kBzi"
+        },
+        {
+            "author_id": 783642801837858816,
+            "conversation_id": 1453826635787030531,
+            "created_at": "2021-10-28 20:50:55+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360648/aggizoun-tis-3-000-ta-kroysmata-simera-afksanontai-oi-diasolinomenoi-31-oi-neoi-thanatoi",
+                        "start": 91,
+                        "url": "https://t.co/N912yBb38N"
+                    }
+                ]
+            },
+            "id": 1453826635787030531,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u0391\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03b9\u03c2 3.000 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03b1\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bf\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/N912yBb38N"
+        },
+        {
+            "author_id": 1080767299433439232,
+            "conversation_id": 1453826587703533570,
+            "created_at": "2021-10-28 20:50:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360648/aggizoun-tis-3-000-ta-kroysmata-simera-afksanontai-oi-diasolinomenoi-31-oi-neoi-thanatoi",
+                        "start": 91,
+                        "url": "https://t.co/1uc8Rz86nx"
+                    }
+                ]
+            },
+            "id": 1453826587703533570,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u0391\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03b9\u03c2 3.000 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03b1\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bf\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/1uc8Rz86nx"
+        },
+        {
+            "author_id": 944049074,
+            "conversation_id": 1453826557768871943,
+            "created_at": "2021-10-28 20:50:36+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/ygeia\u2026",
+                        "end": 114,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/ygeia/360648/aggizoun-tis-3-000-ta-kroysmata-simera-afksanontai-oi-diasolinomenoi-31-oi-neoi-thanatoi",
+                        "start": 91,
+                        "url": "https://t.co/bXYqjCj60K"
+                    }
+                ]
+            },
+            "id": 1453826557768871943,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 1,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u00ab\u0391\u03b3\u03b3\u03af\u03b6\u03bf\u03c5\u03bd\u00bb \u03c4\u03b9\u03c2 3.000 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1, \u03b1\u03c5\u03be\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, 31 \u03bf\u03b9 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 https://t.co/bXYqjCj60K"
+        },
+        {
+            "author_id": 2677180819,
+            "conversation_id": 1453676948962619402,
+            "created_at": "2021-10-28 10:56:07+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1448940938",
+                        "start": 3,
+                        "username": "jimgraves666"
+                    }
+                ]
+            },
+            "id": 1453676948962619402,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453653491734429696 type=retweeted"
+            ],
+            "text": "RT @jimgraves666: \u0395\u03bd\u03c4\u03c9\u03bc\u03b5\u03c4\u03b1\u03be\u03c5 \u03c4\u03bf \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03b5\u03b9 \u03c4\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03bf \u03b5\u03bd\u03b1 \u03c3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7 \u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03b1 \u03c3\u03b5 \u03bc\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03b9\u03b1\u03c3\u03b7, \u03ba\u03b9 \u03b1\u03c2 \u03b5\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u2026"
+        },
+        {
+            "author_id": 22687782,
+            "conversation_id": 1453656296301936644,
+            "created_at": "2021-10-28 09:34:03+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 16,
+                        "id": "1448940938",
+                        "start": 3,
+                        "username": "jimgraves666"
+                    }
+                ]
+            },
+            "id": 1453656296301936644,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453653491734429696 type=retweeted"
+            ],
+            "text": "RT @jimgraves666: \u0395\u03bd\u03c4\u03c9\u03bc\u03b5\u03c4\u03b1\u03be\u03c5 \u03c4\u03bf \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03b5\u03b9 \u03c4\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03bf \u03b5\u03bd\u03b1 \u03c3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7 \u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03b1 \u03c3\u03b5 \u03bc\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03b9\u03b1\u03c3\u03b7, \u03ba\u03b9 \u03b1\u03c2 \u03b5\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u2026"
+        },
+        {
+            "author_id": 1448940938,
+            "conversation_id": 1453653491734429696,
+            "created_at": "2021-10-28 09:22:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "dikaiologitika.gr/eidhseis/koino\u2026",
+                        "end": 251,
+                        "expanded_url": "https://www.dikaiologitika.gr/eidhseis/koinonia/360366/xanetai-to-metro-meta-ta-rapid-test-sta-diodia-protasi-kai-gia-ypoxreotiko-self-test-se-emvoliasmenous?amp",
+                        "start": 228,
+                        "url": "https://t.co/Yo2xRBpWRV"
+                    }
+                ]
+            },
+            "id": 1453653491734429696,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0395\u03bd\u03c4\u03c9\u03bc\u03b5\u03c4\u03b1\u03be\u03c5 \u03c4\u03bf \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03c7\u03bf\u03c1\u03b7\u03b3\u03b5\u03b9 \u03c4\u03bf \u03ba\u03c1\u03b1\u03c4\u03bf\u03c2 \u03b1\u03c0\u03bf \u03b5\u03bd\u03b1 \u03c3\u03b5\u03bb\u03c6 \u03c4\u03b5\u03c3\u03c4 \u03c4\u03b7 \u03b2\u03b4\u03bf\u03bc\u03b1\u03b4\u03b1 \u03b5\u03b9\u03b4\u03b9\u03ba\u03b1 \u03c3\u03b5 \u03bc\u03b1\u03c2 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c3\u03c4\u03b9\u03b1\u03c3\u03b7, \u03ba\u03b9 \u03b1\u03c2 \u03b5\u03b9\u03bc\u03b1\u03c3\u03c4\u03b5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 \u03bf\u03bb\u03bf\u03b9, \u03c4\u03bf \u03bb\u03b5\u03c9 \u03b1\u03c0\u03bf \u03c4\u03bf \u03ba\u03b1\u03bb\u03bf\u03ba\u03b1\u03b9\u03c1\u03b9. \u03a0\u03b5\u03c1\u03b9\u03bc\u03b5\u03bd\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c6\u03c4\u03b1\u03c3\u03bf\u03c5\u03bc\u03b5 10000 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03b7 \u03bc\u03b5\u03c1\u03b1 \u03bc\u03b1\u03bb\u03b1\u03ba\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03bc\u03b5\u03c4\u03b1 \u03ba\u03b1\u03bd\u03c4\u03b5 \u03c4\u03bf\nhttps://t.co/Yo2xRBpWRV"
+        }
+    ]
+}

@@ -1,0 +1,158 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2013-11-18 07:38:57+00:00",
+                "description": "\u039f \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03bf\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 The TOC. E\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03ba\u03ac\u03b8\u03b5 \u03bb\u03b5\u03c0\u03c4\u03cc",
+                "id": 2200853882,
+                "name": "TheTOC",
+                "public_metrics": {
+                    "followers_count": 59403,
+                    "following_count": 9262,
+                    "listed_count": 502,
+                    "tweet_count": 270936
+                },
+                "username": "TheTOC_gr",
+                "verified": false
+            },
+            {
+                "created_at": "2016-06-21 19:26:37+00:00",
+                "description": "\u039a\u03cc\u03b2\u03b9\u03bd\u03c4\u03cc\u03c0\u03bb\u03b7\u03ba\u03c4\u03bf\u03c2",
+                "id": 745337145401970695,
+                "name": "Erga Omnes",
+                "public_metrics": {
+                    "followers_count": 2364,
+                    "following_count": 3316,
+                    "listed_count": 15,
+                    "tweet_count": 8482
+                },
+                "username": "_Erga_Omnes_",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2200853882,
+            "conversation_id": 1455515519138811913,
+            "created_at": "2021-11-02 12:41:56+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "H \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b5\u03af\u03c7\u03b5 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc COVID-19 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03b4\u03cc\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5.",
+                        "display_url": "thetoc.gr/ygeia/article/\u2026",
+                        "end": 173,
+                        "expanded_url": "https://www.thetoc.gr/ygeia/article/pfizer-pote-fthinei-i-anosia-apo-to-embolio---ti-edeixe-i-ereuna-sto-israil/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635853949",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455515522393649157/JjQlcQvi?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455515522393649157/JjQlcQvi?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 150,
+                        "status": 200,
+                        "title": "Pfizer: \u03a0\u03cc\u03c4\u03b5 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf \u03b5\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf - \u03a4\u03b9 \u03ad\u03b4\u03b5\u03b9\u03be\u03b5 \u03b7 \u03ad\u03c1\u03b5\u03c5\u03bd\u03b1 \u03c3\u03c4\u03bf \u0399\u03c3\u03c1\u03b1\u03ae\u03bb",
+                        "unwound_url": "https://www.thetoc.gr/ygeia/article/pfizer-pote-fthinei-i-anosia-apo-to-embolio---ti-edeixe-i-ereuna-sto-israil/?utm_term=Autofeed&utm_medium=Social&utm_source=Twitter#Echobox=1635853949",
+                        "url": "https://t.co/Ip1yLK4uN7"
+                    }
+                ]
+            },
+            "id": 1455515519138811913,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "H \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c0\u03bf\u03c5 \u03c0\u03b1\u03c1\u03b5\u03af\u03c7\u03b5 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03b7\u03c2 \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\u03c2 \u03b1\u03c0\u03cc COVID-19 \u03c6\u03b8\u03af\u03bd\u03b5\u03b9 \u03bc\u03b5\u03c4\u03ac \u03b1\u03c0\u03cc \u03bc\u03b5\u03c1\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ae\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c7\u03bf\u03c1\u03ae\u03b3\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7\u03c2 \u03b4\u03cc\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03bf\u03c5. https://t.co/Ip1yLK4uN7"
+        },
+        {
+            "author_id": 745337145401970695,
+            "conversation_id": 1454802603188031489,
+            "created_at": "2021-10-31 13:29:04+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 33,
+                        "start": 27,
+                        "tag": "\u0396\u03b9\u03ce\u03b3\u03b1"
+                    },
+                    {
+                        "end": 92,
+                        "start": 77,
+                        "tag": "\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2"
+                    },
+                    {
+                        "end": 107,
+                        "start": 93,
+                        "tag": "\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf"
+                    },
+                    {
+                        "end": 118,
+                        "start": 108,
+                        "tag": "\u03ba\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1"
+                    },
+                    {
+                        "end": 131,
+                        "start": 119,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 146,
+                        "start": 132,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9"
+                    },
+                    {
+                        "end": 159,
+                        "start": 147,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2"
+                    },
+                    {
+                        "end": 211,
+                        "start": 186,
+                        "tag": "\u03bc\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u03b6\u03b9\u03c9\u03b3\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03b7\u03bd ''\u03a4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1 \u03c4\u03bf\u03c5 \u0396\u03b9\u03ce\u03b3\u03b1'' \u03c0\u03bf\u03c5 \u03b2\u03c1\u03af\u03c3\u03ba\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u039a\u03b1\u03c3\u03c4\u03c1\u03ac\u03ba\u03b9 \u039a\u03b1\u03bb\u03b1\u03bc\u03c0\u03ac\u03ba\u03b1\u03c2 \u03b4\u03ad\u03c7\u03b8\u03b7\u03ba\u03b5 \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03bf \u0398\u03b5\u03cc\u03b4\u03c9\u03c1\u03bf\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+                        "display_url": "google.gr/amp/s/www.thet\u2026",
+                        "end": 184,
+                        "expanded_url": "https://www.google.gr/amp/s/www.thetoc.gr/koinwnia/article/basilakopoulos-auti-einai-i-taberna-pou-dextike-epithesi---egine-trend-sto-twitter/%3famp=true",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1454751731875827717/R76L7x_c?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1454751731875827717/R76L7x_c?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 161,
+                        "status": 200,
+                        "title": "\u0391\u03c5\u03c4\u03ae \u03b5\u03af\u03bd\u03b1\u03b9 \u03b7 \u03c4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1 \u03c0\u03bf\u03c5 \u03b4\u03ad\u03c7\u03c4\u03b7\u03ba\u03b5 \u03b5\u03c0\u03af\u03b8\u03b5\u03c3\u03b7 \u03bf \u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 - \u0388\u03b3\u03b9\u03bd\u03b5 trend \u03c3\u03c4\u03bf Twitter",
+                        "unwound_url": "https://www.thetoc.gr/koinwnia/article/basilakopoulos-auti-einai-i-taberna-pou-dextike-epithesi---egine-trend-sto-twitter/",
+                        "url": "https://t.co/5FalFopwnf"
+                    }
+                ]
+            },
+            "id": 1454802603188031489,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 4,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03cc\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03c3\u03c4\u03b7\u03bd \u03a4\u03b1\u03b2\u03ad\u03c1\u03bd\u03b1 \u03c4\u03bf\u03c5 #\u0396\u03b9\u03ce\u03b3\u03b1\n\u0391\u03c2 \u03bc\u03b5\u03af\u03bd\u03bf\u03c5\u03bd \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2 \u03c0\u03b5\u03bb\u03ac\u03c4\u03b5\u03c2\n\n#\u0392\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 #\u03b2\u03b1\u03c3\u03b9\u03bb\u03b1\u03ba\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\n#\u03ba\u03b1\u03bb\u03b1\u03bc\u03c0\u03b1\u03ba\u03b1\n#\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399\n#\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03b5\u03bd\u03bf\u03b9 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2\n\nhttps://t.co/5FalFopwnf\n\n#\u03bc\u03b5_\u03c4\u03b7\u03bd_\u03c4\u03b1\u03b2\u03b5\u03c1\u03bd\u03b1_\u03c4\u03bf\u03c5_\u03b6\u03b9\u03c9\u03b3\u03b1"
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2008-11-14 16:00:30+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03b9\u03ba\u03b1\u03b9\u03c1\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b1\u03c0\u03cc \u03c4\u03bf skai.gr",
+                "id": 17389650,
+                "name": "SKAI.gr",
+                "public_metrics": {
+                    "followers_count": 653454,
+                    "following_count": 54,
+                    "listed_count": 2473,
+                    "tweet_count": 360708
+                },
+                "username": "skaigr",
+                "verified": true
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 17389650,
+            "conversation_id": 1454956358424477706,
+            "created_at": "2021-10-31 23:40:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 80,
+                        "start": 73,
+                        "tag": "\u039a\u03cc\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 91,
+                        "start": 81,
+                        "tag": "\u03a4\u03b6\u03b5\u03bd_\u03a8\u03ac\u03ba\u03b9"
+                    },
+                    {
+                        "end": 96,
+                        "start": 92,
+                        "tag": "\u0397\u03a0\u0391"
+                    },
+                    {
+                        "end": 110,
+                        "start": 97,
+                        "tag": "\u039b\u03b5\u03c5\u03ba\u03cc\u03c2_\u039f\u03af\u03ba\u03bf\u03c2"
+                    },
+                    {
+                        "end": 117,
+                        "start": 111,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 131,
+                        "start": 121,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 145,
+                        "start": 132,
+                        "tag": "\u03a4\u03b6\u03bf_\u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b5\u03bd"
+                    },
+                    {
+                        "end": 155,
+                        "start": 146,
+                        "tag": "\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/world/ipa\u2026",
+                        "end": 179,
+                        "expanded_url": "https://www.skai.gr/news/world/ipa-thetiki-ston-koronoio-i-tzen-psaki?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 156,
+                        "url": "https://t.co/0Nx6GWZ3JS"
+                    }
+                ]
+            },
+            "id": 1454956358424477706,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391: \u0398\u03b5\u03c4\u03b9\u03ba\u03ae \u03c3\u03c4\u03bf\u03bd \u03bd\u03b5\u03cc \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc, \u03b7 \u03b5\u03ba\u03c0\u03c1\u03cc\u03c3\u03c9\u03c0\u03bf\u03c2 \u03c4\u03bf\u03c5 \u039b\u03b5\u03c5\u03ba\u03bf\u03cd \u039f\u03af\u03ba\u03bf\u03c5, \u03a4\u03b6\u03b5\u03bd \u03a8\u03ac\u03ba\u03b9  #\u039a\u03cc\u03c3\u03bc\u03bf\u03c2 #\u03a4\u03b6\u03b5\u03bd_\u03a8\u03ac\u03ba\u03b9 #\u0397\u03a0\u0391 #\u039b\u03b5\u03c5\u03ba\u03cc\u03c2_\u039f\u03af\u03ba\u03bf\u03c2 #Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03a4\u03b6\u03bf_\u039c\u03c0\u03ac\u03b9\u03bd\u03c4\u03b5\u03bd #\u03c0\u03b1\u03bd\u03b4\u03b7\u03bc\u03af\u03b1 https://t.co/0Nx6GWZ3JS"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1453548077978116101,
+            "created_at": "2021-10-28 02:24:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 112,
+                        "start": 105,
+                        "tag": "\u039a\u03cc\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 122,
+                        "start": 113,
+                        "tag": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1"
+                    },
+                    {
+                        "end": 129,
+                        "start": 123,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 143,
+                        "start": 133,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 154,
+                        "start": 144,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/world/vre\u2026",
+                        "end": 178,
+                        "expanded_url": "https://www.skai.gr/news/world/vretania-kseperasan-tous-140000-oi-thanatoi-apo-to-neo-koronoio?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 155,
+                        "url": "https://t.co/jaaXm1dk45"
+                    }
+                ]
+            },
+            "id": 1453548077978116101,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1: \u039e\u03b5\u03c0\u03ad\u03c1\u03b1\u03c3\u03b1\u03bd \u03c4\u03bf\u03c5\u03c2 140.000 \u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc \u03c4\u03bf \u03bd\u03ad\u03bf \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc, \u03c3\u03c4\u03b1 8,89 \u03b5\u03ba\u03b1\u03c4. \u03b1\u03bd\u03ad\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1  #\u039a\u03cc\u03c3\u03bc\u03bf\u03c2 #\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03af\u03b1 #Covid-19 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 https://t.co/jaaXm1dk45"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1453503532561309701,
+            "created_at": "2021-10-27 23:27:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 89,
+                        "start": 82,
+                        "tag": "\u039a\u03cc\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 98,
+                        "start": 90,
+                        "tag": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1"
+                    },
+                    {
+                        "end": 105,
+                        "start": 99,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 119,
+                        "start": 109,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 127,
+                        "start": 120,
+                        "tag": "\u03bd\u03b5\u03ba\u03c1\u03bf\u03af"
+                    },
+                    {
+                        "end": 139,
+                        "start": 128,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1_"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/tourkia-sxedon\u2026",
+                        "end": 167,
+                        "expanded_url": "https://www.skai.gr/tourkia-sxedon-27000-krousmata-kai-210-thanatoi-apo-covid-19-se-24-ores?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 144,
+                        "url": "https://t.co/1zzENffZXU"
+                    }
+                ]
+            },
+            "id": 1453503532561309701,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1: \u03a3\u03c7\u03b5\u03b4\u03cc\u03bd 27.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 210 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf  #\u039a\u03cc\u03c3\u03bc\u03bf\u03c2 #\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1 #Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03bd\u03b5\u03ba\u03c1\u03bf\u03af #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1_(276 https://t.co/1zzENffZXU"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1453503028984700928,
+            "created_at": "2021-10-27 23:25:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 88,
+                        "start": 81,
+                        "tag": "\u039a\u03cc\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1"
+                    },
+                    {
+                        "end": 104,
+                        "start": 98,
+                        "tag": "Covid"
+                    },
+                    {
+                        "end": 118,
+                        "start": 108,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 126,
+                        "start": 119,
+                        "tag": "\u03bd\u03b5\u03ba\u03c1\u03bf\u03af"
+                    },
+                    {
+                        "end": 138,
+                        "start": 127,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1_"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/tourkia-sxedon\u2026",
+                        "end": 166,
+                        "expanded_url": "https://www.skai.gr/tourkia-sxedon-27000-krousmata-kai-210-thanatoi-apo-covid-19-se-24-ores?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 143,
+                        "url": "https://t.co/1zzENffZXU"
+                    }
+                ]
+            },
+            "id": 1453503028984700928,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1: \u03a3\u03c7\u03b5\u03b4\u03cc\u03bd 27.000 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03ba\u03b1\u03b9 210 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03c3\u03b5 24 \u03ce\u03c1\u03b5\u03c2   #\u039a\u03cc\u03c3\u03bc\u03bf\u03c2 #\u03a4\u03bf\u03c5\u03c1\u03ba\u03af\u03b1 #Covid-19 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03bd\u03b5\u03ba\u03c1\u03bf\u03af #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1_(276 https://t.co/1zzENffZXU"
+        },
+        {
+            "author_id": 17389650,
+            "conversation_id": 1453493216569856000,
+            "created_at": "2021-10-27 22:46:02+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 91,
+                        "start": 84,
+                        "tag": "\u039a\u03cc\u03c3\u03bc\u03bf\u03c2"
+                    },
+                    {
+                        "end": 99,
+                        "start": 92,
+                        "tag": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 100,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2"
+                    },
+                    {
+                        "end": 121,
+                        "start": 111,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 130,
+                        "start": 122,
+                        "tag": "\u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9"
+                    },
+                    {
+                        "end": 137,
+                        "start": 131,
+                        "tag": "Covid"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "skai.gr/news/world/ita\u2026",
+                        "end": 164,
+                        "expanded_url": "https://www.skai.gr/news/world/italia-50-thanatoi-kai-sxedon-4600-krousmata-tou-neou-koronoiou-se-molis-24-ores?utm_source=AutoPublish&utm_medium=Twitter&utm_campaign=Social-Link",
+                        "start": 141,
+                        "url": "https://t.co/0Z9ki3ZvbQ"
+                    }
+                ]
+            },
+            "id": 1453493216569856000,
+            "public_metrics": {
+                "like_count": 2,
+                "quote_count": 0,
+                "reply_count": 1,
+                "retweet_count": 0
+            },
+            "text": "\u0399\u03c4\u03b1\u03bb\u03af\u03b1: 50 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03c3\u03c7\u03b5\u03b4\u03cc\u03bd 4.600 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03c4\u03bf\u03c5 \u03bd\u03ad\u03bf\u03c5 \u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03bf\u03cd \u03c3\u03b5 \u03bc\u03cc\u03bb\u03b9\u03c2 24 \u03ce\u03c1\u03b5\u03c2   #\u039a\u03cc\u03c3\u03bc\u03bf\u03c2 #\u0399\u03c4\u03b1\u03bb\u03af\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03ca\u03cc\u03c2 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 #Covid-19 https://t.co/0Z9ki3ZvbQ"
+        }
+    ]
+}

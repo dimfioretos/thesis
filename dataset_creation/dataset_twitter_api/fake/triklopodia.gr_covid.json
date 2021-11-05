@@ -1,0 +1,529 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 952384224,
+                "conversation_id": 1454358937713713153,
+                "created_at": "2021-10-30 08:06:06+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                            "end": 95,
+                            "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                            "start": 72,
+                            "url": "https://t.co/nyO2mU2xSd"
+                        }
+                    ]
+                },
+                "id": 1454358937713713153,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 1
+                },
+                "text": "BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d https://t.co/nyO2mU2xSd"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2020-11-01 18:16:30+00:00",
+                "description": "",
+                "id": 1322965598188539904,
+                "name": "\u0393\u03b9\u03b1\u03bd\u03bd\u03b7\u03c2 \u03a3\u03c4\u03b1\u03b8\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 7,
+                    "following_count": 10,
+                    "listed_count": 0,
+                    "tweet_count": 11991
+                },
+                "username": "EOr6WetNhNOJ8lu",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-20 13:22:22+00:00",
+                "description": "",
+                "id": 1450814539952447495,
+                "name": "dimitris samiotis",
+                "public_metrics": {
+                    "followers_count": 1,
+                    "following_count": 9,
+                    "listed_count": 0,
+                    "tweet_count": 229
+                },
+                "username": "dimitrissamiot2",
+                "verified": false
+            },
+            {
+                "created_at": "2012-04-29 16:01:02+00:00",
+                "description": "",
+                "id": 566426944,
+                "name": "\u0393\u0395\u03a9\u03a1\u0393\u0399\u039f\u03a3 \u03a4\u03a3\u0399\u03a9\u039a\u039f\u03a3",
+                "public_metrics": {
+                    "followers_count": 91,
+                    "following_count": 28,
+                    "listed_count": 1,
+                    "tweet_count": 8911
+                },
+                "username": "GeorgeTsiokos",
+                "verified": false
+            },
+            {
+                "created_at": "2020-02-12 18:07:25+00:00",
+                "description": "\u03a7\u03a1\u0399\u03a3\u03a4\u0399\u0391\u039d\u0397 \u039f\u03a1\u0398\u039f\u0394\u039f\u039e\u0397",
+                "id": 1227655327883153409,
+                "name": "SAVINAHAT",
+                "public_metrics": {
+                    "followers_count": 81,
+                    "following_count": 83,
+                    "listed_count": 0,
+                    "tweet_count": 18479
+                },
+                "username": "SAVINA28392611",
+                "verified": false
+            },
+            {
+                "created_at": "2012-11-16 20:50:01+00:00",
+                "description": "",
+                "id": 952384224,
+                "name": "MANOS AR",
+                "public_metrics": {
+                    "followers_count": 1370,
+                    "following_count": 366,
+                    "listed_count": 4,
+                    "tweet_count": 391263
+                },
+                "username": "manos_1959",
+                "verified": false
+            },
+            {
+                "created_at": "2016-04-05 12:55:26+00:00",
+                "description": "\u03a3\u03c5\u03bd\u03c4\u03b1\u03be\u03b9\u03bf\u03c5\u03c7\u03bf\u03c2 \u03ba\u03ac\u03c4\u03bf\u03b9\u03ba\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd \u03bc\u03b5 \u03bf\u03b9\u03ba\u03bf\u03bd\u03bf\u03bc\u03b9\u03ba\u03ad\u03c2 \u03c3\u03c0\u03bf\u03c5\u03b4\u03ad\u03c2. \u039a\u03b1\u03c4\u03b1\u03b3\u03c9\u03b3\u03ae \u0391\u03b8\u03ae\u03bd\u03b1.",
+                "id": 717334833257705477,
+                "name": "\u0393\u03b9\u03ac\u03bd\u03bd\u03b7\u03c2 \u03a3\u03c4\u03b1\u03b8\u03bf\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2",
+                "public_metrics": {
+                    "followers_count": 25,
+                    "following_count": 38,
+                    "listed_count": 0,
+                    "tweet_count": 7952
+                },
+                "username": "t16lRDh6Mw5IQpL",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1455541656443408390,
+            "created_at": "2021-11-02 14:25:48+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%b9%ce%b2%c\u2026",
+                        "end": 65,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%b9%ce%b2%ce%b5%cf%81%ce%bc%ce%b5%ce%ba%cf%84%ce%af%ce%bd%ce%b7-%cf%85%ce%b4%cf%81%ce%bf%ce%be%cf%85%cf%87%ce%bb%cf%89%cf%81%ce%bf%ce%ba%ce%af%ce%bd%ce%b7-%ce%ba%ce%b1%ce%b9-covid-19/",
+                        "start": 42,
+                        "url": "https://t.co/JeiRHKKqQ9"
+                    }
+                ]
+            },
+            "id": 1455541656443408390,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0399\u03b2\u03b5\u03c1\u03bc\u03b5\u03ba\u03c4\u03af\u03bd\u03b7, \u03c5\u03b4\u03c1\u03bf\u03be\u03c5\u03c7\u03bb\u03c9\u03c1\u03bf\u03ba\u03af\u03bd\u03b7 \u03ba\u03b1\u03b9 COVID-19 https://t.co/JeiRHKKqQ9"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1455113423176585220,
+            "created_at": "2021-11-01 10:04:09+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/covid-%cf%87%c\u2026",
+                        "end": 160,
+                        "expanded_url": "https://www.triklopodia.gr/covid-%cf%87%cf%89%cf%81%ce%af%cf%82-%cf%80%cf%85%cf%81%ce%bf%cf%83%ce%b2%ce%ad%cf%83%cf%84%ce%b5%cf%82-%ce%ba%ce%b1%ce%b9-%ce%b1%cf%83%cf%84%cf%85%ce%bd%ce%bf%ce%bc%ce%b9%ce%ba%ce%bf%cf%8d%cf%82/",
+                        "start": 137,
+                        "url": "https://t.co/x3lpV5qNu2"
+                    }
+                ]
+            },
+            "id": 1455113423176585220,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Covid: \u03a7\u03c9\u03c1\u03af\u03c2 \u03c0\u03c5\u03c1\u03bf\u03c3\u03b2\u03ad\u03c3\u03c4\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03ba\u03bf\u03cd\u03c2 \u03bc\u03ad\u03bd\u03bf\u03c5\u03bd \u03bf\u03b9 \u0397\u03a0\u0391, \u03bb\u03cc\u03b3\u03c9 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03bf\u03cd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03cd \u2013 26 \u03c0\u03c5\u03c1\u03bf\u03c3\u03b2\u03b5\u03c3\u03c4\u03b9\u03ba\u03bf\u03af \u03c3\u03c4\u03b1\u03b8\u03bc\u03bf\u03af \u03ad\u03ba\u03bb\u03b5\u03b9\u03c3\u03b1\u03bd \u03c3\u03c4\u03b7 \u039d\u03ad\u03b1 \u03a5\u03cc\u03c1\u03ba\u03b7 https://t.co/x3lpV5qNu2"
+        },
+        {
+            "author_id": 1450814539952447495,
+            "conversation_id": 1454972464862318597,
+            "created_at": "2021-11-01 00:44:02+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%ba%ce%ac%c\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%ba%ce%ac%cf%84%ce%b9-%ce%b4%ce%b5%ce%bd-%cf%80%ce%ac%ce%b5%ce%b9-%ce%ba%ce%b1%ce%bb%ce%ac-%ce%b7-%ce%b9%cf%81%ce%bb%ce%b1%ce%bd%ce%b4%ce%af%ce%b1-%ce%bc%ce%b5-%cf%80%ce%bf%cf%83%ce%bf/",
+                        "start": 103,
+                        "url": "https://t.co/W4XQgJj7eZ"
+                    }
+                ]
+            },
+            "id": 1454972464862318597,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03ac\u03c4\u03b9 \u03b4\u03b5\u03bd \u03c0\u03ac\u03b5\u03b9 \u03ba\u03b1\u03bb\u03ac \u2013 \u0397 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd 91% \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03b6\u03b5\u03b9 \u03c1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1 \u03b5\u03c0\u03b9\u03b4\u03b5\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 covid 19 https://t.co/W4XQgJj7eZ"
+        },
+        {
+            "author_id": 566426944,
+            "conversation_id": 1454864422552408075,
+            "created_at": "2021-10-31 17:34:43+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                        "start": 72,
+                        "url": "https://t.co/xucG1ERxhp"
+                    }
+                ]
+            },
+            "id": 1454864422552408075,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d https://t.co/xucG1ERxhp"
+        },
+        {
+            "author_id": 1227655327883153409,
+            "conversation_id": 1454834358561525761,
+            "created_at": "2021-10-31 15:35:15+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%ba%ce%ac%c\u2026",
+                        "end": 140,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%ba%ce%ac%cf%84%ce%b9-%ce%b4%ce%b5%ce%bd-%cf%80%ce%ac%ce%b5%ce%b9-%ce%ba%ce%b1%ce%bb%ce%ac-%ce%b7-%ce%b9%cf%81%ce%bb%ce%b1%ce%bd%ce%b4%ce%af%ce%b1-%ce%bc%ce%b5-%cf%80%ce%bf%cf%83%ce%bf/",
+                        "start": 117,
+                        "url": "https://t.co/Y7V8Ocrq43"
+                    }
+                ]
+            },
+            "id": 1454834358561525761,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03ac\u03c4\u03b9 \u03b4\u03b5\u03bd \u03c0\u03ac\u03b5\u03b9 \u03ba\u03b1\u03bb\u03ac \u2013 \u0397 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd 91% \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03b6\u03b5\u03b9 \u03c1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1 \u03b5\u03c0\u03b9\u03b4\u03b5\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 covid 19 - Triklopodia https://t.co/Y7V8Ocrq43"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1454736089114161152,
+            "created_at": "2021-10-31 09:04:45+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%ba%ce%ac%c\u2026",
+                        "end": 126,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%ba%ce%ac%cf%84%ce%b9-%ce%b4%ce%b5%ce%bd-%cf%80%ce%ac%ce%b5%ce%b9-%ce%ba%ce%b1%ce%bb%ce%ac-%ce%b7-%ce%b9%cf%81%ce%bb%ce%b1%ce%bd%ce%b4%ce%af%ce%b1-%ce%bc%ce%b5-%cf%80%ce%bf%cf%83%ce%bf/",
+                        "start": 103,
+                        "url": "https://t.co/0sUaat7lcm"
+                    }
+                ]
+            },
+            "id": 1454736089114161152,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03ac\u03c4\u03b9 \u03b4\u03b5\u03bd \u03c0\u03ac\u03b5\u03b9 \u03ba\u03b1\u03bb\u03ac \u2013 \u0397 \u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03af\u03b1 \u03bc\u03b5 \u03c0\u03bf\u03c3\u03bf\u03c3\u03c4\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03c9\u03bd 91% \u03b5\u03bc\u03c6\u03b1\u03bd\u03af\u03b6\u03b5\u03b9 \u03c1\u03b1\u03b3\u03b4\u03b1\u03af\u03b1 \u03b5\u03c0\u03b9\u03b4\u03b5\u03af\u03bd\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 covid 19 https://t.co/0sUaat7lcm"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1454587887853375494,
+            "created_at": "2021-10-30 23:15:52+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%b7%cf%80%c\u2026",
+                        "end": 123,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%b7%cf%80%ce%b1-19-%cf%80%ce%bf%ce%bb%ce%b9%cf%84%ce%b5%ce%af%ce%b5%cf%82-%ce%ba%ce%b1%cf%84%ce%ad%ce%b8%ce%b5%cf%83%ce%b1%ce%bd-%ce%bc%ce%b7%ce%bd%cf%8d%cf%83%ce%b5%ce%b9%cf%82-%ce%ba%ce%b1%cf%84/",
+                        "start": 100,
+                        "url": "https://t.co/XlDLEFASeK"
+                    }
+                ]
+            },
+            "id": 1454587887853375494,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0397\u03a0\u0391: 19 \u03a0\u03bf\u03bb\u03b9\u03c4\u03b5\u03af\u03b5\u03c2 \u03ba\u03b1\u03c4\u03ad\u03b8\u03b5\u03c3\u03b1\u03bd \u03bc\u03b7\u03bd\u03cd\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf\u03c5 Biden \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 Covid https://t.co/XlDLEFASeK"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1454446809103929346,
+            "created_at": "2021-10-30 13:55:16+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%b3%ce%bd%c\u2026",
+                        "end": 99,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%b3%ce%bd%cf%89%ce%bc%ce%bf%ce%b4%ce%bf%cf%84%ce%b7%cf%83%ce%b7-%ce%b3%ce%b9%ce%b1-%cf%84%ce%b1-%ce%bc%ce%b5%cf%84%cf%81%ce%b1-%ce%ba%ce%b1%cf%84%ce%b1-%cf%84%ce%b7%cf%83-%ce%bd%ce%bf%cf%83%ce%bf/",
+                        "start": 76,
+                        "url": "https://t.co/IWJbwhbYt0"
+                    }
+                ]
+            },
+            "id": 1454446809103929346,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0393\u039d\u03a9\u039c\u039f\u0394\u039f\u03a4\u0397\u03a3\u0397 \u0393\u0399\u0391 \u03a4\u0391 \u039c\u0395\u03a4\u03a1\u0391 \u039a\u0391\u03a4\u0391 \u03a4\u0397\u03a3 \u039d\u039f\u03a3\u039f\u03a5 COVID- 19   \u03a4\u03bf\u03c5 \u0393\u03b9\u03ce\u03c1\u03b3\u03bf\u03c5 \u039a\u03b1\u03c3\u03b9\u03bc\u03ac\u03c4\u03b7 \u2026. https://t.co/IWJbwhbYt0"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1454442124787732486,
+            "created_at": "2021-10-30 13:36:39+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/zero-hedge-%ce\u2026",
+                        "end": 127,
+                        "expanded_url": "https://www.triklopodia.gr/zero-hedge-%ce%b7-%cf%84%ce%b5%ce%bb%ce%b5%cf%85%cf%84%ce%b1%ce%af%ce%b1-%ce%bc%ce%b5%ce%bb%ce%ad%cf%84%ce%b7-%cf%84%ce%bf%cf%85-lancet-%ce%b5%ce%ba%ce%b8%ce%ad%cf%84%ce%b5%ce%b9-%cf%84%ce%b1-%cf%8c/",
+                        "start": 104,
+                        "url": "https://t.co/CeekFyikhp"
+                    }
+                ]
+            },
+            "id": 1454442124787732486,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "Zero Hedge : \u0397 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b1 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03c4\u03bf\u03c5 Lancet \u03b5\u03ba\u03b8\u03ad\u03c4\u03b5\u03b9 \u03c4\u03b1 \u03cc\u03c1\u03b9\u03b1 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03c9\u03bd \u03c3\u03c4\u03b7\u03bd \u03c0\u03c1\u03cc\u03bb\u03b7\u03c8\u03b7 \u03c4\u03b7\u03c2 \u03bc\u03cc\u03bb\u03c5\u03bd\u03c3\u03b7\u03c2 COVID https://t.co/CeekFyikhp"
+        },
+        {
+            "author_id": 952384224,
+            "conversation_id": 1454358974137094145,
+            "created_at": "2021-10-30 08:06:14+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 14,
+                        "id": "952384224",
+                        "start": 3,
+                        "username": "manos_1959"
+                    }
+                ],
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                        "end": 111,
+                        "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                        "start": 88,
+                        "url": "https://t.co/nyO2mU2xSd"
+                    }
+                ]
+            },
+            "id": 1454358974137094145,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1454358937713713153 type=retweeted"
+            ],
+            "text": "RT @manos_1959: BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d https://t.co/nyO2mU2xSd"
+        },
+        {
+            "author_id": 952384224,
+            "conversation_id": 1454358937713713153,
+            "created_at": "2021-10-30 08:06:06+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                        "start": 72,
+                        "url": "https://t.co/nyO2mU2xSd"
+                    }
+                ]
+            },
+            "id": 1454358937713713153,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 1
+            },
+            "text": "BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d https://t.co/nyO2mU2xSd"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1454158581616492549,
+            "created_at": "2021-10-29 18:49:57+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                        "end": 95,
+                        "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                        "start": 72,
+                        "url": "https://t.co/3vIVb4wjlV"
+                    }
+                ]
+            },
+            "id": 1454158581616492549,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d https://t.co/3vIVb4wjlV"
+        },
+        {
+            "author_id": 1227655327883153409,
+            "conversation_id": 1454157312436969473,
+            "created_at": "2021-10-29 18:44:54+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/bas_4-%cf%80%c\u2026",
+                        "end": 109,
+                        "expanded_url": "https://www.triklopodia.gr/bas_4-%cf%80%cf%81%ce%bf%cf%83%cf%84%ce%b1%cf%83%ce%af%ce%b1-%ce%b1%cf%80%cf%8c-%ce%b3%cf%81%ce%af%cf%80%ce%b7-covid-%cf%80%ce%b1%ce%bd%cf%84%ce%b5%ce%bb%cf%89%cf%83-%ce%b1%ce%ba%ce%b9%ce%bd/",
+                        "start": 86,
+                        "url": "https://t.co/pKgN2ipEFp"
+                    }
+                ]
+            },
+            "id": 1454157312436969473,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "BAS_4 : \u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03b3\u03c1\u03af\u03c0\u03b7 &amp; covid, \u03a0\u0391\u039d\u03a4\u0395\u039b\u03a9\u03a3 \u0391\u039a\u0399\u039d\u0394\u03a5\u039d\u0391 &amp; \u0394\u03a9\u03a1\u0395\u0391\u039d - Triklopodia https://t.co/pKgN2ipEFp"
+        },
+        {
+            "author_id": 1322965598188539904,
+            "conversation_id": 1453867667190919181,
+            "created_at": "2021-10-28 23:33:58+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c5\u03b3\u03ba\u03c1\u03b9\u03c4\u03b9\u03ba\u03ac \u03bf\u03b9 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b5\u03c2 \u03bc\u03b5 \u03b1\u03bd\u03c4\u03b9\u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 IV \u03ba\u03bf\u03c3\u03c4\u03af\u03b6\u03bf\u03c5\u03bd \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 2.000 $ \u03ba\u03b1\u03b9 \u03c4\u03bf \u03c0\u03b5\u03b9\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc \u03b1\u03bd\u03c4\u03b9\u03b9\u03ba\u03cc \u03c7\u03ac\u03c0\u03b9 \u03c4\u03b7\u03c2 Merck \u03c0\u03b5\u03c1\u03af\u03c0\u03bf\u03c5 700 $ \u03b1\u03bd\u03ac \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u0388\u03bd\u03b1 \u03c6\u03c4\u03b7\u03bd\u03cc \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03cc \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf \u03c4\u03c9\u03bd 4 \u03b4\u03bf\u03bb\u03b1\u03c1\u03af\u03c9\u03bd \u03c6\u03ad\u03c1\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03bc\u03b5\u03af\u03c9\u03c3\u03b5 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1 \u03c3\u03b5 \u03b5\u03bd\u03ae\u03bb\u03b9\u03ba\u03b5\u03c2 \u03c5\u03c8\u03b7\u03bb\u03bf\u03cd \u03ba\u03b9\u03bd\u03b4\u03cd\u03bd\u03bf\u03c5 \u03bc\u03b5 COVID-19\u00a0\u03c3\u03cd\u03bc\u03c6\u03c9\u03bd\u03b1 \u03bc\u03b5 \u03bc\u03b9\u03b1 \u03bc\u03b5\u03bb\u03ad\u03c4\u03b7 \u03c0\u03bf\u03c5 \u03b1\u03bd\u03b1\u03b6\u03b7\u03c4\u03bf\u03cd\u03c3\u03b5 \u03c5\u03c0\u03ac\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1 \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03b1 \u03c0\u03bf\u03c5 \u03b8\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03c3\u03b1\u03bd \u03bd\u03b1 \u03b5\u03c0\u03b1\u03bd\u03b1\u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03bf\u03cd\u03bd \u03b3\u03b9\u03b1\u2026",
+                        "display_url": "triklopodia.gr/%cf%80%ce%b9%c\u2026",
+                        "end": 145,
+                        "expanded_url": "https://www.triklopodia.gr/%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%bd%cf%84%ce%ac-%cf%83%cf%84%ce%b7-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%cf%84%ce%b7%cf%82-covid-19-%ce%ad%ce%bd%ce%b1-%cf%86%cf%84%ce%b7%ce%bd%cf%8c/",
+                        "images": [
+                            {
+                                "height": 901,
+                                "url": "https://pbs.twimg.com/news_img/1453867676258942977/UBKMvdLC?format=jpg&name=orig",
+                                "width": 1536
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453867676258942977/UBKMvdLC?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 122,
+                        "status": 200,
+                        "title": "\u03a0\u03b9\u03bf \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b7 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 Covid-19> \u0388\u03bd\u03b1 \u03c6\u03c4\u03b7\u03bd\u03cc \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03cc \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf \u03c4\u03c9\u03bd 4 \u03b4\u03bf\u03bb\u03b1\u03c1\u03af\u03c9\u03bd \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1",
+                        "unwound_url": "https://www.triklopodia.gr/%cf%80%ce%b9%ce%bf-%ce%ba%ce%bf%ce%bd%cf%84%ce%ac-%cf%83%cf%84%ce%b7-%ce%b8%ce%b5%cf%81%ce%b1%cf%80%ce%b5%ce%af%ce%b1-%cf%84%ce%b7%cf%82-covid-19-%ce%ad%ce%bd%ce%b1-%cf%86%cf%84%ce%b7%ce%bd%cf%8c/",
+                        "url": "https://t.co/n0PMF507xQ"
+                    }
+                ]
+            },
+            "id": 1453867667190919181,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u03a0\u03b9\u03bf \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b7 \u03b8\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 Covid-19&gt; \u0388\u03bd\u03b1 \u03c6\u03c4\u03b7\u03bd\u03cc \u03b1\u03bd\u03c4\u03b9\u03ba\u03b1\u03c4\u03b1\u03b8\u03bb\u03b9\u03c0\u03c4\u03b9\u03ba\u03cc \u03c6\u03ac\u03c1\u03bc\u03b1\u03ba\u03bf \u03c4\u03c9\u03bd 4 \u03b4\u03bf\u03bb\u03b1\u03c1\u03af\u03c9\u03bd \u03bc\u03b5\u03b9\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03b1\u03bd\u03ac\u03b3\u03ba\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03af\u03b1 https://t.co/n0PMF507xQ"
+        },
+        {
+            "author_id": 1450814539952447495,
+            "conversation_id": 1453844263377293318,
+            "created_at": "2021-10-28 22:00:58+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%b3%ce%b9%c\u2026",
+                        "end": 171,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%b3%ce%b9%ce%b1%cf%84%ce%af-%ce%b1%cf%80%ce%ad%cf%84%cf%85%cf%87%ce%b1%ce%bd-%ce%b7-%ce%b4%ce%b9%ce%b1%cf%87%ce%b5%ce%af%cf%81%ce%b9%cf%83%ce%b7-covid-19-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%b5%ce%bc/",
+                        "start": 148,
+                        "url": "https://t.co/auWsSuwjMX"
+                    }
+                ]
+            },
+            "id": 1453844263377293318,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0393\u03b9\u03b1\u03c4\u03af \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b1\u03bd \u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 covid 19 \u03ba\u03b1\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1; \u2013 \u0393\u03b9\u03b1\u03c4\u03af \u03ac\u03c6\u03b7\u03c3\u03b1\u03bd 10-15 \u03c4\u03b7\u03bb\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b7\u03bd \u03c4\u03cd\u03c7\u03b7 10,8 \u03b5\u03ba\u03b1\u03c4 \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd https://t.co/auWsSuwjMX"
+        },
+        {
+            "author_id": 717334833257705477,
+            "conversation_id": 1453597957463367683,
+            "created_at": "2021-10-28 05:42:14+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "display_url": "triklopodia.gr/%ce%b3%ce%b9%c\u2026",
+                        "end": 185,
+                        "expanded_url": "https://www.triklopodia.gr/%ce%b3%ce%b9%ce%b1%cf%84%ce%af-%ce%b1%cf%80%ce%ad%cf%84%cf%85%cf%87%ce%b1%ce%bd-%ce%b7-%ce%b4%ce%b9%ce%b1%cf%87%ce%b5%ce%af%cf%81%ce%b9%cf%83%ce%b7-covid-19-%ce%ba%ce%b1%ce%b9-%ce%bf-%ce%b5%ce%bc/",
+                        "start": 162,
+                        "url": "https://t.co/XISnzGwykd"
+                    }
+                ]
+            },
+            "id": 1453597957463367683,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0393\u03b9\u03b1\u03c4\u03af \u03b1\u03c0\u03ad\u03c4\u03c5\u03c7\u03b1\u03bd \u03b7 \u03b4\u03b9\u03b1\u03c7\u03b5\u03af\u03c1\u03b9\u03c3\u03b7 covid 19 \u03ba\u03b1\u03b9 \u03bf \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1; - \u0393\u03b9\u03b1\u03c4\u03af \u03ac\u03c6\u03b7\u03c3\u03b1\u03bd 10-15 \u03c4\u03b7\u03bb\u03b5\u03c0\u03b9\u03c3\u03c4\u03ae\u03bc\u03bf\u03bd\u03b5\u03c2 \u03bd\u03b1 \u03b4\u03b9\u03b1\u03c7\u03b5\u03b9\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd\u03bd \u03c4\u03b7\u03bd \u03c4\u03cd\u03c7\u03b7 10,8 \u03b5\u03ba\u03b1\u03c4 \u03c0\u03bf\u03bb\u03b9\u03c4\u03ce\u03bd - Triklopodia https://t.co/XISnzGwykd"
+        }
+    ]
+}

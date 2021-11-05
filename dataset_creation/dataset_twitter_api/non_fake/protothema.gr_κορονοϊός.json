@@ -1,0 +1,237 @@
+{
+    "includes": {
+        "users": [
+            {
+                "created_at": "2019-05-02 12:24:57+00:00",
+                "description": "\u03a0\u03b1\u03c4\u03c1\u03af\u03b4\u03b1 \u03c4\u03b7\u03c2 \u03ba\u03b1\u03c1\u03b4\u03b9\u03ac\u03c2 \u03bf \u039f\u03bb\u03c5\u03bc\u03c0\u03b9\u03b1\u03ba\u03cc\u03c2 \u03c4\u03bf\u03c5 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac, \u03c4\u03bf \u03bb\u03b9\u03bc\u03ac\u03bd\u03b9 \u03bc\u03b1\u03c2, \u03b7 \u03c0\u03c1\u03c9\u03c4\u03b5\u03cd\u03bf\u03c5\u03c3\u03b1 \u03b5\u03ba\u03b1\u03c4\u03bf\u03bc\u03bc\u03c5\u03c1\u03af\u03c9\u03bd \u03b1\u03bd\u03b8\u03c1\u03ce\u03c0\u03c9\u03bd!",
+                "id": 1123926348043567105,
+                "name": "Nikos. Iptamenos",
+                "public_metrics": {
+                    "followers_count": 326,
+                    "following_count": 393,
+                    "listed_count": 2,
+                    "tweet_count": 16700
+                },
+                "username": "NIptamenos",
+                "verified": false
+            },
+            {
+                "created_at": "2012-12-14 09:13:53+00:00",
+                "description": "",
+                "id": 1010761706,
+                "name": "THE GOD!",
+                "public_metrics": {
+                    "followers_count": 287,
+                    "following_count": 896,
+                    "listed_count": 0,
+                    "tweet_count": 5409
+                },
+                "username": "papatrouper",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 1123926348043567105,
+            "conversation_id": 1455541299877228544,
+            "created_at": "2021-11-02 14:24:23+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 58,
+                        "start": 48,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 69,
+                        "start": 59,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 77,
+                        "start": 70,
+                        "tag": "\u0395\u03bb\u03bb\u03b1\u03b4\u03b1"
+                    },
+                    {
+                        "end": 88,
+                        "start": 78,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 97,
+                        "start": 89,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1"
+                    },
+                    {
+                        "end": 110,
+                        "start": 98,
+                        "tag": "\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399"
+                    },
+                    {
+                        "end": 123,
+                        "start": 111,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2"
+                    },
+                    {
+                        "end": 136,
+                        "start": 124,
+                        "tag": "\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c5\u03bd\u03b5\u03b4\u03c1\u03b9\u03ac\u03b6\u03b5\u03b9 \u03b7 \u03b5\u03c0\u03b9\u03c4\u03c1\u03bf\u03c0\u03ae \u03c4\u03c9\u03bd \u03b5\u03bc\u03c0\u03b5\u03b9\u03c1\u03bf\u03b3\u03bd\u03c9\u03bc\u03cc\u03bd\u03c9\u03bd - \u03a3\u03c4\u03b9\u03c2 18:00 \u03bf\u03b9 \u03ad\u03ba\u03c4\u03b1\u03ba\u03c4\u03b5\u03c2 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u0398\u03ac\u03bd\u03bf \u03a0\u03bb\u03b5\u03cd\u03c1\u03b7 - \u03a4\u03b9 \u03c3\u03c5\u03b6\u03b7\u03c4\u03ae\u03b8\u03b7\u03ba\u03b5 \u03c3\u03c4\u03bf \u039c\u03ad\u03b3\u03b1\u03c1\u03bf \u039c\u03b1\u03be\u03af\u03bc\u03bf\u03c5 \u03c5\u03c0\u03cc \u03c4\u03bf\u03bd \u03c0\u03c1\u03c9\u03b8\u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc \u2013 \u0391\u03c5\u03be\u03b7\u03bc\u03ad\u03bd\u03bf testing \u03ba\u03b1\u03b9 \u03c3\u03b1\u03c1\u03c9\u03c4\u03b9\u03ba\u03bf\u03cd\u03c2 \u03b5\u03bb\u03ad\u03b3\u03c7\u03bf\u03c5\u03c2 \u03c0\u03b9\u03c3\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03b5\u03b9\u03c3\u03b7\u03b3\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03bf\u03b9 \u03b5\u03b9\u03b4\u03b9\u03ba\u03bf\u03af - \u00ab\u039c\u03ac\u03c7\u03b7\u00bb \u03c3\u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1",
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 162,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1177401/koronoios-neo-arnitiko-rekor-me-6700-krousmata-simera-erhodai-metra-kai-periorismoi/",
+                        "images": [
+                            {
+                                "height": 360,
+                                "url": "https://pbs.twimg.com/news_img/1455525248242171904/2B0VuORX?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455525248242171904/2B0VuORX?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 139,
+                        "status": 200,
+                        "title": "\u039a\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc\u03c2: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03ad\u03bd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u0388\u03c1\u03c7\u03bf\u03bd\u03c4\u03b1\u03b9 \u03bc\u03ad\u03c4\u03c1\u03b1 \u03ba\u03b1\u03b9 \u03c0\u03b5\u03c1\u03b9\u03bf\u03c1\u03b9\u03c3\u03bc\u03bf\u03af",
+                        "unwound_url": "https://www.protothema.gr/greece/article/1177401/koronoios-neo-arnitiko-rekor-me-6700-krousmata-simera-erhodai-metra-kai-periorismoi/",
+                        "url": "https://t.co/E30ZKt766W"
+                    }
+                ]
+            },
+            "id": 1455541299877228544,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039d\u03ad\u03bf \u03c1\u03b5\u03ba\u03cc\u03c1 \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd, \u03ba\u03bf\u03bd\u03c4\u03ac \u03c3\u03c4\u03b1 7.000 \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1... #\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u0395\u03bb\u03bb\u03b1\u03b4\u03b1 #\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1 #\u0395\u039c\u0392\u039f\u039b\u0399\u0391\u03a3\u039c\u039f\u0399 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 #\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03bf\u03af \n\nhttps://t.co/E30ZKt766W"
+        },
+        {
+            "author_id": 1010761706,
+            "conversation_id": 1455512921308598275,
+            "created_at": "2021-11-02 12:31:37+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 105,
+                        "start": 97,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 116,
+                        "start": 106,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 133,
+                        "start": 117,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 148,
+                        "start": 134,
+                        "tag": "taverna_zioga"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0397 \u03b5\u03b9\u03c1\u03c9\u03bd\u03b9\u03ba\u03ae \u03b1\u03bd\u03ac\u03c1\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03b7\u03b8\u03bf\u03c0\u03bf\u03b9\u03bf\u03cd \u03bc\u03b5 \u03b1\u03c6\u03bf\u03c1\u03bc\u03ae \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03b8\u03ad\u03c3\u03b5\u03b9\u03c2 \u03ba\u03b1\u03c4\u03ac \u03c4\u03c9\u03bd \u03b5\u03c0\u03b9\u03c3\u03c4\u03b7\u03bc\u03cc\u03bd\u03c9\u03bd",
+                        "display_url": "protothema.gr/life-style/art\u2026",
+                        "end": 96,
+                        "expanded_url": "https://www.protothema.gr/life-style/article/1177362/kafetzopoulos-kata-arniton-pou-pate-re-ptuhiouhoi-re-aristo-tenekedes/#.YYEvfTMAB9g.twitter",
+                        "images": [
+                            {
+                                "height": 360,
+                                "url": "https://pbs.twimg.com/news_img/1455508694800732165/GAcW6ux7?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455508694800732165/GAcW6ux7?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 73,
+                        "status": 200,
+                        "title": "\u039a\u03b1\u03c6\u03b5\u03c4\u03b6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u03ba\u03b1\u03c4\u03ac \u03b1\u03c1\u03bd\u03b7\u03c4\u03ce\u03bd: \u03a0\u03bf\u03cd \u03c0\u03ac\u03c4\u03b5 \u03c1\u03b5 \u03c0\u03c4\u03c5\u03c7\u03b9\u03bf\u03cd\u03c7\u03bf\u03b9; \u03a1\u03b5 \u03ac\u03c1\u03b9\u03c3\u03c4\u03bf-\u03c4\u03b5\u03bd\u03b5\u03ba\u03ad\u03b4\u03b5\u03c2;",
+                        "unwound_url": "https://www.protothema.gr/life-style/article/1177362/kafetzopoulos-kata-arniton-pou-pate-re-ptuhiouhoi-re-aristo-tenekedes/#.YYEvfTMAB9g.twitter",
+                        "url": "https://t.co/AcGS4TQXtd"
+                    }
+                ]
+            },
+            "id": 1455512921308598275,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039a\u03b1\u03c6\u03b5\u03c4\u03b6\u03cc\u03c0\u03bf\u03c5\u03bb\u03bf\u03c2 \u03ba\u03b1\u03c4\u03ac \u03b1\u03c1\u03bd\u03b7\u03c4\u03ce\u03bd: \u03a0\u03bf\u03cd \u03c0\u03ac\u03c4\u03b5 \u03c1\u03b5 \u03c0\u03c4\u03c5\u03c7\u03b9\u03bf\u03cd\u03c7\u03bf\u03b9; \u03a1\u03b5 \u03ac\u03c1\u03b9\u03c3\u03c4\u03bf-\u03c4\u03b5\u03bd\u03b5\u03ba\u03ad\u03b4\u03b5\u03c2; https://t.co/AcGS4TQXtd #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #taverna_zioga"
+        },
+        {
+            "author_id": 1010761706,
+            "conversation_id": 1455307555736068104,
+            "created_at": "2021-11-01 22:55:34+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 142,
+                        "start": 126,
+                        "tag": "\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2"
+                    },
+                    {
+                        "end": 151,
+                        "start": 143,
+                        "tag": "\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf"
+                    },
+                    {
+                        "end": 162,
+                        "start": 152,
+                        "tag": "\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03b5 \u03c3\u03bf\u03b2\u03b1\u03c1\u03ae \u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03bd\u03b1 \u03bd\u03bf\u03c3\u03b7\u03bb\u03b5\u03cd\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03bf \u0399\u03c0\u03c0\u03bf\u03ba\u03c1\u03ac\u03c4\u03b5\u03b9\u03bf \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2 \u03b7 \u03b4\u03b5\u03cd\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03b7\u00a0 \u03ad\u03b3\u03ba\u03c5\u03bf\u03c2, \u03c0\u03bf\u03c5 \u03b5\u03af\u03bd\u03b1\u03b9 35 \u03c7\u03c1\u03cc\u03bd\u03c9\u03bd",
+                        "display_url": "protothema.gr/greece/article\u2026",
+                        "end": 125,
+                        "expanded_url": "https://www.protothema.gr/greece/article/1177148/kaisariki-se-duo-anemvoliastes-eguous-sti-thessaloniki-i-38hroni-ehase-ti-mahi-me-ti-zoi-asfali-ta-vrefi/#.YYBwUTUJZQE.twitter",
+                        "images": [
+                            {
+                                "height": 360,
+                                "url": "https://pbs.twimg.com/news_img/1455234707654860800/Ds2AxXyl?format=jpg&name=orig",
+                                "width": 640
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455234707654860800/Ds2AxXyl?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 102,
+                        "status": 200,
+                        "title": "\u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03ba\u03ae \u03c3\u03b5 \u03b4\u03cd\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03b5\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 \u03c3\u03c4\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7 - \u0397 \u03bc\u03af\u03b1 \u03ad\u03c7\u03b1\u03c3\u03b5 \u03ad\u03c7\u03b1\u03c3\u03b5 \u03c4\u03b7 \u03bc\u03ac\u03c7\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b6\u03c9\u03ae, \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03c4\u03b1 \u03b2\u03c1\u03ad\u03c6\u03b7",
+                        "unwound_url": "https://www.protothema.gr/greece/article/1177148/kaisariki-se-duo-anemvoliastes-eguous-sti-thessaloniki-i-38hroni-ehase-ti-mahi-me-ti-zoi-asfali-ta-vrefi/#.YYBwUTUJZQE.twitter",
+                        "url": "https://t.co/qQoCDCetDC"
+                    }
+                ]
+            },
+            "id": 1455307555736068104,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7: \u039a\u03b1\u03b9\u03c3\u03b1\u03c1\u03b9\u03ba\u03ae \u03c3\u03b5 \u03b4\u03cd\u03bf \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03b5\u03c2 \u03b5\u03b3\u03ba\u03cd\u03bf\u03c5\u03c2 - \u0397 \u03bc\u03af\u03b1 \u03ad\u03c7\u03b1\u03c3\u03b5 \u03c4\u03b7 \u03bc\u03ac\u03c7\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03b6\u03c9\u03ae, \u03b1\u03c3\u03c6\u03b1\u03bb\u03ae \u03c4\u03b1 \u03b2\u03c1\u03ad\u03c6\u03b7 https://t.co/qQoCDCetDC #\u03b1\u03bd\u03c4\u03b9\u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03c2 #\u0395\u03bc\u03b2\u03cc\u03bb\u03b9\u03bf #\u03ba\u03bf\u03c1\u03bf\u03bd\u03bf\u03b9\u03bf\u03c2"
+        }
+    ]
+}

@@ -1,0 +1,577 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 404009087,
+                "conversation_id": 1455785015766360071,
+                "created_at": "2021-11-03 06:32:49+00:00",
+                "entities": {
+                    "urls": [
+                        {
+                            "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                            "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                            "end": 83,
+                            "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                            "images": [
+                                {
+                                    "height": 630,
+                                    "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 60,
+                            "status": 200,
+                            "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                            "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                            "url": "https://t.co/opMpyYMmXP"
+                        }
+                    ]
+                },
+                "id": 1455785015766360071,
+                "public_metrics": {
+                    "like_count": 7,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 5
+                },
+                "text": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2014-08-04 16:02:14+00:00",
+                "description": "\u0397 \u03b5\u03c0\u03af\u03c3\u03b7\u03bc\u03b7 \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03b7\u03c2 HuffPost. Blogs, \u03a0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae, \u039a\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1, \u0394\u03b9\u03b5\u03b8\u03bd\u03ad\u03c2, \u03a4\u03b5\u03c7\u03bd\u03bf\u03bb\u03bf\u03b3\u03af\u03b1, Viral.",
+                "id": 2706857144,
+                "name": "HuffPost Greece",
+                "public_metrics": {
+                    "followers_count": 38517,
+                    "following_count": 782,
+                    "listed_count": 479,
+                    "tweet_count": 127138
+                },
+                "username": "HuffPostGreece",
+                "verified": true
+            },
+            {
+                "created_at": "2021-04-15 11:22:16+00:00",
+                "description": "Geologist https://t.co/sa4GtWykQx\nOne life .Live it !",
+                "id": 1382655215535599620,
+                "name": "George Vichos",
+                "public_metrics": {
+                    "followers_count": 254,
+                    "following_count": 320,
+                    "listed_count": 0,
+                    "tweet_count": 17442
+                },
+                "username": "GeorgiosVichos5",
+                "verified": false
+            },
+            {
+                "created_at": "2011-11-03 09:41:58+00:00",
+                "description": "Meteorologist -Director of National Meteorological Center- \nHellenic National Meteorological Service (HNMS)",
+                "id": 404009087,
+                "name": "Kolydas\u03a4",
+                "public_metrics": {
+                    "followers_count": 8170,
+                    "following_count": 1747,
+                    "listed_count": 0,
+                    "tweet_count": 11014
+                },
+                "username": "KolydasT",
+                "verified": false
+            },
+            {
+                "created_at": "2015-03-12 15:21:59+00:00",
+                "description": "",
+                "id": 3089104577,
+                "name": "Yannis Dionysiou",
+                "public_metrics": {
+                    "followers_count": 299,
+                    "following_count": 504,
+                    "listed_count": 0,
+                    "tweet_count": 2159
+                },
+                "username": "YannisDionysiou",
+                "verified": false
+            },
+            {
+                "created_at": "2018-11-10 12:26:41+00:00",
+                "description": "\u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c2",
+                "id": 1061233680570556418,
+                "name": "Astero Xristodoulidou",
+                "public_metrics": {
+                    "followers_count": 1357,
+                    "following_count": 790,
+                    "listed_count": 10,
+                    "tweet_count": 314076
+                },
+                "username": "AXristodoulidou",
+                "verified": false
+            },
+            {
+                "created_at": "2011-10-05 18:11:56+00:00",
+                "description": "Engineering is my lawful husband, and literature/theatre/period (k)dramas are my lovers. When I get fed up with the former, I spend the night with the others.",
+                "id": 385553504,
+                "name": "Ev\u0430 \u041c\u0430r. \ud83c\udf10\ud83c\udf09",
+                "public_metrics": {
+                    "followers_count": 254,
+                    "following_count": 378,
+                    "listed_count": 1,
+                    "tweet_count": 7657
+                },
+                "username": "ev_m_",
+                "verified": false
+            },
+            {
+                "created_at": "2011-02-26 11:46:28+00:00",
+                "description": "https://t.co/o3yTYKkVnN",
+                "id": 257877238,
+                "name": "The painter\ud83d\udfe2\u26aa\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\u2618\ufe0f\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c\ud83d\udc9c",
+                "public_metrics": {
+                    "followers_count": 3356,
+                    "following_count": 3277,
+                    "listed_count": 7,
+                    "tweet_count": 130046
+                },
+                "username": "thepainter111",
+                "verified": false
+            },
+            {
+                "created_at": "2012-08-14 17:42:32+00:00",
+                "description": "Winter is here..... yesterday...",
+                "id": 757573789,
+                "name": "Jorge Catalano",
+                "public_metrics": {
+                    "followers_count": 145,
+                    "following_count": 215,
+                    "listed_count": 4,
+                    "tweet_count": 10480
+                },
+                "username": "JorgeCatalano2",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455794761554665472,
+            "created_at": "2021-11-03 07:11:33+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 84,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455794762355773440/Smethadp?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455794762355773440/Smethadp?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 61,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58",
+                        "url": "https://t.co/EY93FIabHe"
+                    }
+                ]
+            },
+            "id": 1455794761554665472,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7\n\nhttps://t.co/EY93FIabHe"
+        },
+        {
+            "author_id": 1382655215535599620,
+            "conversation_id": 1455789576161738758,
+            "created_at": "2021-11-03 06:50:56+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "404009087",
+                        "start": 3,
+                        "username": "KolydasT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455789576161738758,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455785015766360071 type=retweeted"
+            ],
+            "text": "RT @KolydasT: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 3089104577,
+            "conversation_id": 1455789136149950464,
+            "created_at": "2021-11-03 06:49:11+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "404009087",
+                        "start": 3,
+                        "username": "KolydasT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455789136149950464,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455785015766360071 type=retweeted"
+            ],
+            "text": "RT @KolydasT: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 1061233680570556418,
+            "conversation_id": 1455785397649350668,
+            "created_at": "2021-11-03 06:34:20+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "404009087",
+                        "start": 3,
+                        "username": "KolydasT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455785397649350668,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455785015766360071 type=retweeted"
+            ],
+            "text": "RT @KolydasT: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 385553504,
+            "conversation_id": 1455785254829137926,
+            "created_at": "2021-11-03 06:33:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "404009087",
+                        "start": 3,
+                        "username": "KolydasT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455785254829137926,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455785015766360071 type=retweeted"
+            ],
+            "text": "RT @KolydasT: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 257877238,
+            "conversation_id": 1455785135341637642,
+            "created_at": "2021-11-03 06:33:18+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 12,
+                        "id": "404009087",
+                        "start": 3,
+                        "username": "KolydasT"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 97,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 74,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455785135341637642,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455785015766360071 type=retweeted"
+            ],
+            "text": "RT @KolydasT: \u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 404009087,
+            "conversation_id": 1455785015766360071,
+            "created_at": "2021-11-03 06:32:49+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 60,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/opMpyYMmXP"
+                    }
+                ]
+            },
+            "id": 1455785015766360071,
+            "public_metrics": {
+                "like_count": 7,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/opMpyYMmXP"
+        },
+        {
+            "author_id": 757573789,
+            "conversation_id": 1455781788119445508,
+            "created_at": "2021-11-03 06:20:00+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a6\u03b9\u03bb\u03b9\u03ba\u03ae \u03c5\u03c0\u03b5\u03bd\u03b8\u03cd\u03bc\u03b9\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c2 \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03c5\u03c2: \u038c\u03bb\u03bf\u03b9 \u03af\u03c3\u03bf\u03b9 \u03ba\u03b1\u03b9 \u03cc\u03bb\u03bf\u03b9 \u03c5\u03c0\u03cc\u03c7\u03c1\u03b5\u03bf\u03b9 \u03ad\u03bd\u03b1\u03bd\u03c4\u03b9 \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 83,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455781788429783043/_hBzq5hG?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 60,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-einai-epiloye-e-efarmoye-toe-nomoe-epochreose_gr_61817aa6e4b055e47d725d58?ncid=other_twitter_cooo9wqtham&utm_campaign=share_twitter",
+                        "url": "https://t.co/q8xyyag7it"
+                    }
+                ]
+            },
+            "id": 1455781788119445508,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae, \u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 \u03bd\u03cc\u03bc\u03bf\u03c5 \u03c5\u03c0\u03bf\u03c7\u03c1\u03ad\u03c9\u03c3\u03b7 https://t.co/q8xyyag7it"
+        },
+        {
+            "author_id": 2706857144,
+            "conversation_id": 1455210671013048322,
+            "created_at": "2021-11-01 16:30:35+00:00",
+            "entities": {
+                "urls": [
+                    {
+                        "description": "\u03a4\u03b9 \u03b9\u03c3\u03c7\u03cd\u03b5\u03b9 \u03bc\u03b5 \u03c4\u03b7\u03bd \u00ab\u03c5\u03b2\u03c1\u03b9\u03b4\u03b9\u03ba\u03ae\u00bb \u03b1\u03bd\u03bf\u03c3\u03af\u03b1, \u03c3\u03c4\u03bf \u03c4\u03c1\u03b1\u03c0\u03ad\u03b6\u03b9 \u03b7 \u03c4\u03c1\u03af\u03c4\u03b7 \u03b4\u03cc\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03ba\u03ac\u03c4\u03c9 \u03c4\u03c9\u03bd 50 \u03b5\u03c4\u03ce\u03bd.",
+                        "display_url": "huffingtonpost.gr/entry/o-emvoli\u2026",
+                        "end": 86,
+                        "expanded_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-prosferei-ischerotere-anosia-apo-te-fesike-nosese_gr_6180111be4b03072d706cbe3",
+                        "images": [
+                            {
+                                "height": 630,
+                                "url": "https://pbs.twimg.com/news_img/1455210672376188936/7b2Qt62Z?format=jpg&name=orig",
+                                "width": 1199
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455210672376188936/7b2Qt62Z?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 63,
+                        "status": 200,
+                        "title": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7",
+                        "unwound_url": "https://www.huffingtonpost.gr/entry/o-emvoliasmos-prosferei-ischerotere-anosia-apo-te-fesike-nosese_gr_6180111be4b03072d706cbe3",
+                        "url": "https://t.co/E5tnET4uSt"
+                    }
+                ]
+            },
+            "id": 1455210671013048322,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "\u039f \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03b5\u03b9 \u03b9\u03c3\u03c7\u03c5\u03c1\u03cc\u03c4\u03b5\u03c1\u03b7 \u03b1\u03bd\u03bf\u03c3\u03af\u03b1 \u03b1\u03c0\u03cc \u03c4\u03b7 \u03c6\u03c5\u03c3\u03b9\u03ba\u03ae \u03bd\u03cc\u03c3\u03b7\u03c3\u03b7\nhttps://t.co/E5tnET4uSt"
+        }
+    ]
+}

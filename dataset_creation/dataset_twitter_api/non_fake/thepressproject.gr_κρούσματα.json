@@ -1,0 +1,959 @@
+{
+    "includes": {
+        "tweets": [
+            {
+                "author_id": 137041926,
+                "conversation_id": 1455576805016997903,
+                "created_at": "2021-11-02 16:45:28+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 72,
+                            "id": "137041926",
+                            "start": 56,
+                            "username": "ThePressProject"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                            "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                            "end": 96,
+                            "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                            "images": [
+                                {
+                                    "height": 800,
+                                    "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                    "width": 1200
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 73,
+                            "status": 200,
+                            "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                            "url": "https://t.co/CjLCoajPBT"
+                        }
+                    ]
+                },
+                "id": 1455576805016997903,
+                "public_metrics": {
+                    "like_count": 6,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 5
+                },
+                "text": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+            },
+            {
+                "author_id": 1434627215744974865,
+                "conversation_id": 1455471374408077315,
+                "created_at": "2021-11-02 09:46:31+00:00",
+                "entities": {
+                    "hashtags": [
+                        {
+                            "end": 254,
+                            "start": 244,
+                            "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1\u03c2 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1\u03c2 \u0395\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03c9\u03bd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd (\u03a0\u039f\u0395\u0394\u0397\u039d), \u03ba. \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c2. \u0391\u03c1\u03ba\u03b5\u03c4\u03bf\u03af \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u03bf\u03bd\u03ac\u03b4\u03b1\u03c2 \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1\u2026",
+                            "display_url": "thepressproject.gr/poedin-diasoli\u2026",
+                            "end": 279,
+                            "expanded_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                            "images": [
+                                {
+                                    "height": 399,
+                                    "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=orig",
+                                    "width": 638
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 256,
+                            "status": 200,
+                            "title": "\u03a0\u039f\u0395\u0394\u0397\u039d: \u0394\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398 - \u00ab\u03a0\u03b5\u03b8\u03b1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf 70%\u00bb - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                            "url": "https://t.co/Ru3T2NBhpK"
+                        }
+                    ]
+                },
+                "id": 1455471374408077315,
+                "public_metrics": {
+                    "like_count": 1,
+                    "quote_count": 0,
+                    "reply_count": 0,
+                    "retweet_count": 2
+                },
+                "text": "\u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03bc\u03b7 COVID-19 \u03c0\u03b1\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2... \u039c\u03b7\u03bd \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af\u03c4\u03b5 \u03b3\u03bc\u03c4.\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1\u03be\u03b9\u03ba\u03cc\u03c2... \n#\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/Ru3T2NBhpK"
+            },
+            {
+                "author_id": 137041926,
+                "conversation_id": 1453376550116724741,
+                "created_at": "2021-10-27 15:02:26+00:00",
+                "entities": {
+                    "mentions": [
+                        {
+                            "end": 104,
+                            "id": "137041926",
+                            "start": 88,
+                            "username": "ThePressProject"
+                        }
+                    ],
+                    "urls": [
+                        {
+                            "description": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2, \u03bc\u03b5 \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 63 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 (\u03cc\u03c3\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 19/5). \u03a0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1, \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd 3.651\u2026",
+                            "display_url": "thepressproject.gr/akomi-63-sybol\u2026",
+                            "end": 128,
+                            "expanded_url": "https://thepressproject.gr/akomi-63-sybolites-mas-echasan-ti-zoi-tous-apo-koronoio-simera-sta-3-651-ta-krousmata/",
+                            "images": [
+                                {
+                                    "height": 381,
+                                    "url": "https://pbs.twimg.com/news_img/1453376557284724743/b3kFqYsF?format=jpg&name=orig",
+                                    "width": 660
+                                },
+                                {
+                                    "height": 150,
+                                    "url": "https://pbs.twimg.com/news_img/1453376557284724743/b3kFqYsF?format=jpg&name=150x150",
+                                    "width": 150
+                                }
+                            ],
+                            "start": 105,
+                            "status": 200,
+                            "title": "\u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                            "unwound_url": "https://thepressproject.gr/akomi-63-sybolites-mas-echasan-ti-zoi-tous-apo-koronoio-simera-sta-3-651-ta-krousmata/",
+                            "url": "https://t.co/aQPz47CJ1Q"
+                        }
+                    ]
+                },
+                "id": 1453376550116724741,
+                "public_metrics": {
+                    "like_count": 4,
+                    "quote_count": 2,
+                    "reply_count": 0,
+                    "retweet_count": 3
+                },
+                "text": "\u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u2013 \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 @ThePressProject https://t.co/aQPz47CJ1Q"
+            }
+        ],
+        "users": [
+            {
+                "created_at": "2010-08-17 07:21:47+00:00",
+                "description": "\ud83d\udc97",
+                "id": 179423854,
+                "name": "Themis Maglis",
+                "public_metrics": {
+                    "followers_count": 4116,
+                    "following_count": 2476,
+                    "listed_count": 82,
+                    "tweet_count": 350286
+                },
+                "username": "ThemisMaglis",
+                "verified": false
+            },
+            {
+                "created_at": "2010-04-25 16:23:53+00:00",
+                "description": "\u039f \u03c3\u03c7\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b9\u03ba\u03cc\u03c2 \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc\u03c2 \u03c4\u03bf\u03c5 TPP (\u03b4\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc\u03c2 \u03bf @tppfeed) - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0393\u03bd\u03ce\u03bc\u03b5\u03c2, \u03a3\u03ac\u03c4\u03b9\u03c1\u03b1, \u03c4\u03b1 \u03c5\u03c0\u03bf\u03b3\u03c1\u03ac\u03c6\u03bf\u03c5\u03bc\u03b5 \u03cc\u03bb\u03b1...",
+                "id": 137041926,
+                "name": "ThePressProject",
+                "public_metrics": {
+                    "followers_count": 94553,
+                    "following_count": 502,
+                    "listed_count": 1159,
+                    "tweet_count": 146507
+                },
+                "username": "ThePressProject",
+                "verified": false
+            },
+            {
+                "created_at": "2021-10-09 13:15:13+00:00",
+                "description": "@teregamwt",
+                "id": 1446826489144545285,
+                "name": "\u039c\u03c0\u03ac\u03bf\u03c5\u03bd\u03c4\u03b9",
+                "public_metrics": {
+                    "followers_count": 1119,
+                    "following_count": 2973,
+                    "listed_count": 2,
+                    "tweet_count": 493
+                },
+                "username": "teregamwt2",
+                "verified": false
+            },
+            {
+                "created_at": "2015-02-18 17:59:22+00:00",
+                "description": "Tread softly because you tread on my dreams.\n\n\u03a0\u03ac\u03c4\u03b1 \u03b5\u03bb\u03b1\u03c6\u03c1\u03ac, \u03b3\u03b9\u03b1\u03c4\u03af \u03c0\u03b1\u03c4\u03ac\u03c2 \u03b5\u03c0\u03ac\u03bd\u03c9 \u03c3\u03c4\u03b1 \u03cc\u03bd\u03b5\u03b9\u03c1\u03ac \u03bc\u03bf\u03c5.",
+                "id": 3044675741,
+                "name": "ALI",
+                "public_metrics": {
+                    "followers_count": 1885,
+                    "following_count": 1764,
+                    "listed_count": 72,
+                    "tweet_count": 153904
+                },
+                "username": "C12H22O12",
+                "verified": false
+            },
+            {
+                "created_at": "2016-05-04 14:59:07+00:00",
+                "description": "Carpe diem, quam minimum credula postero\u2026",
+                "id": 727875205926932480,
+                "name": "Elias_Kounelis \ud83c\uddec\ud83c\uddf7 \ud83c\udde8\ud83c\udde6",
+                "public_metrics": {
+                    "followers_count": 553,
+                    "following_count": 1013,
+                    "listed_count": 6,
+                    "tweet_count": 22595
+                },
+                "username": "eliaskoneli",
+                "verified": false
+            },
+            {
+                "created_at": "2013-01-07 16:41:53+00:00",
+                "description": "Photojournalist for @efenoticias. Covering news, politics and sports. Based in Madrid, Spain.",
+                "id": 1068727382,
+                "name": "Giannis Triantafyllidis",
+                "public_metrics": {
+                    "followers_count": 637,
+                    "following_count": 1397,
+                    "listed_count": 9,
+                    "tweet_count": 48193
+                },
+                "username": "giannis30fyl",
+                "verified": false
+            },
+            {
+                "created_at": "2012-06-07 11:03:26+00:00",
+                "description": "\u03a3\u03b9\u03b3\u03ac \u03bc\u03b7 \u03c6\u03c4\u03b9\u03ac\u03be\u03c9 \u03b2\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc, \u03bd\u03ac \u03c7\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03c3\u03c7\u03bf\u03bb\u03b9\u03ac\u03b6\u03b5\u03c4\u03b5 ..... \u038c\u03c3\u03c4\u03b9\u03c2 \u03b8\u03ad\u03bb\u03b5\u03b9, follow me \ud83e\udd21......",
+                "id": 601776175,
+                "name": "Stella \u2652",
+                "public_metrics": {
+                    "followers_count": 833,
+                    "following_count": 717,
+                    "listed_count": 3,
+                    "tweet_count": 9176
+                },
+                "username": "stellapet2",
+                "verified": false
+            },
+            {
+                "created_at": "2021-09-05 21:19:37+00:00",
+                "description": "\u03cc\u03bb\u03b1 \u03cc\u03c3\u03b1 \u03b1\u03c1\u03bd\u03b7\u03b8\u03ae\u03ba\u03b1\u03bc\u03b5, \u03b1\u03c5\u03c4\u03cc \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03bf \u03c0\u03b5\u03c0\u03c1\u03c9\u03bc\u03ad\u03bd\u03bf \u03bc\u03b1\u03c2...",
+                "id": 1434627215744974865,
+                "name": "Amor y Rabia",
+                "public_metrics": {
+                    "followers_count": 43,
+                    "following_count": 127,
+                    "listed_count": 0,
+                    "tweet_count": 290
+                },
+                "username": "AmoryRabia1",
+                "verified": false
+            },
+            {
+                "created_at": "2020-10-02 12:09:38+00:00",
+                "description": "feminist af #metooGR \n\ud83d\udc8e\ud83d\udc85\n*Can you guess what every woman's worst nightmare is?* \n*\u0386\u03b2\u03c5\u03c3\u03c3\u03bf\u03c2 \u03b7 \u03c8\u03c5\u03c7\u03ae \u03c4\u03bf\u03c5 \u03bc\u03b1\u03bb\u03ac\u03ba\u03b1*",
+                "id": 1312001669052407808,
+                "name": "Trash_is_in_the_heart",
+                "public_metrics": {
+                    "followers_count": 417,
+                    "following_count": 465,
+                    "listed_count": 0,
+                    "tweet_count": 12091
+                },
+                "username": "Trashisinthehe1",
+                "verified": false
+            },
+            {
+                "created_at": "2021-03-30 12:01:06+00:00",
+                "description": "\u039c' \u03ad\u03c7\u03bf\u03c5\u03bd \u03c1\u03af\u03be\u03b5\u03b9 \u03b4\u03cd\u03bf \u03c6\u03bf\u03c1\u03ad\u03c2. \n\u03a3\u03c5\u03bd\u03b5\u03c7\u03af\u03b6\u03c9 \u03b4\u03c5\u03bd\u03b1\u03bc\u03b9\u03ba\u03ac \u03c4\u03b7\u03bd \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03af\u03b1 \u03bc\u03bf\u03c5. \n\u0393\u03b9\u03b1 \u03cc\u03c3\u03bf\u03c5\u03c2 \u03b1\u03bd\u03b1\u03c1\u03c9\u03c4\u03b9\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03ae\u03bc\u03bf\u03c5\u03bd \u03bf @LeftSymptomatic \u03ba\u03b1\u03b9 \u03bf @AvantiLeft. \n\u03a3\u03c5\u03bc\u03c0\u03c4\u03c9\u03bc\u03b1\u03c4\u03b9\u03ba\u03cc\u03c2 \u0391\u03c1\u03b9\u03c3\u03c4\u03b5\u03c1\u03cc\u03c2",
+                "id": 1376867015059775488,
+                "name": "GreekLeft\u2618\ufe0f",
+                "public_metrics": {
+                    "followers_count": 908,
+                    "following_count": 2209,
+                    "listed_count": 1,
+                    "tweet_count": 22572
+                },
+                "username": "GreekLeft",
+                "verified": false
+            },
+            {
+                "created_at": "2015-06-12 05:37:47+00:00",
+                "description": "",
+                "id": 3320375716,
+                "name": "\u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2 \u039a\u03b1\u03bb\u03bb\u03b9\u03ce\u03c1\u03b1\u03c2",
+                "public_metrics": {
+                    "followers_count": 1694,
+                    "following_count": 632,
+                    "listed_count": 20,
+                    "tweet_count": 22615
+                },
+                "username": "AKallioras",
+                "verified": false
+            },
+            {
+                "created_at": "2018-10-01 07:45:45+00:00",
+                "description": "\ud83c\udfac New media Director/Executive Producer\n\ud83c\udf93 Cultural Technology and Communication at University of the Aegean",
+                "id": 1046667469073653760,
+                "name": "Leonidas Kouliavetas",
+                "public_metrics": {
+                    "followers_count": 452,
+                    "following_count": 760,
+                    "listed_count": 1,
+                    "tweet_count": 20418
+                },
+                "username": "leo_kouliavetas",
+                "verified": false
+            }
+        ]
+    },
+    "tweets": [
+        {
+            "author_id": 179423854,
+            "conversation_id": 1455603900791365632,
+            "created_at": "2021-11-02 18:33:08+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 93,
+                        "id": "137041926",
+                        "start": 77,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 117,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455603900791365632,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576805016997903 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 1446826489144545285,
+            "conversation_id": 1455583749106712582,
+            "created_at": "2021-11-02 17:13:03+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 93,
+                        "id": "137041926",
+                        "start": 77,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 117,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455583749106712582,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576805016997903 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 3044675741,
+            "conversation_id": 1455580670084911105,
+            "created_at": "2021-11-02 17:00:49+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 93,
+                        "id": "137041926",
+                        "start": 77,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 117,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455580670084911105,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576805016997903 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 727875205926932480,
+            "conversation_id": 1455579373445201924,
+            "created_at": "2021-11-02 16:55:40+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 93,
+                        "id": "137041926",
+                        "start": 77,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 117,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455579373445201924,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576805016997903 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 1068727382,
+            "conversation_id": 1455577093903945736,
+            "created_at": "2021-11-02 16:46:37+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 93,
+                        "id": "137041926",
+                        "start": 77,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 117,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 94,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455577093903945736,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455576805016997903 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 137041926,
+            "conversation_id": 1455576805016997903,
+            "created_at": "2021-11-02 16:45:28+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 72,
+                        "id": "137041926",
+                        "start": 56,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u03a3\u03c4\u03bf\u03c5\u03c2 434 \u03bf\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9, \u03bc\u03b5 \u03c4\u03bf\u03c5\u03c2 370 \u03b1\u03c0\u03cc \u03b1\u03c5\u03c4\u03bf\u03cd\u03c2 \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9. 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 \u03b1\u03c0\u03cc COVID 19 \u03c3\u03b7\u03bc\u03b5\u03b9\u03ce\u03b8\u03b7\u03ba\u03b1\u03bd \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf. \u03a3\u03b5 20 \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ad\u03c2 \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b5\u03c2 \u03c3\u03c5\u03bd\u03b1\u03bd\u03c4\u03ac\u03c4\u03b1\u03b9 \u03c4\u03c1\u03b9\u03c8\u03ae\u03c6\u03b9\u03bf\u03c2 \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc \u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03ac\u03c4\u03c9\u03bd.",
+                        "display_url": "thepressproject.gr/neo-arnitiko-r\u2026",
+                        "end": 96,
+                        "expanded_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "images": [
+                            {
+                                "height": 800,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=orig",
+                                "width": 1200
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455576813770612744/6EBIex4T?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 73,
+                        "status": 200,
+                        "title": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/neo-arnitiko-rekor-me-6-700-krousmata-59-neoi-thanatoi/",
+                        "url": "https://t.co/CjLCoajPBT"
+                    }
+                ]
+            },
+            "id": 1455576805016997903,
+            "public_metrics": {
+                "like_count": 6,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 5
+            },
+            "text": "\u039d\u03ad\u03bf \u03b1\u03c1\u03bd\u03b7\u03c4\u03b9\u03ba\u03cc \u03c1\u03b5\u03ba\u03cc\u03c1 \u03bc\u03b5 6.700 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \u2013 59 \u03bd\u03ad\u03bf\u03b9 \u03b8\u03ac\u03bd\u03b1\u03c4\u03bf\u03b9 @ThePressProject https://t.co/CjLCoajPBT"
+        },
+        {
+            "author_id": 601776175,
+            "conversation_id": 1455482330135633928,
+            "created_at": "2021-11-02 10:30:03+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1434627215744974865",
+                        "start": 3,
+                        "username": "AmoryRabia1"
+                    }
+                ]
+            },
+            "id": 1455482330135633928,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455471374408077315 type=retweeted"
+            ],
+            "text": "RT @AmoryRabia1: \u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u2026"
+        },
+        {
+            "author_id": 1312001669052407808,
+            "conversation_id": 1455472443234127872,
+            "created_at": "2021-11-02 09:50:46+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 15,
+                        "id": "1434627215744974865",
+                        "start": 3,
+                        "username": "AmoryRabia1"
+                    }
+                ]
+            },
+            "id": 1455472443234127872,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1455471374408077315 type=retweeted"
+            ],
+            "text": "RT @AmoryRabia1: \u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u2026"
+        },
+        {
+            "author_id": 1434627215744974865,
+            "conversation_id": 1455471374408077315,
+            "created_at": "2021-11-02 09:46:31+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 254,
+                        "start": 244,
+                        "tag": "\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0394\u03c1\u03b1\u03bc\u03b1\u03c4\u03b9\u03ba\u03ad\u03c2 \u03b5\u03b9\u03ba\u03cc\u03bd\u03b5\u03c2 \u03b1\u03c0\u03cc \u03c4\u03b1 \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03b1 \u03c4\u03b7\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2 \u03bc\u03b5\u03c4\u03b1\u03c6\u03ad\u03c1\u03b5\u03b9 \u03bf \u03c0\u03c1\u03cc\u03b5\u03b4\u03c1\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03a0\u03b1\u03bd\u03b5\u03bb\u03bb\u03ae\u03bd\u03b9\u03b1\u03c2 \u039f\u03bc\u03bf\u03c3\u03c0\u03bf\u03bd\u03b4\u03af\u03b1\u03c2 \u0395\u03c1\u03b3\u03b1\u03b6\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u0394\u03b7\u03bc\u03cc\u03c3\u03b9\u03c9\u03bd \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd (\u03a0\u039f\u0395\u0394\u0397\u039d), \u03ba. \u039c\u03b9\u03c7\u03ac\u03bb\u03b7\u03c2 \u0393\u03b9\u03b1\u03bd\u03bd\u03ac\u03ba\u03bf\u03c2. \u0391\u03c1\u03ba\u03b5\u03c4\u03bf\u03af \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b2\u03c1\u03af\u03c3\u03ba\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u03bf\u03bd\u03ac\u03b4\u03b1\u03c2 \u0395\u03bd\u03c4\u03b1\u03c4\u03b9\u03ba\u03ae\u03c2 \u0398\u03b5\u03c1\u03b1\u03c0\u03b5\u03af\u03b1\u03c2, \u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03ad\u03bb\u03b5\u03c3\u03bc\u03b1\u2026",
+                        "display_url": "thepressproject.gr/poedin-diasoli\u2026",
+                        "end": 279,
+                        "expanded_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                        "images": [
+                            {
+                                "height": 399,
+                                "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=orig",
+                                "width": 638
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1455471376735866880/4coEnDZs?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 256,
+                        "status": 200,
+                        "title": "\u03a0\u039f\u0395\u0394\u0397\u039d: \u0394\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b1\u03c3\u03b8\u03b5\u03bd\u03b5\u03af\u03c2 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398 - \u00ab\u03a0\u03b5\u03b8\u03b1\u03af\u03bd\u03b5\u03b9 \u03c4\u03bf 70%\u00bb - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/poedin-diasolinomenoi-astheneis-ektos-meth-pethainei-to-70/",
+                        "url": "https://t.co/Ru3T2NBhpK"
+                    }
+                ]
+            },
+            "id": 1455471374408077315,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 2
+            },
+            "text": "\u0394\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03cc\u03c3\u03bf\u03b9 \u03c7\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b9\u03b1\u03c3\u03c9\u03bb\u03b7\u03bd\u03c9\u03bc\u03ad\u03bd\u03bf\u03b9 \u03b5\u03ba\u03c4\u03cc\u03c2 \u039c\u0395\u0398, \u03b4\u03b9\u03ba\u03bf\u03af \u03bc\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03cc\u03c3\u03bf\u03b9 \u03b3\u03b5\u03bc\u03af\u03b6\u03bf\u03c5\u03bd \u03c4\u03b9\u03c2 \u03c4\u03c3\u03ad\u03c0\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ce\u03bd \u03bd\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03c9\u03bd \u03b3\u03b9\u03b1 \u03ac\u03bb\u03bb\u03b5\u03c2 \u03bc\u03b7 COVID-19 \u03c0\u03b1\u03b8\u03bf\u03bb\u03bf\u03b3\u03af\u03b5\u03c2... \u039c\u03b7\u03bd \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03c4\u03bf\u03c5\u03c2 \u03b5\u03be\u03c5\u03c0\u03b7\u03c1\u03b5\u03c4\u03b5\u03af\u03c4\u03b5 \u03b3\u03bc\u03c4.\u0395\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03c4\u03b5\u03af\u03c4\u03b5.\u0388\u03c7\u03bf\u03c5\u03bc\u03b5 \u03c0\u03cc\u03bb\u03b5\u03bc\u03bf \u03ba\u03b1\u03b9 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b1\u03be\u03b9\u03ba\u03cc\u03c2... \n#\u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 \nhttps://t.co/Ru3T2NBhpK"
+        },
+        {
+            "author_id": 1446826489144545285,
+            "conversation_id": 1453422084575670278,
+            "created_at": "2021-10-27 18:03:22+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 125,
+                        "id": "137041926",
+                        "start": 109,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1453422084575670278,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453376550116724741 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u2013 \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 @ThePressProject https://t.co/\u2026"
+        },
+        {
+            "author_id": 1376867015059775488,
+            "conversation_id": 1453382987115077633,
+            "created_at": "2021-10-27 15:28:01+00:00",
+            "entities": {
+                "hashtags": [
+                    {
+                        "end": 10,
+                        "start": 0,
+                        "tag": "\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1"
+                    },
+                    {
+                        "end": 245,
+                        "start": 235,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    },
+                    {
+                        "end": 263,
+                        "start": 246,
+                        "tag": "\u03bc\u03b5_\u03c4\u03b7\u03bd_\u0391\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03b1"
+                    },
+                    {
+                        "end": 274,
+                        "start": 264,
+                        "tag": "\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u0391\u03bd\u03bf\u03b9\u03c7\u03c4\u03cc \u03c4\u03bf \u03b5\u03bd\u03b4\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \u03b3\u03b9\u03b1 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c5\u03c0\u03bf\u03c7\u03c1\u03b5\u03c9\u03c4\u03b9\u03ba\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2 \u03c4\u03c9\u03bd \u03b5\u03bc\u03b2\u03bf\u03bb\u03b9\u03b1\u03c3\u03bc\u03ce\u03bd \u03c3\u03c4\u03bf\u03bd \u03ba\u03bb\u03ac\u03b4\u03bf \u03c4\u03b7\u03c2 \u03b5\u03c3\u03c4\u03af\u03b1\u03c3\u03b7\u03c2, \u03c3\u03c4\u03b7\u03bd \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b1 \u03c3\u03ce\u03bc\u03b1\u03c4\u03b1 \u03b1\u03c3\u03c6\u03b1\u03bb\u03b5\u03af\u03b1\u03c2 \u03ac\u03c6\u03b7\u03c3\u03b5 \u03bf \u03b1\u03bd\u03b1\u03c0\u03bb\u03b7\u03c1\u03c9\u03c4\u03ae\u03c2 \u03c5\u03c0\u03bf\u03c5\u03c1\u03b3\u03cc\u03c2 \u0395\u03c3\u03c9\u03c4\u03b5\u03c1\u03b9\u03ba\u03ce\u03bd, \u03c4\u03bf\u03bd\u03af\u03b6\u03bf\u03bd\u03c4\u03b1\u03c2 \u03c0\u03c9\u03c2 \u03b5\u03af\u03bd\u03b1\u03b9 \u03c4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03bf \u03b8\u03ad\u03bc\u03b1 \u03bf\u03b9\u2026",
+                        "display_url": "thepressproject.gr/terastio-thema\u2026",
+                        "end": 34,
+                        "expanded_url": "https://thepressproject.gr/terastio-thema-oi-anemvoliastoi-stin-astynomia-paradechetai-o-petsas/",
+                        "images": [
+                            {
+                                "height": 548,
+                                "url": "https://pbs.twimg.com/news_img/1453382993972707335/UTkpvmDQ?format=jpg&name=orig",
+                                "width": 972
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453382993972707335/UTkpvmDQ?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 11,
+                        "status": 200,
+                        "title": "\u00ab\u03a4\u03b5\u03c1\u03ac\u03c3\u03c4\u03b9\u03bf \u03b8\u03ad\u03bc\u03b1 \u03bf\u03b9 \u03b1\u03bd\u03b5\u03bc\u03b2\u03bf\u03bb\u03af\u03b1\u03c3\u03c4\u03bf\u03b9 \u03c3\u03c4\u03b7\u03bd \u03b1\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03af\u03b1\u00bb \u03c0\u03b1\u03c1\u03b1\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bf \u03a0\u03ad\u03c4\u03c3\u03b1\u03c2 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/terastio-thema-oi-anemvoliastoi-stin-astynomia-paradechetai-o-petsas/",
+                        "url": "https://t.co/gZPMebQrwt"
+                    }
+                ]
+            },
+            "id": 1453382987115077633,
+            "public_metrics": {
+                "like_count": 1,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 0
+            },
+            "text": "#\u03ba\u03c1\u03bf\u03c5\u03c3\u03bc\u03b1\u03c4\u03b1 https://t.co/gZPMebQrwt \u03a4\u03ac\u03ba\u03b7 \u03bc\u03ac\u03bd\u03c4\u03c1\u03c9\u03c3\u03b5 \u03c4\u03b1 \u03c3\u03c4\u03b7 \u03c6\u03ac\u03c1\u03bc\u03b1, \u03ba\u03b1\u03b9 \u03bc\u03c0\u03cc\u03bb\u03b9\u03b1\u03c3\u03b5 \u03c4\u03b1 \u03bc\u03b5 \u03c4\u03bf \u03b6\u03cc\u03c1\u03b9. \u038c\u03c0\u03c9\u03c2 \u03ba\u03ac\u03bd\u03bf\u03c5\u03bc\u03b5 \u03bc\u03b5 \u03c4\u03b1 \u03c0\u03c1\u03cc\u03b2\u03b1\u03c4\u03b1 \u03ba\u03b1\u03b9 \u03c4\u03b1 \u03b3\u03af\u03b4\u03b9\u03b1, \u03c3\u03c4\u03b9\u03c2 \u03c3\u03c4\u03c1\u03bf\u03cd\u03b3\u03b3\u03b5\u03c2. \u0388\u03c7\u03b5\u03b9\u03c2 \u03b4\u03b5\u03b9 \u03c0\u03c1\u03cc\u03b2\u03b1\u03c4\u03bf \u03bc\u03b5 \u03ba\u03b1\u03c4\u03b1\u03c1\u03c1\u03bf\u03ca\u03ba\u03cc \u03c0\u03c5\u03c1\u03b5\u03c4\u03cc; \u0394\u03b5 \u03b8\u03ad\u03bb\u03c9 \u03bd\u03b1 \u03ba\u03bf\u03bb\u03bb\u03ae\u03c3\u03c9, \u03b1\u03c0 \u03c4\u03b1 \u03c8\u03b5\u03ba\u03bf\u03c6\u03b1\u03c3\u03b9\u03c3\u03c4\u03bf\u03b5\u03b9\u03b4\u03ae \u03c3\u03b1\u03c2! #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2 #\u03bc\u03b5_\u03c4\u03b7\u03bd_\u0391\u03c3\u03c4\u03c5\u03bd\u03bf\u03bc\u03b9\u03b1 #\u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03b9\u03bf\u03c2"
+        },
+        {
+            "author_id": 3320375716,
+            "conversation_id": 1453377199499788298,
+            "created_at": "2021-10-27 15:05:01+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 125,
+                        "id": "137041926",
+                        "start": 109,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1453377199499788298,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453376550116724741 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u2013 \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 @ThePressProject https://t.co/\u2026"
+        },
+        {
+            "author_id": 1046667469073653760,
+            "conversation_id": 1453376815666503682,
+            "created_at": "2021-10-27 15:03:29+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 19,
+                        "id": "137041926",
+                        "start": 3,
+                        "username": "ThePressProject"
+                    },
+                    {
+                        "end": 125,
+                        "id": "137041926",
+                        "start": 109,
+                        "username": "ThePressProject"
+                    }
+                ]
+            },
+            "id": 1453376815666503682,
+            "public_metrics": {
+                "like_count": 0,
+                "quote_count": 0,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "referenced_tweets": [
+                "<ReferencedTweet id=1453376550116724741 type=retweeted"
+            ],
+            "text": "RT @ThePressProject: \u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u2013 \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 @ThePressProject https://t.co/\u2026"
+        },
+        {
+            "author_id": 137041926,
+            "conversation_id": 1453376550116724741,
+            "created_at": "2021-10-27 15:02:26+00:00",
+            "entities": {
+                "mentions": [
+                    {
+                        "end": 104,
+                        "id": "137041926",
+                        "start": 88,
+                        "username": "ThePressProject"
+                    }
+                ],
+                "urls": [
+                    {
+                        "description": "\u039c\u03b5\u03b3\u03ac\u03bb\u03b7 \u03b1\u03cd\u03be\u03b7\u03c3\u03b7 \u03c3\u03c4\u03bf\u03c5\u03c2 \u03bd\u03b5\u03ba\u03c1\u03bf\u03cd\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf\u03bd \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c0\u03b1\u03c1\u03bf\u03c5\u03c3\u03b9\u03ac\u03b6\u03b5\u03c4\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03b5\u03c2 \u03b7\u03bc\u03ad\u03c1\u03b5\u03c2, \u03bc\u03b5 \u03c4\u03bf\u03bd \u0395\u039f\u0394\u03a5 \u03bd\u03b1 \u03b1\u03bd\u03b1\u03ba\u03bf\u03b9\u03bd\u03ce\u03bd\u03b5\u03b9 \u03c4\u03b7\u03bd \u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7 63 \u03b8\u03b1\u03bd\u03ac\u03c4\u03bf\u03c5\u03c2 (\u03cc\u03c3\u03bf\u03c5\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c4\u03b9\u03c2 19/5). \u03a0\u03b1\u03c1\u03ac\u03bb\u03bb\u03b7\u03bb\u03b1, \u03c4\u03bf \u03c4\u03b5\u03bb\u03b5\u03c5\u03c4\u03b1\u03af\u03bf 24\u03c9\u03c1\u03bf \u03b5\u03bd\u03c4\u03bf\u03c0\u03af\u03c3\u03c4\u03b7\u03ba\u03b1\u03bd 3.651\u2026",
+                        "display_url": "thepressproject.gr/akomi-63-sybol\u2026",
+                        "end": 128,
+                        "expanded_url": "https://thepressproject.gr/akomi-63-sybolites-mas-echasan-ti-zoi-tous-apo-koronoio-simera-sta-3-651-ta-krousmata/",
+                        "images": [
+                            {
+                                "height": 381,
+                                "url": "https://pbs.twimg.com/news_img/1453376557284724743/b3kFqYsF?format=jpg&name=orig",
+                                "width": 660
+                            },
+                            {
+                                "height": 150,
+                                "url": "https://pbs.twimg.com/news_img/1453376557284724743/b3kFqYsF?format=jpg&name=150x150",
+                                "width": 150
+                            }
+                        ],
+                        "start": 105,
+                        "status": 200,
+                        "title": "\u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 - \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 - The Press Project - \u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2, \u0391\u03bd\u03b1\u03bb\u03cd\u03c3\u03b5\u03b9\u03c2, \u03a1\u03b1\u03b4\u03b9\u03cc\u03c6\u03c9\u03bd\u03bf, \u03a4\u03b7\u03bb\u03b5\u03cc\u03c1\u03b1\u03c3\u03b7",
+                        "unwound_url": "https://thepressproject.gr/akomi-63-sybolites-mas-echasan-ti-zoi-tous-apo-koronoio-simera-sta-3-651-ta-krousmata/",
+                        "url": "https://t.co/aQPz47CJ1Q"
+                    }
+                ]
+            },
+            "id": 1453376550116724741,
+            "public_metrics": {
+                "like_count": 4,
+                "quote_count": 2,
+                "reply_count": 0,
+                "retweet_count": 3
+            },
+            "text": "\u0391\u03ba\u03cc\u03bc\u03b7 63 \u03c3\u03c5\u03bc\u03c0\u03bf\u03bb\u03af\u03c4\u03b5\u03c2 \u03bc\u03b1\u03c2 \u03ad\u03c7\u03b1\u03c3\u03b1\u03bd \u03c4\u03b7 \u03b6\u03c9\u03ae \u03c4\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03ba\u03bf\u03c1\u03c9\u03bd\u03bf\u03ca\u03cc \u03c3\u03ae\u03bc\u03b5\u03c1\u03b1 \u2013 \u03a3\u03c4\u03b1 3.651 \u03c4\u03b1 \u03ba\u03c1\u03bf\u03cd\u03c3\u03bc\u03b1\u03c4\u03b1 @ThePressProject https://t.co/aQPz47CJ1Q"
+        }
+    ]
+}
